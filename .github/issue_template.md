@@ -13,5 +13,9 @@ adicione aqui o objetivo do seu treinamento/estudo.
 - [ ] Ponto 3
 - [ ] Ponto ...
 
+## Critérios de Aceitação
 
-
+- [ ] xxxxxxxxx
+- [ ] xxxxxxxxx
+- [ ] xxxxxxxxx
+- [ ] xxxxxxxxx
