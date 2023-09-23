@@ -3,7 +3,7 @@
 
 <table>
   <td>
-    <a href="https://github.com/IderlanJ%22%3E">
+    <a href="https://github.com/IderlanJ%22%3E" style="">
       <img scr="https://avatars.githubusercontent.com/u/101422838?v=4">
       <br>
       Iderlan Júnio
