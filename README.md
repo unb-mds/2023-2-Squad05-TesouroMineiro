@@ -1,4 +1,14 @@
 # 2023-2-Squad05
+
+## O que é o projeto?
+
+
+
+## Como rodar o projeto?
+
+
+## Execução
+
 ## 👨‍💻 Desenvolvedores do Projeto
 
  <table>
