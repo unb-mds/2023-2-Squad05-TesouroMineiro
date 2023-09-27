@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: Squad-05 MDS
+nav:
+  - Inicio: 'index.md'
+  - Sobre: 'about.md'
