@@ -65,7 +65,14 @@ Para exacutar o projeto, execute o comando:
     </a>
   </td>
 
-    
+    <td valign="top">
+    <a href="https://github.com/Pedrin0030" >
+      <img align="center" height="100" src="https://avatars.githubusercontent.com/u/123898578?v=4" />
+      <br></br>
+      <p align="center">Pedro Paulo</p>
+    </a>
+  </td>
+
     
   </tr>
 </table>
