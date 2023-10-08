@@ -1,6 +1,5 @@
 
-"""
-## Project Architecture
+## Arquitetura do projeto
 
 Este projeto segue o modelo de arquitetura em camadas onde possuímos 3 camadas princiapais: 
 
@@ -24,4 +23,3 @@ Nesta camada a principal tecnologia usada é o Django, um framework que nos poss
 
 Nesta camada é onde vamos mostrar ao usuário todas as análises feitas a partir dos diários oficiais de cada município mineiro.e para isso utilizaremos o next.js, framework de javascrpit. 
 
-"""
