@@ -1,0 +1,7 @@
+FROM python
+COPY ./diarios_spiders /diarios_spiders
+WORKDIR /diarios_spiders
+RUN pwd
+RUN pip install -r requirements.txt
+
+CMD scrapy crawl mg_associacao_municipios
