@@ -4,6 +4,6 @@
 set -x
 set -e
 
-scrapy crawl mg_associacao_municipios
+
 ./convert.sh diarios/full
 ./rename.sh
