@@ -1,0 +1,25 @@
+services:
+  spiders:
+    build:
+        context: .
+        dockerfile: Dockerfile.spiders
+    volumes:
+      - type: bind
+        source: ./diarios_spiders/diarios
+        target: /diarios_spiders/diarios
+  db:
+    image: postgres
+    environment:
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5432:5432"
+  backend:
+    image: python
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+  frontend:
+    image: node
+    depends_on:
+      - backend
