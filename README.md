@@ -20,7 +20,7 @@ Python<br>
 npm<br>
 Node.js<br>
 <strong/>
-
+<br>
 
 Primeiramente precisamos clonar o repositório:
 
