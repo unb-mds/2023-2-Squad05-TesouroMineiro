@@ -19,8 +19,7 @@ Análise de dados(Panda) ==> Backend-(Django) ==> Frontend-(Next.js) ==> Usuári
 Python<br>
 npm<br>
 Node.js<br>
-<strong/>
-<br>
+<strong/><br>
 
 Primeiramente precisamos clonar o repositório:
 
