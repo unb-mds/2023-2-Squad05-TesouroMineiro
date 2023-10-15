@@ -15,9 +15,11 @@ Análise de dados(Panda) ==> Backend-(Django) ==> Frontend-(Next.js) ==> Usuári
 
 É necessário possuir os requisitos para a instalação:
 
+<strong>
 Python<br>
 npm<br>
 Node.js<br>
+<strong/>
 
 Primeiramente precisamos clonar o repositório:
 
