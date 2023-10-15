@@ -17,7 +17,7 @@ Primeiro precisamos instalar as dependências:
 > npm install
 ## Execução
 Para exacutar o projeto, execute o comando:
-> npm rum dev
+> npm run dev
 
 ## 👨‍💻 Desenvolvedores do projeto
 
