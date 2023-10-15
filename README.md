@@ -4,11 +4,10 @@
 Este projeto acadêmico da disciplina de MDS envolve a extração de dados do Diário Oficial de um estado específico, a filtragem desses dados para obter informações relacionadas aos municípios e a criação de uma página web interativa utilizando a biblioteca Next.js. O objetivo é demonstrar a habilidade de coletar, processar e visualizar informações relevantes para os municípios a partir de fontes oficiais, aplicando conceitos de desenvolvimento web e design de interfaces.
 
 ### 💻 Tecnologias usadas no projeto 
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Fluxo de processamento
-
-Páginas do diáris oficiais => Spider-(Scrappy) => Conversão dos arquivos para .txt(Apache tika) ==> 
+Páginas dos diários oficiais => Spider-(Scrappy) => Conversão dos arquivos para .txt(Apache tika) ==> 
 Análise de dados(Panda) ==> Backend-(Django) ==> Frontend-(Next.js) ==> Usuário final
 
 ## Tutorial de instalação
@@ -19,11 +18,14 @@ Análise de dados(Panda) ==> Backend-(Django) ==> Frontend-(Next.js) ==> Usuári
 Python<br>
 npm<br>
 Node.js<br>
+Docker<br>
 <strong/><br>
 
 Primeiramente precisamos clonar o repositório:
 
 git clone https://github.com/unb-mds/2023-2-Squad05.git
+
+Instalação do Docker:
 
 Instalação do Next.js:
 
