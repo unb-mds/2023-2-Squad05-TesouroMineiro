@@ -29,8 +29,7 @@ Instalação do Docker:
 
 Instalação do Next.js:
 
-
-## Como rodar o Container de extração de dados
+Como rodar o Container de extração de dados
 
 
 ## 🏃 Como rodar o projeto?
