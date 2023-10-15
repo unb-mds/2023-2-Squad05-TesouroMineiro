@@ -6,12 +6,18 @@ Este projeto acadêmico da disciplina de MDS envolve a extração de dados do Di
 ### 💻 Tecnologias usadas no projeto 
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+## Tutorial de instalação
+
+Primeiramente precisamos clonar o repositório:
+
+git clone https://github.com/unb-mds/2023-2-Squad05.git
+
 ## 🏃 Como rodar o projeto?
 Primeiro precisamos instalar as dependências:
 > npm install
 ## Execução
 Para exacutar o projeto, execute o comando:
-> npm start 
+> npm rum dev
 
 ## 👨‍💻 Desenvolvedores do projeto
 
