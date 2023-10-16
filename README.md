@@ -25,20 +25,26 @@ Primeiramente precisamos clonar o repositório:
 
 git clone https://github.com/unb-mds/2023-2-Squad05.git
 
-Instalação do Docker:
-
 Instalação do Next.js:
 
 Como rodar o Container de extração de dados
 
+``` 
+docker compose up 
+```
 
 ## 🏃 Como rodar o projeto?
 Primeiro precisamos instalar as dependências:
-> npm install
+
+``` 
+npm install
+```
 ## Execução
 Para exacutar o projeto, execute o comando:
-> npm run dev
 
+``` 
+npm run deve
+```
 ## 👨‍💻 Desenvolvedores do projeto
 
  <table>
