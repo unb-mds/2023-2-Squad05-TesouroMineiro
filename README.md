@@ -7,6 +7,10 @@ Este projeto acadêmico da disciplina de MDS envolve a extração de dados do Di
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Fluxo de processamento
+
+
+![IMG-20231010-WA0105](https://github.com/unb-mds/2023-2-Squad05/assets/101422838/22d6c8e6-9903-4bd1-9b55-b4f304b22a2a)
+
 Páginas dos diários oficiais => Spider-(Scrappy) => Conversão dos arquivos para .txt(Apache tika) ==> 
 Análise de dados(Panda) ==> Backend-(Django) ==> Frontend-(Next.js) ==> Usuário final
 
