@@ -31,7 +31,7 @@ Como rodar o Container de extração de dados
 docker compose up 
 ```
 
-Após a execução do comando quatro containers, referentes ao Front, Back e extração de dados, serão executados.
+Após a execução do comando quatro containers, referentes ao Front, Back   e extração dos diários, serão executados.
 
 ## 🏃 Como rodar o projeto?
 Primeiro precisamos instalar as dependências:
@@ -43,7 +43,7 @@ npm install
 Para exacutar o projeto, execute o comando:
 
 ``` 
-npm run deve
+npm run dev
 ```
 ## 👨‍💻 Desenvolvedores do projeto
 
