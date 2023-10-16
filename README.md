@@ -23,7 +23,9 @@ Docker<br>
 
 Primeiramente precisamos clonar o repositório:
 
+``` 
 git clone https://github.com/unb-mds/2023-2-Squad05.git
+```
 
 Como rodar o Container de extração de dados
 
