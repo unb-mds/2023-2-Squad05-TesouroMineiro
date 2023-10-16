@@ -8,10 +8,7 @@ Este projeto acadêmico da disciplina de MDS envolve a extração de dados do Di
 
 ## Fluxo de processamento
 
-
 <img src="https://github.com/unb-mds/2023-2-Squad05/assets/101422838/22d6c8e6-9903-4bd1-9b55-b4f304b22a2a" />
-Páginas dos diários oficiais => Spider-(Scrappy) => Conversão dos arquivos para .txt(Apache tika) ==> 
-Análise de dados(Panda) ==> Backend-(Django) ==> Frontend-(Next.js) ==> Usuário final
 
 ## Tutorial de instalação
 
