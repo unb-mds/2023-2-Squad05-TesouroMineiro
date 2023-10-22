@@ -24,11 +24,17 @@ Docker
 
 Primeiramente precisamos clonar o repositório:
 
-git clone https://github.com/unb-mds/2023-2-Squad05.git
 
-Como rodar o Container de extração de dados
 
-docker compose up 
+**git clone https://github.com/unb-mds/2023-2-Squad05.git**
+
+
+
+Como rodar o Container de extração de dados:
+
+
+
+**docker compose up** 
 
 
 **Após a execução do comando quatro containers, referentes ao Front, Back e extração dos diários, serão executados.**
@@ -37,11 +43,5 @@ docker compose up
 
 Primeiro precisamos instalar as dependências:
 
-npm install
+**npm install**
 
-## Desenvolvedores do projeto
-
-![IderlanJúnio](https://github.com/IderlanJ)     ![EliasFarias](https://github.com/EliasOliver21)
-![ClaudioHenrique](https://github.com/claudiohsc)   ![MuriloBrandão](https://github.com/MuriloBDSR)
-![VictorHugo](https://github.com/VictorGCOSTA)    ![JheniferCastro](https://github.com/jheniferib)
-![PedroPaulo](https://github.com/Pedrin0030)
