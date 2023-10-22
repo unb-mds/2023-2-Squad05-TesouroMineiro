@@ -38,7 +38,7 @@ npm install
 
 ## Desenvolvedores do projeto
 
-![IderlanJúnio](https://github.com/IderlanJ) ![EliasFarias](https://github.com/EliasOliver21)
-![ClaudioHenrique] (https://github.com/claudiohsc) ![MuriloBrandão](https://github.com/MuriloBDSR)
-![VictorHugo](https://github.com/VictorGCOSTA) ![JheniferCastro](https://github.com/jheniferib)
-![PedroPaulo] https://github.com/Pedrin0030
+![IderlanJúnio](https://github.com/IderlanJ)     ![EliasFarias](https://github.com/EliasOliver21)
+![ClaudioHenrique](https://github.com/claudiohsc)   ![MuriloBrandão](https://github.com/MuriloBDSR)
+![VictorHugo](https://github.com/VictorGCOSTA)    ![JheniferCastro](https://github.com/jheniferib)
+![PedroPaulo](https://github.com/Pedrin0030)
