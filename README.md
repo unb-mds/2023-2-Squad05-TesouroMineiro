@@ -34,18 +34,6 @@ docker compose up
 
 Após a execução do comando quatro containers, referentes ao Front, Back   e extração dos diários, serão executados.
 
-## 🏃 Como rodar o projeto?
-Primeiro precisamos instalar as dependências:
-
-``` 
-npm install
-```
-## Execução
-Para exacutar o projeto, execute o comando:
-
-``` 
-npm run dev
-```
 ## 👨‍💻 Desenvolvedores do projeto
 
  <table>
