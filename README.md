@@ -16,7 +16,6 @@ Este projeto acadêmico da disciplina de MDS envolve a extração de dados do Di
 
 <strong>
 Python<br>
-npm<br>
 Node.js<br>
 Docker<br>
 <strong/><br>
