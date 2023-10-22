@@ -12,7 +12,7 @@ Esse trabalho envolve a extração dos dados do Diário oficial de um estado esp
 
   ## Fluxo de Processamento
 
- ![Fluxo] (https://user-images.githubusercontent.com/101422838/275358128-22d6c8e6-9903-4bd1-9b55-b4f304b22a2a.jpg)
+ ![Fluxo](https://user-images.githubusercontent.com/101422838/275358128-22d6c8e6-9903-4bd1-9b55-b4f304b22a2a.jpg)
 
  ## Tutorial de instalação
 É necessário possuir os requisitos para a instalação:
