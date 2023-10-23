@@ -6,11 +6,11 @@ Este projeto acadêmico da disciplina de MDS envolve a extração de dados do Di
 ### 💻 Tecnologias usadas no projeto 
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## Fluxo de processamento
+## Fluxo de Processamento
 
 <img src="https://github.com/unb-mds/2023-2-Squad05/assets/101422838/22d6c8e6-9903-4bd1-9b55-b4f304b22a2a" />
 
-## Tutorial de instalação
+## Tutorial de Instalação
 
 É necessário possuir os requisitos para a instalação:
 
@@ -20,21 +20,54 @@ Node.js<br>
 Docker<br>
 <strong/><br>
 
-Primeiramente precisamos clonar o repositório:
+## Executando o Projeto no Docker
 
-``` 
+Siga as etapas abaixo para executar o projeto no Docker:
+
+### 1. Clone o Repositório
+Clone o repositório em sua máquina local:
+
+```
 git clone https://github.com/unb-mds/2023-2-Squad05.git
 ```
+### 2. Como Rodar o Container de Extração de Dados
 
-Como rodar o Container de extração de dados
-
-``` 
-docker compose up 
 ```
+docker compose up
+```
+Após a execução do comando quatro containers, referentes ao Front, Back e extração dos diários, serão executados.
 
-Após a execução do comando quatro containers, referentes ao Front, Back   e extração dos diários, serão executados.
+### 3. Construa a Imagem Docker
+Navegue até a pasta do projeto
 
-## 👨‍💻 Desenvolvedores do projeto
+```
+cd 2023-2-Squad05
+```
+Construa a Imagem Docker Executando o Seguinte Comando:
+```
+docker build -t nomedaimagem:tag .
+```
+### 4. Instale as Dependências Python
+Dentro do container navegue até a pasta do projeto:
+```
+cd /diarios_spiders
+```
+Verifique se você está no diretótio correto executando o comando:
+```
+pwd
+```
+Em seguida, instale as dependências Python usando o comando a seguir:
+```
+pip install -r requirements.txt
+```
+### 5. Execute o Spider
+Agora que todas as configurações estão prontas, você pode executar o Spider com o seguinte comando:
+```
+scrapy crawl mg_associacao_municipios
+```
+A partir dessa execução o Spider começará a coletar os dados conforme configurado no projeto.
+
+## 👨‍💻 Desenvolvedores do Projeto
 
  <table>
   <tr>
