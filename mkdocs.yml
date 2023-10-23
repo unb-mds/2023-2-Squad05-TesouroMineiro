@@ -9,4 +9,26 @@ nav:
     - Story Map: 'Organizacao do Projeto/Storymap.md'
   - Tecnologias:
     - Escolhas Tecnológicas: 'Tecnologias/Tecnologias.md'
+  - Sprints:
+    - Sprint00:
+      - Planejamento: 'Sprints/Sprint00/Planejamentos00.md'
+      - Resultados: 'Sprints/Sprint00/Resultados00.md'
+    - Sprint01:
+      - Planejamento: 'Sprints/Sprint01/Planejamentos01.md'
+      - Resultados: 'Sprints/Sprint01/Resultados01.md'
+    - Sprint02:
+      - Planejamento: 'Sprints/Sprint02/Planejamentos02.md'
+      - Resultados: 'Sprints/Sprint02/Resultados02.md'
+    - Sprint03:
+      - Planejamento: 'Sprints/Sprint03/Planejamentos03.md'
+      - Resultados: 'Sprints/Sprint03/Resultados03.md'
+    - Sprint04:
+      - Planejamento: 'Sprints/Sprint04/Planejamentos04.md'
+      - Resultados: 'Sprints/Sprint04/Resultados04.md'
+    - Sprint05:
+      - Planejamento: 'Sprints/Sprint05/Planejamentos05.md'
+      - Resultados: 'Sprints/Sprint05/Resultados05.md'
+    - Sprint06:
+      - Planejamento: 'Sprints/Sprint06/Planejamentos06.md'
+      - Resultados: 'Sprints/Sprint06/Resultados06.md'
   - Sobre: 'about.md'
