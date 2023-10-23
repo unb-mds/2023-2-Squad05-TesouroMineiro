@@ -39,7 +39,7 @@ Após a execução do comando quatro containers, referentes ao Front, Back e ext
 
 ## Executando o Projeto sem o Docker
 
-### 3. Instale as Dependências Python
+### 1. Instale as Dependências Python
 Dentro do container navegue até a pasta do projeto:
 ```
 cd /diarios_spiders
@@ -52,7 +52,7 @@ Em seguida, instale as dependências Python usando o comando a seguir:
 ```
 pip install -r requirements.txt
 ```
-### 4. Execute o Spider
+### 2. Execute o Spider
 Agora que todas as configurações estão prontas, você pode executar o Spider com o seguinte comando:
 ```
 scrapy crawl mg_associacao_municipios
