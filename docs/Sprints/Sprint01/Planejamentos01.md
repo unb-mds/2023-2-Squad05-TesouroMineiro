@@ -1,3 +1,5 @@
+# Planejamento
+
 Nessa Sprint, com base na planilha de conhecimentos definimos quais treinamentos terão que ser dados e quais configurações iniciais devem ser implementadas.
 
 # Tamanho da Sprint

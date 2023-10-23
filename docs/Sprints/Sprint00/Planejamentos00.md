@@ -1,3 +1,5 @@
+# Planejamento
+
 Aqui demos início ao Projeto, então já começamos conhecendo os membros do grupo, definindo os dias de reunião e treinamentos. Também discutimos sobre as ferramentas a serem utilizadas para organização do grupo.
 
 

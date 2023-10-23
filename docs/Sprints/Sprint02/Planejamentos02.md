@@ -1,11 +1,13 @@
-Aqui demos início ao Projeto, então já começamos conhecendo os membros do grupo, definindo os dias de reunião e treinamentos. Também discutimos sobre as ferramentas a serem utilizadas para organização do grupo.
+# Planejamento
+
+Nessa Sprint decidimos realizar alguns treinamentos restantes, começar a fazer o Story Map do Projeto e estruturar melhor o GitHub com a ajuda de uma ferramente de Kanban.
 
 
 # Tamanho da Sprint
 
-**Início:** 08/09/2023
+**Início:** 20/09/2023
 
-**Término:** 13/09/2023
+**Término:** 26/09/2023
 
 
 # Issues

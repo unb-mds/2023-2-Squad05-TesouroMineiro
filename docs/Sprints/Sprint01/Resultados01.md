@@ -1,3 +1,5 @@
+# Resultados
+
 Durante a Sprint 01, realizamos todos os treinamentos pendentes e também algumas configurações do Projeto dentro do GitHub.
 
 # Tamanho da Sprint

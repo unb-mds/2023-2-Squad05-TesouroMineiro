@@ -1,5 +1,6 @@
-Durante essa Sprint 00 estudamos mais o tema do projeto e finalizamos preenchendo a planilha de conhecimentos.
+# Resultados
 
+Durante essa Sprint 00 estudamos mais o tema do projeto e finalizamos preenchendo a planilha de conhecimentos.
 
 
 ## Issues
