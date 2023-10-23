@@ -44,7 +44,7 @@ Dentro do container navegue até a pasta do projeto:
 ```
 cd /diarios_spiders
 ```
-Verifique se você está no diretótio correto executando o comando:
+Verifique se você está no diretório correto executando o comando:
 ```
 pwd
 ```
