@@ -1,4 +1,12 @@
 site_name: Squad-05 MDS
+theme:
+  name: material
 nav:
   - Inicio: 'index.md'
+  - Organização do Projeto:
+    - Arquitetura: 'Organizacao do Projeto/Arquitetura.md'
+    - Comunicação: 'Organizacao do Projeto/Comunicacao.md'
+    - Story Map: 'Organizacao do Projeto/Storymap.md'
+  - Tecnologias:
+    - Escolhas Tecnológicas: 'Tecnologias/Tecnologias.md'
   - Sobre: 'about.md'
