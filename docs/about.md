@@ -61,3 +61,10 @@
     
   </tr>
 </table>
+
+
+
+
+Esse trabalho é um trabalho da Universidade de Brasília (UnB), desenvolvido por alunos da disciplina Métodos de Desenvolvimento de Software que envolve a extração dos dados do Diário oficial de um estado específico (no nosso caso, Minas Gerais), filtragem desses dados para obter informações relacionadas aos municípios e a criação de uma página web interativa utilizando a biblioteca React. Além disso, garantindo que o projeto esteja em conformidade com as leis e regulamentações de acesso a informações públicas e proteção de dados pessoais e respeitando as licenças e direitos autorais associados aos conteúdos do Diário Oficial de MG.
+
+O objetivo é demonstrar a habilidade de coletar, processar e visualizar informações relevantes para os municípios a partir de fontes oficiais, aplicando conceitos de desenvolvimento web e design de interfaces.
