@@ -10,6 +10,7 @@ Nesta Sprint priorizamos nossa atenção a estruturação do protótipo,requisit
 
 **Duração:** 5 dias
 
+## Issues
 |                          Issue                           |              Título               |                    Responsáveis                     |
 | :------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
 | [#12](https://github.com/unb-mds/2023-2-Squad05/issues/12) |      Documentation: Definir Objetivo (Concreto!!!!) do projeto e os requisitos do projeto     | [Elias](https://github.com/EliasOliver21), [Iderlan](https://github.com/IderlanJ),[Pedro](https://github.com/Pedrin0030) |

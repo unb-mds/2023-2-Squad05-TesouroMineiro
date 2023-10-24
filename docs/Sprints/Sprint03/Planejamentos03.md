@@ -10,6 +10,8 @@ Nesta Sprint terminamos os treinamentos essenciais para o projeto, e começamos 
 
 **Duração:** 7 dias
 
+## Issues
+
 |                          Issue                           |              Título               |                    Responsáveis                     |
 | :------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
 | [#22](https://github.com/unb-mds/2023-2-Squad05/issues/22) |      Converter DOU PDF to TXT(duo)     | [Elias](https://github.com/EliasOliver21) e [Iderlan](https://github.com/IderlanJ) |

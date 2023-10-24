@@ -10,8 +10,7 @@ Nessa Sprint decidimos realizar alguns treinamentos restantes, começar a fazer 
 **Término:** 26/09/2023
 
 
-# Issues
-
+## Issues
 
 |                          Issue                           |              Título               |                    Responsáveis                     |
 | :------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
