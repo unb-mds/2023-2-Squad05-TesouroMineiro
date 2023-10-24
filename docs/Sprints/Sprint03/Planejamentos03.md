@@ -4,9 +4,9 @@ Nesta Sprint terminamos os treinamentos essenciais para o projeto, e começamos 
 
 ## Tamanho da Sprint
 
-**Início:**  04/09/2023
+**Início:**  25/09/2023
 
-**Término:** 10/09/2023
+**Término:** 02/10/2023
 
 **Duração:** 7 dias
 
