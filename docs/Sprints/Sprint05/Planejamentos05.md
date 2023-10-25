@@ -8,7 +8,6 @@ Nessa Sprint acertaremos os ultimos detalhes para a apresentação do nosso proj
 
 **Término:** 16/10/2023
 
-**Duração:** 7 dias
 
 ## Issues
 

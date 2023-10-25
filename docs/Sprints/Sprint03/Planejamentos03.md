@@ -8,7 +8,6 @@ Nesta Sprint terminamos os treinamentos essenciais para o projeto, e começamos 
 
 **Término:** 02/10/2023
 
-**Duração:** 7 dias
 
 ## Issues
 

@@ -8,7 +8,6 @@ Nesta Sprint priorizamos nossa atenção a estruturação do protótipo,requisit
 
 **Término:** 09/10/2023
 
-**Duração:** 5 dias
 
 ## Issues
 |                          Issue                           |              Título               |                    Responsáveis                     |
