@@ -4,6 +4,7 @@ theme:
 nav:
   - Inicio: 'index.md'
   - Organização do Projeto:
+    - Backlog: 'Organizacao do Projeto/Backlog.md'
     - Arquitetura: 'Organizacao do Projeto/Arquitetura.md'
     - Comunicação: 'Organizacao do Projeto/Comunicacao.md'
     - Story Map: 'Organizacao do Projeto/Storymap.md'
