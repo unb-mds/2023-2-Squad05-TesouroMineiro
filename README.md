@@ -59,6 +59,13 @@ scrapy crawl mg_associacao_municipios
 ```
 A partir dessa execução o Spider começará a coletar os dados conforme configurado no projeto.
 
+### Como converter os arquivos para .txt e renomear
+Dentro da pasta diários_spiders use o comando a seguir:
+```
+sudo ./main-script.sh
+```
+
+
 ## 👨‍💻 Desenvolvedores do Projeto
 
  <table>
