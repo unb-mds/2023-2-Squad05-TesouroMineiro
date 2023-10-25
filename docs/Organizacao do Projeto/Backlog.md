@@ -5,7 +5,7 @@
 ## 1. Elicitação
 
 ### 1.1 Personas
-Esse projeto terá como as principais "Personas" os cidadãos, pesquisadores, jornalistas e também os gestores públicos,  como os "usuários". Ao utilizar essa terminologia, buscamos destacar a centralidade desses grupos em nossa abordagem, reconhecendo que suas necessidades, desafios e expectativas serão o foco principal durante o desenvolvimento do projeto.
+Esse projeto terá como as principais "Personas" os cidadãos, pesquisadores, jornalistas e também os gestores públicos. Ao utilizar desse conceito buscamos reconhecer em suas particularidades as necessidades e expectativas do projeto.
 
 
 ### 1.2 Requisitos Funcionais (RF)
