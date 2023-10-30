@@ -7,7 +7,7 @@ function IntegrantesB(){
     return(
     
         <div className='integrantes'>
-        <table>        
+        <table cellSpacing={'40px'}>        
         <tr>
         <td valign="top">
           <a href="https://github.com/VictorGCOSTA" >
@@ -45,9 +45,9 @@ function IntegrantesB(){
 
 const style = StyleSheet.create({
 image: {
-    height: 200,
-    width: 200,
-    borderRadius: 100
+  height: 180,
+  width: 180,
+  borderRadius: 90
 }
 
 }); 
