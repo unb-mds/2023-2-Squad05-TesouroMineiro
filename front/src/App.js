@@ -1,23 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { FiGithub } from 'react-icons/fi';
+import './styles.css';
+import Cabecalho from './components/Menu/Cabecalho';
+import Corpo from './components/Menu/Corpo';
+import Base from './components/Menu/Base';
+import MinasGerais from './images/minasgerais.png'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Cabecalho />
+      <Corpo/>
+      <Base/>
     </div>
   );
 }
