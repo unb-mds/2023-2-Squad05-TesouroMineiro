@@ -1,11 +1,17 @@
 import react from "react";
 import Base from '../components/Base'
-import Integrantes from "../components/Creditos/Integrantes";
+import IntegrantesA from "../components/Creditos/IntegrantesA";
+import IntegrantesB from "../components/Creditos/IntegrantesB";
+import './creditos.css'
 
 function Creditos(){
     return(
         <div>
-            <Integrantes />
+            <div className="creditos">
+            <IntegrantesA />
+            <IntegrantesB />
+           
+            </div>
             <Base />
         </div>
     )
