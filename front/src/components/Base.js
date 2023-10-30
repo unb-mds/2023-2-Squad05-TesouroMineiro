@@ -1,7 +1,7 @@
 import './base.css';
 import { AiFillGithub } from 'react-icons/ai';
 import { FaLocationDot } from 'react-icons/fa6';
-import Brasilia from '../../images/brasilia.png';
+import Brasilia from '../images/brasilia.png';
 
 function Base(){
     

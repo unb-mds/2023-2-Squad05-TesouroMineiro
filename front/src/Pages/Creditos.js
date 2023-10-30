@@ -1,9 +1,12 @@
 import react from "react";
+import Base from '../components/Base'
+import Integrantes from "../components/Creditos/Integrantes";
 
 function Creditos(){
     return(
         <div>
-            <h1>página Creditos</h1>
+            <Integrantes />
+            <Base />
         </div>
     )
 }
