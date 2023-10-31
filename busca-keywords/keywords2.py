@@ -5,7 +5,7 @@ import re
 pasta = 'diarios_spiders/diarios/full'
 
 # Palavra-chave a ser pesquisada
-keyword = 'DEMONSTRATIVO DOS SALDOS DE CRÉDITO SUPLEMENTARES POR ANULAÇÃO,AUTORIZADOS 2023'
+keyword = 'gratificação'
 
 # Loop através de todos os arquivos na pasta
 for nome_arquivo in os.listdir(pasta):

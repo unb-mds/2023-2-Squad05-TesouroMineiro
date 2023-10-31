@@ -24,7 +24,7 @@ class SigpubGazetteSpider(BaseGazetteSpider):
         - These websites have an "Advanced Search", but they are protected by ReCaptcha.
     """
 
-    start_date = date(2023, 9, 1)
+    start_date = date(2009, 9, 1)
 
     def start_requests(self):
         """Requests start page where the calendar widget is available."""
