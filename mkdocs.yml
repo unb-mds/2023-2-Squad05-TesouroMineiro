@@ -33,4 +33,10 @@ nav:
     - Sprint06:
       - Planejamento: 'Sprints/Sprint06/Planejamentos06.md'
       - Resultados: 'Sprints/Sprint06/Resultados06.md'
+    - Sprint07:
+      - Planejamento: 'Sprints/Sprint07/Planejamentos07.md'
+      - Resultados: 'Sprints/Sprint07/Resultados07.md'
+    - Sprint08:
+      - Planejamento: 'Sprints/Sprint08/Planejamentos08.md'
+      - Resultados: 'Sprints/Sprint08/Resultados08.md'
   - Sobre: 'about.md'

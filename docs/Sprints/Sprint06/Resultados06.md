@@ -4,7 +4,7 @@ Nesta Sprint foi feita uma revisão geral focando os principais requisitos para 
 
 # Issues
 
-|                          Issue                           |              Título               |                    Responsáveis                     |
+|                          Issue                           |              Título               |                    Status                     |
 | :------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
 | [#38](https://github.com/unb-mds/2023-2-Squad05/issues/38) |Revisão: Story Map (duo)|Concluído|
 | [#39](https://github.com/unb-mds/2023-2-Squad05/issues/39) | Revisão: Protótipo no Figma  | Concluído|
@@ -14,4 +14,4 @@ Nesta Sprint foi feita uma revisão geral focando os principais requisitos para 
 
 # Conclusão
 
-Concluindo esta issue temos o necessário para a release 1, deixando principalmente a documentação do projeto melhormente executada, tendo em vista que é a descrição do projeto, bem como o story Map e protótipo que são a fachada do projeto.
+Concluindo esta issue temos o que será necessário para a release 1, melhorando principalmente a documentação do projeto, tendo em vista que é a descrição do projeto, bem como o Story Map. Também foi finalizado o Protótipo que será a parte visual do projeto.
