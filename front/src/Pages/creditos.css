@@ -1,0 +1,8 @@
+.creditos{
+    margin-top: 60px;
+    height: 240px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
