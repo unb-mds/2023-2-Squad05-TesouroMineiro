@@ -69,7 +69,8 @@ ul li a.active{
 }
 
 header svg{
-  font-size: 40px;
+  font-size: 35px;
+  border-radius: 15px;
 }
 
 .main {

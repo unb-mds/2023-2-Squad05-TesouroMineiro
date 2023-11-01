@@ -6,7 +6,7 @@ import Dados from './Pages/Dados';
 import Sobre from './Pages/Sobre';
 import Creditos from './Pages/Creditos';
 import {GiHamburgerMenu} from 'react-icons/gi';
-import { BrowserRouter as Router, Route, Routes, BrowserRouter} from 'react-router-dom';
+import { BrowserRouter as BrowserRouter, Route, Routes} from 'react-router-dom';
 
 function App() {
   const [showNav, setShowNav] = useState(false);
