@@ -99,7 +99,7 @@ header svg:hover{
 
 .main {
 
-  min-height: calc(83vh + 80px);
+  min-height: calc(83vh + 78px);
   min-width: 100%;
   display: flex;
   flex-direction: column;

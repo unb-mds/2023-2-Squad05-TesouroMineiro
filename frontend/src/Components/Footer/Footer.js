@@ -12,11 +12,11 @@ const Footer = () => {
           {/* Column1 */}
           <div className="col">
             <h4>THICC MEMES INC</h4>
-            <h1 className="list-unstyled">
+            <ui className="list-unstyled">
               <li>342-420-6969</li>
               <li>Moscow, Russia</li>
               <li>123 Streeet South North</li>
-            </h1>
+            </ui>
           </div>
           {/* Column2 */}
           <div className="col">
@@ -38,7 +38,9 @@ const Footer = () => {
           </div>
           </div>
         <div className="Abaixo">
+          
           <p>
+          <hr />
           &copy;{new Date().getFullYear()} THICC MEMES | All rights reserved |
             Terms Of Service | Privacy
             </p>

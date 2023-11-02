@@ -20,7 +20,7 @@
 .Acima{
 
     display: flex;
-    text-align: center;
+    padding: 5px;
     
     justify-content: center;
 
@@ -28,6 +28,8 @@
 
 .Abaixo{
     text-align: center;
+    align-items: self-start;
+    
 }
 
 
