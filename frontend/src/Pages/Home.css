@@ -1,8 +1,17 @@
-.descricao {
-  width: 500px;
-  min-height: 100%;
-  margin-top: 100% - 20px;
+.line-1 {
+  margin-top: -20px;
+  height: 1px;
+  background: black;
+}
+.TituloHome{
+  font-size: 45px;
+}
+.corpoHome{
+  
+  font-size: 20px;
   text-align: center;
-  align-self: self-start;
-  margin: 0 auto;
+}
+.minasGerais{
+  margin-left: -50px;
+  height: 400px;
 }
