@@ -1,10 +1,11 @@
 import React from 'react';
+import './Pages.css';
 
 const Sobre = () => {
     
     return(
     
-    <div>
+    <div className='All_Pages'>
         
         <h1>Sobre
         </h1>

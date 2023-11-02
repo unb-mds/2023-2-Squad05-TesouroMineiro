@@ -1,8 +1,11 @@
+import React from 'react';
+import './Pages.css';
+
 const Dados = () => {
 
     return (
 
-        <div>
+        <div className="All_Pages">
         
         <h1>Dados
         </h1>

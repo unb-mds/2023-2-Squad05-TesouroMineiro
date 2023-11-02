@@ -1,18 +1,15 @@
 import React from 'react';
-import './Home.css';
+import './Home.css'
+import './Pages.css';
 
 const Home = () => {
     
     return(
     
-    <div className='descricao'>
+    <div className='All_Pages'>
         
-        <h4>Projeto do Grupo de MDS sobre o 
-            Diário Oficial de Minas Gerais</h4>
-            <p4>Nesse projeto trabalharemos com a filtragem de dados 
-                do estado de Minas Gerais. Facilitando o estudo, 
-                consulta ou qualquer outra coisa daqueles que 
-                quiserem</p4> 
+        <h1>Home</h1>
+                
 
     </div>
 

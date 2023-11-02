@@ -1,6 +1,8 @@
 .descricao {
   width: 500px;
-  height: 500px;
-  margin: flex;
-  margin-top: -200px;
+  min-height: 100%;
+  margin-top: 100% - 20px;
+  text-align: center;
+  align-self: self-start;
+  margin: 0 auto;
 }

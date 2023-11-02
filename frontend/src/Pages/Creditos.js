@@ -1,10 +1,14 @@
+import React from 'react';
+import './Pages.css';
+
 const Creditos = () => {
 
     return (
 
-        <div>
+        <div className='All_Pages'>
         
-        <h1>Créditos
+        <h1>
+            Créditos
         </h1>
 
     </div>
