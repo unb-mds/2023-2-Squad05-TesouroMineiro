@@ -8,6 +8,7 @@ const Footer = () => {
         <div className="Mainfooter">
 
             <div className="Footer">
+            <div className="Acima">
           {/* Column1 */}
           <div className="col">
             <h4>THICC MEMES INC</h4>
@@ -35,7 +36,14 @@ const Footer = () => {
               <li>GUD STUFF</li>
             </ui>
           </div>
-        </div>
+          </div>
+        <div className="Abaixo">
+          <p>
+          &copy;{new Date().getFullYear()} THICC MEMES | All rights reserved |
+            Terms Of Service | Privacy
+            </p>
+          </div>
+          </div>
         </div>
     )
 }

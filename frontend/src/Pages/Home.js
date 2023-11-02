@@ -8,8 +8,7 @@ const Home = () => {
     
     <div className='All_Pages'>
         
-        <h1>Home</h1>
-                
+        <h1>Home</h1>                
 
     </div>
 
