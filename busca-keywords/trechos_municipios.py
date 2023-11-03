@@ -33,7 +33,7 @@ for nome_arquivo in os.listdir(pasta):
         for bloco in blocos[1:]:
             bloco = bloco.strip()
             
-            # Nome do Municipio 
+            # Nome do Municipio - alterar busca de nomes*******
             padraoMunicipio = r'DE\s*([A-ZÁÀÃÉÈÍÏÓÒÕÚÇ ]+)(?:\s+([A-ZÁÀÃÉÈÍÏÓÒÕÚÇ ]+))?'
             municipio = re.search(padraoMunicipio, bloco)
             nomeDoMunicipio = municipio.group(1).strip()
@@ -53,14 +53,17 @@ for nome_arquivo in os.listdir(pasta):
 
             # Cria um arquivo exclusivo para cada arquivo de origem
             nome_arquivo_base = os.path.splitext(nome_arquivo)[0]  # Remove a extensão .txt
-            arquivo_destino = f'{nome_arquivo_base}_trechos.txt'
+            arquivo_destino = f'{nome_arquivo_base}_trechos-{nomeDoMunicipio}.txt'
 
             # Salva os trechos no arquivo exclusivo
-            with open(f'busca-keywords/trechos/{arquivo_destino}', 'a', encoding="utf-8") as f:
-                for trecho in trechos:
-                    f.write(data + '\n')
-                    f.write(nomeDoMunicipio + '\n')
-                    f.write(trecho + '\n')
+            if len(trechos) != 0:
+                with open(f'busca-keywords/trechos/{arquivo_destino}', 'a', encoding="utf-8") as f:
+                    for trecho in trechos:
+                        f.write(data + '\n')
+                        f.write(nomeDoMunicipio + '\n')
+                        f.write(trecho + '\n')
+            else:
+                print(f'Município: {nomeDoMunicipio} não possui.')
 
         print(f'Arquivo: {nome_arquivo}, Ocorrências: {len(trechos)}')
 
