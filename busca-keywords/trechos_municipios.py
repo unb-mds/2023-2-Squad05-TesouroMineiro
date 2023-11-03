@@ -32,8 +32,7 @@ for nome_arquivo in os.listdir(pasta):
 
         for bloco in blocos[1:]:
             bloco = bloco.strip()
-            nomeacao = None
-            exoneracao = None
+            
             # Nome do Municipio 
             padraoMunicipio = r'DE\s*([A-ZÁÀÃÉÈÍÏÓÒÕÚÇ ]+)(?:\s+([A-ZÁÀÃÉÈÍÏÓÒÕÚÇ ]+))?'
             municipio = re.search(padraoMunicipio, bloco)
@@ -59,8 +58,20 @@ for nome_arquivo in os.listdir(pasta):
             # Salva os trechos no arquivo exclusivo
             with open(f'busca-keywords/trechos/{arquivo_destino}', 'a', encoding="utf-8") as f:
                 for trecho in trechos:
+                    f.write(data + '\n')
                     f.write(nomeDoMunicipio + '\n')
                     f.write(trecho + '\n')
 
-            print(f'Arquivo: {nome_arquivo}, Ocorrências: {len(trechos)}')
+        print(f'Arquivo: {nome_arquivo}, Ocorrências: {len(trechos)}')
 
+
+'''
+
+data = {
+    "data": data,
+    "municipio": nomeDoMunicipio,
+    "dadox": dado
+
+}
+
+'''
