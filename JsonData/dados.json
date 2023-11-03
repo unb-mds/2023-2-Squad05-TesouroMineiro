@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Exemplo1",
+        "idade": 30,
+        "cidade": "Exemploville"
+    },
+    {
+        "nome": "Exemplo2",
+        "idade": 30,
+        "cidade": "Exemploville"
+    },
+    {
+        "nome": "Exemplo3",
+        "idade": 30,
+        "cidade": "Exemploville"
+    }
+]
