@@ -7,6 +7,12 @@ pasta = 'diarios_spiders/diarios/full'
 # Palavra-chave a ser pesquisada
 keyword = 'gratificação'
 
+if os.path.isdir('busca-keywords/trechos'): # verica se o diretorio ja existe
+    print ('Ja existe a pasta "trechos"!')
+else:
+    os.mkdir('busca-keywords/trechos')
+    print ('Pasta criada com sucesso!')
+
 # Loop através de todos os arquivos na pasta
 for nome_arquivo in os.listdir(pasta):
     if nome_arquivo.endswith('.txt'):
@@ -16,7 +22,7 @@ for nome_arquivo in os.listdir(pasta):
         with open(caminho_arquivo, 'r', encoding='utf-8') as arquivo:
             texto_completo = arquivo.read()
 
-        # Usa expressão regular para encontrar todas as ocorrências da palavra-chave
+        # Usa regex para encontrar todas as ocorrências da palavra-chave
         ocorrencias = re.finditer(fr'\b{re.escape(keyword)}\b', texto_completo, re.IGNORECASE)
 
         # Extrai trechos de texto que contêm a palavra
@@ -32,3 +38,4 @@ for nome_arquivo in os.listdir(pasta):
                 f.write(trecho + '\n')
 
         print(f'Arquivo: {nome_arquivo}, Ocorrências: {len(trechos)}')
+
