@@ -1,5 +1,8 @@
 import React from "react";
 import './Footer.css';
+import logobrasilia from '../images_components/logo_brasilia.png'
+import logomg from '../images_components/logo_mg.png'
+import {AiFillGithub} from 'react-icons/ai'
 
 const Footer = () => {
 
@@ -11,34 +14,28 @@ const Footer = () => {
             <div className="Acima">
           {/* Column1 */}
           <div className="col">
-            <h4>THICC MEMES INC</h4>
-            <ui className="list-unstyled">
-              <li>342-420-6969</li>
-              <li>Moscow, Russia</li>
-              <li>123 Streeet South North</li>
-            </ui>
+
+            <a href="https://www.diariomunicipal.com.br/amm-mg/">
+              <img className="logomg" src={logomg} alt=""></img>
+            </a>
+          
           </div>
           {/* Column2 */}
           <div className="col">
-            <h4>Stuff</h4>
-            <ui className="list-unstyled">
-              <li>DANK MEMES</li>
-              <li>OTHER STUFF</li>
-              <li>GUD STUFF</li>
-            </ui>
+            
+            <a href="https://github.com/unb-mds/2023-2-Squad05">
+
+            <AiFillGithub size={50} color="white" />
+
+            </a>
+
           </div>
           {/* Column3 */}
           <div className="col">
-            <h4>WELL ANOTHER COLUMN</h4>
-            <ui className="list-unstyled">
-              <li>DANK MEMES</li>
-              <li>OTHER STUFF</li>
-              <li>GUD STUFF</li>
-            </ui>
+          <img className= "logobrasilia" src = {logobrasilia} alt=""></img>
           </div>
           </div>
         <div className="Abaixo">
-          
           <p>
           <hr />
           &copy;{new Date().getFullYear()} THICC MEMES | All rights reserved |
