@@ -64,7 +64,7 @@ const Sobre = () => {
                         </a>
                     </tbody>
                     <tbody>
-                        <a href="" >
+                        <a href="https://docs.python.org/3/library/re.html#" >
                             <tr>
                                 <td><Image source = {require('../images/regex_logo.png')}
                                 style = {style.image} />

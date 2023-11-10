@@ -1,6 +1,8 @@
 .pageSobre{
     margin-left: 60px;
     margin-right: 180px;
+    height: 80vh;
+    flex: 2;
 }
 .tituloSobre{
     font-size: 30px;

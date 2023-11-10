@@ -2,9 +2,11 @@
   margin-top: -20px;
   height: 1px;
   background: black;
+  
 }
 .TituloHome{
   font-size: 45px;
+  
 }
 .corpoHome{
   
@@ -13,5 +15,5 @@
 }
 .minasGerais{
   margin-left: -50px;
-  height: 400px;
+  height: 35vh;
 }
