@@ -5,7 +5,7 @@ import re
 pasta = 'diarios_spiders/diarios/full'
 
 # Palavra-chave a ser pesquisada
-keyword = 'NOMEIA'
+keyword = 'CRÉDITO SUPLEMENTAR'
 
 if os.path.isdir('busca-keywords/trechos'): # verica se o diretorio ja existe
     print ('Ja existe a pasta "trechos"!')
@@ -49,15 +49,13 @@ for nome_arquivo in os.listdir(pasta):
             else:
                 print("Nenhum município correspondente encontrado.")
                 
-           
 
-    
 
             # Usa regex para encontrar todas as ocorrências da palavra-chave
             ocorrencias = re.finditer(fr'\b{re.escape(keyword)}\b', bloco, re.IGNORECASE)
 
             # Extrai trechos de texto que contêm a palavra
-            trechos = [bloco[max(0, ocorrencia.start() - 5):ocorrencia.end() + 500] for ocorrencia in ocorrencias]
+            trechos = [bloco[max(0, ocorrencia.start() - 5):ocorrencia.end() + 8000] for ocorrencia in ocorrencias]
 
             # Cria um arquivo exclusivo para cada arquivo de origem
             nome_arquivo_base = os.path.splitext(nome_arquivo)[0]  # Remove a extensão .txt
