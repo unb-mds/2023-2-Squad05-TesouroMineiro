@@ -1,0 +1,23 @@
+.base{
+    margin-top: 230px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+}
+.endereco{
+    margin-left: 5px;
+}
+.git{
+    margin-right: 5px;
+    background: transparent;
+    border: transparent;
+}
+.location{
+    background: transparent;
+    border: transparent;
+}
+.brasilia{
+    height: 70px;
+}
