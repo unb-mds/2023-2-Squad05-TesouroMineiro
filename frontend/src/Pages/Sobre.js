@@ -36,7 +36,7 @@ const Sobre = () => {
              Essas tecnologias se complementam, tornando o processo mais eficaz e 
              proporcionando flexibilidade, escalabilidade e reprodutibilidade em 
              todo o projeto.</p>
-             <div className='tabela'>
+             <div className='tabelasS'>
              <table cellSpacing={'20px'}>
                 <td valign='top'>
                     <tbody>
@@ -77,7 +77,7 @@ const Sobre = () => {
                     </tbody>
                 </td>
             </table>
-            <table cellSpacing={'20px'} align=''>
+            <table className="tabelasS"cellSpacing={'20px'} align=''>
                 <td valign='top'>
                     <tbody>
                         <a href="https://www.docker.com" >

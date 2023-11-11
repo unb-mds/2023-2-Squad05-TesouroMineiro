@@ -1,20 +1,20 @@
 import React from "react";
-import './Creditos.css'
+import './creditos.css'
 import {Image, StyleSheet} from 'react-native'
 
 const Creditos = () => {
     
     return(
     
-        <div className="integrantes">
+        <div>
             <h1 className="tituloCreditos">Integrantes do projeto</h1>
-        <table cellSpacing={'20px'}>
+        <table className="tabelasC" cellSpacing={'20px'}>
         <tr>
           <td valign="top">
             <a href="https://github.com/IderlanJ" >
               <Image source={{uri: 'https://avatars.githubusercontent.com/u/101422838?v=4' }}
               style = {style.image}/>
-              <p className="tabela" align="center">Iderlan Júnio</p>
+              <p className="tabelaC" align="center">Iderlan Júnio</p>
             </a>
           </td> 
       
@@ -22,7 +22,7 @@ const Creditos = () => {
           <a href="https://github.com/EliasOliver21" >
             <Image source= {{uri: "https://avatars.githubusercontent.com/u/101871853?v=4" }}
             style = {style.image} />
-            <p className="tabela" align="center">Elias Faria</p>
+            <p className="tabelaC" align="center">Elias Faria</p>
           </a>
         </td>
       
@@ -30,7 +30,7 @@ const Creditos = () => {
           <a href="https://github.com/claudiohsc" >
             <Image source = {{uri: "https://avatars.githubusercontent.com/u/79493200?v=4"}}
             style = {style.image} />
-            <p className="tabela" align="center">Claudio Henrique</p>
+            <p className="tabelaC" align="center">Claudio Henrique</p>
           </a>
         </td>
       
@@ -38,18 +38,18 @@ const Creditos = () => {
           <a href="https://github.com/MuriloBDSR" >
             <Image source = {{uri: "https://avatars.githubusercontent.com/u/119528344?v=4"}}
             style = {style.image} />
-            <p className="tabela" align="center">Murilo Brandão</p>
+            <p className="tabelaC" align="center">Murilo Brandão</p>
           </a>
         </td>          
         </tr>
     </table>
-    <table cellSpacing={'20px'}>        
+    <table className="tabelasC" cellSpacing={'20px'}>        
         <tr>
         <td valign="top">
           <a href="https://github.com/VictorGCOSTA" >
             <Image source= {{uri: "https://avatars.githubusercontent.com/u/100495785?v=4"}}
             style = {style.image} />
-            <p className="tabela" align="center">Victor Hugo</p>
+            <p className="tabelaC" align="center">Victor Hugo</p>
           </a>
         </td>
       
@@ -57,15 +57,15 @@ const Creditos = () => {
           <a href="https://github.com/jheniferib" >
             <Image source= {{uri: "https://avatars.githubusercontent.com/u/123898577?v=4"}}
             style = {style.image} />
-            <p className="tabela" align="center">Jhenifer Castro</p>
+            <p className="tabelaC" align="center">Jhenifer Castro</p>
           </a>
         </td>
         
         <td valign="top">
           <a href="https://github.com/Pedrin0030" >
-            <Image source= {{uri: "https://avatars.githubusercontent.com/u/129682770?v=4"}}
+            <Image classname="foto" source= {{uri: "https://avatars.githubusercontent.com/u/129682770?v=4"}}
             style = {style.image} />
-            <p className="tabela" align="center">Pedro Paulo</p>
+            <p className="tabelaC" align="center">Pedro Paulo</p>
           </a>
         </td>
         </tr>
