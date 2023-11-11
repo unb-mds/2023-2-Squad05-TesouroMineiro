@@ -1,0 +1,19 @@
+.line-1 {
+  margin-top: -20hv;
+  height: 1hv;
+  background: black;
+  
+}
+.TituloHome{
+  font-size: 45hv;
+  
+}
+.corpoHome{
+  
+  font-size: 20hv;
+  text-align: center;
+}
+.minasGerais{
+  margin-left: -50px;
+  height: 35vh;
+}
