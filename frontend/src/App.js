@@ -1,18 +1,44 @@
-import React from 'react';
-import { FiGithub } from 'react-icons/fi';
-import './styles.css';
-import Cabecalho from './components/Menu/Cabecalho';
-import Corpo from './components/Menu/Corpo';
-import Base from './components/Base';
-import MinasGerais from './images/minasgerais.png'
+import './App.css';
+import {useState} from 'react';
+import Navbar from './Components/Navbar';
+import Home from './Pages/Home';
+import Dados from './Pages/Dados';
+import Sobre from './Pages/Sobre';
+import Creditos from './Pages/Creditos';
+import Footer from './Components/Footer/Footer';
+import {GiHamburgerMenu} from 'react-icons/gi';
+import { BrowserRouter as BrowserRouter, Route, Routes} from 'react-router-dom';
 
 function App() {
+  const [showNav, setShowNav] = useState(false);
   return (
-    <div>
-      <Cabecalho />
-      <Corpo/>
-      <Base/>
-    </div>
+    
+      
+      <BrowserRouter>
+        <header>
+          <GiHamburgerMenu onClick={() => setShowNav(!showNav)}/>            
+        </header>
+        
+        
+        <Navbar show= {showNav} />
+        
+        <div className="main">         
+
+        <Routes>
+
+        <Route path="/" exact={true} element={<Home/>}/>
+        <Route path="/dados" exact={true} element={<Dados/>}/>
+        <Route path="/sobre" exact={true} element={<Sobre/>}/>
+        <Route path="/creditos" exact={true} element={<Creditos/>}/>
+
+        </Routes>         
+        
+        <Footer/>          
+          
+        </div>
+      </BrowserRouter>
+          
+    
   );
 }
 

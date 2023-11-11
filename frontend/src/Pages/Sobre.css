@@ -1,0 +1,39 @@
+.pageSobre{
+    margin-left: 60px;
+    margin-right: 180px;
+    height: 80vh;
+    flex: 2;
+}
+.tituloSobre{
+    font-size: 30px;
+}
+.line-1SA {
+    margin-left: -10px;
+    width: 220px;
+    margin-top: -20px;
+    height: 1px;
+    background: black;
+}
+.line-1SB {
+    margin-left: -10px;
+    width: 130px;
+    margin-top: -20px;
+    height: 1px;
+    background: black;
+}
+.line-1SC {
+    margin-left: -10px;
+    width: 370px;
+    margin-top: -20px;
+    height: 1px;
+    background: black;
+}
+.pSobre{
+    text-align: justify;
+    text-justify: inter-word;
+}
+.tabela{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
