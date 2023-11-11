@@ -73,14 +73,3 @@ for nome_arquivo in os.listdir(pasta):
 
         print(f'Arquivo: {nome_arquivo}, Ocorrências: {len(trechos)}')
 
-
-'''
-
-data = {
-    "data": data,
-    "municipio": nomeDoMunicipio,
-    "dadox": dado
-
-}
-
-'''
