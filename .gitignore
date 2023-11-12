@@ -1,2 +1,5 @@
+#Dependencies
+frontend/node_modules
+
 diarios_spiders/diarios/full
 busca-keywords/trechos
