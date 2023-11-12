@@ -22,8 +22,7 @@ for nome_arquivo in os.listdir(pasta):
         with open(caminho_arquivo, 'r', encoding='utf-8') as arquivo:
             texto_completo = arquivo.read()
         
-
-        padrao = re.escape("PREFEITURA MUNICIPAL ")
+        padrao = re.escape("PREFEITURA ")
         blocos = re.split(padrao, texto_completo)
         # Data
         padrao = r'\d{2} de [A-Z][a-z]+ de \d{4}'
@@ -49,7 +48,6 @@ for nome_arquivo in os.listdir(pasta):
             else:
                 print("Nenhum município correspondente encontrado.")
                 
-
 
             # Usa regex para encontrar todas as ocorrências da palavra-chave
             ocorrencias = re.finditer(fr'\b{re.escape(keyword)}\b', bloco, re.IGNORECASE)
