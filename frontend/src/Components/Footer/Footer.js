@@ -38,7 +38,7 @@ const Footer = () => {
         <div className="Abaixo">
           <p>
           <hr />
-          &copy;{new Date().getFullYear()} THICC MEMES | All rights reserved |
+          &copy;{new Date().getFullYear()} UNB/FGA/MDS | All rights reserved |
             Terms Of Service | Privacy
             </p>
           </div>
