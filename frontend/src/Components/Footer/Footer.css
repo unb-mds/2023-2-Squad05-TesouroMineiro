@@ -22,17 +22,17 @@ Footer.p{
 .Acima{
 
     display: flex;
-    padding: 5px;
+    padding: 1vh;
     justify-content: space-around;
     align-items: auto;
     padding: 0rem 0rem;
 }
-
 .Abaixo{
 
     
     text-align: center;
     font-size: 2vh;
+    align-items: start;
     
 }
 

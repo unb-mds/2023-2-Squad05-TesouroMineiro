@@ -37,23 +37,25 @@ header {
   width: 10vh;
   background: #011627;
   position: absolute;
-  height: 70vh;
-  padding: 10vh 6vh;
+  height: 76vh;
+  padding: 12vh 6vh;
   left: -100%;
   transition: all 1s;
   z-index: 10;
+  top: 0vh;
 }
 
 .sidenav.active {
   left: 0;
   z-index: 10;
   order: 1;
-  top : 10vh;
+  top : 0vh;
+  
 }
 
 .logo {
-  width: 50px;
-  border-radius: 30px;
+  width: 10vh;
+  border-radius: 1vh;
   margin-left: 1vh;
 }
 
@@ -72,8 +74,8 @@ ul li a{
 
   color: #eaecef;
   text-decoration: none;
-  font-size: 16px;
-  padding: 10px 10px;
+  font-size: 1vw;
+  padding: 2vh 2vh;
   border-radius: 6px;
   display: block;
 }
@@ -81,7 +83,9 @@ ul li a{
 ul li a:hover,
 ul li a.active{
 
-    background: #172b4d;
+  background: #172b4d;
+  width: 7vh;
+  border-radius: 5vh;
 
 }
 
