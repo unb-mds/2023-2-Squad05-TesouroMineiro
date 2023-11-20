@@ -1,9 +1,10 @@
-import React, { useState } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import Chart from 'react-apexcharts';
 
 const Graficos = () => {
   const [selectedMunicipio, setSelectedMunicipio] = useState('NomeMunicipio1');
   const [selectedData, setSelectedData] = useState('30');
+  const chartRef = useRef(null);
 
   const municipios = ['NomeMunicipio1', 'NomeMunicipio2', 'NomeMunicipio3', 'NomeMunicipio4', 'NomeMunicipio5', 'NomeMunicipio6', 'NomeMunicipio7', 'NomeMunicipio8', 'NomeMunicipio9'];
   const chartData = ['30', '40', '35', '50', '49', '60', '70', '91', '125'];
@@ -33,39 +34,54 @@ const Graficos = () => {
     ],
   };
 
+
+
   return (
     <div
+      className=''
       style={{
         display: 'flex',
-        flexDirection: 'column', // Alteração aqui para organizar os elementos em coluna
+        flexDirection: 'column',
         alignItems: 'center',
-        height: '100vh',
+        height: '100%',
       }}
     >
-      <div style={{ marginBottom: '20px' }}>
-        <label style={{ display: 'inline-block', marginBottom: '8px' }}>
-          Escolha o município:
-          <select value={selectedMunicipio} onChange={handleMunicipioChange}>
+      <div className='d-flex my-3 flex-column' style={{ marginBottom: '20px', width: '350px' }}>
+        <div className='d-flex mb-2' style={{height:'70px'}}>
+          <label className='input-group-text' >
+            Município:
+          </label>
+          <select className='form-select' value={selectedMunicipio} onChange={handleMunicipioChange}>
             {municipios.map((municipio) => (
               <option key={municipio} value={municipio}>
                 {municipio}
               </option>
             ))}
           </select>
-        </label>
-        <br />
-        <label>
-          Dados:
-          <select value={selectedData} onChange={handleDataChange}>
+        </div>
+        <div className='d-flex' style={{height:'70px'}}>
+          <label className='input-group-text'>
+            Categoria:
+          </label>
+          <select className='form-select' value={selectedData} onChange={handleDataChange}>
             {chartData.map((data) => (
               <option key={data} value={data}>
                 {data}
               </option>
             ))}
           </select>
-        </label>
+        </div>
       </div>
-      <Chart options={dataExample.options} series={dataExample.series} type="bar" width={500} height={320} />
+      <div className='mt-5' style={{ maxWidth: '100%', maxHeight: '200px' }}>
+        <Chart
+          options={dataExample.options}
+          series={dataExample.series}
+          type="bar"
+          width="450"
+          height="400"
+          ref={chartRef}
+        />
+      </div>
     </div>
   );
 };
