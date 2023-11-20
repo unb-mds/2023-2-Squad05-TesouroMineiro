@@ -14,18 +14,13 @@
         
 }
 
-Footer.p{
-    
-    
-}
-
 .Acima{
 
     display: flex;
     padding: 1vh;
     justify-content: space-around;
     align-items: auto;
-    padding: 0rem 0rem;
+    padding: 1.5rem 0rem;
 }
 .Abaixo{
 
@@ -33,6 +28,7 @@ Footer.p{
     text-align: center;
     font-size: 2vh;
     align-items: start;
+    padding: 0.1vh;
     
 }
 
@@ -57,14 +53,43 @@ Footer.p{
 
 .logobrasilia{
 
-    width: 50px;
-    height: 50px;
+    width: 7vh;
+    height: 7vh;
     border-radius: 50%;
+    margin: auto;
+    display: block;
+    
 }
 
 .logomg{
 
-    width: 50px;
-    height: 50px;
-    border-radius: 10%;
+    width: 7vh;
+    height: 7vh;
+    border-radius: 20%;
+    margin: auto;
+    display: block;
+
+}
+.logogit{
+    
+        width: 7vh;
+        height: 7vh;
+        border-radius: 50%;
+        background-color: white;
+        margin: auto;
+        display: block;
+    
+}
+
+.gitsymbol{
+    
+        width: 1vh;
+        height: 1vh;
+}
+
+.col{
+
+    height: 7vh;
+    
+
 }
