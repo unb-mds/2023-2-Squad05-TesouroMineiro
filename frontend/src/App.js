@@ -7,14 +7,14 @@ import Sobre from './Pages/Sobre';
 import Creditos from './Pages/Creditos';
 import Footer from './Components/Footer/Footer';
 import {GiHamburgerMenu} from 'react-icons/gi';
-import { BrowserRouter as BrowserRouter, Route, Routes} from 'react-router-dom';
+import { Router as Router, Route, Routes} from 'react-router-dom';
 
 function App() {
   const [showNav, setShowNav] = useState(false);
   return (
     
       
-      <BrowserRouter>
+      <Router>
         <header>
           <GiHamburgerMenu onClick={() => setShowNav(!showNav)}/>            
         </header>
@@ -37,7 +37,7 @@ function App() {
         </div>
 
         <Footer/>
-      </BrowserRouter>
+      </Router>
           
     
   );

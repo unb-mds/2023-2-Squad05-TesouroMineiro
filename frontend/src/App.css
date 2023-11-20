@@ -42,7 +42,11 @@ header {
   left: -100%;
   transition: all 1s;
   z-index: 10;
+<<<<<<< HEAD
   top: 0vh;
+=======
+  order: 1;
+>>>>>>> 4e12ef23 (changes in layout)
 }
 
 .sidenav.active {
