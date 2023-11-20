@@ -7,6 +7,7 @@ import Sobre from './Pages/Sobre';
 import Creditos from './Pages/Creditos';
 import Footer from './Components/Footer/Footer';
 import {GiHamburgerMenu} from 'react-icons/gi';
+// eslint-disable-next-line
 import { Router as Router, Route, Routes} from 'react-router-dom';
 
 function App() {
