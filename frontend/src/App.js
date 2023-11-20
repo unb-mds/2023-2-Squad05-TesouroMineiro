@@ -8,14 +8,14 @@ import Creditos from './Pages/Creditos';
 import Footer from './Components/Footer/Footer';
 import {GiHamburgerMenu} from 'react-icons/gi';
 // eslint-disable-next-line
-import { Router as Router, Route, Routes} from 'react-router-dom';
+import { BrowserRouter as BrowserRouter, Route, Routes} from 'react-router-dom';
 
 function App() {
   const [showNav, setShowNav] = useState(false);
   return (
     
       
-      <Router>
+      <BrowserRouter>
         <header>
           <GiHamburgerMenu onClick={() => setShowNav(!showNav)}/>            
         </header>
@@ -38,7 +38,7 @@ function App() {
         </div>
 
         <Footer/>
-      </Router>
+      </BrowserRouter>
           
     
   );
