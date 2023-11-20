@@ -11,13 +11,13 @@
     width: 100%;
     flex-direction: column;
     min-height: 20vh;
-        
+    justify-content: center;        
 }
 
 .Acima{
 
     display: flex;
-    padding: 1vh;
+    padding-top: 5vh;
     justify-content: space-around;
     align-items: auto;
     padding: 1.5vh 0vh;
@@ -28,7 +28,7 @@
     text-align: center;
     font-size: 2vh;
     align-items: start;
-    padding: 0.1vh;
+    padding: 0vh;
     
 }
 
@@ -90,6 +90,5 @@
 .col{
 
     height: 7vh;
-    
 
 }

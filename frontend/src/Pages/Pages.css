@@ -5,3 +5,14 @@
     text-align: center;
     margin: 0 auto;
   }
+
+@media screen and (max-width: 786px) {
+
+  .All_Pages {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: 100vh;
+    
+  }
+}
