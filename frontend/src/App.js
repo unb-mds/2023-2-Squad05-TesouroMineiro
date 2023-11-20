@@ -16,13 +16,13 @@ function App() {
       
       <BrowserRouter>
         <header>
-          <GiHamburgerMenu onClick={() => setShowNav(!showNav)}/>            
+          <GiHamburgerMenu size={40} color='white' onClick={() => setShowNav(!showNav)}/>            
         </header>
         
         
         <Navbar show= {showNav} />
         
-        <div className="main">         
+        <div className="main my-5">         
 
         <Routes>
 
@@ -33,9 +33,9 @@ function App() {
 
         </Routes>         
         
-        <Footer/>          
           
         </div>
+        <Footer/>          
       </BrowserRouter>
           
     
