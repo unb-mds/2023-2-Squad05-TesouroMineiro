@@ -12,7 +12,8 @@
     margin: auto;
     display: flex;
     flex-direction: column;
-    width: 100vh;
+    width: 100%;
+    
     
   }
 }

@@ -16,6 +16,7 @@ function App() {
     
       
       <BrowserRouter>
+        
         <header>
           <GiHamburgerMenu onClick={() => setShowNav(!showNav)}/>            
         </header>
