@@ -21,6 +21,10 @@ for nome_arquivo in os.listdir(pasta):
 
         nome_municipio = (nome_arquivo.split('-'))[0].strip()
         
+        padrao_data = r"\b(\d{1,2}-[A-Za-z]+-\d{4})\b"
+        correspondencia = re.search(padrao_data, nome_arquivo)
+        data = correspondencia.group(1)
+        
         categorias = {}
         temp = 0
         nums = []
@@ -56,23 +60,24 @@ for nome_arquivo in os.listdir(pasta):
 
 
 
-                    for categoria, soma in categorias.items():
-                        # Cria um dicionário com chaves 'Categoria' e 'Soma'
-                        novos_dados = {
-                            'Categoria': categoria,
-                            'Soma': soma
-                        }
-                        try:
-                            with open(f'busca-keywords/dados/{nome_municipio}.json', 'r') as arquivo_existente:
-                                dados_existente = json.load(arquivo_existente)
-                        except FileNotFoundError:
-                            dados_existente = []
+        for categoria, soma in categorias.items():
+            # Cria um dicionário com chaves 'Categoria' e 'Soma'
+            novos_dados = {
+                'Data': data,
+                'Categoria': categoria,
+                'Soma': soma
+            }
+            try:
+                with open(f'busca-keywords/dados/{nome_municipio}.json', 'r') as arquivo_existente:
+                    dados_existente = json.load(arquivo_existente)
+            except FileNotFoundError:
+                dados_existente = []
 
-                        # Adicionar novos dados à lista existente
-                        dados_existente.append(novos_dados)
-                        
-                        # Imprime as categorias e somas
-                        print(f'Categoria: {categoria}, Soma dos valores: {soma}')
+            # Adicionar novos dados à lista existente
+            dados_existente.append(novos_dados)
+            
+            # Imprime as categorias e somas
+            print(f'Categoria: {categoria}, Soma dos valores: {soma}')
 
-                    # Exporta a lista de dicionários para um arquivo JSON
-                    create_json(f"{nome_municipio}", dados_existente)
+        # Exporta a lista de dicionários para um arquivo JSON
+        create_json(f"{nome_municipio}", dados_existente)

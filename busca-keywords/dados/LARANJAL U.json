@@ -1,21 +1,21 @@
 [
     {
+        "Data": "09-Outubro-2023",
         "Categoria": "Crédito Suplementar",
-        "Soma": 101793.42
+        "Soma": 20000.0
     },
     {
+        "Data": "20-Outubro-2023",
         "Categoria": "Crédito Suplementar",
-        "Soma": 15000.0
+        "Soma": 7410.05
     },
     {
+        "Data": "28-Setembro-2023",
         "Categoria": "Crédito Suplementar",
-        "Soma": 45807.41
+        "Soma": 1973.29
     },
     {
-        "Categoria": "Crédito Suplementar",
-        "Soma": 86597.08
-    },
-    {
+        "Data": "06-Setembro-2023",
         "Categoria": "Crédito Suplementar",
         "Soma": 166858.31
     }
