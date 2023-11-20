@@ -32,16 +32,15 @@ for nome_arquivo in os.listdir(pasta):
         for bloco in blocos[1:]:
             bloco = bloco.strip()
             
-            # Nome do Municipio - alterar busca de nomes*******
+            # Nome do Municipio
             re_nomes_municipios = (r"DE\s*([A-ZÁÂÀÃÉÈÍÏÓÔÒÕÚÇ ]+)(?:\s+([A-ZÁÂÀÃÉÈÍÏÓÔÒÕÚÇ ]+))?")
-            #nomes_municipios = re.findall(re_nomes_municipios, bloco)
             match = re.search(re_nomes_municipios, bloco, re.MULTILINE)
-            print(match)
+            
             if match:
-                nomeDoMunicipio = match.group(1)
+                nomeDoMunicipio = match.group(1).strip()
                 nomeDividido = nomeDoMunicipio.split()
                 if len(nomeDividido) > 4:
-                    nomeDoMunicipio =  ' '.join(nomeDividido[0:4])
+                    nomeDoMunicipio =  ' '.join(nomeDividido[0:4]).strip()
                 
                 print("Nome do município:", nomeDoMunicipio)
 
