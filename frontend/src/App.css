@@ -26,6 +26,9 @@ header {
   background-color: #011627;
   height: 10vh;
   width: 100%;
+  /* padding: 1vh 1vh; */
+  position: fixed;
+  z-index: 1000;
   
 }
 
@@ -34,34 +37,41 @@ header {
   width: 10vh;
   background: #011627;
   position: absolute;
+  height: 76vh;
+  padding: 12vh 6vh;
   left: -100%;
   transition: all 1s;
-  border-radius: 30px;
   z-index: 10;
-
 }
 
 .sidenav.active {
-
-  left: 7px;
-  margin-top: 7px;
-  transition: all 1s;
-
+  left: 0;
+  z-index: 10;
+  order: 1;
+  top : 0vh;
+  
 }
 
 .logo {
-  width: 50px;
-  border-radius: 30px;
+  width: 10vh;
+  border-radius: 1vh;
+  margin-left: 1vh;
 }
 
 ul {
   padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  
 }
 
 ul li{
 
   list-style-type: none;
-  margin: 10px 0;
+  margin: 3vh 0;
+  
 
 }
 
@@ -69,41 +79,58 @@ ul li a{
 
   color: #eaecef;
   text-decoration: none;
-  font-size: 16px;
-  padding: 10px 15px;
+  font-size: 2vw;
+  padding: 1vh 1vh;
   border-radius: 6px;
-  display: block;
+  font-size: 1.2vw;
+  
 }
 
 ul li a:hover,
 ul li a.active{
 
-    background: #172b4d;
+  background: #172b4d;
+  width: 10vh;
+  border-radius: 5vh;
 
 }
 
 header svg{
-  font-size: 3vh;
-  padding: 1vh;
-  border-radius: 30px;
+  font-size: 4vh;
+  /* padding: 1vh; */
+  border-radius: 1vh;
   margin-top: 3vh;
   margin-left: 3vh;
 }
 
 header svg:hover{
-  background: #172b4d;
-
+  background: #172b4d ;
+  /* #172b4d */
 }
 
 .main {
 
-  min-height: 90vh;
+  min-height: 70vh;
   min-width: 100%;
+  padding-top: 10vh;
   display: flex;
   flex-direction: column;
   font-size: 35px;
-  padding-top: 0;
-  color: #000000;
-    
+  color: #000000;    
 }
 
+@media screen and (max-width: 786px) {
+
+  ul li a{
+
+    color: #eaecef;
+    text-decoration: none;
+    font-size: 2vw;
+    padding: 1vh 1vh;
+    border-radius: 6px;
+    font-size: 6vw;
+    
+  }
+
+ 
+}
