@@ -36,7 +36,11 @@ const Footer = () => {
           </div>
           {/* Column3 */}
           <div className="col">
-          <img className= "logobrasilia" src = {logobrasilia} alt=""></img>
+
+
+            <img className="logogit" src={logobrasilia} alt=""></img>
+
+
           </div>
           </div>
         <div className="Abaixo">
