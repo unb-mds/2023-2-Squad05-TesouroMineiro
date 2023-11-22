@@ -1,0 +1,19 @@
+.All_Pages {
+    width: 100vh;
+    height: 70vh;
+    flex: 2;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+@media screen and (max-width: 786px) {
+
+  .All_Pages {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    
+    
+  }
+}
