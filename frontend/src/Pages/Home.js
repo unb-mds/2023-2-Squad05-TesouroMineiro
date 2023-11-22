@@ -13,8 +13,9 @@ const Home = () => {
         <div class="line-1"></div>
         <p className='corpoHome'>Nesse projeto trabalharemos com a filtragem de dados do estado de Minas Gerais.
             Facilitando o estudo, consulta ou qualquer outra coisa daqueles que quiserem</p>
+
         <img className='minasGerais' src={minasGerais} alt=''></img>
-                
+                       
 
     </div>
 

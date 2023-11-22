@@ -2,7 +2,8 @@ import React from "react";
 import './Footer.css';
 import logobrasilia from '../images_components/logo_brasilia.png'
 import logomg from '../images_components/logo_mg.png'
-import {AiFillGithub} from 'react-icons/ai'
+import logogit from '../images_components/git.png'
+// import {AiFillGithub} from 'react-icons/ai'
 
 const Footer = () => {
 
@@ -22,17 +23,24 @@ const Footer = () => {
           </div>
           {/* Column2 */}
           <div className="col">
+
+            
             
             <a href="https://github.com/unb-mds/2023-2-Squad05">
 
-            <AiFillGithub size={50} color="white" />
-
+                <img className="logogit" src={logogit} alt=""></img>
+             
             </a>
-
+            
+            
           </div>
           {/* Column3 */}
           <div className="col">
-          <img className= "logobrasilia" src = {logobrasilia} alt=""></img>
+
+
+            <img className="logogit" src={logobrasilia} alt=""></img>
+
+
           </div>
           </div>
         <div className="Abaixo">

@@ -5,15 +5,15 @@
   
 }
 .TituloHome{
-  font-size: 45hv;
+  font-size: 3.2vw;
   
 }
 .corpoHome{
   
-  font-size: 20hv;
+  font-size:1.5vw;
   text-align: center;
 }
 .minasGerais{
-  margin-left: -50px;
+  margin-left: 0vh;
   height: 35vh;
 }

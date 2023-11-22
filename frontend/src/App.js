@@ -7,6 +7,7 @@ import Sobre from './Pages/Sobre';
 import Creditos from './Pages/Creditos';
 import Footer from './Components/Footer/Footer';
 import {GiHamburgerMenu} from 'react-icons/gi';
+// eslint-disable-next-line
 import { BrowserRouter as BrowserRouter, Route, Routes} from 'react-router-dom';
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
     
       
       <BrowserRouter>
+        
         <header>
           <GiHamburgerMenu onClick={() => setShowNav(!showNav)}/>            
         </header>
