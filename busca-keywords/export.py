@@ -58,8 +58,6 @@ for nome_arquivo in os.listdir(pasta):
                             categorias['Crédito Suplementar'] = valor_numerico
                     
 
-
-
         for categoria, soma in categorias.items():
             # Cria um dicionário com chaves 'Categoria' e 'Soma'
             novos_dados = {
