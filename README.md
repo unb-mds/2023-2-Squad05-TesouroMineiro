@@ -1,4 +1,4 @@
-# 2023-2-TesouroMineiro
+ # Tesouro Mineiro
 
 ## 📖 O que é o projeto?
 Este projeto acadêmico da disciplina de MDS envolve a extração de dados do Diário Oficial de um estado específico, a filtragem desses dados para obter informações relacionadas aos municípios e a criação de uma página web interativa utilizando a biblioteca do React. O objetivo é demonstrar a habilidade de coletar, processar e visualizar informações relevantes para os municípios a partir de fontes oficiais, aplicando conceitos de desenvolvimento web e design de interfaces.
