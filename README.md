@@ -109,14 +109,6 @@ sudo ./main-script.sh
       <p align="center">Victor Hugo</p>
     </a>
   </td>
-
-  <td valign="top">
-    <a href="https://github.com/jheniferib" >
-      <img align="center" height="100" src="https://avatars.githubusercontent.com/u/123898577?v=4" />
-      <br></br>
-      <p align="center">Jhenifer Castro</p>
-    </a>
-  </td>
   
   <td valign="top">
     <a href="https://github.com/Pedrin0030" >
