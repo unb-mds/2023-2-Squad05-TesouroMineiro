@@ -1,19 +1,16 @@
 # Resultados
 
-....
+Na review do time observamos alguns problemas em questão de responsividade, então decidimos ir ajustando conforme o site cresce. Finalizamos a busca por uma palavra-chave e também a exportação como teste.
 
 # Issues
 
 |                          Issue                           |              Título               |                    Status                     |
 | :------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
-| [#50](https://github.com/unb-mds/2023-2-Squad05/issues/50) |Criar e editar footer da página|Em andamento|
-| [#51](https://github.com/unb-mds/2023-2-Squad05/issues/51) | Adicionar logos ao projeto| Em andamento |
-| [#52](https://github.com/unb-mds/2023-2-Squad05/issues/52) | Criar front End do projeto baseado no protótipo no figma(duo) |Em andamento |
-| [#54](https://github.com/unb-mds/2023-2-Squad05/issues/54) | Implementar a separação dos dados por município  | Em andamento|
-| [#55](https://github.com/unb-mds/2023-2-Squad05/issues/55) | Exportar os dados em formato JSON de forma organizada e padronizada   | Em andamento|
-| [#56](https://github.com/unb-mds/2023-2-Squad05/issues/56) | Buscar dado específico para filtragem | Em andamento |
+| [#66](https://github.com/unb-mds/2023-2-Squad05/issues/66) | Finalizar responsividade do site e páginas| Concluída |
+| [#67](https://github.com/unb-mds/2023-2-Squad05/issues/67) | Fazer integração back e front e editar página DADOS | Concluída |
+| [#68](https://github.com/unb-mds/2023-2-Squad05/issues/68) | Deixar Json no formato Correto e Testar Script para decidir qual período de filtragem|Concluída| 
 
 
 # Conclusão
 
-...
+Decidimos dividir a equipe em duas partes: Front e Back, para resolvermos os problemas com os membros com mais afinidade com a área.
