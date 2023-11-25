@@ -8,7 +8,7 @@ Este projeto acadêmico da disciplina de MDS envolve a extração de dados do Di
 
 ## Fluxo de Processamento
 
-<img src="https://github.com/unb-mds/2023-2-Squad05/assets/101422838/22d6c8e6-9903-4bd1-9b55-b4f304b22a2a" width="400" height="400"/>
+<img src="https://github.com/unb-mds/2023-2-TesouroMineiro/assets/101422838/0d5eb9ca-868a-4d6c-aacb-2b4c4b1a3dfd)" width="400" height="400"/>
 
 ## Requisitos de Instalação
 
