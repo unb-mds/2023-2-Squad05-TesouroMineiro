@@ -7,10 +7,10 @@ const Home = () => {
     
     return(
     
-    <div className='All_Pages'>
+    <div className='d-flex flex-column justify-content-center align-items-center' style={{height: "100vh"}}>
         
-        <h1 className='TituloHome'>Tesouro Mineiro</h1>
-        <div class="line-1"></div>
+        <h1 className='TituloHome mb-5'>Tesouro Mineiro</h1>
+        <div className="line-1"></div>
         <p className='corpoHome'>Nesse projeto trabalharemos com a filtragem de dados do estado de Minas Gerais.
             Facilitando o estudo, consulta ou qualquer outra coisa daqueles que quiserem</p>
 
