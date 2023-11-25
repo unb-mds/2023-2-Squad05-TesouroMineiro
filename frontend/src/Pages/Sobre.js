@@ -10,7 +10,7 @@ const Sobre = () => {
     <div className='pageSobre'>
         
         <h1 className ="tituloSobre">Do que se trata</h1>
-        <div class="line-1SA"></div>
+        <hr class="hr" />
         <p className='pSobre's>Esse trabalho é um trabalho da Universidade de Brasília (UnB), 
             desenvolvido por alunos da disciplina Métodos de Desenvolvimento de 
             Software que envolve a extração dos dados do Diário oficial de um 
@@ -23,13 +23,13 @@ const Sobre = () => {
              conteúdos do Diário Oficial de MG.</p>
             <br></br>
         <h1 className ="tituloSobre">Objetivo</h1>
-        <div class="line-1SB"></div>
+        <hr class="hr" />
         <p className='pSobre'>O objetivo é demonstrar a habilidade de coletar, processar e visualizar
              informações relevantes para os municípios a partir de fontes oficiais,
               aplicando conceitos de desenvolvimento web e design de interfaces.</p>
             <br></br>
         <h1 className ="tituloSobre">Coleta e Análise de Dados</h1> 
-        <div class="line-1SC"></div>
+        <hr class="hr" />
         <p className='pSobre'>Em resumo, o uso de Python, Next.js, JavaScript e Docker nos 
             proporciona uma solução completa para extração de dados de PDF 
             e sua apresentação em uma interface de usuário interativa e eficiente.
@@ -37,11 +37,11 @@ const Sobre = () => {
              proporcionando flexibilidade, escalabilidade e reprodutibilidade em 
              todo o projeto.</p>
              <div className='tabelasS'>
-             <table cellSpacing={'20px'}>
+             <table className='me-3' cellSpacing={'20px'}>
                 <td valign='top'>
                     <tbody>
-                        <a href="https://www.python.org/" >
-                            <tr>
+                        <a className='d-flex align-items-center justify-content-center flex-column' href="https://www.python.org/" >
+                            <tr className= 'd-flex align-items-center justify-content-center flex-column'>
                                 <td><Image source = {require('../images/Phyton_logo.png')}
                                 style = {style.image} />
                             </td>
@@ -52,8 +52,8 @@ const Sobre = () => {
                         </a>
                     </tbody>
                     <tbody>
-                        <a href="https://scrapy.org/" >
-                            <tr>
+                        <a className= 'd-flex align-items-center justify-content-center flex-column' href="https://scrapy.org/" >
+                            <tr className= 'd-flex align-items-center justify-content-center flex-column'>
                                 <td><Image source = {require('../images/scrapy_logo.png')}
                                 style = {style.image} />
                             </td>
@@ -64,8 +64,8 @@ const Sobre = () => {
                         </a>
                     </tbody>
                     <tbody>
-                        <a href="https://docs.python.org/3/library/re.html#" >
-                            <tr>
+                        <a className= 'd-flex align-items-center justify-content-center flex-column' href="https://docs.python.org/3/library/re.html#" >
+                            <tr className= 'd-flex align-items-center justify-content-center flex-column'>
                                 <td><Image source = {require('../images/regex_logo.png')}
                                 style = {style.image} />
                             </td>
@@ -80,8 +80,8 @@ const Sobre = () => {
             <table className="tabelasS"cellSpacing={'20px'} align=''>
                 <td valign='top'>
                     <tbody>
-                        <a href="https://www.docker.com" >
-                            <tr>
+                        <a className= 'd-flex align-items-center justify-content-center flex-column' href="https://www.docker.com" >
+                            <tr className= 'd-flex align-items-center justify-content-center flex-column'>
                                 <td><Image source = {require('../images/docker_logo.png')}
                                 style = {style.image} />
                             </td>
@@ -92,8 +92,8 @@ const Sobre = () => {
                         </a>
                     </tbody>
                     <tbody>
-                        <a href="https://tika.apache.org" >
-                            <tr>
+                        <a className= 'd-flex align-items-center justify-content-center flex-column' href="https://tika.apache.org" >
+                            <tr className= 'd-flex align-items-center justify-content-center flex-column'>
                                 <td><Image source = {require("../images/ApacheTika.png")}
                                 style = {style.image} />
                             </td>
@@ -104,8 +104,8 @@ const Sobre = () => {
                         </a>
                     </tbody>
                     <tbody>
-                        <a href="https://pandas.pydata.org/" >
-                            <tr>
+                        <a className= 'd-flex align-items-center justify-content-center flex-column' href="https://pandas.pydata.org/" >
+                            <tr className= 'd-flex align-items-center justify-content-center flex-column'>
                                 <td><Image source = {require('../images/pandas_logo.png')}
                                 style = {style.image} />
                             </td>
