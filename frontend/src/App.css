@@ -1,133 +1,24 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap');
-
-body {
-
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  height: 100vh;
-  font-family: 'Roboto', sans-serif;
-  color: #eaecef;
-  
+/* Estilos base para o gráfico */
+.grafico {
+  width: 100%; /* Define a largura como 100% do contêiner pai */
+  max-width: 600px; /* Define a largura máxima para evitar que o gráfico fique muito grande */
+  /* Outros estilos necessários para o gráfico */
 }
 
-body, html {
-  overflow-x: hidden !important;
-  }
-  @media (max-width: 786px){
-    body, html {
-    overflow-x: hidden!important;
-    }
-  
+/* Consulta de mídia para telas menores */
+@media screen and (max-width: 768px) {
+  .grafico {
+    max-width: 400px; /* Reduz a largura máxima para telas menores */
+    /* Outros estilos necessários para telas menores, se aplicável */
   }
 
-header {
-
-  background-color: #011627;
-  height: 10vh;
-  width: 100%;
-  position: fixed;
-  z-index: 1000;
-  
 }
 
-.sidenav {
-
-  width: 10vh;
-  background: #011627;
-  position: absolute;
-  height: 76vh;
-  padding: 12vh 6vh;
-  left: -100%;
-  transition: all 1s;
-  z-index: 10;
-}
-
-.sidenav.active {
-  left: 0;
-  z-index: 10;
-  order: 1;
-  top : 0vh;
-  
-}
-
-.logo {
-  width: 10vh;
-  border-radius: 1vh;
-  margin-left: 1vh;
-}
-
-ul {
-  padding: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  
-  
-}
-
-ul li{
-
-  list-style-type: none;
-  margin: 3vh 0;
-  
-
-}
-
-ul li a{
-
-  color: #eaecef;
-  text-decoration: none;
-  font-size: 2vw;
-  padding: 1vh 1vh;
-  border-radius: 6px;
-  font-size: 1.2vw;
-  
-}
-
-ul li a:hover,
-ul li a.active{
-
-  background: #172b4d;
-  width: 10vh;
-  border-radius: 5vh;
-
-}
-
-header svg{
-  font-size: 4vh;
-  border-radius: 1vh;
-  margin-top: 3vh;
-  margin-left: 3vh;
-}
-
-header svg:hover{
-  background: #172b4d ;
-}
-
-.main {
-
-  min-height: 70vh;
-  min-width: 100%;
-  padding-top: 10vh;
-  display: flex;
-  flex-direction: column;
-  font-size: 35px;
-  color: #000000;    
-}
-
-@media screen and (max-width: 786px) {
-
-  ul li a{
-
-    color: #eaecef;
-    text-decoration: none;
-    font-size: 2vw;
-    padding: 1vh 1vh;
-    border-radius: 6px;
-    font-size: 6vw;
-    
+/* Consulta de mídia para telas maiores */
+@media screen and (min-width: 1200px) {
+  .grafico {
+    max-width: 800px; /* Aumenta a largura máxima para telas maiores */
+    /* Outros estilos necessários para telas maiores, se aplicável */
   }
 
- 
 }

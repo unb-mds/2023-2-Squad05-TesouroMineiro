@@ -7,19 +7,19 @@ import logogit from '../images_components/git.png'
 
 const Footer = () => {
 
-    return(
+  return (
 
-        <div className="Mainfooter">
+    <footer className="Mainfooter w-100 justify-content-center align-items-center">
 
-            <div className="Footer">
-            <div className="Acima">
+      <div className="Footer h-25 w-100 d-flex justify-content-center align-items-center">
+        <div className="Acima w-100 d-flex justify-content-around">
           {/* Column1 */}
-          <div className="col">
+          <div className="col my-0 d-flex justify-content-center align-items-center">
 
-            <a href="https://www.diariomunicipal.com.br/amm-mg/">
+            <a className="my-0 py-0" href="https://www.diariomunicipal.com.br/amm-mg/">
               <img className="logomg" src={logomg} alt=""></img>
             </a>
-          
+
           </div>
           {/* Column2 */}
           <div className="col">
@@ -48,11 +48,11 @@ const Footer = () => {
           <hr />
           &copy;{new Date().getFullYear()} UNB/FGA/MDS | All rights reserved |
             Terms Of Service | Privacy
-            </p>
-          </div>
-          </div>
+          </p>
         </div>
-    )
+      </div>
+    </footer>
+  )
 }
 
 export default Footer;

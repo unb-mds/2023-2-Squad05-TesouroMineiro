@@ -2,10 +2,12 @@ import json
 import re
 import os
 
+
 def create_json(nomeDoArquivo, obj):
     caminho_arquivo = f'busca-keywords/dados/{nomeDoArquivo}.json'
     with open(caminho_arquivo, 'w') as arquivo_json:
         json.dump(obj, arquivo_json, ensure_ascii=False, indent=4)
+
 
     print("Dados exportados para JSON com sucesso.")
 
