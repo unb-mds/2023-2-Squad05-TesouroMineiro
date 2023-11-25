@@ -1,16 +1,42 @@
 import React, { useState, useRef, useEffect } from 'react';
 import Chart from 'react-apexcharts';
+import credsup from '../../Analises/CredSup.json'
 
 const Graficos = () => {
-  const [selectedMunicipio, setSelectedMunicipio] = useState('NomeMunicipio1');
+  const [selectedMunicipio, setSelectedMunicipio] = useState();
   const [selectedData, setSelectedData] = useState('30');
   const chartRef = useRef(null);
 
-  const municipios = ['NomeMunicipio1', 'NomeMunicipio2', 'NomeMunicipio3', 'NomeMunicipio4', 'NomeMunicipio5', 'NomeMunicipio6', 'NomeMunicipio7', 'NomeMunicipio8', 'NomeMunicipio9'];
-  const chartData = ['30', '40', '35', '50', '49', '60', '70', '91', '125'];
+  const [municipios, setMunicipios] = useState([]);
+  const [chartData, setChartData] = useState([]);
+  const [series, setSeries] = useState([]);
+
+  useEffect(() => {
+    let newarr = []
+    credsup.forEach((d)=>{
+      newarr.push(d.Municipio)
+    })
+    setMunicipios([...newarr])
+  },[])
 
   const handleMunicipioChange = (e) => {
     setSelectedMunicipio(e.target.value);
+    let series = []
+    let data = []
+    credsup.forEach((d) => {
+      if(d.Municipio === e.target.value){
+        d.Analises.forEach((a) => {
+          console.log("A")
+          console.log(a)
+          series.push(a.Soma)
+          data.push(a.Data)
+        })
+      }
+    })
+    setChartData([...data])
+    console.log(chartData)
+    setSeries([...series])
+    console.log(series)
   };
 
   const handleDataChange = (e) => {
@@ -23,13 +49,13 @@ const Graficos = () => {
         id: 'example',
       },
       xaxis: {
-        categories: municipios,
+        categories: chartData,
       },
     },
     series: [
       {
-        name: 'series-1',
-        data: chartData,
+        name: '',
+        data: series,
       },
     ],
   };
@@ -43,15 +69,18 @@ const Graficos = () => {
         display: 'flex',
         flexDirection: 'column',
         alignItems: 'center',
-        height: '100%',
+        
       }}
     >
-      <div className='d-flex my-3 flex-column' style={{ marginBottom: '20px', width: '350px' }}>
+      <div className='d-flex flex-column my-3 w-75 justify-content-center' style={{ marginBottom: '20px', width: '350px' }}>
         <div className='d-flex mb-2' style={{height:'70px'}}>
-          <label className='input-group-text' >
+          <label className='input-group-text' onClick={() => {
+            console.log(chartData)
+            console.log(series)
+          }} >
             Município:
           </label>
-          <select className='form-select' value={selectedMunicipio} onChange={handleMunicipioChange}>
+          <select className='form-select' value={selectedMunicipio} onChange={(e)=> handleMunicipioChange(e)}>
             {municipios.map((municipio) => (
               <option key={municipio} value={municipio}>
                 {municipio}
@@ -64,21 +93,20 @@ const Graficos = () => {
             Categoria:
           </label>
           <select className='form-select' value={selectedData} onChange={handleDataChange}>
-            {chartData.map((data) => (
-              <option key={data} value={data}>
-                {data}
+            
+              <option value>
+                Crédito Suplementar
               </option>
-            ))}
+            
           </select>
         </div>
       </div>
-      <div className='mt-5' style={{ maxWidth: '100%', maxHeight: '200px' }}>
+      <div className='mt-5 mb-5 grafico'>
         <Chart
           options={dataExample.options}
           series={dataExample.series}
           type="bar"
-          width="450"
-          height="400"
+          
           ref={chartRef}
         />
       </div>
