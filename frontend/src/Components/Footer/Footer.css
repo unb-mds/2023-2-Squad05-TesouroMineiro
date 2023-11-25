@@ -9,6 +9,7 @@
     flex-direction: column;
     min-height: 20vh;
     justify-content: center;
+
 }
 
 .Acima{
@@ -30,22 +31,6 @@
 }
 
 
-/* .MainFooter{
-   
-    /* margin-bottom: 0;
-    position: relative;
-    bottom: 0;
-    background-color:  #011627;
-    color: white;
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-    font-size: 10px;
-    padding: 3em;
-    min-width: 90vh;
-    min-height: 150px; */
-
-*/
 
 .logobrasilia{
 

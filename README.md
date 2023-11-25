@@ -1,14 +1,14 @@
-# 2023-2-Squad05
+ # Tesouro Mineiro
 
 ## 📖 O que é o projeto?
-Este projeto acadêmico da disciplina de MDS envolve a extração de dados do Diário Oficial de um estado específico, a filtragem desses dados para obter informações relacionadas aos municípios e a criação de uma página web interativa utilizando o framework Next.js. O objetivo é demonstrar a habilidade de coletar, processar e visualizar informações relevantes para os municípios a partir de fontes oficiais, aplicando conceitos de desenvolvimento web e design de interfaces.
+Este projeto acadêmico da disciplina de MDS envolve a extração de dados do Diário Oficial de um estado específico, a filtragem desses dados para obter informações relacionadas aos municípios e a criação de uma página web interativa utilizando a biblioteca do React. O objetivo é demonstrar a habilidade de coletar, processar e visualizar informações relevantes para os municípios a partir de fontes oficiais, aplicando conceitos de desenvolvimento web e design de interfaces.
 
 ### 💻 Tecnologias usadas no projeto 
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Fluxo de Processamento
 
-<img src="https://github.com/unb-mds/2023-2-Squad05/assets/101422838/22d6c8e6-9903-4bd1-9b55-b4f304b22a2a" width="400" height="400"/>
+<img src="https://github.com/unb-mds/2023-2-TesouroMineiro/assets/101422838/0d5eb9ca-868a-4d6c-aacb-2b4c4b1a3dfd)" width="400" height="400"/>
 
 ## Requisitos de Instalação
 
@@ -107,14 +107,6 @@ sudo ./main-script.sh
       <img align="center" height="100" src="https://avatars.githubusercontent.com/u/100495785?v=4" />
       <br></br>
       <p align="center">Victor Hugo</p>
-    </a>
-  </td>
-
-  <td valign="top">
-    <a href="https://github.com/jheniferib" >
-      <img align="center" height="100" src="https://avatars.githubusercontent.com/u/123898577?v=4" />
-      <br></br>
-      <p align="center">Jhenifer Castro</p>
     </a>
   </td>
   

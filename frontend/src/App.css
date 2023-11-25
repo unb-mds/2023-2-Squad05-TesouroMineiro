@@ -11,6 +11,7 @@
     max-width: 400px; /* Reduz a largura máxima para telas menores */
     /* Outros estilos necessários para telas menores, se aplicável */
   }
+
 }
 
 /* Consulta de mídia para telas maiores */
@@ -19,4 +20,5 @@
     max-width: 800px; /* Aumenta a largura máxima para telas maiores */
     /* Outros estilos necessários para telas maiores, se aplicável */
   }
+
 }
