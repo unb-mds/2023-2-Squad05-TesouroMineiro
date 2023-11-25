@@ -1,17 +1,14 @@
 .Footer{
 
     margin-bottom: 0;
-    position: relative;
-    bottom: fixed;
     background-color:  #011627;
     color: white;
     display: flex;
-    flex: 1;
     font-size: 5vw;
     width: 100%;
     flex-direction: column;
     min-height: 20vh;
-    justify-content: center;        
+    justify-content: center;
 }
 
 .Acima{
@@ -33,7 +30,6 @@
 }
 
 
- 
 /* .MainFooter{
    
     /* margin-bottom: 0;
