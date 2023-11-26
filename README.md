@@ -30,6 +30,11 @@ Nossa abordagem se baseia na fusão entre tecnologia e conhecimento, onde utiliz
 
 <img src="https://github.com/unb-mds/2023-2-TesouroMineiro/assets/101422838/0d5eb9ca-868a-4d6c-aacb-2b4c4b1a3dfd" width="400" height="400"/>
 
+### 💻 Badges
+![GitHub repo size](https://img.shields.io/github/repo-size/unb-mds/2023-2-Squad05-TesouroMineiro?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/unb-mds/2023-2-Squad05-TesouroMineiro?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/unb-mds/2023-2-Squad05-TesouroMineiro?style=for-the-badge)
+
 ## Requisitos de Instalação
 
 <p align="left">
