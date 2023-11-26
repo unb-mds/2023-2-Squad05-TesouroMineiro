@@ -3,8 +3,8 @@ import re
 import os
 
 
-def create_json(pasta_destino, nomeDoArquivo, obj):
-    caminho_arquivo = f'{pasta_destino}{nomeDoArquivo}.json'
+def create_json(nomeDoArquivo, obj, pasta_destino):
+    caminho_arquivo = f'{pasta_destino}/{nomeDoArquivo}.json'
     with open(caminho_arquivo, 'w') as arquivo_json:
         json.dump(obj, arquivo_json, ensure_ascii=False, indent=4)
 
@@ -94,10 +94,11 @@ def processar_trechos(pasta, palavra_desejada, pasta_destino):
 
 # Palavra que você deseja procurar (convertida para minúsculas)
 palavra_desejada = ("o valor de","no valor total de", "no montante de", "com a inclusão de" )
-#
+
 #pasta onde contém os trechos
 pasta = 'busca-keywords/trechos'
 
-pasta_destino = 'busca-keywords/dados/'
+#pasta onde estará os arquivos JSON
+pasta_destino = 'busca-keywords/dados'
 
 processar_trechos(pasta, palavra_desejada, pasta_destino)
