@@ -1,5 +1,5 @@
  # Tesouro Mineiro
- <img src="https://github.com/unb-mds/2023-2-TesouroMineiro/assets/101422838/18e77c0e-2f6d-460c-8008-022674a15c44)" width="150" height="150"/>
+ <img src="https://github.com/unb-mds/2023-2-TesouroMineiro/assets/101422838/18e77c0e-2f6d-460c-8008-022674a15c44" width="150" height="150"/>
 
 
 ## 📖 O que é o projeto?
@@ -16,7 +16,7 @@ Nossa abordagem se baseia na fusão entre tecnologia e conhecimento, onde utiliz
 
 ## Fluxo de Processamento
 
-<img src="https://github.com/unb-mds/2023-2-TesouroMineiro/assets/101422838/0d5eb9ca-868a-4d6c-aacb-2b4c4b1a3dfd)" width="400" height="400"/>
+<img src="https://github.com/unb-mds/2023-2-TesouroMineiro/assets/101422838/0d5eb9ca-868a-4d6c-aacb-2b4c4b1a3dfd" width="400" height="400"/>
 
 ## Requisitos de Instalação
 
