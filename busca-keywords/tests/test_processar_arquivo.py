@@ -1,30 +1,24 @@
 import pytest
+import os
 from export import processar_arquivo
 
 
-# Diretório de trechos de teste
-TEST_TRECHOS_DIR = 'busca-keywords/tests/trechos_test'
+def test_processar_arquivo():
+    # Cria um arquivo de trechos para teste
+    pasta_trechos_test = 'busca-keywords/tests/trechos_test'
 
-# Palavra desejada
-PALAVRA_DESEJADA = ("o valor de","no valor total de", "no montante de", "com a inclusão de" )
+    arquivo_teste = os.path.join(pasta_trechos_test, 'arquivo_teste.txt')
+    with open(arquivo_teste, 'w') as f:
+        f.write("Texto contendo o valor de R$ 1.000,00")
 
+    # Testa se a função processar_arquivo funciona corretamente
+    nome_arquivo = 'arquivo_teste.txt'
+    palavra_desejada = ("o valor de","no valor total de", "no montante de", "com a inclusão de")
+    resultado = processar_arquivo(nome_arquivo, pasta_trechos_test, palavra_desejada)
 
-
-def test_main_process(trechos_dir, palavra_desejada, expected_output):
-
-    resultados = processar_arquivo(trechos_dir, palavra_desejada)
-
-    # Verifica se a função retorna uma lista
-    assert isinstance(resultados, list)
-
-    # Verifica se cada resultado é um dicionário com as chaves corretas
-    for resultado in resultados:
-        assert isinstance(resultado, dict)
-        assert 'Data' in resultado
-        assert 'Categoria' in resultado
-        assert 'Soma' in resultado
-
-    # Verifica se a função produz os resultados esperados
-    assert bool(resultados) == expected_output
-
+    # Verifica se os resultados são os esperados
+    assert resultado[0] == 'arquivo_teste'
+    assert len(resultado[1]) == 1
+    assert resultado[1][0]['Categoria'] == 'Crédito Suplementar'
+    assert resultado[1][0]['Soma'] == 1000.0
 
