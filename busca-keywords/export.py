@@ -8,7 +8,6 @@ def create_json(nomeDoArquivo, obj):
     with open(caminho_arquivo, 'w') as arquivo_json:
         json.dump(obj, arquivo_json, ensure_ascii=False, indent=4)
 
-
     print(f"Dados exportados para JSON com sucesso.")
 
 
