@@ -1,7 +1,13 @@
  # Tesouro Mineiro
 
 ## 📖 O que é o projeto?
-Este projeto acadêmico da disciplina de MDS envolve a extração de dados do Diário Oficial de um estado específico, a filtragem desses dados para obter informações relacionadas aos municípios e a criação de uma página web interativa utilizando a biblioteca do React. O objetivo é demonstrar a habilidade de coletar, processar e visualizar informações relevantes para os municípios a partir de fontes oficiais, aplicando conceitos de desenvolvimento web e design de interfaces.
+Este projeto interdisciplinar, fruto da disciplina de MDS (Metodologias de Desenvolvimento de Software), empreende uma jornada inovadora pela extração e análise de dados contidos nos Diários Oficiais do Estado de Minas Gerais. Nosso foco reside na decodificação dessas fontes oficiais para extrair informações relacionadas aos municípios
+
+## 📖 Objetivo a realizar:
+Estamos imbuídos no propósito de demonstrar a capacidade de coletar, processar e, crucialmente, visualizar dados relevantes para os municípios. O projeto não apenas visa cumprir os requisitos acadêmicos, mas também busca preencher uma lacuna fundamental ao traduzir informações complexas dos Diários Oficiais.
+
+## 📖 Como será abordado:
+Nossa abordagem se baseia na fusão entre tecnologia e conhecimento, onde utilizamos métodos de extração de dados para obter informações específicas relacionadas aos municípios. Além disso, empregamos os princípios do desenvolvimento web e design de interfaces por meio da biblioteca React, visando criar uma plataforma interativa e intuitiva. Dessa forma, não apenas lidamos com a tecnicalidade da extração e processamento de dados, mas também nos dedicamos a apresentar essas informações de maneira atraente e compreensível para o público em geral.
 
 ### 💻 Tecnologias usadas no projeto 
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
