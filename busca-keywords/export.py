@@ -3,8 +3,8 @@ import re
 import os
 
 
-def create_json(nomeDoArquivo, obj):
-    caminho_arquivo = f'busca-keywords/dados/{nomeDoArquivo}.json'
+def create_json(pasta_destino, nomeDoArquivo, obj):
+    caminho_arquivo = f'{pasta_destino}{nomeDoArquivo}.json'
     with open(caminho_arquivo, 'w') as arquivo_json:
         json.dump(obj, arquivo_json, ensure_ascii=False, indent=4)
 
@@ -77,7 +77,7 @@ def processar_arquivo(nome_arquivo, pasta, palavra_desejada):
     return nome_municipio, dados_existentes
 
 
-def processar_trechos(pasta, palavra_desejada):
+def processar_trechos(pasta, palavra_desejada, pasta_destino):
     for nome_arquivo in os.listdir(pasta):
         if nome_arquivo.endswith('.txt'):
             print(nome_arquivo)
@@ -88,7 +88,7 @@ def processar_trechos(pasta, palavra_desejada):
             dados = resultados[1]
             if nome_municipio != None and dados != None:
                 # Exporta a lista de dicionários para um arquivo JSON
-                create_json(nome_municipio, dados)
+                create_json(nome_municipio, dados, pasta_destino)
                 print(f'JSON para o Município {nome_municipio} foi criado.')     
 
 
@@ -98,4 +98,6 @@ palavra_desejada = ("o valor de","no valor total de", "no montante de", "com a i
 #pasta onde contém os trechos
 pasta = 'busca-keywords/trechos'
 
-processar_trechos(pasta, palavra_desejada)
+pasta_destino = 'busca-keywords/dados/'
+
+processar_trechos(pasta, palavra_desejada, pasta_destino)
