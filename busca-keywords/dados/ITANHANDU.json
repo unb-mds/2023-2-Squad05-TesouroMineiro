@@ -1,8 +1,12 @@
 [
     {
-        "Municipio": "ITANHANDU",
         "Data": "27-Setembro-2023",
         "Categoria": "Crédito Suplementar",
         "Soma": 250000.0
+    },
+    {
+        "Data": "20-Outubro-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 13907.9
     }
 ]
