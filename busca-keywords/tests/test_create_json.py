@@ -1,4 +1,3 @@
-import os
 import json
 import pytest
 from export import create_json

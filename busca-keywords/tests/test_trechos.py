@@ -1,25 +1,41 @@
-import os
 import pytest
-
+from export import processar_arquivos
 
 #alternativa para evitar duplicação de código. 
 
-@pytest.mark.parametrize("trecho, palavra_desejada, expected_output", [
-    ("Crédito Suplementar no valor de R$ 1.000,00", "Crédito Suplementar", True),
-    ("Outro trecho", "Crédito Suplementar", False),
-])
 
-def test_main_process(diretorio, trecho, palavra_desejada, expected_output):
-    # Cria um arquivo de trecho de teste
-    test_file_path = diretorio.join("test-file.txt")
-    test_file_path.write(trecho)
+# Diretório de trechos de teste
+TEST_TRECHOS_DIR = 'busca-keywords/tests/trechos_test'
 
-    # Redireciona a saída padrão para capturar a impressão
-    with pytest.raises(SystemExit):
-        # Execute o código principal
-        os.system(f"python seu_codigo.py {test_file_path} {palavra_desejada}")
+# Palavra desejada
+PALAVRA_DESEJADA = "Crédito Suplementar no valor de"
 
-    # Verifica se a palavra desejada foi encontrada na saída
-    output = test_file_path.read()
-    assert (f'A palavra "{palavra_desejada}" foi encontrada' in output) == expected_output
+@pytest.fixture
+def trechos_dir():
+    return TEST_TRECHOS_DIR
+
+@pytest.fixture
+def palavra_desejada():
+    return PALAVRA_DESEJADA
+
+
+
+def test_main_process(trechos_dir, palavra_desejada, expected_output):
+
+    resultados = processar_arquivos(trechos_dir, palavra_desejada)
+
+    # Verifica se a função retorna uma lista
+    assert isinstance(resultados, list)
+
+    # Verifica se cada resultado é um dicionário com as chaves corretas
+    for resultado in resultados:
+        assert isinstance(resultado, dict)
+        assert 'Municipio' in resultado
+        assert 'Data' in resultado
+        assert 'Categoria' in resultado
+        assert 'Soma' in resultado
+
+    # Verifica se a função produz os resultados esperados
+    assert bool(resultados) == expected_output
+
 
