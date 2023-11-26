@@ -1,4 +1,6 @@
  # Tesouro Mineiro
+ <img src="https://github.com/unb-mds/2023-2-TesouroMineiro/assets/101422838/18e77c0e-2f6d-460c-8008-022674a15c44)" width="150" height="150"/>
+
 
 ## 📖 O que é o projeto?
 Este projeto interdisciplinar, fruto da disciplina de MDS (Metodologias de Desenvolvimento de Software), empreende uma jornada inovadora pela extração e análise de dados contidos nos Diários Oficiais do Estado de Minas Gerais. Nosso foco reside na decodificação dessas fontes oficiais para extrair informações relacionadas aos municípios
