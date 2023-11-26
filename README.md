@@ -115,6 +115,32 @@ Dentro da pasta diários_spiders use o comando a seguir:
 ```
 sudo ./main-script.sh
 ```
+# Executando o frontend localmente
+
+<p align="left">
+Primeiramente será necessário acessar a pasta do frontend
+</p>
+
+### 1. Instale as Dependências
+<p align="left">
+Abra um terminal ou prompt de comando na pasta do projeto clonado. Execute o comando:
+</p>
+
+```
+npm i
+```
+
+### 2. Iniciar o Servidor de Desenvolvimento
+<p align="left">
+Após a instalação das dependências, você pode iniciar o servidor de desenvolvimento localmente usando o comando:
+</p>
+
+```
+npm start
+```
+<p align="left">
+Depois que o comando npm start for executado com sucesso, o aplicativo estará disponível localmente.
+</p>
 
 
 ## 👨‍💻 Desenvolvedores do Projeto
