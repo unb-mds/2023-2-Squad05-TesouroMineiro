@@ -9,16 +9,18 @@ def test_processar_trechos():
     pasta_dados_test = 'busca-keywords/tests/dados_test'
   
     # Cria um arquivo de trechos para teste
-    arquivo_teste = os.path.join(pasta_trechos_test, 'arquivo_teste.txt')
+    arquivo_teste = os.path.join(pasta_trechos_test, 'MunicipioX-20-Outubro-2023-municipios-mb.txt')
     with open(arquivo_teste, 'w') as f:
-        f.write("Texto contendo o valor de R$ 1.000,00")
+        f.write("20 de Outubro de 2023\n")
+        f.write("MunicipioX\n")
+        f.write("Texto da data de contendo o valor de R$ 1.000,00 ")
 
     # Testa se a função processar_trechos funciona corretamente
     palavra_desejada = ("o valor de","no valor total de", "no montante de", "com a inclusão de")
-    processar_trechos(pasta_trechos_test, palavra_desejada)
+    processar_trechos(pasta_trechos_test, palavra_desejada, pasta_dados_test)
 
     # Verifica se o arquivo JSON foi criado
-    arquivo_json = os.path.join(pasta_dados_test, 'arquivo_teste.json')
+    arquivo_json = os.path.join(pasta_dados_test, 'MunicipioX.json')
     assert os.path.isfile(arquivo_json)
 
     # Verifica o conteúdo do arquivo JSON
