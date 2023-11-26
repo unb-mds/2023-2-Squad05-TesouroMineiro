@@ -32,20 +32,27 @@ Nossa abordagem se baseia na fusão entre tecnologia e conhecimento, onde utiliz
 
 ## Requisitos de Instalação
 
+<p align="left">
 É necessário possuir os requisitos para a instalação:
+</p>
 
+<p align="left">
 <strong>
 Python<br>
 Node.js<br>
 Docker<br>
 <strong/><br>
+ </p>
 
-## Executando o Projeto com o Docker
-
+# Executando o Projeto com o Docker
+<p align="left">
 Siga as etapas abaixo para executar o projeto no Docker:
+</p>
 
 ### 1. Clone o Repositório
+<p align="left">
 Clone o repositório em sua máquina local:
+</p>
 
 ```
 git clone https://github.com/unb-mds/2023-2-Squad05.git
@@ -55,32 +62,51 @@ git clone https://github.com/unb-mds/2023-2-Squad05.git
 ```
 docker compose up
 ```
+<p align="left">
 Após a execução do comando quatro containers, referentes ao Front, Back e extração dos diários, serão executados.
+</p>
 
-## Executando o Projeto sem o Docker
+# Executando o Projeto sem o Docker
 
 ### 1. Instale as Dependências Python
+<p align="left">
 Dentro do container navegue até a pasta do projeto:
+</p>
+
 ```
 cd /diarios_spiders
 ```
+<p align="left">
 Verifique se você está no diretório correto executando o comando:
+</p>
+
 ```
 pwd
 ```
+<p align="left">
 Em seguida, instale as dependências Python usando o comando a seguir:
+</p>
+
 ```
 pip install -r requirements.txt
 ```
 ### 2. Execute o Spider
+<p align="left">
 Agora que todas as configurações estão prontas, você pode executar o Spider com o seguinte comando:
+</p>
+
 ```
 scrapy crawl mg_associacao_municipios
 ```
+<p align="left">
 A partir dessa execução o Spider começará a coletar os dados conforme configurado no projeto.
+</p>
 
 ## Como converter os arquivos para .txt e renomear
+<p align="left">
 Dentro da pasta diários_spiders use o comando a seguir:
+</p>
+
 ```
 sudo ./main-script.sh
 ```
