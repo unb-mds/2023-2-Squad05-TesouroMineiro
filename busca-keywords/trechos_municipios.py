@@ -8,13 +8,13 @@ def criar_pasta_trechos():
         os.mkdir('busca-keywords/trechos')
         print('Pasta criada com sucesso!')
 
-def processar_arquivos(pasta, keyword):
+def iterar_arquivos(pasta, keyword):
     for nome_arquivo in os.listdir(pasta):
         if nome_arquivo.endswith('.txt'):
             caminho_arquivo = os.path.join(pasta, nome_arquivo)
-            processar_arquivo(caminho_arquivo, keyword)
+            buscar_trechos(caminho_arquivo, keyword)
 
-def processar_arquivo(caminho_arquivo, keyword):
+def buscar_trechos(caminho_arquivo, keyword):
     with open(caminho_arquivo, 'r', encoding='utf-8') as arquivo:
         texto_completo = arquivo.read()
 
@@ -63,7 +63,7 @@ def main():
     keyword = 'CRÉDITO SUPLEMENTAR'
 
     criar_pasta_trechos()
-    processar_arquivos(pasta, keyword)
+    iterar_arquivos(pasta, keyword)
 
 if __name__ == "__main__":
     main()
