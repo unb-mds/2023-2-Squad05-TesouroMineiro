@@ -1,0 +1,31 @@
+
+.tituloSobre{
+    font-size: 30px;
+}
+.line-1SA {
+    width: 220px;
+    margin-top: -20px;
+    height: 1px;
+    background: black;
+}
+.line-1SB {
+    width: 130px;
+    margin-top: -20px;
+    height: 1px;
+    background: black;
+}
+.line-1SC {
+    width: 370px;
+    margin-top: -20px;
+    height: 1px;
+    background: black;
+}
+.pSobre{
+    text-align: justify;
+    text-justify: inter-word;
+}
+.tabelasS{
+    margin-left: 0px;
+    display: flex;
+    justify-content: center;
+}

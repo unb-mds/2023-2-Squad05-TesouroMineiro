@@ -1,0 +1,24 @@
+/* Estilos base para o gráfico */
+.grafico {
+  width: 100%; /* Define a largura como 100% do contêiner pai */
+  max-width: 600px; /* Define a largura máxima para evitar que o gráfico fique muito grande */
+  /* Outros estilos necessários para o gráfico */
+}
+
+/* Consulta de mídia para telas menores */
+@media screen and (max-width: 768px) {
+  .grafico {
+    max-width: 400px; /* Reduz a largura máxima para telas menores */
+    /* Outros estilos necessários para telas menores, se aplicável */
+  }
+
+}
+
+/* Consulta de mídia para telas maiores */
+@media screen and (min-width: 1200px) {
+  .grafico {
+    max-width: 800px; /* Aumenta a largura máxima para telas maiores */
+    /* Outros estilos necessários para telas maiores, se aplicável */
+  }
+
+}

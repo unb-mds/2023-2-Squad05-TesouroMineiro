@@ -1,0 +1,18 @@
+.integrantes{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 70vh;
+    width: 500px;
+    flex: 2;
+    text-align: center;
+    margin: 0 auto;
+}
+.tituloCreditos{
+    font-size: 45px;
+}
+p {
+    font-size: large;
+}

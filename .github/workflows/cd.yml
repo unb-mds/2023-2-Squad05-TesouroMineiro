@@ -1,0 +1,25 @@
+name: GitHub Actions Vercel Production Deployment
+env:
+  VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+  VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+on:
+  push:
+    branches:
+      - main
+jobs:
+  Deploy-Production:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3  
+      - name: listando diretorio
+        run: ls
+      - name: install
+        run: cd frontend && npm ci
+      - name: Install Vercel CLI
+        run: cd frontend && npm install --global vercel@canary
+      - name: Pull Vercel Environment Information
+        run: cd frontend && vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
+      - name: Build Project Artifacts
+        run: cd frontend && vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
+      - name: Deploy Project Artifacts to Vercel
+        run: cd frontend && vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }}
