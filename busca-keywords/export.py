@@ -3,39 +3,48 @@ import re
 import os
 
 
-def create_json(nomeDoArquivo, obj, pasta_destino):
-    caminho_arquivo = f'{pasta_destino}/{nomeDoArquivo}.json'
+def create_json(nomeDoArquivo, obj):
+    caminho_arquivo = f'busca-keywords/dados/{nomeDoArquivo}.json'
     with open(caminho_arquivo, 'w') as arquivo_json:
         json.dump(obj, arquivo_json, ensure_ascii=False, indent=4)
 
-    print(f"Dados exportados para JSON com sucesso.")
 
+    print("Dados exportados para JSON com sucesso.")
 
-def processar_arquivo(nome_arquivo, pasta, palavra_desejada):
-    
-    nome_municipio = (nome_arquivo.split('-'))[0].strip()
-    caminho_arquivo = os.path.join(pasta, nome_arquivo)
+# Palavra que você deseja procurar (convertida para minúsculas)
+palavra_desejada = "Crédito Suplementar no valor de"
+
+#pasta onde contém os trechos
+pasta = 'busca-keywords/trechos'
+
+for nome_arquivo in os.listdir(pasta):
+    if nome_arquivo.endswith('.txt'):
+        caminho_arquivo = os.path.join(pasta, nome_arquivo)
+
+        nome_municipio = (nome_arquivo.split('-'))[0].strip()
         
-    padrao_data = r"\b(\d{1,2}-[A-Za-z]+-\d{4})\b"
-    correspondencia = re.search(padrao_data, caminho_arquivo)
-    data = correspondencia.group(1)
-    
-    categorias = {}
-    temp = 0
-    
-    with open(caminho_arquivo, 'r') as arquivo:
-        # Loop pelas linhas do arquivo
-        for linha in arquivo:
-            for item in palavra_desejada:
+        padrao_data = r"\b(\d{1,2}-[A-Za-z]+-\d{4})\b"
+        correspondencia = re.search(padrao_data, nome_arquivo)
+        data = correspondencia.group(1)
+        
+        categorias = {}
+        temp = 0
+        nums = []
+
+        # Abre o arquivo no modo de leitura ('r')
+        with open(caminho_arquivo, 'r') as arquivo:
+            # Loop pelas linhas do arquivo
+            for linha in arquivo:
+                
                 # Verifica se a palavra desejada (em minúsculas) está presente na linha (em minúsculas)
-                if item.lower() in linha.lower():
-                    #print(f'A palavra "{palavra_desejada}" foi encontrada na linha: {linha}')
+                if palavra_desejada.lower() in linha.lower():
+                    print(f'A palavra "{palavra_desejada}" foi encontrada na linha: {linha}')
                     valores_encontrados = re.findall(r'\d{1,3}(?:\.\d{3})*(?:,\d+)?', linha)
                     valores_encontrados = [valor for valor in valores_encontrados if len(valor) > 3]            
 
-                    #print(valores_encontrados)
+                    print(valores_encontrados)
                     if valores_encontrados and temp == valores_encontrados[0]:
-                        #print('Valor repetido')
+                        print('Valor repetido')
                         continue
                     
                     #tranforma o valor em um float aceitável pelo python
@@ -49,56 +58,28 @@ def processar_arquivo(nome_arquivo, pasta, palavra_desejada):
                             categorias['Crédito Suplementar'] += valor_numerico
                         else:
                             categorias['Crédito Suplementar'] = valor_numerico
-                
-    if categorias:
+                    
+
+
+
         for categoria, soma in categorias.items():
-            # Cria um dicionário com as chaves abaixo
+            # Cria um dicionário com chaves 'Categoria' e 'Soma'
             novos_dados = {
                 'Data': data,
                 'Categoria': categoria,
-                'Soma': round(soma, 2)
+                'Soma': soma
             }
             try:
                 with open(f'busca-keywords/dados/{nome_municipio}.json', 'r') as arquivo_existente:
-                    dados_existentes = json.load(arquivo_existente)
+                    dados_existente = json.load(arquivo_existente)
             except FileNotFoundError:
-                dados_existentes = []
+                dados_existente = []
 
             # Adicionar novos dados à lista existente
-            dados_existentes.append(novos_dados)
-
-
+            dados_existente.append(novos_dados)
+            
             # Imprime as categorias e somas
-            #print(f'Categoria: {categoria}, Soma dos valores: {soma}')
-            #print(nome_municipio, dados_existentes)
-    else:
-        nome_municipio = None
-        dados_existentes = None
-    return nome_municipio, dados_existentes
+            print(f'Categoria: {categoria}, Soma dos valores: {soma}')
 
-
-def processar_trechos(pasta, palavra_desejada, pasta_destino):
-    for nome_arquivo in os.listdir(pasta):
-        if nome_arquivo.endswith('.txt'):
-            #print(nome_arquivo)
-            resultados = processar_arquivo(nome_arquivo, pasta, palavra_desejada)
-            #print('==========================')
-            #print(resultados)
-            nome_municipio = resultados[0]
-            dados = resultados[1]
-            if nome_municipio != None and dados != None:
-                # Exporta a lista de dicionários para um arquivo JSON
-                create_json(nome_municipio, dados, pasta_destino)
-                print(f'JSON para o Município {nome_municipio} foi criado.')     
-
-
-# Palavra que você deseja procurar (convertida para minúsculas)
-palavra_desejada = ("o valor de","no valor total de", "no montante de", "com a inclusão de" )
-
-#pasta onde contém os trechos
-pasta = 'busca-keywords/trechos'
-
-#pasta onde estará os arquivos JSON
-pasta_destino = 'busca-keywords/dados'
-
-processar_trechos(pasta, palavra_desejada, pasta_destino)
+        # Exporta a lista de dicionários para um arquivo JSON
+        create_json(f"{nome_municipio}", dados_existente)

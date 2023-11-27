@@ -1,70 +1,72 @@
 import os
 import re
 
-def criar_pasta_destino(pasta_destino):
-    if os.path.isdir(pasta_destino):
-        print('Ja existe a pasta "trechos"!')
-    else:
-        os.mkdir('busca-keywords/trechos')
-        print('Pasta criada com sucesso!')
+# Defina a pasta onde estão os arquivos TXT
+pasta = 'diarios_spiders/diarios/full'
 
-def iterar_arquivos(pasta, keyword, pasta_destino):
-    for nome_arquivo in os.listdir(pasta):
-        if nome_arquivo.endswith('.txt'):
-            caminho_arquivo = os.path.join(pasta, nome_arquivo)
-            buscar_trechos(caminho_arquivo, keyword, pasta_destino)
+# Palavra-chave a ser pesquisada
+keyword = 'CRÉDITO SUPLEMENTAR'
 
-def buscar_trechos(caminho_arquivo, keyword, pasta_destino):
-    with open(caminho_arquivo, 'r', encoding='utf-8') as arquivo:
-        texto_completo = arquivo.read()
+if os.path.isdir('busca-keywords/trechos'): # verica se o diretorio ja existe
+    print ('Ja existe a pasta "trechos"!')
+else:
+    os.mkdir('busca-keywords/trechos')
+    print ('Pasta criada com sucesso!')
 
-    datas_encontradas = re.findall(r'\d{2} de [A-Z][a-z]+ de \d{4}', texto_completo)
-    data = datas_encontradas.pop()
+# Loop através de todos os arquivos na pasta
+for nome_arquivo in os.listdir(pasta):
+    if nome_arquivo.endswith('.txt'):
+        caminho_arquivo = os.path.join(pasta, nome_arquivo)
 
-    for bloco in re.split(re.escape("PREFEITURA "), texto_completo):
-        bloco = bloco.strip()
-        nome_do_municipio = extrair_nome_municipio(bloco)
+        # Abre o arquivo e lê o texto
+        with open(caminho_arquivo, 'r', encoding='utf-8') as arquivo:
+            texto_completo = arquivo.read()
+        
+        padrao = re.escape("PREFEITURA ")
+        blocos = re.split(padrao, texto_completo)
+        # Data
+        padrao = r'\d{2} de [A-Z][a-z]+ de \d{4}'
+        datas_encontradas = re.findall(padrao, texto_completo)
+        data = datas_encontradas.pop() #ultima data da lista
 
-        if nome_do_municipio:
+        for bloco in blocos[1:]:
+            bloco = bloco.strip()
+            
+            # Nome do Municipio
+            re_nomes_municipios = (r"DE\s*([A-ZÁÂÀÃÉÈÍÏÓÔÒÕÚÇ ]+)(?:\s+([A-ZÁÂÀÃÉÈÍÏÓÔÒÕÚÇ ]+))?")
+            match = re.search(re_nomes_municipios, bloco, re.MULTILINE)
+            
+            if match:
+                nomeDoMunicipio = match.group(1).strip()
+                nomeDividido = nomeDoMunicipio.split()
+                if len(nomeDividido) > 4:
+                    nomeDoMunicipio =  ' '.join(nomeDividido[0:4]).strip()
+                
+                print("Nome do município:", nomeDoMunicipio)
+
+            else:
+                print("Nenhum município correspondente encontrado.")
+                
+
+            # Usa regex para encontrar todas as ocorrências da palavra-chave
             ocorrencias = re.finditer(fr'\b{re.escape(keyword)}\b', bloco, re.IGNORECASE)
+
+            # Extrai trechos de texto que contêm a palavra
             trechos = [bloco[max(0, ocorrencia.start() - 5):ocorrencia.end() + 8000] for ocorrencia in ocorrencias]
 
-            nome_arquivo_base = os.path.splitext(os.path.basename(caminho_arquivo))[0]
-            arquivo_destino = f'{pasta_destino}/{nome_do_municipio}-{nome_arquivo_base}_trechos.txt'
-            salvar_trechos(arquivo_destino, data, nome_do_municipio, trechos)
+            # Cria um arquivo exclusivo para cada arquivo de origem
+            nome_arquivo_base = os.path.splitext(nome_arquivo)[0]  # Remove a extensão .txt
+            arquivo_destino = f'{nomeDoMunicipio}-{nome_arquivo_base}_trechos.txt'
 
-    return f'Arquivo: {os.path.basename(caminho_arquivo)}, Ocorrências: {len(trechos)}'
+            # Salva os trechos no arquivo exclusivo
+            if len(trechos) != 0:
+                with open(f'busca-keywords/trechos/{arquivo_destino}', 'a', encoding="utf-8") as f:
+                    for trecho in trechos:
+                        f.write(data + '\n')
+                        f.write(nomeDoMunicipio + '\n')
+                        f.write(trecho + '\n')
+            else:
+                print(f'Município: {nomeDoMunicipio} não possui.')
 
-def extrair_nome_municipio(bloco):
-    match = re.search(r"DE\s*([A-ZÁÂÀÃÉÈÍÏÓÔÒÕÚÇ ]+)(?:\s+([A-ZÁÂÀÃÉÈÍÏÓÔÒÕÚÇ ]+))?", bloco, re.MULTILINE)
-    
-    if match:
-        nome_do_municipio = match.group(1).strip()
-        nome_dividido = nome_do_municipio.split()
-        if len(nome_dividido) > 4:
-            nome_do_municipio = ' '.join(nome_dividido[0:4]).strip()
-        
-        return nome_do_municipio
-    else:
-        return None
+        print(f'Arquivo: {nome_arquivo}, Ocorrências: {len(trechos)}')
 
-def salvar_trechos(arquivo_destino, data, nome_do_municipio, trechos):
-    if len(trechos) != 0:
-        with open(arquivo_destino, 'a', encoding="utf-8") as f:
-            for trecho in trechos:
-                f.write(data + '\n')
-                f.write(nome_do_municipio + '\n')
-                f.write(trecho + '\n')
-    else:
-        print(f'Município: {nome_do_municipio} não possui.')
-
-def main():
-    pasta = 'diarios_spiders/diarios/full'
-    keyword = 'CRÉDITO SUPLEMENTAR'
-    pasta_destino = 'busca-keywords/trechos'
-
-    criar_pasta_destino(pasta_destino)
-    iterar_arquivos(pasta, keyword, pasta_destino)
-
-if __name__ == "__main__":
-    main()
