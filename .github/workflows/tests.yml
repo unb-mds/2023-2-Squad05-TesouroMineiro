@@ -1,0 +1,33 @@
+name: Testes Backend
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  Testes Backend:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+       uses: actions/checkout@v2
+
+      - name: Setup Python
+       uses: actions/setup-python@v2
+       with:
+         python-version: python-latest
+              
+      - name: Install dependencies
+        run:
+        cd diarios_spiders/
+        pip install -r requirements.txt
+
+      - name: Testes
+        run: 
+        cd busca-keywords/
+        pyteste
+    
+  
+
