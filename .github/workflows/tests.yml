@@ -20,8 +20,4 @@ jobs:
         
       - name: Testes
         run: cd busca-keywords/
-          pyteste
-        
-    
-  
-
+          pytest
