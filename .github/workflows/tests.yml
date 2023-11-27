@@ -2,7 +2,7 @@ name: Testes Backend
 
 on:
   push:
-    branches: [ main ]
+    branches: [ all ]
   pull_request:
     branches: [ main ]
 
