@@ -1,0 +1,27 @@
+name: Testes Backend
+
+on:
+  push:
+    branches: [ all ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  Testes_Backend:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install -r pytest
+        
+      - name: Run Tests
+        run: |
+          cd busca-keywords/
+          python -m pytest
