@@ -6,8 +6,7 @@ from trechos_municipios import criar_pasta_destino
 
 # Criar uma pasta de teste para simular a estrutura do projeto
 TEST_FOLDER = 'busca-keywords/tests/test_extracao_trechos'
-#os.makedirs(os.path.join(TEST_FOLDER, 'test_trechos'))
-os.makedirs(os.path.join(TEST_FOLDER, 'test_full'))
+criar_pasta_destino(os.path.join(TEST_FOLDER, 'test_full'))
 
 
 # Testes unitarios

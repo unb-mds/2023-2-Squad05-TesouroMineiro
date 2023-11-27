@@ -29,13 +29,13 @@ def processar_arquivo(nome_arquivo, pasta, palavra_desejada):
             for item in palavra_desejada:
                 # Verifica se a palavra desejada (em minúsculas) está presente na linha (em minúsculas)
                 if item.lower() in linha.lower():
-                    print(f'A palavra "{palavra_desejada}" foi encontrada na linha: {linha}')
+                    #print(f'A palavra "{palavra_desejada}" foi encontrada na linha: {linha}')
                     valores_encontrados = re.findall(r'\d{1,3}(?:\.\d{3})*(?:,\d+)?', linha)
                     valores_encontrados = [valor for valor in valores_encontrados if len(valor) > 3]            
 
-                    print(valores_encontrados)
+                    #print(valores_encontrados)
                     if valores_encontrados and temp == valores_encontrados[0]:
-                        print('Valor repetido')
+                        #print('Valor repetido')
                         continue
                     
                     #tranforma o valor em um float aceitável pelo python
@@ -69,8 +69,8 @@ def processar_arquivo(nome_arquivo, pasta, palavra_desejada):
 
 
             # Imprime as categorias e somas
-            print(f'Categoria: {categoria}, Soma dos valores: {soma}')
-            print(nome_municipio, dados_existentes)
+            #print(f'Categoria: {categoria}, Soma dos valores: {soma}')
+            #print(nome_municipio, dados_existentes)
     else:
         nome_municipio = None
         dados_existentes = None
@@ -80,10 +80,10 @@ def processar_arquivo(nome_arquivo, pasta, palavra_desejada):
 def processar_trechos(pasta, palavra_desejada, pasta_destino):
     for nome_arquivo in os.listdir(pasta):
         if nome_arquivo.endswith('.txt'):
-            print(nome_arquivo)
+            #print(nome_arquivo)
             resultados = processar_arquivo(nome_arquivo, pasta, palavra_desejada)
-            print('==========================')
-            print(resultados)
+            #print('==========================')
+            #print(resultados)
             nome_municipio = resultados[0]
             dados = resultados[1]
             if nome_municipio != None and dados != None:

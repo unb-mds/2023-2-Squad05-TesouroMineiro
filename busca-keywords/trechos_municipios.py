@@ -21,7 +21,7 @@ def buscar_trechos(caminho_arquivo, keyword, pasta_destino):
     datas_encontradas = re.findall(r'\d{2} de [A-Z][a-z]+ de \d{4}', texto_completo)
     data = datas_encontradas.pop()
 
-    for bloco in re.split(re.escape("PREFEITURA "), texto_completo)[1:]:
+    for bloco in re.split(re.escape("PREFEITURA "), texto_completo):
         bloco = bloco.strip()
         nome_do_municipio = extrair_nome_municipio(bloco)
 
