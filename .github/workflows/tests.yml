@@ -14,11 +14,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.11.14'
+
       - name: Install dependencies
-        run: pip install -r requirements.txt
-        
-      - name: Open Folder
-        run: cd busca-keywords/
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
         
       - name: Run Tests
-        run: python pytest
+        run: |
+          cd busca-keywords/
+          python -m pytest
