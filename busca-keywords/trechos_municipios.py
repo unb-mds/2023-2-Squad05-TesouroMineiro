@@ -1,20 +1,20 @@
 import os
 import re
 
-def criar_pasta_trechos():
-    if os.path.isdir('busca-keywords/trechos'):
+def criar_pasta_destino(pasta_destino):
+    if os.path.isdir(pasta_destino):
         print('Ja existe a pasta "trechos"!')
     else:
         os.mkdir('busca-keywords/trechos')
         print('Pasta criada com sucesso!')
 
-def iterar_arquivos(pasta, keyword):
+def iterar_arquivos(pasta, keyword, pasta_destino):
     for nome_arquivo in os.listdir(pasta):
         if nome_arquivo.endswith('.txt'):
             caminho_arquivo = os.path.join(pasta, nome_arquivo)
-            buscar_trechos(caminho_arquivo, keyword)
+            buscar_trechos(caminho_arquivo, keyword, pasta_destino)
 
-def buscar_trechos(caminho_arquivo, keyword):
+def buscar_trechos(caminho_arquivo, keyword, pasta_destino):
     with open(caminho_arquivo, 'r', encoding='utf-8') as arquivo:
         texto_completo = arquivo.read()
 
@@ -30,10 +30,10 @@ def buscar_trechos(caminho_arquivo, keyword):
             trechos = [bloco[max(0, ocorrencia.start() - 5):ocorrencia.end() + 8000] for ocorrencia in ocorrencias]
 
             nome_arquivo_base = os.path.splitext(os.path.basename(caminho_arquivo))[0]
-            arquivo_destino = f'busca-keywords/trechos/{nome_do_municipio}-{nome_arquivo_base}_trechos.txt'
+            arquivo_destino = f'{pasta_destino}/{nome_do_municipio}-{nome_arquivo_base}_trechos.txt'
             salvar_trechos(arquivo_destino, data, nome_do_municipio, trechos)
 
-    print(f'Arquivo: {os.path.basename(caminho_arquivo)}, Ocorrências: {len(trechos)}')
+    return f'Arquivo: {os.path.basename(caminho_arquivo)}, Ocorrências: {len(trechos)}'
 
 def extrair_nome_municipio(bloco):
     match = re.search(r"DE\s*([A-ZÁÂÀÃÉÈÍÏÓÔÒÕÚÇ ]+)(?:\s+([A-ZÁÂÀÃÉÈÍÏÓÔÒÕÚÇ ]+))?", bloco, re.MULTILINE)
@@ -61,9 +61,10 @@ def salvar_trechos(arquivo_destino, data, nome_do_municipio, trechos):
 def main():
     pasta = 'diarios_spiders/diarios/full'
     keyword = 'CRÉDITO SUPLEMENTAR'
+    pasta_destino = 'busca-keywords/trechos'
 
-    criar_pasta_trechos()
-    iterar_arquivos(pasta, keyword)
+    criar_pasta_destino(pasta_destino)
+    iterar_arquivos(pasta, keyword, pasta_destino)
 
 if __name__ == "__main__":
     main()
