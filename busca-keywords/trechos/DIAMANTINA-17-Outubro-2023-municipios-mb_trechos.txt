@@ -1,0 +1,126 @@
+17 de Outubro de 2023
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+3003 5100.01.0031.0064.6000.150 - MANTER AS ATIVIDADES DO GABINETE DA PRESIDÊNCIA 12.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+3003 5100.01.0031.0064.6000.150 - MANTER AS ATIVIDADES DO GABINETE DA PRESIDÊNCIA 8.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+3005 5100.01.0031.0064.6000.150 - MANTER AS ATIVIDADES DO GABINETE DA PRESIDÊNCIA 52.000,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+3008 5100.01.0031.0064.6000.150 - MANTER AS ATIVIDADES DO GABINETE DA PRESIDÊNCIA 35.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+3009 5100.01.0031.0064.6000.150 - MANTER AS ATIVIDADES DO GABINETE DA PRESIDÊNCIA 10.000,00 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+3010 5100.01.0031.0064.6001.150 - MANTER AS ATIVIDADES DO PARLAMENTO 5.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+3011 5100.01.0031.0064.6001.150 - MANTER AS ATIVIDADES DO PARLAMENTO 4.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+3012 5100.01.0031.0064.6001.150 - MANTER AS ATIVIDADES DO PARLAMENTO 2.000,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+3013 5100.01.0031.0064.6001.150 - MANTER AS ATIVIDADES DO PARLAMENTO 2.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+3014 5100.01.0031.0064.6001.150 - MANTER AS ATIVIDADES DO PARLAMENTO 5.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+3021 5300.01.0122.0064.5002.150 - ADQUIRIR VEÍC., MÁQ., EQUIP. E/OU MÓVEIS - GABINETE DAS BANC 40.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+3023 5300.01.0122.0064.6003.150 - MANTER AS ATIVIDADES DO GABINETE DAS BANCADAS 22.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+3023 5300.01.0122.0064.6003.150 - MANTER AS ATIVIDADES DO GABINETE DAS BANCADAS 18.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+3024 5300.01.0122.0064.6003.150 - MANTER AS ATIVIDADES DO GABINETE DAS BANCADAS 20.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+3025 5300.01.0122.0064.6003.150 - MANTER AS ATIVIDADES DO GABINETE DAS BANCADAS 29.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+3026 5300.01.0122.0064.6003.150 - MANTER AS ATIVIDADES DO GABINETE DAS BANCADAS 20.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+3027 5300.01.0122.0064.6003.150 - MANTER AS ATIVIDADES DO GABINETE DAS BANCADAS 1.000,00 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+3030 5400.01.0123.0064.6004.150 - MANTER AS ATIVIDADES DA DIRETORIA GERAL 20.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+3031 5400.01.0123.0064.6004.150 - MANTER AS ATIVIDADES DA DIRETORIA GERAL 1.000,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+3032 5400.01.0123.0064.6004.150 - MANTER AS ATIVIDADES DA DIRETORIA GERAL 80.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+3033 5400.01.0123.0064.6004.150 - MANTER AS ATIVIDADES DA DIRETORIA GERAL 61.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+3033 5400.01.0123.0064.6004.150 - MANTER AS ATIVIDADES DA DIRETORIA GERAL 14.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+3035 5400.01.0123.0064.6004.150 - MANTER AS ATIVIDADES DA DIRETORIA GERAL 2.000,00 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+3036 5400.01.0123.0064.6004.150 - MANTER AS ATIVIDADES DA DIRETORIA GERAL 1.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+3037 5400.01.0123.0064.6005.150 - ENCARGOS S/ PGTO EMPREST. PARC. DÍVIDAS 1.000,00 
+
+  4.6.90.73.00.00 - Correção Monetária ou Cambial da Dívida Contratual Resgatada   
+
+Total 465.000,00 
+
+  
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+  
+Artigo 4º: Revogam-se as disposições em contrário. 
+  
+DIAMANTINA, 9 de Outubro de 2023 
+  
+JUSCELINO BRASILIANO ROQUE 
+Prefeito Municipal 
+
+Publicado por: 
+Paloma de Oliveira Moura 
+
+Código Identificador:89BDA8FE 
+
+ 
+ESTADO DE MINAS GERAIS
