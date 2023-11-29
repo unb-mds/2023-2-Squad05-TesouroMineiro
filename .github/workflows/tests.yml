@@ -22,6 +22,4 @@
            pip install -r requirements.txt
         
        - name: Run Tests
-         run: |
-           cd busca-keywords/tests
-           python -m pytest
+         run: python -m pytest
