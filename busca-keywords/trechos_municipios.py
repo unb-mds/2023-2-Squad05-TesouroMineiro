@@ -5,7 +5,7 @@ def criar_pasta_destino(pasta_destino):
     if os.path.isdir(pasta_destino):
         print('Ja existe a pasta "trechos"!')
     else:
-        os.mkdir('busca-keywords/trechos')
+        os.mkdir(pasta_destino)
         print('Pasta criada com sucesso!')
 
 def iterar_arquivos(pasta, keyword, pasta_destino):
