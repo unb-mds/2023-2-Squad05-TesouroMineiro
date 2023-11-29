@@ -1,29 +1,25 @@
-# name: Testes Backend
+ name: Testes Backend
 
-# on:
-#   push:
-#     branches: [ '*' ]
-#   pull_request:
-#     branches: [ main ]
+ on:
+   push:
+     branches: [ main ]
 
-# jobs:
-#   Testes_Backend:
-#     runs-on: ubuntu-latest
+ jobs:
+   Testes_Backend:
+     runs-on: ubuntu-latest
 
-#     steps:
-#       - uses: actions/checkout@v3
+     steps:
+       - uses: actions/checkout@v3
         
-#       - name: Setup Python
-#         uses: actions/setup-python@v2
-#         with:
-#           python-version: '3.10'
+       - name: Setup Python
+         uses: actions/setup-python@v2
+         with:
+           python-version: '3.10'
 
-#       - name: Install dependencies
-#         run: |
-#           cd diarios_spiders/
-#           pip install -r requirements.txt
+       - name: Install dependencies
+         run: |
+           cd diarios_spiders/
+           pip install -r requirements.txt
         
-#       - name: Run Tests
-#         run: |
-#           cd busca-keywords/
-#           python -m pytest
+       - name: Run Tests
+         run: python -m pytest

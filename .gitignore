@@ -1,5 +1,10 @@
 #Dependencies
 frontend/node_modules
+<<<<<<< HEAD
+
+
+=======
 diarios_spiders/diarios/full
 busca-keywords/dados
+>>>>>>> dev
 
