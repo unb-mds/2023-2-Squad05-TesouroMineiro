@@ -23,5 +23,5 @@
         
        - name: Run Tests
          run: |
-           cd busca-keywords/
+           cd busca-keywords/tests
            python -m pytest
