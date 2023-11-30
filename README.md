@@ -70,7 +70,7 @@
   </p>
         
   ```
-  git clone https://github.com/unb-mds/2023-2-Squad05.git
+  git clone https://github.com/unb-mds/2023-2-Squad05-TesouroMineiro.git
   ```  
   <h2 align="left">
     2. Como rodar o container de extração de dados
