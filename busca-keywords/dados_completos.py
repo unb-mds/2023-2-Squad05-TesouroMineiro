@@ -27,7 +27,7 @@ for arquivo in os.listdir(pasta_dados):
                 # Extrai o nome do município (assumindo que o nome do arquivo seja o nome do município)
                 municipio = os.path.splitext(arquivo)[0]
 
-                # Extrai ano e mês da data
+                # Extrai dia, mês e ano da data
                 dia, mes, ano = data.split('-')
 
                 # Cria a estrutura necessária se ainda não existir
