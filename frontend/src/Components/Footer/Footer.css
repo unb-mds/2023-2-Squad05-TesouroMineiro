@@ -9,7 +9,7 @@
     flex-direction: column;
     min-height: 20vh;
     justify-content: center;
-    flex: 2;
+    flex: 1;
 }
 
 .Acima{
@@ -22,12 +22,10 @@
 }
 .Abaixo{
 
-    
-    text-align: center;
-    font-size: 2vh;
-    align-items: start;
-    padding: 0vh;
-    
+    min-height: 5vh; 
+    font-size: 1.7vh;
+    display: flex;  
+    justify-content: center;  
 }
 
 
@@ -72,4 +70,14 @@
 
     height: 7vh;
 
+}
+
+a:hover{
+
+    transform:scale(1.1);
+}
+
+a img:hover{
+
+    transform:scale(1.1);
 }

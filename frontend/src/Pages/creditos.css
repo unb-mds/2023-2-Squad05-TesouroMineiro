@@ -27,3 +27,7 @@
     justify-content: center;
     font-size: 22px;
 }
+
+a:hover{
+    transform:scale(1.1);
+}

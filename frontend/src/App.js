@@ -17,11 +17,11 @@ function App() {
   const [showNav, setShowNav] = useState(false);
   return (
 
-    <div style={{minHeight: '100vh'}}>
+    <div style={{minHeight: '100vh', width: '100%'}}>
 
 
       <Navbar />
-      <div className='d-flex justify-content-center w-100 ' style={{minHeight: "100vh", width:"100vh"}}>
+      <div className='d-flex justify-content-center w-100 ' style={{minHeight: "100vh", width:"100%"}}>
 
         <BrowserRouter>
 

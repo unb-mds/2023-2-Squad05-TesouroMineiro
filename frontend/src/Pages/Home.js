@@ -7,7 +7,7 @@ const Home = () => {
     
     return(
     
-    <div className='d-flex flex-column justify-content-center align-items-center' style={{height: "100vh",width:"100vh"}}>
+    <div className='d-flex flex-column justify-content-center align-items-center overflow-hidden' style={{height: "100vh",width:"100vh"}}>
         
         <h1 className='TituloHome'>Tesouro Mineiro</h1>
         <div className="line-1"></div>
