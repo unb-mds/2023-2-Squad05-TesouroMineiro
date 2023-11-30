@@ -9,7 +9,7 @@
     flex-direction: column;
     min-height: 20vh;
     justify-content: center;
-
+    flex: 2;
 }
 
 .Acima{

@@ -4,9 +4,9 @@ const Navbar = ({ show }) => {
 
     return (
         <>
-            <nav className="navbar navbar-expand-lg w-100" style={{ backgroundColor: "#011627", height: '70px' }}>
+            <nav className="navbar navbar-expand-lg w-100" style={{ backgroundColor: "#011627", minheight: '1rem' }}>
                 <div class="w-100 d-flex mx-2">
-                    <a class="navbar-brand px-0" href="#"
+                    <a class="navbar-brand px-0" href="/"
                     ><img
                             id="MDB-logo"
                             src={logo}
@@ -16,7 +16,7 @@ const Navbar = ({ show }) => {
                         /></a>
                     <div className="container-fluid px-0">
                         <div className="px-0" id="">
-                            <ul className="nav px-0 align-items-center mt-1" style={{ color: "white", fontSize: '80%' }}>
+                            <ul className="nav px-0 align-items-center mt-1" style={{ color: "white", fontSize: '1.5rem' }}>
                                 <li className="nav-items">
                                     <a style={{ color: "white" }} className="nav-link active" aria-current="page" href="/">Início</a>
                                 </li>

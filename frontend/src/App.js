@@ -6,12 +6,14 @@ import Dados from './Pages/Dados';
 import Sobre from './Pages/Sobre';
 import Creditos from './Pages/Creditos';
 import Footer from './Components/Footer/Footer';
+// eslint-disable-next-line
 import { GiHamburgerMenu } from 'react-icons/gi';
 // eslint-disable-next-line
 import { BrowserRouter as BrowserRouter, Route, Routes } from 'react-router-dom';
 
 
 function App() {
+  // eslint-disable-next-line
   const [showNav, setShowNav] = useState(false);
   return (
 
@@ -19,7 +21,7 @@ function App() {
 
 
       <Navbar />
-      <div className='d-flex justify-content-center w-100 ' style={{minHeight: "100vh"}}>
+      <div className='d-flex justify-content-center w-100 ' style={{minHeight: "100vh", width:"100vh"}}>
 
         <BrowserRouter>
 
