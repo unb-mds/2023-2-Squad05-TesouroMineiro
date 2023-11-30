@@ -5,7 +5,7 @@ import os
 
 def create_json(nomeDoArquivo, obj, pasta_destino):
     caminho_arquivo = f'{pasta_destino}/{nomeDoArquivo}.json'
-    with open(caminho_arquivo, 'w') as arquivo_json:
+    with open(caminho_arquivo, 'w', encoding='utf-8') as arquivo_json:
         json.dump(obj, arquivo_json, ensure_ascii=False, indent=4)
 
     print(f"Dados exportados para JSON com sucesso.")
