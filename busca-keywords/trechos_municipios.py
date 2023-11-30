@@ -57,13 +57,11 @@ def salvar_trechos(arquivo_destino, data, nome_do_municipio, trechos):
     else:
         print(f'Município: {nome_do_municipio} não possui.')
 
-def main():
-    pasta = 'diarios_spiders/diarios/full'
-    keyword = 'CRÉDITO SUPLEMENTAR'
-    pasta_destino = 'busca-keywords/trechos'
 
-    criar_pasta_destino(pasta_destino)
-    iterar_arquivos(pasta, keyword, pasta_destino)
+pasta = 'diarios_spiders/diarios/full'
+keyword = 'CRÉDITO SUPLEMENTAR'
+pasta_destino = 'busca-keywords/trechos'
 
-if __name__ == "__main__":
-    main()
+criar_pasta_destino(pasta_destino)
+iterar_arquivos(pasta, keyword, pasta_destino)
+
