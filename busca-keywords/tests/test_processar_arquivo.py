@@ -16,7 +16,7 @@ def test_processar_arquivo():
     # Testa se a função processar_arquivo funciona corretamente
     nome_arquivo = 'MUNICIPIOX-20-Outubro-2023-municipios-mb.txt'
     palavra_desejada = ("o valor de","no valor total de", "no montante de", "com a inclusão de")
-    resultado = processar_arquivo(nome_arquivo, pasta_trechos_test, palavra_desejada)
+    resultado = processar_arquivo(nome_arquivo, pasta_trechos_test, palavra_desejada, 'busca-keywords/tests/')
 
     # Verifica se os resultados são os esperados
     assert resultado[0] == 'MUNICIPIOX'
