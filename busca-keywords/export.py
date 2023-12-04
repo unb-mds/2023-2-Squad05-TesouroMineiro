@@ -14,14 +14,14 @@ def create_json(nomeDoArquivo, obj):
 =======
 def create_json(nomeDoArquivo, obj, pasta_destino):
     caminho_arquivo = f'{pasta_destino}/{nomeDoArquivo}.json'
-    with open(caminho_arquivo, 'w') as arquivo_json:
+    with open(caminho_arquivo, 'w', encoding='utf-8') as arquivo_json:
         json.dump(obj, arquivo_json, ensure_ascii=False, indent=4)
 
     print(f"Dados exportados para JSON com sucesso.")
 >>>>>>> main
 
 
-def processar_arquivo(nome_arquivo, pasta, palavra_desejada):
+def processar_arquivo(nome_arquivo, pasta, palavra_desejada, pasta_destino):
     
     nome_municipio = (nome_arquivo.split('-'))[0].strip()
     caminho_arquivo = os.path.join(pasta, nome_arquivo)
@@ -39,11 +39,9 @@ def processar_arquivo(nome_arquivo, pasta, palavra_desejada):
             for item in palavra_desejada:
                 # Verifica se a palavra desejada (em minúsculas) está presente na linha (em minúsculas)
                 if item.lower() in linha.lower():
-                    #print(f'A palavra "{palavra_desejada}" foi encontrada na linha: {linha}')
                     valores_encontrados = re.findall(r'\d{1,3}(?:\.\d{3})*(?:,\d+)?', linha)
                     valores_encontrados = [valor for valor in valores_encontrados if len(valor) > 3]            
 
-                    #print(valores_encontrados)
                     if valores_encontrados and temp == valores_encontrados[0]:
                         #print('Valor repetido')
                         continue
@@ -62,25 +60,20 @@ def processar_arquivo(nome_arquivo, pasta, palavra_desejada):
                 
     if categorias:
         for categoria, soma in categorias.items():
-            # Cria um dicionário com as chaves abaixo
+
             novos_dados = {
                 'Data': data,
                 'Categoria': categoria,
                 'Soma': round(soma, 2)
             }
             try:
-                with open(f'busca-keywords/dados/{nome_municipio}.json', 'r') as arquivo_existente:
+                with open(f'{pasta_destino}/{nome_municipio}.json', 'r') as arquivo_existente:
                     dados_existentes = json.load(arquivo_existente)
             except FileNotFoundError:
                 dados_existentes = []
 
-            # Adicionar novos dados à lista existente
             dados_existentes.append(novos_dados)
 
-
-            # Imprime as categorias e somas
-            #print(f'Categoria: {categoria}, Soma dos valores: {soma}')
-            #print(nome_municipio, dados_existentes)
     else:
         nome_municipio = None
         dados_existentes = None
@@ -90,10 +83,8 @@ def processar_arquivo(nome_arquivo, pasta, palavra_desejada):
 def processar_trechos(pasta, palavra_desejada, pasta_destino):
     for nome_arquivo in os.listdir(pasta):
         if nome_arquivo.endswith('.txt'):
-            #print(nome_arquivo)
-            resultados = processar_arquivo(nome_arquivo, pasta, palavra_desejada)
-            #print('==========================')
-            #print(resultados)
+
+            resultados = processar_arquivo(nome_arquivo, pasta, palavra_desejada, pasta_destino)
             nome_municipio = resultados[0]
             dados = resultados[1]
             if nome_municipio != None and dados != None:
