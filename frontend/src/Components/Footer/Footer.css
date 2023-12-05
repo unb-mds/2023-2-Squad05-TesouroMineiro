@@ -81,3 +81,15 @@ a img:hover{
 
     transform:scale(1.1);
 }
+
+@media screen and (max-width: 768px) {
+
+    .Abaixo{
+
+        min-height: 5vh; 
+        font-size: 1.5vh;
+        display: flex;  
+        justify-content: center;  
+    } 
+    
+  }

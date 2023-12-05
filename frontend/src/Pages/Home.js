@@ -11,7 +11,7 @@ const Home = () => {
         
         <h1 className='TituloHome'>Tesouro Mineiro</h1>
         <div className="line-1"></div>
-        <p className='corpoHome'>Nesse projeto trabalharemos com a filtragem de dados do estado de Minas Gerais, em específico com dados orçamentários dos municípios participantes
+        <p className='corpoHome'>O objetivo desse projeto, é fazer a filtragem de dados de estados de Minas Gerais, em específico com dados orçamentários de municípios participantes
         da AMM (Associação Mineira de Municípios) </p>
 
         <img className='minasGerais' src={minasGerais} alt=''></img>

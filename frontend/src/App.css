@@ -24,13 +24,7 @@
 
 }
 
-/* hover para itens do navbar */
-/* .nav a:hover {
-  background: #172b4d;
-  border-radius: 5vh;
-} */
-
-ul li a:hover {
+ul li:hover {
   background: #172b4d;
   border-radius: 5vh;
   transform:scale(1.1);

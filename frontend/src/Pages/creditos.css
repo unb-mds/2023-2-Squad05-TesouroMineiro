@@ -28,6 +28,6 @@
     font-size: 22px;
 }
 
-a:hover{
+div.w-75 a:hover{
     transform:scale(1.1);
 }

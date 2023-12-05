@@ -1,6 +1,7 @@
 
 .tituloSobre{
     font-size: 30px;
+    text-align: center;
 }
 .line-1SA {
     width: 220px;
@@ -23,6 +24,7 @@
 .pSobre{
     text-align: justify;
     text-justify: inter-word;
+    margin: 2vh 10vw;
 }
 .tabelasS{
     margin-left: 0px;
@@ -33,5 +35,10 @@
 .pagesobre{
     display: flex;
     justify-content: center;
-    font-size: 5rem;
+    font-size: 50rem;
+    text-align: center;
+}
+
+.hr{
+    margin: 0px 10vw;
 }

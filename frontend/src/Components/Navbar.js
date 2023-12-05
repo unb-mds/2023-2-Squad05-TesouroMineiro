@@ -11,6 +11,7 @@ const Navbar = ({ show }) => {
                             id="MDB-logo"
                             src={logo}
                             alt="MDB Logo"
+                            class="rounded"
                             draggable="false"
                             height="40"
 
@@ -18,7 +19,7 @@ const Navbar = ({ show }) => {
                     <div className="container-fluid px-0">
                         <div className="px-0" id="">
                             <ul className="nav px-0 align-items-center mt-1" style={{ color: "white", fontSize: '1rem' }}>
-                                <li className="nav-items">
+                                <li className="nav-item">
                                     <a style={{ color: "white" }} className="nav-link active" aria-current="page" href="/">Início</a>
                                 </li>
                                 <li className="nav-item">
