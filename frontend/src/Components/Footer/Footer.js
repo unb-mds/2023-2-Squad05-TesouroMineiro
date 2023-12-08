@@ -38,7 +38,7 @@ const Footer = () => {
           <div className="col">
 
 
-            <img className="logogit" src={logobrasilia} alt=""></img>
+            <img className="logobrasilia" src={logobrasilia} alt=""></img>
 
 
           </div>

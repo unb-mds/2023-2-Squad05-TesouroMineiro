@@ -2,6 +2,7 @@
 .grafico {
   width: 100%; /* Define a largura como 100% do contêiner pai */
   max-width: 600px; /* Define a largura máxima para evitar que o gráfico fique muito grande */
+  overflow-x: hidden
   /* Outros estilos necessários para o gráfico */
 }
 
@@ -21,4 +22,10 @@
     /* Outros estilos necessários para telas maiores, se aplicável */
   }
 
+}
+
+ul li:hover {
+  background: #172b4d;
+  border-radius: 5vh;
+  transform:scale(1.1);
 }
