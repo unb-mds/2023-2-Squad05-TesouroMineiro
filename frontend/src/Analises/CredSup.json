@@ -1,117 +1,293 @@
 [
     {
-        "Municipio": "Cambuí",
-        "Analises": [
-            {
-                "Data": "27-Outubro-2023",
-                "Categoria": "Crédito Suplementar",
-                "Soma": 794672.74
-            },
-            {
-                "Data": "05-Setembro-2023",
-                "Categoria": "Crédito Suplementar",
-                "Soma": 2280049.67
-            },
-            {
-                "Data": "13-Setembro-2023",
-                "Categoria": "Crédito Suplementar",
-                "Soma": 686128.77
-            },
-            {
-                "Data": "25-Setembro-2023",
-                "Categoria": "Crédito Suplementar",
-                "Soma": 2231591.46
-            },
-            {
-                "Data": "24-Outubro-2023",
-                "Categoria": "Crédito Suplementar",
-                "Soma": 3240843.84
-            },
-            {
-                "Data": "30-Outubro-2023",
-                "Categoria": "Crédito Suplementar",
-                "Soma": 1314916.0499999998
-            },
-            {
-                "Data": "19-Setembro-2023",
-                "Categoria": "Crédito Suplementar",
-                "Soma": 2332487.3499999996
-            },
-            {
-                "Data": "17-Outubro-2023",
-                "Categoria": "Crédito Suplementar",
-                "Soma": 6066990.29
-            },
-            {
-                "Data": "13-Setembro-2023",
-                "Categoria": "Crédito Suplementar",
-                "Soma": 3605795.85
-            },
-            {
-                "Data": "25-Outubro-2023",
-                "Categoria": "Crédito Suplementar",
-                "Soma": 332655.0
-            },
-            {
-                "Data": "10-Outubro-2023",
-                "Categoria": "Crédito Suplementar",
-                "Soma": 759493.29
-            }
-        ]
+      "Municipio": "CORREGO DANTA",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 109026.8,
+          "Meses": {
+            "Outubro": 109026.8
+          }
+        }
+      ]
     },
     {
-        "Municipio": "Diamantina",
-        "Analises": [
-            {
-                "Data": "27-Outubro-2023",
-                "Categoria": "Crédito Suplementar",
-                "Soma": 794672.74
-            },
-            {
-                "Data": "05-Setembro-2023",
-                "Categoria": "Crédito Suplementar",
-                "Soma": 2280049.67
-            },
-            {
-                "Data": "13-Setembro-2023",
-                "Categoria": "Crédito Suplementar",
-                "Soma": 686128.77
-            },
-            {
-                "Data": "25-Setembro-2023",
-                "Categoria": "Crédito Suplementar",
-                "Soma": 2231591.46
-            },
-            {
-                "Data": "24-Outubro-2023",
-                "Categoria": "Crédito Suplementar",
-                "Soma": 3240843.84
-            },
-            {
-                "Data": "30-Outubro-2023",
-                "Categoria": "Crédito Suplementar",
-                "Soma": 1314916.0499999998
-            },
-            {
-                "Data": "19-Setembro-2023",
-                "Categoria": "Crédito Suplementar",
-                "Soma": 2332487.3499999996
-            },
-            {
-                "Data": "17-Outubro-2023",
-                "Categoria": "Crédito Suplementar",
-                "Soma": 6066990.29
-            },
-            {
-                "Data": "13-Setembro-2023",
-                "Categoria": "Crédito Suplementar",
-                "Soma": 3605795.85
-            },
-            {
-                "Data": "25-Outubro-2023",
-                "Categoria": "Crédito Suplementar",
-                "Soma": 332655.0
-            }
-        ]
+      "Municipio": "CATAS ALTAS",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 205900.0,
+          "Meses": {
+            "Novembro": 205900.0
+          }
+        }
+      ]
+    },
+    {
+      "Municipio": "ARGIRITA",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 1024010.33,
+          "Meses": {
+            "Outubro": 527084.21,
+            "Setembro": 462466.12,
+            "Novembro": 34460.0
+          }
+        }
+      ]
+    },
+    {
+      "Municipio": "OURO FINO",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 3978874.23,
+          "Meses": {
+            "Novembro": 2578874.23,
+            "Setembro": 1400000.0
+          }
+        }
+      ]
+    },
+    {
+      "Municipio": "ITANHANDU",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 263907.9,
+          "Meses": {
+            "Setembro": 250000.0,
+            "Outubro": 13907.9
+          }
+        }
+      ]
+    },
+    {
+      "Municipio": "LAGOA DA PRATA",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 14937712.24,
+          "Meses": {
+            "Novembro": 13045122.72,
+            "Outubro": 1892589.52
+          }
+        }
+      ]
+    },
+    {
+      "Municipio": "LARANJAL",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 43442.67,
+          "Meses": {
+            "Setembro": 43442.67
+          }
+        }
+      ]
+    },
+    {
+      "Municipio": "S\u00c3O GOTARDO TORNA",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 6615596.04,
+          "Meses": {
+            "Setembro": 6615596.04
+          }
+        }
+      ]
+    },
+    {
+      "Municipio": "ANZOLIN",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 26386.94,
+          "Meses": {
+            "Setembro": 26386.94
+          }
+        }
+      ]
+    },
+    {
+      "Municipio": "LARANJAL U",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 7410.05,
+          "Meses": {
+            "Outubro": 7410.05
+          }
+        }
+      ]
+    },
+    {
+      "Municipio": "BOM REPOUSO",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 30000.0,
+          "Meses": {
+            "Outubro": 30000.0
+          }
+        }
+      ]
+    },
+    {
+      "Municipio": "S\u00c3O GOTARDO",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 11152874.7,
+          "Meses": {
+            "Setembro": 6342128.42,
+            "Novembro": 4810746.28
+          }
+        }
+      ]
+    },
+    {
+      "Municipio": "DIAMANTINA",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 14000.0,
+          "Meses": {
+            "Setembro": 14000.0
+          }
+        }
+      ]
+    },
+    {
+      "Municipio": "MINAS GERAIS",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 56585485.82000001,
+          "Meses": {
+            "Novembro": 27595191.28,
+            "Setembro": 9596933.45,
+            "Outubro": 19393361.09
+          }
+        }
+      ]
+    },
+    {
+      "Municipio": "PONTE NOVA",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 11798588.03,
+          "Meses": {
+            "Novembro": 11798588.03
+          }
+        }
+      ]
+    },
+    {
+      "Municipio": "SANTA BARBARA",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 11297805.469999999,
+          "Meses": {
+            "Setembro": 2022370.77,
+            "Outubro": 2559833.53,
+            "Novembro": 6715601.17
+          }
+        }
+      ]
+    },
+    {
+      "Municipio": "CAMBU\u00cd",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 8547756.83,
+          "Meses": {
+            "Setembro": 3418868.42,
+            "Novembro": 1177770.35,
+            "Outubro": 3951118.0599999996
+          }
+        }
+      ]
+    },
+    {
+      "Municipio": "TIRADENTES",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 672900.0,
+          "Meses": {
+            "Novembro": 672900.0
+          }
+        }
+      ]
+    },
+    {
+      "Municipio": "S\u00c3O LOUREN\u00c7O",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 31534598.93,
+          "Meses": {
+            "Setembro": 4564078.8100000005,
+            "Outubro": 18807259.63,
+            "Novembro": 8163260.49
+          }
+        }
+      ]
+    },
+    {
+      "Municipio": "LUZ",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 332655.0,
+          "Meses": {
+            "Outubro": 332655.0
+          }
+        }
+      ]
+    },
+    {
+      "Municipio": "ARCOS",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 325000.0,
+          "Meses": {
+            "Outubro": 325000.0
+          }
+        }
+      ]
+    },
+    {
+      "Municipio": "MATUTINA",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 2802000.0,
+          "Meses": {
+            "Outubro": 2802000.0
+          }
+        }
+      ]
+    },
+    {
+      "Municipio": "FORMIGA",
+      "Analises": [
+        {
+          "Ano": "2023",
+          "SomaAnual": 68543116.0,
+          "Meses": {
+            "Outubro": 400000.0,
+            "Novembro": 68143116.0
+          }
+        }
+      ]
     }
-]
+  ]
