@@ -6,8 +6,10 @@ const Graficos = () => {
   const [selectedMunicipio, setSelectedMunicipio] = useState();
   const [selectedData, setSelectedData] = useState('30');
   const [reportType, setReportType] = useState('geral');
+
   const [years, setYears] = useState([])
   const [selectedYear, setSelectedYear] = useState("")
+
   const chartRef = useRef(null);
 
   const [municipios, setMunicipios] = useState([]);
@@ -31,10 +33,12 @@ const Graficos = () => {
       }
     })
     setYears([...years])
+
   }, []);
 
   const handleMunicipioChange = (e) => {
     setSelectedMunicipio(e.target.value);
+
     let newarr = []
     credsup.forEach((d) => {
       if (e.target.value == d.Municipio) {
@@ -43,7 +47,7 @@ const Graficos = () => {
         })
       }
     })
-    setYears([...newarr])
+    setYears([..newarr])
     fetchChartData(e.target.value, selectedData, reportType);
   };
 
