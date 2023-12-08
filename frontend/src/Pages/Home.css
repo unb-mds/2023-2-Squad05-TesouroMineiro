@@ -5,15 +5,45 @@
   
 }
 .TituloHome{
-  font-size: 3.2vw;
-  
+  font-size: 3vw;
+  padding-bottom: 2vh;  
 }
 .corpoHome{
   
-  font-size:1.5vw;
-  text-align: center;
+  font-size:1.7vw;
+  text-align: justify;
 }
 .minasGerais{
-  margin-left: 0vh;
+  
   height: 35vh;
+  mask-border-width: 10px;
+}
+
+/* @media screen and (max-width: 1200px) {
+
+  .TituloHome{
+    font-size: 6vw;
+    
+  }
+  
+  .corpoHome{
+  
+    font-size:4.5vw;
+    text-align: center;
+  }
+
+} */
+
+@media screen and (max-width: 768px) {
+
+  .TituloHome{
+    font-size: 7vw;
+    padding-bottom: 2vh;  
+  }
+  .corpoHome{
+    
+    font-size:5vw;
+    text-align: center;
+  }
+  
 }

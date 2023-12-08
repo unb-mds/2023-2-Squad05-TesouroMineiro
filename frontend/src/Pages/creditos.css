@@ -27,3 +27,7 @@
     justify-content: center;
     font-size: 22px;
 }
+
+div.w-75 a:hover{
+    transform:scale(1.1);
+}
