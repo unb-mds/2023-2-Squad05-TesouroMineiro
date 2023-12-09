@@ -47,7 +47,7 @@ const Graficos = () => {
         })
       }
     })
-    setYears([..newarr])
+    setYears([...newarr])
     fetchChartData(e.target.value, selectedData, reportType);
   };
 
