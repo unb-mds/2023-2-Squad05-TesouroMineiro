@@ -104,13 +104,13 @@ const Sobre = () => {
                         </a>
                     </tbody>
                     <tbody>
-                        <a className= 'd-flex align-items-center justify-content-center flex-column' href="https://pandas.pydata.org/" >
+                        <a className= 'd-flex align-items-center justify-content-center flex-column' href="https://react.dev/" >
                             <tr className= 'd-flex align-items-center justify-content-center flex-column'>
-                                <td><Image source = {require('../images/pandas_logo.png')}
+                                <td><Image source = {require('../images/react-logo-1.png')}
                                 style = {style.image} />
                             </td>
                             <td>
-                                <p>Pandas</p>
+                                <p>React</p>
                             </td>
                             </tr>
                         </a>
