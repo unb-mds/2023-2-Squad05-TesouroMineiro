@@ -82,14 +82,14 @@ def processar_trechos(pasta, palavra_desejada, pasta_destino):
                 create_json(nome_municipio, dados, pasta_destino)
                 print(f'JSON para o Município {nome_municipio} foi criado.')     
 
+if __name__ == "__main__":
+    # Palavra que você deseja procurar (convertida para minúsculas)
+    palavra_desejada = ("o valor de","no valor total de", "no montante de", "com a inclusão de" )
 
-# Palavra que você deseja procurar (convertida para minúsculas)
-palavra_desejada = ("o valor de","no valor total de", "no montante de", "com a inclusão de" )
+    #pasta onde contém os trechos
+    pasta = 'busca-keywords/trechos'
 
-#pasta onde contém os trechos
-pasta = 'busca-keywords/trechos'
+    #pasta onde estará os arquivos JSON
+    pasta_destino = 'busca-keywords/dados'
 
-#pasta onde estará os arquivos JSON
-pasta_destino = 'busca-keywords/dados'
-
-processar_trechos(pasta, palavra_desejada, pasta_destino)
+    processar_trechos(pasta, palavra_desejada, pasta_destino)

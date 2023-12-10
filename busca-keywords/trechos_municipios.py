@@ -53,20 +53,18 @@ def extrair_nome_municipio(bloco):
     else:
         return None
 
-def salvar_trechos(arquivo_destino, data, nome_do_municipio, trechos):
+def salvar_trechos(arquivo_destino, data, nome_do_municipio, trechos, mode='a'):
     if len(trechos) != 0:
-        with open(arquivo_destino, 'a', encoding="utf-8") as f:
+        with open(arquivo_destino, mode, encoding="utf-8") as f:
             for trecho in trechos:
                 f.write(data + '\n')
                 f.write(nome_do_municipio + '\n')
                 f.write(trecho + '\n')
 
 
-
-pasta = 'diarios_spiders/diarios/full'
-keyword = 'CRÉDITO SUPLEMENTAR'
-pasta_destino = 'busca-keywords/trechos'
-
-criar_pasta_destino(pasta_destino)
-iterar_arquivos(pasta, keyword, pasta_destino)
-
+if __name__ == "__main__":
+    pasta = 'diarios_spiders/diarios/full'
+    keyword = 'CRÉDITO SUPLEMENTAR'
+    pasta_destino = 'busca-keywords/trechos'
+    criar_pasta_destino(pasta_destino)
+    iterar_arquivos(pasta, keyword, pasta_destino)

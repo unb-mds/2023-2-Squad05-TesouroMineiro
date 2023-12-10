@@ -50,10 +50,10 @@ def gera_dados(pasta_dados):
     return resultado_final
 
 
+if __name__ == "__main__":
+    # Caminho para a pasta contendo os arquivos JSON
+    pasta_dados = 'busca-keywords/dados'
 
-# Caminho para a pasta contendo os arquivos JSON
-pasta_dados = 'busca-keywords/dados'
+    resultado = gera_dados(pasta_dados)
 
-resultado = gera_dados(pasta_dados)
-
-create_json('resultado_final_credito_suplementar', resultado, 'busca-keywords/municipios')
+    create_json('resultado_final_credito_suplementar', resultado, 'busca-keywords/municipios')
