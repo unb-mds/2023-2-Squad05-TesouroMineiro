@@ -11,6 +11,7 @@ def pasta_dados_teste():
 
 def criar_dados_teste(pasta_dados):
     # Criação de dados de teste
+
     dados = {
         "Municipio1.json": [
             {"Data": "01-Janeiro-2023", "Categoria": "Crédito Suplementar", "Soma": 500.0},
@@ -21,6 +22,7 @@ def criar_dados_teste(pasta_dados):
             {"Data": "01-Fevereiro-2023", "Categoria": "Crédito Suplementar", "Soma": 800.0},
         ],
     }
+
 
     for arquivo, conteudo in dados.items():
         caminho_arquivo = os.path.join(pasta_dados, arquivo)
@@ -41,3 +43,4 @@ def test_gera_dados(pasta_dados_teste):
     assert resultado[0]['Analises'][0]['SomaAnual'] == 1100.0
     assert resultado[0]['Analises'][0]['Meses']['Janeiro'] == 500.0
     assert resultado[0]['Analises'][0]['Meses']['Fevereiro'] == 600.0
+
