@@ -1,0 +1,529 @@
+17-Julho-2018
+VISCONDE DO RIO BRANCO
+to o Crédito Suplementar no valor total de R$ 
+123.150,00 (cento e vinte e três mil , cento e cinquenta reais ), as 
+seguintes dotações orçamentárias: 
+  
+Unid. Orc.: 02.001.000 - GABINETE DO PREFEITO 
+
+Função: 04 - ADMINISTRACAO 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.003 - MANUT. ATIVIDADES GABINETE 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 280,00 
+
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função: 04 - ADMINISTRACAO 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta: 3.3.90.36.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 950,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função: 10 - SAUDE 
+
+Subfunção: 301 - ATENCAO BASICA 
+
+Programa: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.105 - MANUTENÇÃO DAS ATIVIDADES SAÚDE BUCAL 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁSICA 
+
+Valor: R$ 17.550,00 
+
+Proj/Ativ.: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁSICA 
+
+Valor: R$ 1.500,00 
+
+Subfunção: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.118 - MANUT. CONSORCIO REG. INTERMUNICIPAL-SIMSAÚDE 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 77.500,00 
+
+Subfunção: 303 - SUPORTE PROFILATICO E TERAPEUTICO 
+
+Programa: 0013 - ASSITÊNCIA FARMACEUTICA 
+
+Proj/Ativ.: 2.123 - MANUTENÇÃO DA ASSISTÊNCIA FARMACÊUTICA 
+
+Conta: 3.3.90.32.00-MATERIAL BEM OU SERVIÇO. P/DISTRIB. GRATUITA 
+
+Fonte: 151-TRANS. DE RECURSOS DO SUS- FARMACÊUTICA 
+
+Valor: R$ 5.900,00 
+
+Conta: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRATUITA 
+
+Fonte: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE 
+
+Valor: R$ 24.370,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função: 12 - EDUCACAO 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta: 3.3.90.08.00 - OUTROS BENEFÍCIOS ASSISTENCIAIS 
+
+Fonte: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor: R$ 1.000,00 
+
+  
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo 
+primeiro deste decreto fica anulado o valor de R$ 123.150,00 (cento e 
+vinte e três mil , cento e cinquenta reais ), referente a anulação parcial 
+ou total das dotações abaixo relacionadas. 
+  
+Unid. Orc.: 02.007.000 - SECRETARIA MUN. AGRICULTURA E MEIO AMBIENTE 
+
+Função: 18 - GESTAO AMBIENTAL 
+
+Subfunção: 541 - PRESERVACAO E CONSERVACAO AMBIENTAL 
+
+Programa: 0009 - PRESERVAÇÃO DO MEIO AMBIENTE 
+
+Proj/Ativ.: 2.085 - MANUTENÇÃO ATIVIDADES USINA/ATERRO SANITARIO 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 1.000,00 
+
+Conta: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 3.930,00 
+
+Função: 20 - AGRICULTURA 
+
+Subfunção: 606 - EXTENSAO RURAL 
+
+Programa: 0008 - DESENVOLVIMENTO DA AGRIC. MELHORIA DO ABASTEC 
+
+Proj/Ativ.: 2.083 - MANUT. FORN. INSUMOS, SERV. EQUIP. AGROP. 
+
+Conta: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 21.670,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função: 10 - SAUDE 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRATUITA 
+
+Fonte: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁSICA 
+
+Valor: R$ 17.550,00 
+
+Subfunção: 301 - ATENCAO BASICA 
+
+Programa: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.103 - MANUT. ATIV. AGENTE COMUNIT. SAUDE - ACS 
+
+Conta: 3.3.90.36.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 
+
+Fonte: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁSICA 
+
+Valor: R$ 1.500,00 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função: 27 - DESPORTO E LAZER 
+
+Subfunção: 813 - LAZER 
+
+Programa: 0023 - IMPLANTAÇÃO DA POLITICA DE DESPORTO E LAZER 
+
+Proj/Ativ.: 2.218 - MANUT. ATIVIDADES DO PARQUE DE EXPOSIÇÕES 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 35.900,00 
+
+Proj/Ativ.: 2.219 - MANUTENÇÃO DE SHOWS E EVENTOS CULTURAIS 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 47.500,00 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto 
+em vigor na data de sua publicação. 
+  
+VISCONDE DO RIO BRANCO, 13 DE JULHO DE 2018 
+  
+IRAN SILVA COURI 
+Prefeito 
+
+Publicado por: 
+Marileia Medeiros 
+
+Código Identificador:E47A1B9F 
+ 
+
+
+
+Minas Gerais , 17 de Julho de 2018   •   Diário Oficial dos Municípios Mineiros   •    ANO X | Nº 2295 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               131 
+ 
+
+ESTADO DE MINAS GERAIS 
+SAAE - SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO DE 
+
+PIRAPORA 
+ 
+
+SAAE PIRAPORA-MG 
+RESULTADO PREGÃO PRESENCIAL 22/2018 
+
+ 
+Serviço Autônomo de Água e Esgoto de Pirapora-MG. Resultado 
+Pregão Presencial 22/2018. Processo: 87/2018. Objeto: Serviço de 
+locação de trator de Esteira para o aterro Sanitário do Município de 
+Pirapora-MG, com mão de obra do operador da máquina inclusa. 
+Empresa vencedora: Transportes e Prestação de Serviços Carvalho 
+Ltda – ME.  
+  
+Pirapora-MG, 05 de julho de 2018.  
+  
+ESMERALDO PEREIRA SANTOS 
+Diretor do SAAE/Pirapora-MG. 
+
+Publicado por: 
+Alessandra Barbosa Rocha Veloso 
+Código Identificador:3B5EA1A3 
+
+ 
+SAAE PIRAPORA-MG 
+CONTRATO 30/2018 
+
+ 
+Serviço Autônomo de Água e Esgoto de Pirapora-MG. Extrato de 
+Contrato. Contrato 30/2018. Contratado: Transportes e Prestação de 
+Serviços Carvalho Ltda – ME. Pregão Presencial 22/2018. Processo: 
+87/2018. Objeto: Serviço de locação de trator de Esteira para o aterro 
+Sanitário do Município de Pirapora-MG, com mão de obra do 
+operador da máquina inclusa. Valor: R$119,00/hora trabalhada. 
+Vigência: 01/08/2018 a 31/12/2018. Data assinatura contrato: 05 de 
+julho de 2018.  
+  
+ESMERALDO PEREIRA SANTOS  
+Diretor SAAE/Pirapora-MG. 
+ 
+
+Publicado por: 
+Alessandra Barbosa Rocha Veloso 
+Código Identificador:E0E58F31 
+
+ 
+SAAE PIRAPORA-MG 
+CONTRATO 29/2018 
+
+ 
+Serviço Autônomo de Água e Esgoto de Pirapora-MG. Extrato de 
+Contrato. Contrato 29/2018. Contratado: Líder Segurança do Trabalho 
+e Saúde Ocupacional Ltda EPP. Processo 103/2018 – PBS’s 171/2018 
+e 172/2018. Objeto: Serviços de medicina do trabalho. Valor: 
+R$660,00/mês. Vigência: 02/07/2018 a 31/12/2018. Data assinatura 
+contrato: 02/07/2018.  
+  
+ESMERALDO PEREIRA SANTOS 
+Diretor SAAE/Pirapora-MG. 
+
+Publicado por: 
+Alessandra Barbosa Rocha Veloso 
+Código Identificador:FE369A9B 
+
+ 
+SAAE PIRAPORA-MG 
+
+RETIFICA PREGÃO PRESENCIAL 27/2018 
+ 
+Serviço Autônomo de Água e Esgoto de Pirapora-MG. Retifica 
+Pregão Presencial 27/2018. Processo: 106/2018. Objeto: Aquisição de 
+Veículos Automotores e Motocicletas. Altera descrição do objeto. 
+Data do início da sessão, credenciamento e entrega de envelopes: 
+31/07/2018 às 08:30h. O edital na íntegra e as informações 
+complementares à licitação encontram-se à disposição dos 
+interessados no endereço: av. Salmeron, 255 – Centro – Pirapora-MG. 
+Telefone (38) 3741-1530, através dos e-mails: 
+licitacoesecontratos@saaepirapora.com.br ou pela internet 
+www.saaepirapora.com.br.  
+  
+ALESSANDRA BARBOSA ROCHA VELOSO  
+Pregoeira. 
+
+Publicado por: 
+Alessandra Barbosa Rocha Veloso 
+Código Identificador:D5832348 
+
+ 
+ESTADO DE MINAS GERAIS
+17-Julho-2018
+VISCONDE DO RIO BRANCO
+a de Crédito Suplementar no artigo 
+primeiro deste decreto fica anulado o valor de R$ 123.150,00 (cento e 
+vinte e três mil , cento e cinquenta reais ), referente a anulação parcial 
+ou total das dotações abaixo relacionadas. 
+  
+Unid. Orc.: 02.007.000 - SECRETARIA MUN. AGRICULTURA E MEIO AMBIENTE 
+
+Função: 18 - GESTAO AMBIENTAL 
+
+Subfunção: 541 - PRESERVACAO E CONSERVACAO AMBIENTAL 
+
+Programa: 0009 - PRESERVAÇÃO DO MEIO AMBIENTE 
+
+Proj/Ativ.: 2.085 - MANUTENÇÃO ATIVIDADES USINA/ATERRO SANITARIO 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 1.000,00 
+
+Conta: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 3.930,00 
+
+Função: 20 - AGRICULTURA 
+
+Subfunção: 606 - EXTENSAO RURAL 
+
+Programa: 0008 - DESENVOLVIMENTO DA AGRIC. MELHORIA DO ABASTEC 
+
+Proj/Ativ.: 2.083 - MANUT. FORN. INSUMOS, SERV. EQUIP. AGROP. 
+
+Conta: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 21.670,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função: 10 - SAUDE 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRATUITA 
+
+Fonte: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁSICA 
+
+Valor: R$ 17.550,00 
+
+Subfunção: 301 - ATENCAO BASICA 
+
+Programa: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.103 - MANUT. ATIV. AGENTE COMUNIT. SAUDE - ACS 
+
+Conta: 3.3.90.36.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 
+
+Fonte: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁSICA 
+
+Valor: R$ 1.500,00 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função: 27 - DESPORTO E LAZER 
+
+Subfunção: 813 - LAZER 
+
+Programa: 0023 - IMPLANTAÇÃO DA POLITICA DE DESPORTO E LAZER 
+
+Proj/Ativ.: 2.218 - MANUT. ATIVIDADES DO PARQUE DE EXPOSIÇÕES 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 35.900,00 
+
+Proj/Ativ.: 2.219 - MANUTENÇÃO DE SHOWS E EVENTOS CULTURAIS 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 47.500,00 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto 
+em vigor na data de sua publicação. 
+  
+VISCONDE DO RIO BRANCO, 13 DE JULHO DE 2018 
+  
+IRAN SILVA COURI 
+Prefeito 
+
+Publicado por: 
+Marileia Medeiros 
+
+Código Identificador:E47A1B9F 
+ 
+
+
+
+Minas Gerais , 17 de Julho de 2018   •   Diário Oficial dos Municípios Mineiros   •    ANO X | Nº 2295 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               131 
+ 
+
+ESTADO DE MINAS GERAIS 
+SAAE - SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO DE 
+
+PIRAPORA 
+ 
+
+SAAE PIRAPORA-MG 
+RESULTADO PREGÃO PRESENCIAL 22/2018 
+
+ 
+Serviço Autônomo de Água e Esgoto de Pirapora-MG. Resultado 
+Pregão Presencial 22/2018. Processo: 87/2018. Objeto: Serviço de 
+locação de trator de Esteira para o aterro Sanitário do Município de 
+Pirapora-MG, com mão de obra do operador da máquina inclusa. 
+Empresa vencedora: Transportes e Prestação de Serviços Carvalho 
+Ltda – ME.  
+  
+Pirapora-MG, 05 de julho de 2018.  
+  
+ESMERALDO PEREIRA SANTOS 
+Diretor do SAAE/Pirapora-MG. 
+
+Publicado por: 
+Alessandra Barbosa Rocha Veloso 
+Código Identificador:3B5EA1A3 
+
+ 
+SAAE PIRAPORA-MG 
+CONTRATO 30/2018 
+
+ 
+Serviço Autônomo de Água e Esgoto de Pirapora-MG. Extrato de 
+Contrato. Contrato 30/2018. Contratado: Transportes e Prestação de 
+Serviços Carvalho Ltda – ME. Pregão Presencial 22/2018. Processo: 
+87/2018. Objeto: Serviço de locação de trator de Esteira para o aterro 
+Sanitário do Município de Pirapora-MG, com mão de obra do 
+operador da máquina inclusa. Valor: R$119,00/hora trabalhada. 
+Vigência: 01/08/2018 a 31/12/2018. Data assinatura contrato: 05 de 
+julho de 2018.  
+  
+ESMERALDO PEREIRA SANTOS  
+Diretor SAAE/Pirapora-MG. 
+ 
+
+Publicado por: 
+Alessandra Barbosa Rocha Veloso 
+Código Identificador:E0E58F31 
+
+ 
+SAAE PIRAPORA-MG 
+CONTRATO 29/2018 
+
+ 
+Serviço Autônomo de Água e Esgoto de Pirapora-MG. Extrato de 
+Contrato. Contrato 29/2018. Contratado: Líder Segurança do Trabalho 
+e Saúde Ocupacional Ltda EPP. Processo 103/2018 – PBS’s 171/2018 
+e 172/2018. Objeto: Serviços de medicina do trabalho. Valor: 
+R$660,00/mês. Vigência: 02/07/2018 a 31/12/2018. Data assinatura 
+contrato: 02/07/2018.  
+  
+ESMERALDO PEREIRA SANTOS 
+Diretor SAAE/Pirapora-MG. 
+
+Publicado por: 
+Alessandra Barbosa Rocha Veloso 
+Código Identificador:FE369A9B 
+
+ 
+SAAE PIRAPORA-MG 
+
+RETIFICA PREGÃO PRESENCIAL 27/2018 
+ 
+Serviço Autônomo de Água e Esgoto de Pirapora-MG. Retifica 
+Pregão Presencial 27/2018. Processo: 106/2018. Objeto: Aquisição de 
+Veículos Automotores e Motocicletas. Altera descrição do objeto. 
+Data do início da sessão, credenciamento e entrega de envelopes: 
+31/07/2018 às 08:30h. O edital na íntegra e as informações 
+complementares à licitação encontram-se à disposição dos 
+interessados no endereço: av. Salmeron, 255 – Centro – Pirapora-MG. 
+Telefone (38) 3741-1530, através dos e-mails: 
+licitacoesecontratos@saaepirapora.com.br ou pela internet 
+www.saaepirapora.com.br.  
+  
+ALESSANDRA BARBOSA ROCHA VELOSO  
+Pregoeira. 
+
+Publicado por: 
+Alessandra Barbosa Rocha Veloso 
+Código Identificador:D5832348 
+
+ 
+ESTADO DE MINAS GERAIS

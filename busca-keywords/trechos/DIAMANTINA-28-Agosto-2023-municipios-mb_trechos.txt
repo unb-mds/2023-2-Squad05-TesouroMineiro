@@ -1,0 +1,2476 @@
+28-Agosto-2023
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0006 1100.04.0122.0062.2186.150 - MANTER AS ATIVIDADES DOS ÓRGÃOS E SETORES VINCULADOS AO GAB. 40.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0029 1100.04.0122.0062.2275.150 - MANTER CONVÊNIOS E/OU PARCERIAS COM PESSOAS JURÍDICAS - GABI 250.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+0029 1100.04.0122.0062.2275.150 - MANTER CONVÊNIOS E/OU PARCERIAS COM PESSOAS JURÍDICAS - GABI 600,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+0036 1210.04.0122.0027.2189.150 - MANTER AS ATIVIDADES DA SECRET. MUN. DE PLANEJAMENTO, ORÇAME 2.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0036 1210.04.0122.0027.2189.150 - MANTER AS ATIVIDADES DA SECRET. MUN. DE PLANEJAMENTO, ORÇAME 10.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0051 1210.04.0122.0027.2189.150 - MANTER AS ATIVIDADES DA SECRET. MUN. DE PLANEJAMENTO, ORÇAME 5.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0052 1210.04.0122.0027.2190.150 - RATEIO DE CONSÓRCIOS PÚBLICOS - SEPLOG 3.000,00 
+
+  3.1.71.70.00.00 - Rateio pela Participação em Consórcio Público   
+
+0053 1210.04.0122.0027.2190.150 - RATEIO DE CONSÓRCIOS PÚBLICOS - SEPLOG 2.000,00 
+
+  3.3.71.70.00.00 - Rateio pela Participação em Consórcio Público   
+
+0053 1210.04.0122.0027.2190.150 - RATEIO DE CONSÓRCIOS PÚBLICOS - SEPLOG 1.600,00 
+
+  3.3.71.70.00.00 - Rateio pela Participação em Consórcio Público   
+
+0058 1310.04.0123.0059.2175.150 - MANTER AS ATIVIDADES DA SEC. MUN. DE FAZENDA 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0058 1310.04.0123.0059.2175.150 - MANTER AS ATIVIDADES DA SEC. MUN. DE FAZENDA 1.411,98 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0058 1310.04.0123.0059.2175.150 - MANTER AS ATIVIDADES DA SEC. MUN. DE FAZENDA 974,26 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0058 1310.04.0123.0059.2175.150 - MANTER AS ATIVIDADES DA SEC. MUN. DE FAZENDA 1.205,97 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0058 1310.04.0123.0059.2175.150 - MANTER AS ATIVIDADES DA SEC. MUN. DE FAZENDA 14.253,76 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0065 1310.04.0123.0059.2175.150 - MANTER AS ATIVIDADES DA SEC. MUN. DE FAZENDA 13.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0065 1310.04.0123.0059.2175.150 - MANTER AS ATIVIDADES DA SEC. MUN. DE FAZENDA 10.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0065 1310.04.0123.0059.2175.150 - MANTER AS ATIVIDADES DA SEC. MUN. DE FAZENDA 10.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0080 1310.04.0129.0061.2115.150 - PROMOVER A GESTÃO FISCAL E TRIBUTÁRIA 500,48 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0083 1310.04.0129.0061.2115.150 - PROMOVER A GESTÃO FISCAL E TRIBUTÁRIA 740,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0087 1310.28.0843.0060.0001.150 - AMORTIZAR DÍVIDAS CONTRATADAS 38.300,00 
+
+  3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato   
+
+0087 1310.28.0843.0060.0001.150 - AMORTIZAR DÍVIDAS CONTRATADAS 10.000,00 
+
+  3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato   
+
+0087 1310.28.0843.0060.0001.150 - AMORTIZAR DÍVIDAS CONTRATADAS 15.000,00 
+
+  3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato   
+
+0087 1310.28.0843.0060.0001.150 - AMORTIZAR DÍVIDAS CONTRATADAS 7.500,00 
+
+  3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato   
+
+0088 1310.28.0843.0060.0001.150 - AMORTIZAR DÍVIDAS CONTRATADAS 10.000,00 
+
+  4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado   
+
+0088 1310.28.0843.0060.0001.150 - AMORTIZAR DÍVIDAS CONTRATADAS 30.000,00 
+
+  4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado   
+
+
+
+Minas Gerais , 28 de Agosto de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3589 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              286 
+
+ 
+
+0088 1310.28.0843.0060.0001.150 - AMORTIZAR DÍVIDAS CONTRATADAS 6.300,00 
+
+  4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado   
+
+0088 1310.28.0843.0060.0001.150 - AMORTIZAR DÍVIDAS CONTRATADAS 103.000,00 
+
+  4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado   
+
+0093 1320.04.0129.0059.2049.150 - MANTER AS ATIVIDADES DO DEPARTAMENTO DE TRIBUTOS 1.000,00 
+
+  3.1.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+  
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0095 1320.04.0129.0059.2049.150 - MANTER AS ATIVIDADES DO DEPARTAMENTO DE TRIBUTOS 13.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0116 1400.04.0122.0033.2163.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE GOVERNO 1.000,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+0129 1400.04.0122.0034.2088.150 - MANTER CONVÊNIOS E/OU PARCERIAS COM PESSOAS JURÍDICAS - GOVE 1.000,00 
+
+  3.3.30.41.00.00 - Contribuições   
+
+0139 1400.06.0153.0032.2165.150 - MANTER CONVÊNIOS E/OU PARCERIAS COM O TIRO DE GUERRA 562,97 
+
+  3.3.90.18.00.00 - Auxílio Financeiro a Estudantes   
+
+0159 1410.04.0122.0034.2268.150 - MANUTENÇÃO DE CONVÊNIOS COM PESSOAS JURÍDICAS DE DIREITO PÚB 10.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+0159 1410.04.0122.0034.2268.150 - MANUTENÇÃO DE CONVÊNIOS COM PESSOAS JURÍDICAS DE DIREITO PÚB 7.140,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+0168 1430.06.0181.0032.2033.150 - MANTER AS ATIVIDADES DA GUARDA CIVIL PATRIMONIAL 30.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0168 1430.06.0181.0032.2033.150 - MANTER AS ATIVIDADES DA GUARDA CIVIL PATRIMONIAL 10.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0168 1430.06.0181.0032.2033.150 - MANTER AS ATIVIDADES DA GUARDA CIVIL PATRIMONIAL 10.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0168 1430.06.0181.0032.2033.150 - MANTER AS ATIVIDADES DA GUARDA CIVIL PATRIMONIAL 1.500,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0168 1430.06.0181.0032.2033.150 - MANTER AS ATIVIDADES DA GUARDA CIVIL PATRIMONIAL 10.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0176 1430.06.0181.0032.2033.150 - MANTER AS ATIVIDADES DA GUARDA CIVIL PATRIMONIAL 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0187 1440.04.0122.0038.2055.150 - MANTER ATIVIDADES VOLTADAS À PROTEÇÃO E DEFESA DOS CONSUMIDO 10.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0187 1440.04.0122.0038.2055.150 - MANTER ATIVIDADES VOLTADAS À PROTEÇÃO E DEFESA DOS CONSUMIDO 8.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0195 1440.04.0122.0038.2055.150 - MANTER ATIVIDADES VOLTADAS À PROTEÇÃO E DEFESA DOS CONSUMIDO 5.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0210 1441.04.0122.0038.2169.150 - MANTER ATIVIDADES DE PROTEÇÃO E DEFESA DOS CONSUMIDORES -F 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0211 1441.04.0122.0038.2169.150 - MANTER ATIVIDADES DE PROTEÇÃO E DEFESA DOS CONSUMIDORES -F 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0212 1441.04.0122.0038.2169.150 - MANTER ATIVIDADES DE PROTEÇÃO E DEFESA DOS CONSUMIDORES -F 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+0221 1510.12.0122.0030.1059.150 - ADQUIRIR VEÍCULOS, MÁQUINAS, EQUIPAMENTOS E/OU MÓVEIS - SMED 5.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0228 1510.12.0122.0030.2135.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE EDUCAÇÃO 10.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+
+28-Agosto-2023
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0095 1320.04.0129.0059.2049.150 - MANTER AS ATIVIDADES DO DEPARTAMENTO DE TRIBUTOS 13.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0116 1400.04.0122.0033.2163.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE GOVERNO 1.000,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+0129 1400.04.0122.0034.2088.150 - MANTER CONVÊNIOS E/OU PARCERIAS COM PESSOAS JURÍDICAS - GOVE 1.000,00 
+
+  3.3.30.41.00.00 - Contribuições   
+
+0139 1400.06.0153.0032.2165.150 - MANTER CONVÊNIOS E/OU PARCERIAS COM O TIRO DE GUERRA 562,97 
+
+  3.3.90.18.00.00 - Auxílio Financeiro a Estudantes   
+
+0159 1410.04.0122.0034.2268.150 - MANUTENÇÃO DE CONVÊNIOS COM PESSOAS JURÍDICAS DE DIREITO PÚB 10.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+0159 1410.04.0122.0034.2268.150 - MANUTENÇÃO DE CONVÊNIOS COM PESSOAS JURÍDICAS DE DIREITO PÚB 7.140,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+0168 1430.06.0181.0032.2033.150 - MANTER AS ATIVIDADES DA GUARDA CIVIL PATRIMONIAL 30.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0168 1430.06.0181.0032.2033.150 - MANTER AS ATIVIDADES DA GUARDA CIVIL PATRIMONIAL 10.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0168 1430.06.0181.0032.2033.150 - MANTER AS ATIVIDADES DA GUARDA CIVIL PATRIMONIAL 10.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0168 1430.06.0181.0032.2033.150 - MANTER AS ATIVIDADES DA GUARDA CIVIL PATRIMONIAL 1.500,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0168 1430.06.0181.0032.2033.150 - MANTER AS ATIVIDADES DA GUARDA CIVIL PATRIMONIAL 10.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0176 1430.06.0181.0032.2033.150 - MANTER AS ATIVIDADES DA GUARDA CIVIL PATRIMONIAL 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0187 1440.04.0122.0038.2055.150 - MANTER ATIVIDADES VOLTADAS À PROTEÇÃO E DEFESA DOS CONSUMIDO 10.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0187 1440.04.0122.0038.2055.150 - MANTER ATIVIDADES VOLTADAS À PROTEÇÃO E DEFESA DOS CONSUMIDO 8.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0195 1440.04.0122.0038.2055.150 - MANTER ATIVIDADES VOLTADAS À PROTEÇÃO E DEFESA DOS CONSUMIDO 5.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0210 1441.04.0122.0038.2169.150 - MANTER ATIVIDADES DE PROTEÇÃO E DEFESA DOS CONSUMIDORES -F 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0211 1441.04.0122.0038.2169.150 - MANTER ATIVIDADES DE PROTEÇÃO E DEFESA DOS CONSUMIDORES -F 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0212 1441.04.0122.0038.2169.150 - MANTER ATIVIDADES DE PROTEÇÃO E DEFESA DOS CONSUMIDORES -F 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+0221 1510.12.0122.0030.1059.150 - ADQUIRIR VEÍCULOS, MÁQUINAS, EQUIPAMENTOS E/OU MÓVEIS - SMED 5.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0228 1510.12.0122.0030.2135.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE EDUCAÇÃO 10.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0242 1510.12.0122.0030.2135.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE EDUCAÇÃO 2.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0260 1521.12.0361.0030.1052.150 - ADQUIRIR VEÍC, MÁQ, EQUIP E/OU MÓVEIS - ENS. FUNDAMENTAL 50.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0260 1521.12.0361.0030.1052.150 - ADQUIRIR VEÍC, MÁQ, EQUIP E/OU MÓVEIS - ENS. FUNDAMENTAL 4.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0261 1521.12.0361.0030.1052.150 - ADQUIRIR VEÍC, MÁQ, EQUIP E/OU MÓVEIS - ENS. FUNDAMENTAL 1.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0343 1521.12.0361.0030.2142.150 - MANTER O SERVIÇO DE ALIMENTAÇÃO ESCOLAR - QUILOMBOLA 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0347 1521.12.0361.0030.2142.150 - MANTER O SERVIÇO DE ALIMENTAÇÃO ESCOLAR - QUILOMBOLA 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0374 1521.12.0366.0030.2038.150 - MANTER AS ATIVIDADES DE EDUCAÇÃO DE JOVENS E ADULTOS - EJA 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0383 1521.12.0366.0030.2145.150 - MANTER O SERVIÇO DE ALIMENTAÇÃO ESCOLAR - EJA 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+  
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0390 1522.12.0365.0030.1056.150 - ADQUIRIR VEÍC, MÁQ, EQUIP E/OU MÓVEIS - CRECHE 6.100,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0449 1523.12.0365.0030.1058.150 - ADQUIRIR VEÍC, MÁQ, EQUIP E/OU MÓVEIS - PRÉ-ESCOLA 20.100,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 39.200,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 3.700,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 35.650,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 28.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 150.000,00 
+
+
+
+Minas Gerais , 28 de Agosto de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3589 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              287 
+
+ 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 4.200,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 19.600,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 96.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 47.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 480,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 800,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 20.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 10.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 3.700,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GES
+28-Agosto-2023
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0390 1522.12.0365.0030.1056.150 - ADQUIRIR VEÍC, MÁQ, EQUIP E/OU MÓVEIS - CRECHE 6.100,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0449 1523.12.0365.0030.1058.150 - ADQUIRIR VEÍC, MÁQ, EQUIP E/OU MÓVEIS - PRÉ-ESCOLA 20.100,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 39.200,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 3.700,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 35.650,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 28.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 150.000,00 
+
+
+
+Minas Gerais , 28 de Agosto de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3589 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              287 
+
+ 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 4.200,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 19.600,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 96.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 47.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 480,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 800,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 20.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 10.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 3.700,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 17.700,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 7.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 1.800,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 48.100,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 36.200,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 3.300,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 28.200,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 4.800,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 20.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0557 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 85.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+  
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0558 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 2.900,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0583 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 360,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0583 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 3.500,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0584 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 1.000,00 
+
+  3.3.90.46.00.00 - Auxílio-alimentação   
+
+0586 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 2.000,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+0588 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 370,00 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+0593 1610.10.0122.0001.2272.150 - MANTER AS ATIVIDADES DA OUVIDORIA DO SUS 4.800,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0593 1610.10.0122.0001.2272.150 - MANTER AS ATIVIDADES DA OUVIDORIA DO SUS 5.400,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0609 1610.10.0122.0001.2273.150 - MANTER AS ATIVIDADES DO NÚCLEO TÉCNICO DE APOIO JURÍDICO SUS 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0610 1610.10.0122.0001.2273.150 - MANTER AS ATIVIDADES DO NÚCLEO TÉCNICO DE APOIO JURÍDICO SUS 500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0636 1610.10.0122.0002.1034.162 - COMBATE À PANDEMIA DE COVID-19 - SECRETARIA MUNICIPAL DE SAÚ 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0662 1621.10.0301.0003.1002.162 - CONSTR,. AMPLIAR, E/OU REFORMAR EDIFICAÇÕES - ATENÇÃO BÁSICA 6.650,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 55.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 500.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 67.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 67.500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 2.970,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 350,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 16
+28-Agosto-2023
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0558 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 2.900,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0583 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 360,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0583 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 3.500,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0584 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 1.000,00 
+
+  3.3.90.46.00.00 - Auxílio-alimentação   
+
+0586 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 2.000,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+0588 1610.10.0122.0001.2114.150 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 370,00 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+0593 1610.10.0122.0001.2272.150 - MANTER AS ATIVIDADES DA OUVIDORIA DO SUS 4.800,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0593 1610.10.0122.0001.2272.150 - MANTER AS ATIVIDADES DA OUVIDORIA DO SUS 5.400,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0609 1610.10.0122.0001.2273.150 - MANTER AS ATIVIDADES DO NÚCLEO TÉCNICO DE APOIO JURÍDICO SUS 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0610 1610.10.0122.0001.2273.150 - MANTER AS ATIVIDADES DO NÚCLEO TÉCNICO DE APOIO JURÍDICO SUS 500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0636 1610.10.0122.0002.1034.162 - COMBATE À PANDEMIA DE COVID-19 - SECRETARIA MUNICIPAL DE SAÚ 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0662 1621.10.0301.0003.1002.162 - CONSTR,. AMPLIAR, E/OU REFORMAR EDIFICAÇÕES - ATENÇÃO BÁSICA 6.650,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 55.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 500.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 67.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 67.500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 2.970,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 350,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 16.600,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 1.174,06 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 2.400,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+
+
+Minas Gerais , 28 de Agosto de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3589 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              288 
+
+ 
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 100.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 1.828,01 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 3.793,20 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 11.511,27 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 27.500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 1.074,48 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 2.754,18 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+  
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 10.074,29 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 3.376,74 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 139.800,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 11.300,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 139.300,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 53.800,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 29.200,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 2.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0675 1621.10.0301.0003.2044.160 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 50.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0677 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 20.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0697 1621.10.0301.0003.2044.162 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 26.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0697 1621.10.0301.0003.2044.162 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 100.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0702 1621.10.0301.0003.2044.160 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 4.000,00 
+
+  3.3.90.34.00.00 - Outras Despesas de Pessoal Decorrentes de Contratos de Terceirização   
+
+0711 1621.10.0301.0003.2044.160 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 30.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0722 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 30.000,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+0722 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 7.600,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 15.600,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 17.500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Van
+28-Agosto-2023
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 10.074,29 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 3.376,74 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 139.800,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 11.300,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 139.300,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 53.800,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 29.200,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0671 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 2.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0675 1621.10.0301.0003.2044.160 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 50.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0677 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 20.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0697 1621.10.0301.0003.2044.162 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 26.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0697 1621.10.0301.0003.2044.162 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 100.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0702 1621.10.0301.0003.2044.160 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 4.000,00 
+
+  3.3.90.34.00.00 - Outras Despesas de Pessoal Decorrentes de Contratos de Terceirização   
+
+0711 1621.10.0301.0003.2044.160 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 30.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0722 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 30.000,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+0722 1621.10.0301.0003.2044.150 - MANTER AS ATIVIDADES DO BLOCO DE ATENÇÃO BÁSICA - BLATB 7.600,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 15.600,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 17.500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 44.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 17.652,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 1.800,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 50.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 2.050,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 11.724,83 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 5.900,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 1.280,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 12.400,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 2.010,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+  
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 380,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 39.600,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 20.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 16.000,00 
+
+
+
+Minas Gerais , 28 de Agosto de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3589 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              289 
+
+ 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 5.800,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 50.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 6.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 680,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 4.700,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 5.500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 1.200,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0846 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 30.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0858 1622.10.0302.0005.2034.160 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 50.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+0877 1622.10.0302.0005.2045.150 - MANTER AS ATIVIDADES DO BLOCO DE MÉD. E. ALT. COMPL. - BLMAC 12.200,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0877 1622.10.0302.0005.2045.150 - MANTER AS ATIVIDADES DO BLOCO DE MÉD. E. ALT. COMPL. - BLMAC 7.500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0877 1622.10.0302.0005.2045.150 - MANTER AS ATIVIDADES DO BLOCO DE MÉD. E. ALT. COMPL. - BLMAC 50.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0877 1622.10.0302.0005.2045.150 - MANTER AS ATIVIDADES DO BLOCO DE MÉD. E. ALT. COMPL. - BLMAC 800,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0877 1622.10.0302.0005.2045.150 - 
+28-Agosto-2023
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 380,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 39.600,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 20.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 16.000,00 
+
+
+
+Minas Gerais , 28 de Agosto de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3589 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              289 
+
+ 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 5.800,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 50.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 6.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 680,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 4.700,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 5.500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0837 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 1.200,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0846 1622.10.0302.0005.2034.150 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 30.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0858 1622.10.0302.0005.2034.160 - MANTER AS ATIVIDADES DA REDE DE SAÚDE MENTAL 50.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+0877 1622.10.0302.0005.2045.150 - MANTER AS ATIVIDADES DO BLOCO DE MÉD. E. ALT. COMPL. - BLMAC 12.200,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0877 1622.10.0302.0005.2045.150 - MANTER AS ATIVIDADES DO BLOCO DE MÉD. E. ALT. COMPL. - BLMAC 7.500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0877 1622.10.0302.0005.2045.150 - MANTER AS ATIVIDADES DO BLOCO DE MÉD. E. ALT. COMPL. - BLMAC 50.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0877 1622.10.0302.0005.2045.150 - MANTER AS ATIVIDADES DO BLOCO DE MÉD. E. ALT. COMPL. - BLMAC 800,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0877 1622.10.0302.0005.2045.150 - MANTER AS ATIVIDADES DO BLOCO DE MÉD. E. ALT. COMPL. - BLMAC 2.900,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0877 1622.10.0302.0005.2045.150 - MANTER AS ATIVIDADES DO BLOCO DE MÉD. E. ALT. COMPL. - BLMAC 50.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0877 1622.10.0302.0005.2045.150 - MANTER AS ATIVIDADES DO BLOCO DE MÉD. E. ALT. COMPL. - BLMAC 3.900,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0886 1622.10.0302.0005.2045.150 - MANTER AS ATIVIDADES DO BLOCO DE MÉD. E. ALT. COMPL. - BLMAC 30.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0886 1622.10.0302.0005.2045.150 - MANTER AS ATIVIDADES DO BLOCO DE MÉD. E. ALT. COMPL. - BLMAC 7.300,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0886 1622.10.0302.0005.2045.150 - MANTER AS ATIVIDADES DO BLOCO DE MÉD. E. ALT. COMPL. - BLMAC 660,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0886 1622.10.0302.0005.2045.150 - MANTER AS ATIVIDADES DO BLOCO DE MÉD. E. ALT. COMPL. - BLMAC 550,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0889 1622.10.0302.0005.2045.160 - MANTER AS ATIVIDADES DO BLOCO DE MÉD. E. ALT. COMPL. - BLMAC 27.500,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+0903 1622.10.0302.0005.2045.150 - MANTER AS ATIVIDADES DO BLOCO DE MÉD. E. ALT. COMPL. - BLMAC 30.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0909 1622.10.0302.0005.2045.162 - MANTER AS ATIVIDADES DO BLOCO DE MÉD. E. ALT. COMPL. - BLMAC 26.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0926 1622.10.0302.0005.2050.150 - MANTER AS ATIVIDADES DO LABORATÓRIO MUNICIPAL 30.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+  
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0939 1622.10.0302.0005.2050.150 - MANTER AS ATIVIDADES DO LABORATÓRIO MUNICIPAL 50.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0946 1622.10.0302.0005.2050.150 - MANTER AS ATIVIDADES DO LABORATÓRIO MUNICIPAL 20.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0982 1623.10.0304.0006.2127.150 - MANTER AS ATIVIDADES DE VIGILÂNCIA SANITÁRIA 8.800,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0982 1623.10.0304.0006.2127.150 - MANTER AS ATIVIDADES DE VIGILÂNCIA SANITÁRIA 4.200,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0982 1623.10.0304.0006.2127.150 - MANTER AS ATIVIDADES DE VIGILÂNCIA SANITÁRIA 30.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0982 1623.10.0304.0006.2127.150 - MANTER AS ATIVIDADES DE VIGILÂNCIA SANITÁRIA 2.500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0999 1623.10.0304.0006.2127.162 - MANTER AS ATIVIDADES DE VIGILÂNCIA SANITÁRIA 20.000,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1001 1623.10.0304.0006.2127.162 - MANTER AS ATIVIDADES DE VIGILÂNCIA SANITÁRIA 50.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1150 1624.10.0305.0012.2133.160 - MANTER AS ATIVIDADES DA VIGILÂNCIA AMBIENTAL E ZOONOSES 25.100,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1188 1624.10.0305.0013.2134.150 - MANTER AS ATIVIDADES DE VIGILÂNCIA EM IST, AIDS E HEPATITES 28.700,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1188 1624.10.0305.0013.2134.150 - MANTER AS ATIVIDADES DE VIGILÂNCIA EM IST, AIDS E HEPATITES 15.750,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1260 1700.18.0542.0025.2181.150 - GARANTIR A GESTÃO DE RESÍDUOS E A LIMPEZA PÚBLICA 5.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1260 1700.18.0542.0025.2181.150 - GARANTIR A GESTÃO DE RESÍDUOS E A LIMPEZA PÚBLICA 10.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1260 1700.18.0542.0025.2181.150 - GARANTIR A GESTÃO DE RESÍDUOS E A LIMPEZA PÚBLICA 5.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1260 1700.18.0542.0025.2181.150 - GARANTIR A GESTÃO DE RESÍDUOS E A LIMPEZA PÚBLICA 15.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1261 1700.18.0542.0025.2181.150 - GARANTIR A GESTÃO DE RESÍDUOS E A LIMPEZA PÚBLICA 5.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1265 1700.20.0306.0023.2182.150 - CESTA VERDE 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+
+
+Minas Gerais , 28 de Agosto de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3589 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                          
+28-Agosto-2023
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0939 1622.10.0302.0005.2050.150 - MANTER AS ATIVIDADES DO LABORATÓRIO MUNICIPAL 50.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0946 1622.10.0302.0005.2050.150 - MANTER AS ATIVIDADES DO LABORATÓRIO MUNICIPAL 20.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0982 1623.10.0304.0006.2127.150 - MANTER AS ATIVIDADES DE VIGILÂNCIA SANITÁRIA 8.800,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0982 1623.10.0304.0006.2127.150 - MANTER AS ATIVIDADES DE VIGILÂNCIA SANITÁRIA 4.200,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0982 1623.10.0304.0006.2127.150 - MANTER AS ATIVIDADES DE VIGILÂNCIA SANITÁRIA 30.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0982 1623.10.0304.0006.2127.150 - MANTER AS ATIVIDADES DE VIGILÂNCIA SANITÁRIA 2.500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0999 1623.10.0304.0006.2127.162 - MANTER AS ATIVIDADES DE VIGILÂNCIA SANITÁRIA 20.000,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1001 1623.10.0304.0006.2127.162 - MANTER AS ATIVIDADES DE VIGILÂNCIA SANITÁRIA 50.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1150 1624.10.0305.0012.2133.160 - MANTER AS ATIVIDADES DA VIGILÂNCIA AMBIENTAL E ZOONOSES 25.100,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1188 1624.10.0305.0013.2134.150 - MANTER AS ATIVIDADES DE VIGILÂNCIA EM IST, AIDS E HEPATITES 28.700,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1188 1624.10.0305.0013.2134.150 - MANTER AS ATIVIDADES DE VIGILÂNCIA EM IST, AIDS E HEPATITES 15.750,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1260 1700.18.0542.0025.2181.150 - GARANTIR A GESTÃO DE RESÍDUOS E A LIMPEZA PÚBLICA 5.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1260 1700.18.0542.0025.2181.150 - GARANTIR A GESTÃO DE RESÍDUOS E A LIMPEZA PÚBLICA 10.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1260 1700.18.0542.0025.2181.150 - GARANTIR A GESTÃO DE RESÍDUOS E A LIMPEZA PÚBLICA 5.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1260 1700.18.0542.0025.2181.150 - GARANTIR A GESTÃO DE RESÍDUOS E A LIMPEZA PÚBLICA 15.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1261 1700.18.0542.0025.2181.150 - GARANTIR A GESTÃO DE RESÍDUOS E A LIMPEZA PÚBLICA 5.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1265 1700.20.0306.0023.2182.150 - CESTA VERDE 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+
+
+Minas Gerais , 28 de Agosto de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3589 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              290 
+
+ 
+
+1273 1710.04.0122.0025.2010.150 - CONTRIBUIÇÕES AO CORESAB - CONSÓRCIO REG. DE SANEAMENTO BÁSI 2.000,00 
+
+  4.4.71.70.00.00 - Rateio pela Participação em Consórcio Público   
+
+1276 1710.04.0122.0025.2176.150 - MANTER AS ATIVIDADES DA SEC. MUN. DE AGROP. E MEIO AMBIENTE 5.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1276 1710.04.0122.0025.2176.150 - MANTER AS ATIVIDADES DA SEC. MUN. DE AGROP. E MEIO AMBIENTE 31.400,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1291 1710.04.0122.0025.2176.150 - MANTER AS ATIVIDADES DA SEC. MUN. DE AGROP. E MEIO AMBIENTE 5.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+1297 1710.20.0605.0023.2016.150 - MANTER AS ATIVIDADES DA AGRICULTURA, EXPANDIR E ESCOAR A PRO 20.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1316 1730.18.0541.0025.1122.150 - MANTER AÇÕES E PROJETOS VOLTADOS AO MEIO AMBIENTE 2.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1324 1810.04.0122.0040.1063.150 - CONSTRUIR, AMPLIAR E/OU REFORMAR EDIFICAÇÕES 1.000,00 
+
+  4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+1337 1810.04.0122.0041.2021.150 - LOCAR E/OU MANTER VEÍC., MÁQ. E/OU EQUIP. - DESENV. URBANO E 985,12 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1340 1810.04.0122.0041.2021.150 - LOCAR E/OU MANTER VEÍC., MÁQ. E/OU EQUIP. - DESENV. URBANO E 7.100,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1340 1810.04.0122.0041.2021.150 - LOCAR E/OU MANTER VEÍC., MÁQ. E/OU EQUIP. - DESENV. URBANO E 13.800,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1340 1810.04.0122.0041.2021.150 - LOCAR E/OU MANTER VEÍC., MÁQ. E/OU EQUIP. - DESENV. URBANO E 6.578,54 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+  
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+1340 1810.04.0122.0041.2021.150 - LOCAR E/OU MANTER VEÍC., MÁQ. E/OU EQUIP. - DESENV. URBANO E 6.465,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1346 1810.15.0122.0041.2161.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENV. URBA 26,00 
+
+  3.1.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+1351 1810.15.0122.0041.2161.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENV. URBA 51.986,66 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1351 1810.15.0122.0041.2161.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENV. URBA 11.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1351 1810.15.0122.0041.2161.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENV. URBA 529,95 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1352 1810.15.0122.0041.2161.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENV. URBA 43.647,69 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1352 1810.15.0122.0041.2161.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENV. URBA 84.507,25 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1356 1810.15.0122.0041.2161.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENV. URBA 25,62 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1359 1810.15.0122.0041.2161.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENV. URBA 40,00 
+
+  3.3.90.59.00.00 - Pensões Especiais   
+
+1362 1810.15.0122.0041.2161.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENV. URBA 0,42 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+1366 1810.15.0122.0041.2162.150 - MANTER OS CONTRATOS DE PROGRAMA DE CONSÓRCIOS PÚBLICOS - SMD 1.000,00 
+
+  4.4.93.51.00.00 - Obras e Instalações   
+
+1369 1810.15.0452.0040.1005.150 - CONST., AMPL. E/OU REFOR. CEMITÉRIOS E/OU VELÓRIOS MUNICIPAI 300,00 
+
+  4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+1398 1810.15.0452.0040.1025.150 - CONSTRUIR, AMPLIAR, REFORMAR E/OU PAVIMENTAR VIAS PÚBLICAS E 1.000,00 
+
+  4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+1427 1810.17.0512.0040.1011.150 - IMPLANT. DRENAGEM DE ÁGUAS E/OU DESASSOR. BARRAGENS E CURSOS 1.000,00 
+
+  4.4.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1438 1810.26.0782.0040.1012.150 - CONSTRUIR E/OU RECUPERAR PONTES, MATA-BURROS E/OU AFINS 1.000,00 
+
+  4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+1446 1810.26.0782.0040.1108.175 - IMPLEMENTAÇÃO DE SINALIZAÇÃO VIÁRIA VERTICAL E HORIZONTAL 23.600,00 
+
+  4.4.90.30.00.00 - Material de Consumo   
+
+1450 1810.26.0782.0040.2042.150 - MANTER O SERVIÇO DE TRÂNSITO E TRANSPORTES 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1467 1910.08.0122.0014.2193.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENVOLVIME 5.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civi
+28-Agosto-2023
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+1340 1810.04.0122.0041.2021.150 - LOCAR E/OU MANTER VEÍC., MÁQ. E/OU EQUIP. - DESENV. URBANO E 6.465,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1346 1810.15.0122.0041.2161.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENV. URBA 26,00 
+
+  3.1.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+1351 1810.15.0122.0041.2161.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENV. URBA 51.986,66 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1351 1810.15.0122.0041.2161.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENV. URBA 11.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1351 1810.15.0122.0041.2161.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENV. URBA 529,95 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1352 1810.15.0122.0041.2161.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENV. URBA 43.647,69 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1352 1810.15.0122.0041.2161.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENV. URBA 84.507,25 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1356 1810.15.0122.0041.2161.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENV. URBA 25,62 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1359 1810.15.0122.0041.2161.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENV. URBA 40,00 
+
+  3.3.90.59.00.00 - Pensões Especiais   
+
+1362 1810.15.0122.0041.2161.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENV. URBA 0,42 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+1366 1810.15.0122.0041.2162.150 - MANTER OS CONTRATOS DE PROGRAMA DE CONSÓRCIOS PÚBLICOS - SMD 1.000,00 
+
+  4.4.93.51.00.00 - Obras e Instalações   
+
+1369 1810.15.0452.0040.1005.150 - CONST., AMPL. E/OU REFOR. CEMITÉRIOS E/OU VELÓRIOS MUNICIPAI 300,00 
+
+  4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+1398 1810.15.0452.0040.1025.150 - CONSTRUIR, AMPLIAR, REFORMAR E/OU PAVIMENTAR VIAS PÚBLICAS E 1.000,00 
+
+  4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+1427 1810.17.0512.0040.1011.150 - IMPLANT. DRENAGEM DE ÁGUAS E/OU DESASSOR. BARRAGENS E CURSOS 1.000,00 
+
+  4.4.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1438 1810.26.0782.0040.1012.150 - CONSTRUIR E/OU RECUPERAR PONTES, MATA-BURROS E/OU AFINS 1.000,00 
+
+  4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+1446 1810.26.0782.0040.1108.175 - IMPLEMENTAÇÃO DE SINALIZAÇÃO VIÁRIA VERTICAL E HORIZONTAL 23.600,00 
+
+  4.4.90.30.00.00 - Material de Consumo   
+
+1450 1810.26.0782.0040.2042.150 - MANTER O SERVIÇO DE TRÂNSITO E TRANSPORTES 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1467 1910.08.0122.0014.2193.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENVOLVIME 5.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1482 1910.08.0122.0014.2193.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENVOLVIME 1.000,00 
+
+  3.3.90.34.00.00 - Outras Despesas de Pessoal Decorrentes de Contratos de Terceirização   
+
+1500 1910.08.0243.0018.1098.150 - ADQUIRIR VEÍC., MÁQ. EQUIP. E/OU MÓVEIS PARA O CONSELHO TUTE 20.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1505 1910.08.0243.0018.2047.150 - MANTER AS ATIVIDADES DO CONSELHO TUTELAR 5.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1510 1910.08.0243.0018.2047.150 - MANTER AS ATIVIDADES DO CONSELHO TUTELAR 10.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1510 1910.08.0243.0018.2047.150 - MANTER AS ATIVIDADES DO CONSELHO TUTELAR 10.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1510 1910.08.0243.0018.2047.150 - MANTER AS ATIVIDADES DO CONSELHO TUTELAR 21.100,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1526 1920.08.0244.0015.2195.150 - MANTER AS ATIVIDADES DOS CRAS / PAIF 9.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1528 1920.08.0244.0015.2195.150 - MANTER AS ATIVIDADES DOS CRAS / PAIF 10.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1529 1920.08.0244.0015.2195.166 - MANTER AS ATIVIDADES DOS CRAS / PAIF 50.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1529 1920.08.0244.0015.2195.166 - MANTER AS ATIVIDADES DOS CRAS / PAIF 5.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+  
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+
+
+
+Minas Gerais , 28 de Agosto de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3589 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              291 
+
+ 
+
+Ficha Funcional Programática Valor 
+
+1529 1920.08.0244.0015.2195.166 - MANTER AS ATIVIDADES DOS CRAS / PAIF 9.300,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1529 1920.08.0244.0015.2195.166 - MANTER AS ATIVIDADES DOS CRAS / PAIF 1.900,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1533 1920.08.0244.0015.2195.166 - MANTER AS ATIVIDADES DOS CRAS / PAIF 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1535 1920.08.0244.0015.2195.166 - MANTER AS ATIVIDADES DOS CRAS / PAIF 1.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1538 1920.08.0244.0015.2195.166 - MANTER AS ATIVIDADES DOS CRAS / PAIF 1.000,00 
+
+  3.3.90.08.00.00 - Outros Benefícios Assistenciais do Servidor ou do Militar   
+
+1541 1920.08.0244.0015.2195.166 - MANTER AS ATIVIDADES DOS CRAS / PAIF 450,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1544 1920.08.0244.0015.2195.166 - MANTER AS ATIVIDADES DOS CRAS / PAIF 1.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1547 1920.08.0244.0015.2195.166 - MANTER AS ATIVIDADES DOS CRAS / PAIF 1.200,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1585 1920.08.0244.0015.2197.166 - MANTER ATIVIDADES VOLTADAS À ASSISTÊNCIA SOCIAL - FMAS 300,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1586 1920.08.0244.0015.2197.166 - MANTER ATIVIDADES VOLTADAS À ASSISTÊNCIA SOCIAL - FMAS 1.000,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+1624 1920.08.0244.0017.1097.166 - ADQUIRIR VEÍC., MÁQ., EQUIP. E/OU MÓVEIS - CREAS 3.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1627 1920.08.0244.0017.2200.150 - MANTER AS ATIVIDADES DOS CREAS 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1629 1920.08.0244.0017.2200.150 - MANTER AS ATIVIDADES DOS CREAS 10.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1629 1920.08.0244.0017.2200.150 - MANTER AS ATIVIDADES DOS CREAS 6.500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1629 1920.08.0244.0017.2200.150 - MANTER AS ATIVIDADES DOS CREAS 20.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1629 1920.08.0244.0017.2200.150 - MANTER AS ATIVIDADES DOS CREAS 10.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1664 1920.08.0244.0017.2200.150 - MANTER AS ATIVIDADES DOS CREAS 1.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+1684 1940.08.0243.0018.1099.150 - CONSTRUIR, AMPLIAR E/OU REFORMAR EDIFICAÇÕES - FUMBEM 1.000,00 
+
+  4.4.90.30.00.00 - Material de Consumo   
+
+1685 1940.08.0243.0018.1099.150 - CONSTRUIR, AMPLIAR E/OU REFORMAR EDIFICAÇÕES - FUMBEM 1.000,00 
+
+  4.4.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física   
+
+1686 1940.08.0243.0018.1099.150 - CO
+28-Agosto-2023
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+
+
+
+Minas Gerais , 28 de Agosto de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3589 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              291 
+
+ 
+
+Ficha Funcional Programática Valor 
+
+1529 1920.08.0244.0015.2195.166 - MANTER AS ATIVIDADES DOS CRAS / PAIF 9.300,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1529 1920.08.0244.0015.2195.166 - MANTER AS ATIVIDADES DOS CRAS / PAIF 1.900,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1533 1920.08.0244.0015.2195.166 - MANTER AS ATIVIDADES DOS CRAS / PAIF 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1535 1920.08.0244.0015.2195.166 - MANTER AS ATIVIDADES DOS CRAS / PAIF 1.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1538 1920.08.0244.0015.2195.166 - MANTER AS ATIVIDADES DOS CRAS / PAIF 1.000,00 
+
+  3.3.90.08.00.00 - Outros Benefícios Assistenciais do Servidor ou do Militar   
+
+1541 1920.08.0244.0015.2195.166 - MANTER AS ATIVIDADES DOS CRAS / PAIF 450,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1544 1920.08.0244.0015.2195.166 - MANTER AS ATIVIDADES DOS CRAS / PAIF 1.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1547 1920.08.0244.0015.2195.166 - MANTER AS ATIVIDADES DOS CRAS / PAIF 1.200,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1585 1920.08.0244.0015.2197.166 - MANTER ATIVIDADES VOLTADAS À ASSISTÊNCIA SOCIAL - FMAS 300,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1586 1920.08.0244.0015.2197.166 - MANTER ATIVIDADES VOLTADAS À ASSISTÊNCIA SOCIAL - FMAS 1.000,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+1624 1920.08.0244.0017.1097.166 - ADQUIRIR VEÍC., MÁQ., EQUIP. E/OU MÓVEIS - CREAS 3.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1627 1920.08.0244.0017.2200.150 - MANTER AS ATIVIDADES DOS CREAS 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1629 1920.08.0244.0017.2200.150 - MANTER AS ATIVIDADES DOS CREAS 10.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1629 1920.08.0244.0017.2200.150 - MANTER AS ATIVIDADES DOS CREAS 6.500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1629 1920.08.0244.0017.2200.150 - MANTER AS ATIVIDADES DOS CREAS 20.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1629 1920.08.0244.0017.2200.150 - MANTER AS ATIVIDADES DOS CREAS 10.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1664 1920.08.0244.0017.2200.150 - MANTER AS ATIVIDADES DOS CREAS 1.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+1684 1940.08.0243.0018.1099.150 - CONSTRUIR, AMPLIAR E/OU REFORMAR EDIFICAÇÕES - FUMBEM 1.000,00 
+
+  4.4.90.30.00.00 - Material de Consumo   
+
+1685 1940.08.0243.0018.1099.150 - CONSTRUIR, AMPLIAR E/OU REFORMAR EDIFICAÇÕES - FUMBEM 1.000,00 
+
+  4.4.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física   
+
+1686 1940.08.0243.0018.1099.150 - CONSTRUIR, AMPLIAR E/OU REFORMAR EDIFICAÇÕES - FUMBEM 1.000,00 
+
+  4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+1687 1940.08.0243.0018.1099.150 - CONSTRUIR, AMPLIAR E/OU REFORMAR EDIFICAÇÕES - FUMBEM 1.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1690 1940.08.0243.0018.2030.150 - MANTER AS ATIVIDADES DA FUMBEM 5.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1728 2000.13.0392.0046.2005.150 - PROMOVER E APOIAR AÇÕES DE CULTURA E PATRIMÔNIO 15.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1731 2000.13.0392.0046.2005.150 - PROMOVER E APOIAR AÇÕES DE CULTURA E PATRIMÔNIO 10.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1755 2010.04.0122.0045.2171.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE CULTURA E PA 47.100,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1760 2010.04.0122.0045.2171.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE CULTURA E PA 5.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+1760 2010.04.0122.0045.2171.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE CULTURA E PA 30.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+1760 2010.04.0122.0045.2171.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE CULTURA E PA 10.500,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+  
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+1775 2030.13.0392.0046.1074.150 - CONST., AMPL. E/OU REFOR. EDIFICAÇÕES - POLÍTICAS CULTURAIS 1.000,00 
+
+  4.4.90.30.00.00 - Material de Consumo   
+
+1776 2030.13.0392.0046.1074.150 - CONST., AMPL. E/OU REFOR. EDIFICAÇÕES - POLÍTICAS CULTURAIS 1.000,00 
+
+  4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+1777 2030.13.0392.0046.1074.150 - CONST., AMPL. E/OU REFOR. EDIFICAÇÕES - POLÍTICAS CULTURAIS 1.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1787 2030.13.0392.0046.2079.150 - MANTER PROJETOS E AÇÕES VOLTADOS ÀS POLÍTICAS CULTURAIS 50.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1799 2040.13.0391.0051.2071.150 - MANTER PROJETOS E AÇÕES VOLTADOS À PRESERVAÇÃO DO PATRIMÔNIO 90.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1799 2040.13.0391.0051.2071.150 - MANTER PROJETOS E AÇÕES VOLTADOS À PRESERVAÇÃO DO PATRIMÔNIO 6.500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1799 2040.13.0391.0051.2071.150 - MANTER PROJETOS E AÇÕES VOLTADOS À PRESERVAÇÃO DO PATRIMÔNIO 20.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1799 2040.13.0391.0051.2071.150 - MANTER PROJETOS E AÇÕES VOLTADOS À PRESERVAÇÃO DO PATRIMÔNIO 15.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1802 2040.13.0391.0053.1115.150 - REALIZAR PROJETOS EXECUTIVOS PATRIMONIAIS 700,00 
+
+  4.4.90.30.00.00 - Material de Consumo   
+
+1828 2110.27.0122.0055.2183.150 - MANTER AS ATIVIDADES DA SEC. MUN. DE ESPORTES, LAZER E JUVEN 20.264,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1913 2200.04.0122.0026.2270.150 - MANTER AS ATIVIDADES DA SECRET. MUN. DE DESENVOLVIMENTO ECON 500,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+1914 2200.04.0122.0026.2276.150 - MANTER OS CONTRATOS DE PROGRAMA DE CONSÓRCIOS PÚBLICOS - DES 500,00 
+
+  3.3.93.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+1915 2200.04.0122.0026.2276.150 - MANTER OS CONTRATOS DE PROGRAMA DE CONSÓRCIOS PÚBLICOS - DES 500,00 
+
+
+
+Minas Gerais , 28 de Agosto de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3589 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              292 
+
+ 
+
+  4.4.93.51.00.00 - Obras e Instalações   
+
+1916 2200.22.0661.0026.1030.150 - PROMOVER O DESENVOLVIMENTO ECONÔMICO DO MUNICÍPIO DE DIAMANT 1.000,00 
+
+  4.4.90.30.00.00 - Material de Consumo   
+
+1920 2200.22.0661.0026.1030.150 - PROMOVER O DESENVOLVIMENTO ECONÔMICO DO MUNICÍPIO DE DIAMANT 1.000,00 
+
+  4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+1924 2200.22.0661.0026.1030.150 - PROMOVER O DESENVOLVIMENTO ECONÔMICO DO MUNICÍPIO DE DIAMANT 1.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1932 2200.23.0692.0026.1087.170 - CONST., AMPLI., REFOR. E/OU ADAP. EDIFICAÇÕES - DESENVOLVIME 239.000,00 
+
+  4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+1938 2210.23.0695.0026.1071.150 - ADQUIRIR VEÍC., MÁQ., EQUIP. E/OU MÓVEIS - TURISMO 10
+28-Agosto-2023
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+1775 2030.13.0392.0046.1074.150 - CONST., AMPL. E/OU REFOR. EDIFICAÇÕES - POLÍTICAS CULTURAIS 1.000,00 
+
+  4.4.90.30.00.00 - Material de Consumo   
+
+1776 2030.13.0392.0046.1074.150 - CONST., AMPL. E/OU REFOR. EDIFICAÇÕES - POLÍTICAS CULTURAIS 1.000,00 
+
+  4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+1777 2030.13.0392.0046.1074.150 - CONST., AMPL. E/OU REFOR. EDIFICAÇÕES - POLÍTICAS CULTURAIS 1.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1787 2030.13.0392.0046.2079.150 - MANTER PROJETOS E AÇÕES VOLTADOS ÀS POLÍTICAS CULTURAIS 50.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1799 2040.13.0391.0051.2071.150 - MANTER PROJETOS E AÇÕES VOLTADOS À PRESERVAÇÃO DO PATRIMÔNIO 90.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1799 2040.13.0391.0051.2071.150 - MANTER PROJETOS E AÇÕES VOLTADOS À PRESERVAÇÃO DO PATRIMÔNIO 6.500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1799 2040.13.0391.0051.2071.150 - MANTER PROJETOS E AÇÕES VOLTADOS À PRESERVAÇÃO DO PATRIMÔNIO 20.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1799 2040.13.0391.0051.2071.150 - MANTER PROJETOS E AÇÕES VOLTADOS À PRESERVAÇÃO DO PATRIMÔNIO 15.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1802 2040.13.0391.0053.1115.150 - REALIZAR PROJETOS EXECUTIVOS PATRIMONIAIS 700,00 
+
+  4.4.90.30.00.00 - Material de Consumo   
+
+1828 2110.27.0122.0055.2183.150 - MANTER AS ATIVIDADES DA SEC. MUN. DE ESPORTES, LAZER E JUVEN 20.264,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1913 2200.04.0122.0026.2270.150 - MANTER AS ATIVIDADES DA SECRET. MUN. DE DESENVOLVIMENTO ECON 500,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+1914 2200.04.0122.0026.2276.150 - MANTER OS CONTRATOS DE PROGRAMA DE CONSÓRCIOS PÚBLICOS - DES 500,00 
+
+  3.3.93.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+1915 2200.04.0122.0026.2276.150 - MANTER OS CONTRATOS DE PROGRAMA DE CONSÓRCIOS PÚBLICOS - DES 500,00 
+
+
+
+Minas Gerais , 28 de Agosto de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3589 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              292 
+
+ 
+
+  4.4.93.51.00.00 - Obras e Instalações   
+
+1916 2200.22.0661.0026.1030.150 - PROMOVER O DESENVOLVIMENTO ECONÔMICO DO MUNICÍPIO DE DIAMANT 1.000,00 
+
+  4.4.90.30.00.00 - Material de Consumo   
+
+1920 2200.22.0661.0026.1030.150 - PROMOVER O DESENVOLVIMENTO ECONÔMICO DO MUNICÍPIO DE DIAMANT 1.000,00 
+
+  4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+1924 2200.22.0661.0026.1030.150 - PROMOVER O DESENVOLVIMENTO ECONÔMICO DO MUNICÍPIO DE DIAMANT 1.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1932 2200.23.0692.0026.1087.170 - CONST., AMPLI., REFOR. E/OU ADAP. EDIFICAÇÕES - DESENVOLVIME 239.000,00 
+
+  4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+1938 2210.23.0695.0026.1071.150 - ADQUIRIR VEÍC., MÁQ., EQUIP. E/OU MÓVEIS - TURISMO 10.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1938 2210.23.0695.0026.1071.150 - ADQUIRIR VEÍC., MÁQ., EQUIP. E/OU MÓVEIS - TURISMO 9.100,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1942 2210.23.0695.0026.2058.150 - MANTER PROJETOS E AÇÕES VOLTADOS AO TURISMO 5.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1946 2210.23.0695.0026.2058.150 - MANTER PROJETOS E AÇÕES VOLTADOS AO TURISMO 20.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1963 1700.18.0542.0025.2181.170 - GARANTIR A GESTÃO DE RESÍDUOS E A LIMPEZA PÚBLICA 12.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1969 1100.04.0122.0062.1090.150 - ADQUIRIR VEÍC., MÁQ., EQUIP. E/OU MÓVEIS - GABINETE DO PREFE 1.719,34 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1969 1100.04.0122.0062.1090.150 - ADQUIRIR VEÍC., MÁQ., EQUIP. E/OU MÓVEIS - GABINETE DO PREFE 5.354,55 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1969 1100.04.0122.0062.1090.150 - ADQUIRIR VEÍC., MÁQ., EQUIP. E/OU MÓVEIS - GABINETE DO PREFE 5,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1971 1400.04.0122.0033.1068.150 - ADQUIRIR VEÍC, MÁQ, EQUIP E/OU MÓVEIS - SECRE. MUN. DE GOVER 10.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1972 1430.06.0181.0032.1027.150 - ADQUIRIR VEÍC., MÁQ., EQUIP. E/OU MÓVEIS - GUARDA CIVIL PATR 6.050,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1977 1622.10.0302.0005.1038.150 - ADQUIRIR VEÍCULOS, MÁQUINAS, EQUIPAMENTOS E/OU MÓVEIS - BLMA 10.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+  
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+2026 2200.04.0122.0026.1123.150 - ADQUIRIR VEÍCULOS, MÁQUINAS, EQUIP. E/OU MÓVEIS - DESENVOLVI 9.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+2026 2200.04.0122.0026.1123.150 - ADQUIRIR VEÍCULOS, MÁQUINAS, EQUIP. E/OU MÓVEIS - DESENVOLVI 2.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+2028 1920.08.0244.0015.2196.150 - APOIAR ENTIDADES FILANTRÓPICAS E CONGÊNERES - PROTEÇÃO SOCIA 5.000,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+2028 1920.08.0244.0015.2196.150 - APOIAR ENTIDADES FILANTRÓPICAS E CONGÊNERES - PROTEÇÃO SOCIA 10.000,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+2055 2200.23.0692.0026.1087.150 - CONST., AMPLI., REFOR. E/OU ADAP. EDIFICAÇÕES - DESENVOLVIME 56.810,98 
+
+  4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+Total 5.342.088,60 
+
+  
+
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+
+  
+
+Artigo 4º: Revogam-se as disposições em contrário. 
+
+  
+
+DIAMANTINA, 3 de Julho de 2023 
+  
+
+JUSCELINO BRASILIANO ROQUE 
+Prefeito Municipal 
+
+Publicado por: 
+Paloma de Oliveira Moura 
+
+Código Identificador:C6530CDD 
+
+ 
+GABINETE DO PREFEITO 
+
+DECRETO Nº 00339/2023 DE 3 DE JULHO DE 2023 
+
+ 
+
+Decreto Nº 00339/2023 de 3 de Julho de 2023 
+  
+
+Transferência de Dotações 
+
+  
+
+O Prefeito Municipal, no uso de suas atribuiçoes legais, com base no artigo 43, da Lei Federal Nº 4.320/64 e da Lei Municipal Nº 4199 de 17 
+
+de Agosto de 2022 ,considerando a necessidade de realocar créditos orçamentários dentro de uma mesma categoria de programação, 
+
+decreta: 
+Artigo 1º: Fica transferido o valor na ordem de R$ 1.856.371,89 (Hum milhão, oitocentos e cinquenta e seis Mil e trezentos e setenta e um reais e 
+
+oitenta e nove centavos), às dotações do Orçamento Programa do exercício fluente: 
+
+  
+Ficha Funcional Programática Valor 
+
+0002 
+1100.02.0092.0039.2013.150 - CUMPRIR COM SENTENÇAS JUDICIAIS E/OU ACORDOS HOMOLOGADOS EM 
+
+3.3.90.91.00.00 - Sentenças Judiciais 
+400,00 
+
+0005 
+1100.04.0122.0062.2186.150 - MANTER AS ATIVIDADES DOS ÓRGÃOS E SETORES VINCULADOS AO GAB. 
+
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+800,13 
+
+0005 
+1100.04.0122.0062.2186.150 - MANTER AS ATIVIDADES DOS ÓRGÃOS E SETORES VINCULADOS AO GAB. 
+
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+270,00 
+
+0005 
+1100.04.0122.0062.2186.150 - MANTER AS ATIVIDADES DOS ÓRGÃOS E SETORES VINCULADOS AO GAB. 
+
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+60,00 
+
+0005 1100.04.0122.0062.2186.150 - MANTER AS ATIVIDADES DOS ÓRGÃOS E SETORES VINCULADOS AO GAB. 200,00 
+
+
+
+Minas Gerais , 28 de Agosto de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3589 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                            
+28-Agosto-2023
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+2026 2200.04.0122.0026.1123.150 - ADQUIRIR VEÍCULOS, MÁQUINAS, EQUIP. E/OU MÓVEIS - DESENVOLVI 9.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+2026 2200.04.0122.0026.1123.150 - ADQUIRIR VEÍCULOS, MÁQUINAS, EQUIP. E/OU MÓVEIS - DESENVOLVI 2.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+2028 1920.08.0244.0015.2196.150 - APOIAR ENTIDADES FILANTRÓPICAS E CONGÊNERES - PROTEÇÃO SOCIA 5.000,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+2028 1920.08.0244.0015.2196.150 - APOIAR ENTIDADES FILANTRÓPICAS E CONGÊNERES - PROTEÇÃO SOCIA 10.000,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+2055 2200.23.0692.0026.1087.150 - CONST., AMPLI., REFOR. E/OU ADAP. EDIFICAÇÕES - DESENVOLVIME 56.810,98 
+
+  4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+Total 5.342.088,60 
+
+  
+
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+
+  
+
+Artigo 4º: Revogam-se as disposições em contrário. 
+
+  
+
+DIAMANTINA, 3 de Julho de 2023 
+  
+
+JUSCELINO BRASILIANO ROQUE 
+Prefeito Municipal 
+
+Publicado por: 
+Paloma de Oliveira Moura 
+
+Código Identificador:C6530CDD 
+
+ 
+GABINETE DO PREFEITO 
+
+DECRETO Nº 00339/2023 DE 3 DE JULHO DE 2023 
+
+ 
+
+Decreto Nº 00339/2023 de 3 de Julho de 2023 
+  
+
+Transferência de Dotações 
+
+  
+
+O Prefeito Municipal, no uso de suas atribuiçoes legais, com base no artigo 43, da Lei Federal Nº 4.320/64 e da Lei Municipal Nº 4199 de 17 
+
+de Agosto de 2022 ,considerando a necessidade de realocar créditos orçamentários dentro de uma mesma categoria de programação, 
+
+decreta: 
+Artigo 1º: Fica transferido o valor na ordem de R$ 1.856.371,89 (Hum milhão, oitocentos e cinquenta e seis Mil e trezentos e setenta e um reais e 
+
+oitenta e nove centavos), às dotações do Orçamento Programa do exercício fluente: 
+
+  
+Ficha Funcional Programática Valor 
+
+0002 
+1100.02.0092.0039.2013.150 - CUMPRIR COM SENTENÇAS JUDICIAIS E/OU ACORDOS HOMOLOGADOS EM 
+
+3.3.90.91.00.00 - Sentenças Judiciais 
+400,00 
+
+0005 
+1100.04.0122.0062.2186.150 - MANTER AS ATIVIDADES DOS ÓRGÃOS E SETORES VINCULADOS AO GAB. 
+
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+800,13 
+
+0005 
+1100.04.0122.0062.2186.150 - MANTER AS ATIVIDADES DOS ÓRGÃOS E SETORES VINCULADOS AO GAB. 
+
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+270,00 
+
+0005 
+1100.04.0122.0062.2186.150 - MANTER AS ATIVIDADES DOS ÓRGÃOS E SETORES VINCULADOS AO GAB. 
+
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+60,00 
+
+0005 1100.04.0122.0062.2186.150 - MANTER AS ATIVIDADES DOS ÓRGÃOS E SETORES VINCULADOS AO GAB. 200,00 
+
+
+
+Minas Gerais , 28 de Agosto de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3589 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              293 
+
+ 
+
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+
+0005 
+1100.04.0122.0062.2186.150 - MANTER AS ATIVIDADES DOS ÓRGÃOS E SETORES VINCULADOS AO GAB. 
+
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+249,50 
+
+0006 
+1100.04.0122.0062.2186.150 - MANTER AS ATIVIDADES DOS ÓRGÃOS E SETORES VINCULADOS AO GAB. 
+
+3.1.90.13.00.00 - Obrigações Patronais 
+830,00 
+
+0015 
+1100.04.0122.0062.2186.150 - MANTER AS ATIVIDADES DOS ÓRGÃOS E SETORES VINCULADOS AO GAB. 
+
+3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física 
+1.470,00 
+
+0029 
+1100.04.0122.0062.2275.150 - MANTER CONVÊNIOS E/OU PARCERIAS COM PESSOAS JURÍDICAS - GABI 
+
+3.3.90.47.00.00 - Obrigações Tributárias e Contributivas 
+459.000,00 
+
+0040 
+1210.04.0122.0027.2189.150 - MANTER AS ATIVIDADES DA SECRET. MUN. DE PLANEJAMENTO, ORÇAME 
+
+3.3.90.30.00.00 - Material de Consumo 
+2.200,00 
+
+0046 
+1210.04.0122.0027.2189.150 - MANTER AS ATIVIDADES DA SECRET. MUN. DE PLANEJAMENTO, ORÇAME 
+
+3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica 
+26.317,00 
+
+0051 
+1210.04.0122.0027.2189.150 - MANTER AS ATIVIDADES DA SECRET. MUN. DE PLANEJAMENTO, ORÇAME 
+
+3.3.90.93.00.00 - Indenizações e Restituições 
+5.000,00 
+
+0069 
+1310.04.0123.0059.2175.150 - MANTER AS ATIVIDADES DA SEC. MUN. DE FAZENDA 
+
+3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física 
+480,00 
+
+0086 
+1310.28.0843.0060.0001.150 - AMORTIZAR DÍVIDAS CONTRATADAS 
+
+3.2.90.21.00.00 - Juros sobre a Dívida por Contrato 
+50.000,00 
+
+0086 
+1310.28.0843.0060.0001.150 - AMORTIZAR DÍVIDAS CONTRATADAS 
+
+3.2.90.21.00.00 - Juros sobre a Dívida por Contrato 
+100.000,00 
+
+0109 
+1400.04.0122.0033.2163.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE GOVERNO 
+
+3.1.90.04.00.00 - Contratação por Tempo Determinado 
+5.000,00 
+
+0118 
+1400.04.0122.0033.2163.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE GOVERNO 
+
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+500,00 
+
+0118 
+1400.04.0122.0033.2163.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE GOVERNO 
+
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+1.000,00 
+
+0118 
+1400.04.0122.0033.2163.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE GOVERNO 
+
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+300,00 
+
+0118 
+1400.04.0122.0033.2163.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE GOVERNO 
+
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+1.000,00 
+
+0123 
+1400.04.0122.0033.2163.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE GOVERNO 
+
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+400,00 
+
+0123 
+1400.04.0122.0033.2163.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE GOVERNO 
+
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+500,00 
+
+0129 
+1400.04.0122.0034.2088.150 - MANTER CONVÊNIOS E/OU PARCERIAS COM PESSOAS JURÍDICAS - GOVE 
+
+3.3.30.41.00.00 - Contribuições 
+1.000,00 
+
+0140 
+1400.06.0153.0032.2165.150 - MANTER CONVÊNIOS E/OU PARCERIAS COM O TIRO DE GUERRA 
+
+3.3.90.30.00.00 - Material de Consumo 
+300,00 
+
+0175 
+1430.06.0181.0032.2033.150 - MANTER AS ATIVIDADES DA GUARDA CIVIL PATRIMONIAL 
+
+3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física 
+400,00 
+
+0227 
+1510.12.0122.0030.2135.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+200,00 
+
+  
+
+Artigo 1º: Fica transferido o valor na ordem de R$ 1.856.371,89 (Hum milhão, oitocentos e cinquenta e seis Mil e trezentos e setenta e um reais e 
+
+oitenta e nove centavos), às dotações do Orçamento Programa do exercício fluente: 
+
+  
+Ficha Funcional Programática Valor 
+
+0241 
+1510.12.0122.0030.2135.150 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+17.726,26 
+
+0296 
+1521.12.0361.0030.2139.150 - MANTER AS ATIVIDADES DO ENSINO FUNDAMENTAL 
+
+3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física 
+900,00 
+
+0298 
+1521.12.0361.0030.2139.150 - MANTER AS ATIVIDADES DO ENSINO FUNDAMENTAL 
+
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+1.000,00 
+
+0322 
+1521.12.0361.0030.2141.150 - MANTER O SERVIÇO DE TRANSPORTE ESCOLAR - ENSINO FUNDAMENTAL 
+
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+1.000,00 
+
+0322 
+1521.12.0361.0030.2141.150 - MANTER O SERVIÇO DE TRANSPORTE ESCOLAR - ENSINO FUNDAMENTAL 
+
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+1.000,00 
+
+0322 
+1521.12.0361.0030.2141.150 - MANTER O SERVIÇO DE TRANSPORTE ESCOLAR - ENSINO FUNDAMENTAL 
+
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+1.000,00 
+
+0336 
+1521.12.0361.0030.2141.157 - MANTER O SERVIÇO DE TRANSPORTE ESCOLAR - ENSINO FUNDAMENTAL 
+
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+1.000,00 
+
+0336 
+1521.12.0361.0030.2141.157 - MANTER O SERVIÇO DE TRANSPORTE ESCOLAR - ENSINO FUNDAMENTAL 
+
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+1.000,00 
+
+0336 
+1521.12.0361.0030.2141.157 - MANTER O SERVIÇO DE TRANSPORTE ESCOLAR - ENSINO FUNDAMENTAL 
+
+3.3

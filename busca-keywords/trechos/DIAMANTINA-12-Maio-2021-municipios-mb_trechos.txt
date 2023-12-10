@@ -1,0 +1,455 @@
+12-Maio-2021
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0014 1100.04.0122.0003.2022.100 - MANUTENÇÃO DAS ATIVIDADES DO GABINETE DO PREFEITO 11.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0019 1110.04.0122.0003.2023.100 - SALÁRIOS/ENCARGOS DA ASSESSORIA DE GABINETE 4.851,26 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0234 1410.04.0122.0003.1015.100 - AQUISIÇÃO DE IMÓVEIS 10.573,00 
+
+  4.4.90.61.00.00 - Aquisição de Imóveis   
+
+0246 1410.04.0122.0003.2054.100 - MANUTENÇÃO DAS ATIVIDADES DA SEGOV 44.756,52 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0383 1510.12.0122.0011.2072.101 - SALÁRIOS/ENCARGOS DA SEDUC 235.016,34 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0428 1521.12.0361.0011.2078.118 - SALÁRIOS/ENCARGOS FUNDEB 60% 16.543,18 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0441 1521.12.0361.0011.2080.101 - MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL 7.167,44 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0476 1521.12.0361.0011.2084.145 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 8.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0591 1523.12.0365.0011.2094.118 - SALÁRIOS/ENCARGOS PRÉ ESCOLA 60% 1.911,69 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0596 1523.12.0365.0011.2094.119 - SALÁRIOS/ENCARGOS PRÉ ESCOLA 60% 919,84 
+
+  3.3.90.08.00.00 - Outros Benefícios Assistenciais do Servidor ou do Militar   
+
+0695 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 3.484,12 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+1123 1624.10.0305.0018.2131.159 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 2.501,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1124 1624.10.0305.0018.2131.102 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 41.858,38 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1125 1624.10.0305.0018.2131.155 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 3.224,62 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1128 1624.10.0305.0018.2131.155 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 1.000,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1132 1624.10.0305.0018.2131.155 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 1.000,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+1136 1624.10.0305.0018.2131.155 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1144 1624.10.0305.0019.1049.155 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SAÚDE DO TRA 1.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1268 1710.20.0605.0026.1057.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ AGRICULTURA 7.131,44 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1293 1720.15.0452.0025.1068.100 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DE PRAÇAS, PARQUES E JARDIN 84.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1364 1810.04.0122.0029.1079.100 - AMPLIAÇÃO E MODERNIZAÇÃO DA GARAGEM MUNICIPAL 4.100,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1366 1810.04.0122.0029.2170.100 - MANUTENÇÃO DAS ATIVIDADES DO LAVA JATO MUNICIPAL 535,88 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1414 1810.18.0544.0031.1087.100 - SERVIÇOS DE DESASSOREAMENTO DE CÓRREGOS E BARRAGENS 6.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1500 1920.08.0244.0036.2176.100 - MANUTENÇÃO DAS ATIVIDADES DO CRAS/PAIF 10.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1538 1920.08.0244.0036.2244.100 - MANUTENÇÃO DAS ATIVIDADES DO FMAS 5.113,45 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1844 2030.13.0392.0055.2256.100 - PROMOVER E APOIAR O CARNAVAL 42.500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1846 2030.13.0392.0055.2256.100 - PROMOVER E APOIAR O CARNAVAL 400.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1847 2030.13.0392.0055.2256.100 - PROMOVER E APOIAR O CARNAVAL 107.513,95 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1937 2110.27.0812.0064.1122.100 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DO GINÁSIO POLIESPORTIVO 49.519,65 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1941 2110.27.0812.0064.1124.124 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DE ESTÁDIO MUNICIPAL 5.336,70 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+Total  1.117.558,46 
+
+
+
+Minas Gerais , 12 de Maio de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3006 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              190 
+ 
+
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+  
+Artigo 4º: Revogam-se as disposições em contrário. 
+  
+DIAMANTINA, 5 de Abril de 2021 
+  
+JUSCELINO BRASILIANO ROQUE 
+Prefeito Municipal 
+
+Publicado por: 
+Nilza de Fátima Alves 
+
+Código Identificador:414CF761 
+
+ 
+GABINETE DO PREFEITO 
+
+DECRETO Nº 00196/2021 DE 5 DE ABRIL DE 2021 
+ 
+Decreto Nº 00196/2021 de 5 de Abril de 2021 
+  
+
+Transferência de Dotações 
+  
+O Prefeito Municipal, no uso de suas atribuiçoes legais, com base no artigo 43, da Lei Federal Nº 4.320/64 e da Lei  
+Municipal Nº 4103 de 11 de Agosto de 2020 ,considerando a necessidade de realocar créditos orçamentários dentro de uma mesma categoria 
+de programação, decreta: 
+Artigo 1º: Fica transferido o valor na ordem de R$ 261.696,77 (Duzentos e sessenta e um Mil e seiscentos e noventa e seis reais e setenta e sete 
+centavos), às dotações do Orçamento Programa do exercício fluente: 
+  
+Ficha Funcional Programática Valor 
+
+0003 1100.04.0122.0003.2021.100 - SALÁRIIOS/ENCARGOS DO GABINETE DO PREFEITO 80,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0013 1100.04.0122.0003.2022.100 - MANUTENÇÃO DAS ATIVIDADES DO GABINETE DO PREFEITO 360,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0068 1140.04.0131.0003.2030.100 - MANUTENÇÃO DAS ATIVIDADES DA ASSESSORIA DE COMUNICAÇÃO 2.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0068 1140.04.0131.0003.2030.100 - MANUTENÇÃO DAS ATIVIDADES DA ASSESSORIA DE COMUNICAÇÃO 574,80 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0214 1310.04.0123.0003.2050.100 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 2.485,14 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0214 1310.04.0123.0003.2050.100 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 6.225,70 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0223 1320.04.0129.0003.2051.100 - SALÁRIOS/ENCARGOS DO DEPTO DE TRIBUTOS 10.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0223 1320.04.0129.0003.2051.100 - SALÁRIOS/ENCARGOS DO DEPTO DE TRIBUTOS 7.330,61 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0248 1410.04.0122.0003.2054.100 - MANUTENÇÃO DAS ATIVIDADES DA SEGOV 2.400,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0249 1410.04.0122.0003.2054.100 - MANUTENÇÃO DAS ATIVIDADES DA SEGOV 4.816,54 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0385 1510.12.0122.0011.2072.101 - SALÁRIOS/ENCARGOS DA SEDUC 863,63 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0395 1510.12.0122.0011.2073.101 - MANUTENÇÃO DAS ATIVIDADES DA SEDUC 254,13 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0433 1521.12.0361.0011.2079.119 - SALÁRIOS/ENCARGOS FUNDEB 40% 28.785,14 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determi
+12-Maio-2021
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1937 2110.27.0812.0064.1122.100 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DO GINÁSIO POLIESPORTIVO 49.519,65 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1941 2110.27.0812.0064.1124.124 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DE ESTÁDIO MUNICIPAL 5.336,70 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+Total  1.117.558,46 
+
+
+
+Minas Gerais , 12 de Maio de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3006 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              190 
+ 
+
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+  
+Artigo 4º: Revogam-se as disposições em contrário. 
+  
+DIAMANTINA, 5 de Abril de 2021 
+  
+JUSCELINO BRASILIANO ROQUE 
+Prefeito Municipal 
+
+Publicado por: 
+Nilza de Fátima Alves 
+
+Código Identificador:414CF761 
+
+ 
+GABINETE DO PREFEITO 
+
+DECRETO Nº 00196/2021 DE 5 DE ABRIL DE 2021 
+ 
+Decreto Nº 00196/2021 de 5 de Abril de 2021 
+  
+
+Transferência de Dotações 
+  
+O Prefeito Municipal, no uso de suas atribuiçoes legais, com base no artigo 43, da Lei Federal Nº 4.320/64 e da Lei  
+Municipal Nº 4103 de 11 de Agosto de 2020 ,considerando a necessidade de realocar créditos orçamentários dentro de uma mesma categoria 
+de programação, decreta: 
+Artigo 1º: Fica transferido o valor na ordem de R$ 261.696,77 (Duzentos e sessenta e um Mil e seiscentos e noventa e seis reais e setenta e sete 
+centavos), às dotações do Orçamento Programa do exercício fluente: 
+  
+Ficha Funcional Programática Valor 
+
+0003 1100.04.0122.0003.2021.100 - SALÁRIIOS/ENCARGOS DO GABINETE DO PREFEITO 80,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0013 1100.04.0122.0003.2022.100 - MANUTENÇÃO DAS ATIVIDADES DO GABINETE DO PREFEITO 360,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0068 1140.04.0131.0003.2030.100 - MANUTENÇÃO DAS ATIVIDADES DA ASSESSORIA DE COMUNICAÇÃO 2.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0068 1140.04.0131.0003.2030.100 - MANUTENÇÃO DAS ATIVIDADES DA ASSESSORIA DE COMUNICAÇÃO 574,80 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0214 1310.04.0123.0003.2050.100 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 2.485,14 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0214 1310.04.0123.0003.2050.100 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 6.225,70 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0223 1320.04.0129.0003.2051.100 - SALÁRIOS/ENCARGOS DO DEPTO DE TRIBUTOS 10.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0223 1320.04.0129.0003.2051.100 - SALÁRIOS/ENCARGOS DO DEPTO DE TRIBUTOS 7.330,61 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0248 1410.04.0122.0003.2054.100 - MANUTENÇÃO DAS ATIVIDADES DA SEGOV 2.400,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0249 1410.04.0122.0003.2054.100 - MANUTENÇÃO DAS ATIVIDADES DA SEGOV 4.816,54 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0385 1510.12.0122.0011.2072.101 - SALÁRIOS/ENCARGOS DA SEDUC 863,63 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0395 1510.12.0122.0011.2073.101 - MANUTENÇÃO DAS ATIVIDADES DA SEDUC 254,13 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0433 1521.12.0361.0011.2079.119 - SALÁRIOS/ENCARGOS FUNDEB 40% 28.785,14 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0436 1521.12.0361.0011.2079.119 - SALÁRIOS/ENCARGOS FUNDEB 40% 821,69 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0552 1522.12.0365.0011.2090.119 - SALÁRIOS/ENCARGOS CRECHE 40% 495,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0592 1523.12.0365.0011.2094.118 - SALÁRIOS/ENCARGOS PRÉ ESCOLA 60% 1.697,96 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0643 1524.12.0362.0011.2100.145 - MANUTENÇÃO DO TRANSPORTE ENSINO MÉDIO 3.469,50 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0643 1524.12.0362.0011.2100.145 - MANUTENÇÃO DO TRANSPORTE ENSINO MÉDIO 2.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0842 1621.10.0301.0014.2114.102 - SALÁRIOS/ENCARGOS DO NASF 3.331,27 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0842 1621.10.0301.0014.2114.102 - SALÁRIOS/ENCARGOS DO NASF 104,04 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0943 1622.10.0302.0016.2121.159 - MANUTENÇÃO DAS ATIVIDADES DA REDE SAÚDE MENTAL 20.347,13 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1038 1623.10.0304.0017.2128.102 - SALÁRIOS/ENCARGOS VIGILÂNCIA SANITÁRIA 1.389,02 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1149 1624.10.0305.0019.2132.102 - SALÁRIOS/ENCARGOS SAÚDE DO TRABALHADOR 275,68 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1170 1624.10.0305.0019.2133.159 - MANUTENÇÃO DAS ATIVIDADES DA SAÚDE DO TRABALHADOR 601,35 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1204 1624.10.0305.0020.2135.159 - MANUTENÇÃO DAS ATIVIDADES DA VIG AMBIENTAL E ZOONOSES 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1204 1624.10.0305.0020.2135.159 - MANUTENÇÃO DAS ATIVIDADES DA VIG AMBIENTAL E ZOONOSES 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+  
+Artigo 1º: Fica transferido o valor na ordem de R$ 261.696,77 (Duzentos e sessenta e um Mil e seiscentos e noventa e seis reais e setenta e sete 
+centavos), às dotações do Orçamento Programa do exercício fluente: 
+ 
+  
+
+
+
+Minas Gerais , 12 de Maio de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3006 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              191 
+ 
+
+Ficha Funcional Programática Valor 
+
+1204 1624.10.0305.0020.2135.159 - MANUTENÇÃO DAS ATIVIDADES DA VIG AMBIENTAL E ZOONOSES 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1237 1624.10.0305.0023.2140.159 - MANUTENÇÃO DAS ATIVIDADES EM VIG IST/AIDS E HEPATITRES VIRAI 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1237 1624.10.0305.0023.2140.159 - MANUTENÇÃO DAS ATIVIDADES EM VIG IST/AIDS E HEPATITRES VIRAI 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1237 1624.10.0305.0023.2140.159 - MANUTENÇÃO DAS ATIVIDADES EM VIG IST/AIDS E HEPATITRES VIRAI 348,58 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1245 1710.04.0122.0024.2141.100 - SALÁRIOS/ENCARGOS DA ADMINISTRAÇÃO DA SEMDAMA 185,75 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1253 1710.04.0122.0024.2142.100 - MANUTENÇÃO DAS ATIVIDADES DA SEMDAMA 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1307 1720.15.0452.0025.2164.100 - MANUTENÇÃO DAS ATIVIDADES DE LIMPEZA PÚBLICA 12.155,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1312 1720.15.0452.0025.2164.100 - MANUTENÇÃO DAS ATIVIDADES DE LIMPEZA PÚBLICA 8.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1312 1720.15.0452.0025.2164.100 - MANUTENÇÃO DAS ATIVIDADES DE LIMPEZA PÚBLICA 338,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1376 1810.15.0122.0003.2166.100 - SALÁRIOS/ENCARGOS DA SEDUR 5.388,56 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1389 1810.15.0122.0003.2167.100 - MANUTENÇÃO DAS ATIVIDADES DA SEDUR 72.672,13 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1454 1910.08.0122.0035.2174.100 - MANUTENÇÃO DAS ATIVIDADES DA SMDS 3.450,61 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1454 1910.08.0122.0035.2174.100 - MANUTENÇÃO DAS ATIVIDADES DA SMDS

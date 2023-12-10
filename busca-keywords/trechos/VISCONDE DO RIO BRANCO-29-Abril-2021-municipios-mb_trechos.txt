@@ -1,0 +1,1473 @@
+29-Abril-2021
+VISCONDE DO RIO BRANCO
+A DE CRÉDITO SUPLEMENTAR E DA OUTRAS PROVIDÊNCIAS. 
+  
+O(A) Prefeito(a) Municipal de , Estado de Minas Gerais, no uso de suas atribuições legais, com base no da Lei Municipal 1539/2020 de 28/12/2020 e 
+art. 43 da Lei Federal 4.320/64, decreta: 
+Art. 1o. - Fica aberto o Crédito Suplementar no valor total de R$ 248.865,63 (duzentos e quarenta e oito mil , oitocentos e sessenta e cinco reais e 
+sessenta e três centavos ), nas seguintes dotações orçamentárias: 
+  
+Unid. Orc........: 02.007.000 - SECRETARIA MUN. AGRICULTURA E MEIO AMBIENTE 
+
+ 
+Função............: 18 - GESTAO AMBIENTAL   
+
+Subfunção.......: 541 - PRESERVACAO E CONSERVACAO AMBIENTAL   
+
+Programa........: 0009 - PRESERVAÇÃO DO MEIO AMBIENTE   
+
+Proj/Ativ.........: 2.085 - MANUTENÇÃO ATIVIDADES USINA/ATERRO SANITARIO   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 1.430,00 Ficha: 00284 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção.......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA- PSF 
+ 
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE   
+
+Valor...............: R$ 626,35 Ficha: 00391 
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 8.415,00 Ficha: 00396 
+
+
+
+Minas Gerais , 29 de Abril de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 2997 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              243 
+ 
+
+Subfunção.......: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL   
+
+Programa........: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE   
+
+Proj/Ativ.........: 2.115 - MANUT. CENTRO DE ATENÇÃO PSICOSSOCIAL - CAPS   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 740,17 Ficha: 00417 
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 1.035,00 Ficha: 00420 
+
+Subfunção.......: 303 - SUPORTE PROFILATICO E TERAPEUTICO   
+
+Programa........: 0013 - ASSITÊNCIA FARMACEUTICA   
+
+Proj/Ativ.........: 2.123 - MANUTENÇÃO DA ASSISTÊNCIA FARMACÊUTICA   
+
+Conta..............: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRATUITA  
+Fonte...............: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE   
+
+Valor...............: R$ 136.613,11 Ficha: 00456 
+
+Subfunção.......: 304 - VIGILANCIA SANITARIA   
+
+Programa........: 0014 - VIGILÂNCIA EM SAÚDE   
+
+Proj/Ativ.........: 2.124 - MANUT. DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA   
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 65,00 Ficha: 00472 
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte...............: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE   
+
+Valor...............: R$ 3.025,00 Ficha: 00472 
+
+Subfunção.......: 306 - ALIMENTACAO E NUTRICAO   
+
+Programa........: 0015 - ASSISTÊNCIA NUTRICIONAL   
+
+Proj/Ativ.........: 2.128 - MANUT. PROGRAMA DE ALIMENTAÇÃO E NUTRIÇÃO   
+
+Conta..............: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRATUITA  
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 76.212,00 Ficha: 00486 
+
+Conta..............: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRATUITA 
+ 
+
+Fonte...............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+Valor...............: R$ 9.958,00 Ficha: 00486 
+
+Unid. Orc........: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL   
+
+Função............: 08 - ASSISTENCIA SOCIAL   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.233 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.36.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 1.440,00 Ficha: 00789 
+
+Unid. Orc........: 02.011.003 - FUNDO MUNICIPAL DO IDOSO   
+
+Função............: 08 - ASSISTENCIA SOCIAL   
+
+Subfunção.......: 241 - ASSISTENCIA AO IDOSO   
+
+Programa........: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL   
+
+Proj/Ativ.........: 2.250 - MANUTENÇÃO ATIVIDADES ASSISTENCIA AO IDOSO   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 9.306,00 Ficha: 00877 
+
+  
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 248.865,63 (duzentos e 
+quarenta e oito mil , oitocentos e sessenta e cinco reais e sessenta e três centavos ), referente a anulação parcial ou total das dotações abaixo 
+relacionadas. 
+  
+Unid. Orc........: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.35.00 - SERVIÇOS DE CONSULTORIA   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 12.176,00 Ficha: 00069 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.08.00 - OUTROS BENEFÍCIOS ASSISTENCIAIS   
+
+Fonte..............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+Valor..............: R$ 9.958,00 Ficha: 00323 
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE   
+
+Valor..............: R$ 626,35 Ficha: 00329 
+
+Subfunção......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 1.108 - AQUISIÇÃO DE IMÓVEL PARA UNIDADE DE SAÚDE   
+
+Conta..............: 4.4.90.61.00 - AQUISIÇÃO DE IMÓVEIS   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 1.035,00 Ficha: 00353 
+
+Proj/Ativ.........: 2.105 - MANUTENÇÃO DAS ATIVIDADES SAÚDE BUCAL   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 17.212,00 Ficha: 00373 
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 10.000,00 Ficha: 00375 
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+
+
+Minas Gerais , 29 de Abril de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 2997 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              244 
+ 
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 5.716,00 Ficha: 00376 
+
+Proj/Ativ.........: 2.110 - MANUT. DAS ATIV. CENTRO DE SAÚDE BEIRA RIO   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 5.000,00 Ficha: 00384 
+
+Subfunção......: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL   
+
+Programa........: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE   
+
+Proj/Ativ.........: 1.122 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UND. SAÚDE   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 8.415,00 Fich
+29-Abril-2021
+VISCONDE DO RIO BRANCO
+to o Crédito Suplementar no valor total de R$ 248.865,63 (duzentos e quarenta e oito mil , oitocentos e sessenta e cinco reais e 
+sessenta e três centavos ), nas seguintes dotações orçamentárias: 
+  
+Unid. Orc........: 02.007.000 - SECRETARIA MUN. AGRICULTURA E MEIO AMBIENTE 
+
+ 
+Função............: 18 - GESTAO AMBIENTAL   
+
+Subfunção.......: 541 - PRESERVACAO E CONSERVACAO AMBIENTAL   
+
+Programa........: 0009 - PRESERVAÇÃO DO MEIO AMBIENTE   
+
+Proj/Ativ.........: 2.085 - MANUTENÇÃO ATIVIDADES USINA/ATERRO SANITARIO   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 1.430,00 Ficha: 00284 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção.......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA- PSF 
+ 
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE   
+
+Valor...............: R$ 626,35 Ficha: 00391 
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 8.415,00 Ficha: 00396 
+
+
+
+Minas Gerais , 29 de Abril de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 2997 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              243 
+ 
+
+Subfunção.......: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL   
+
+Programa........: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE   
+
+Proj/Ativ.........: 2.115 - MANUT. CENTRO DE ATENÇÃO PSICOSSOCIAL - CAPS   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 740,17 Ficha: 00417 
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 1.035,00 Ficha: 00420 
+
+Subfunção.......: 303 - SUPORTE PROFILATICO E TERAPEUTICO   
+
+Programa........: 0013 - ASSITÊNCIA FARMACEUTICA   
+
+Proj/Ativ.........: 2.123 - MANUTENÇÃO DA ASSISTÊNCIA FARMACÊUTICA   
+
+Conta..............: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRATUITA  
+Fonte...............: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE   
+
+Valor...............: R$ 136.613,11 Ficha: 00456 
+
+Subfunção.......: 304 - VIGILANCIA SANITARIA   
+
+Programa........: 0014 - VIGILÂNCIA EM SAÚDE   
+
+Proj/Ativ.........: 2.124 - MANUT. DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA   
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 65,00 Ficha: 00472 
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte...............: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE   
+
+Valor...............: R$ 3.025,00 Ficha: 00472 
+
+Subfunção.......: 306 - ALIMENTACAO E NUTRICAO   
+
+Programa........: 0015 - ASSISTÊNCIA NUTRICIONAL   
+
+Proj/Ativ.........: 2.128 - MANUT. PROGRAMA DE ALIMENTAÇÃO E NUTRIÇÃO   
+
+Conta..............: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRATUITA  
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 76.212,00 Ficha: 00486 
+
+Conta..............: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRATUITA 
+ 
+
+Fonte...............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+Valor...............: R$ 9.958,00 Ficha: 00486 
+
+Unid. Orc........: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL   
+
+Função............: 08 - ASSISTENCIA SOCIAL   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.233 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.36.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 1.440,00 Ficha: 00789 
+
+Unid. Orc........: 02.011.003 - FUNDO MUNICIPAL DO IDOSO   
+
+Função............: 08 - ASSISTENCIA SOCIAL   
+
+Subfunção.......: 241 - ASSISTENCIA AO IDOSO   
+
+Programa........: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL   
+
+Proj/Ativ.........: 2.250 - MANUTENÇÃO ATIVIDADES ASSISTENCIA AO IDOSO   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 9.306,00 Ficha: 00877 
+
+  
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 248.865,63 (duzentos e 
+quarenta e oito mil , oitocentos e sessenta e cinco reais e sessenta e três centavos ), referente a anulação parcial ou total das dotações abaixo 
+relacionadas. 
+  
+Unid. Orc........: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.35.00 - SERVIÇOS DE CONSULTORIA   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 12.176,00 Ficha: 00069 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.08.00 - OUTROS BENEFÍCIOS ASSISTENCIAIS   
+
+Fonte..............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+Valor..............: R$ 9.958,00 Ficha: 00323 
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE   
+
+Valor..............: R$ 626,35 Ficha: 00329 
+
+Subfunção......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 1.108 - AQUISIÇÃO DE IMÓVEL PARA UNIDADE DE SAÚDE   
+
+Conta..............: 4.4.90.61.00 - AQUISIÇÃO DE IMÓVEIS   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 1.035,00 Ficha: 00353 
+
+Proj/Ativ.........: 2.105 - MANUTENÇÃO DAS ATIVIDADES SAÚDE BUCAL   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 17.212,00 Ficha: 00373 
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 10.000,00 Ficha: 00375 
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+
+
+Minas Gerais , 29 de Abril de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 2997 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              244 
+ 
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 5.716,00 Ficha: 00376 
+
+Proj/Ativ.........: 2.110 - MANUT. DAS ATIV. CENTRO DE SAÚDE BEIRA RIO   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 5.000,00 Ficha: 00384 
+
+Subfunção......: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL   
+
+Programa........: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE   
+
+Proj/Ativ.........: 1.122 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UND. SAÚDE   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 8.415,00 Ficha: 00397 
+
+Proj/Ativ.........: 2.113 - MANUTENÇÃO TRATAMENTO FORA DO DOMICILIO - TFD   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 10.000
+29-Abril-2021
+VISCONDE DO RIO BRANCO
+a de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 248.865,63 (duzentos e 
+quarenta e oito mil , oitocentos e sessenta e cinco reais e sessenta e três centavos ), referente a anulação parcial ou total das dotações abaixo 
+relacionadas. 
+  
+Unid. Orc........: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.35.00 - SERVIÇOS DE CONSULTORIA   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 12.176,00 Ficha: 00069 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.08.00 - OUTROS BENEFÍCIOS ASSISTENCIAIS   
+
+Fonte..............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+Valor..............: R$ 9.958,00 Ficha: 00323 
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE   
+
+Valor..............: R$ 626,35 Ficha: 00329 
+
+Subfunção......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 1.108 - AQUISIÇÃO DE IMÓVEL PARA UNIDADE DE SAÚDE   
+
+Conta..............: 4.4.90.61.00 - AQUISIÇÃO DE IMÓVEIS   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 1.035,00 Ficha: 00353 
+
+Proj/Ativ.........: 2.105 - MANUTENÇÃO DAS ATIVIDADES SAÚDE BUCAL   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 17.212,00 Ficha: 00373 
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 10.000,00 Ficha: 00375 
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+
+
+Minas Gerais , 29 de Abril de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 2997 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              244 
+ 
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 5.716,00 Ficha: 00376 
+
+Proj/Ativ.........: 2.110 - MANUT. DAS ATIV. CENTRO DE SAÚDE BEIRA RIO   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 5.000,00 Ficha: 00384 
+
+Subfunção......: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL   
+
+Programa........: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE   
+
+Proj/Ativ.........: 1.122 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UND. SAÚDE   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 8.415,00 Ficha: 00397 
+
+Proj/Ativ.........: 2.113 - MANUTENÇÃO TRATAMENTO FORA DO DOMICILIO - TFD   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 10.000,00 Ficha: 00402 
+
+Conta..............: 3.3.90.48.00 - OUTROS AUXÍLIOS FINANCEIROS PESSSOAS FÍSICAS   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 5.000,00 Ficha: 00403 
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 5.000,00 Ficha: 00404 
+
+Proj/Ativ.........: 2.114 - MANUT. CENTRO MUN. DE REABIL. - FISIOTERAPIA   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 2.000,00 Ficha: 00412 
+
+Proj/Ativ.........: 2.115 - MANUT. CENTRO DE ATENÇÃO PSICOSSOCIAL - CAPS   
+
+Conta..............: 3.3.90.36.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA   
+
+Fonte..............: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE   
+
+Valor..............: R$ 3.025,00 Ficha: 00418 
+
+Proj/Ativ.........: 2.116 - MANUT. PESSOAL CENTRO DE ATENÇÃO PSIC. - CAPS   
+
+Conta..............: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO   
+
+Fonte..............: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE   
+
+Valor..............: R$ 36.613,11 Ficha: 00421 
+
+Proj/Ativ.........: 2.119 - MANUT. ATIV. CENTRO ESPECIALIDADES ODONT- CEO   
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 2.000,00 Ficha: 00436 
+
+Proj/Ativ.........: 2.230 - REPASSE REDE URGENCIA E EMERG. MACRO SUDESTE   
+
+Conta..............: 3.3.50.41.00 - CONTRIBUIÇÕES   
+
+Fonte..............: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE   
+
+Valor..............: R$ 100.000,00 Ficha: 00443 
+
+Subfunção......: 303 - SUPORTE PROFILATICO E TERAPEUTICO   
+
+Programa........: 0013 - ASSITÊNCIA FARMACEUTICA   
+
+Proj/Ativ.........: 2.123 - MANUTENÇÃO DA ASSISTÊNCIA FARMACÊUTICA   
+
+Conta..............: 3.3.90.91.00 - SENTENÇAS JUDICIAIS   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 10.000,00 Ficha: 00459 
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 5.024,17 Ficha: 00460 
+
+Subfunção......: 304 - VIGILANCIA SANITARIA   
+
+Programa........: 0014 - VIGILÂNCIA EM SAÚDE   
+
+Proj/Ativ.........: 2.124 - MANUT. DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 65,00 Ficha: 00471 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+  
+, 15 DE ABRIL DE 2021 
+
+Publicado por: 
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:4F4F2874 
+ 
+
+DEPARTAMENTO DE CONTABILIDADE 
+DECRETO 52 
+
+ 
+DECRETO Nº 00052/2021, DE 19 DE ABRIL DE 2021. 
+  
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO SUPLEMENTAR E DA OUTRAS PROVIDÊNCIAS. 
+  
+O(A) Prefeito(a) Municipal de , Estado de Minas Gerais, no uso de suas atribuições legais, com base no da Lei Municipal 1539/2020 de 28/12/2020 e 
+art. 43 da Lei Federal 4.320/64, decreta: 
+Art. 1o. - Fica aberto o Crédito Suplementar no valor total de R$ 139.829,95 (cento e trinta e nove mil , oitocentos e vinte e nove reais e noventa e 
+cinco centavos ), nas seguintes dotações orçamentárias: 
+ 
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função............: 15 - URBANISMO   
+
+Subfunção.......: 451 - INFRA-ESTRUTURA URBANA   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 2.043 - MANUTENÇÃO DOS SERVIÇOS DE MOBILIDADE URBANA   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+
+
+Minas Gerais , 29 de Abril de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 2997 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              245 
+ 
+
+Valor...............: R$ 66.253,95 Ficha: 00201 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 12.600,00 Ficha: 00329 
+
+Subfunção.......: 301 - ATENCAO BASICA  
+29-Abril-2021
+VISCONDE DO RIO BRANCO
+A DE CRÉDITO SUPLEMENTAR E DA OUTRAS PROVIDÊNCIAS. 
+  
+O(A) Prefeito(a) Municipal de , Estado de Minas Gerais, no uso de suas atribuições legais, com base no da Lei Municipal 1539/2020 de 28/12/2020 e 
+art. 43 da Lei Federal 4.320/64, decreta: 
+Art. 1o. - Fica aberto o Crédito Suplementar no valor total de R$ 139.829,95 (cento e trinta e nove mil , oitocentos e vinte e nove reais e noventa e 
+cinco centavos ), nas seguintes dotações orçamentárias: 
+ 
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função............: 15 - URBANISMO   
+
+Subfunção.......: 451 - INFRA-ESTRUTURA URBANA   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 2.043 - MANUTENÇÃO DOS SERVIÇOS DE MOBILIDADE URBANA   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+
+
+Minas Gerais , 29 de Abril de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 2997 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              245 
+ 
+
+Valor...............: R$ 66.253,95 Ficha: 00201 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 12.600,00 Ficha: 00329 
+
+Subfunção.......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 1.109 - CONST. AMPLIAÇÃO E REFORMA DE UNIDADE SAÚDE 
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 54.000,00 Ficha: 00354 
+
+Subfunção.......: 306 - ALIMENTACAO E NUTRICAO   
+
+Programa........: 0015 - ASSISTÊNCIA NUTRICIONAL   
+
+Proj/Ativ.........: 2.128 - MANUT. PROGRAMA DE ALIMENTAÇÃO E NUTRIÇÃO   
+
+Conta..............: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRATUITA 
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 4.380,00 Ficha: 00486 
+
+Unid. Orc........: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção.......: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE   
+
+Programa........: 0016 - ALIMENTAÇÃO ESCOLAR   
+
+Proj/Ativ.........: 2.263 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO   
+
+Valor...............: R$ 2.596,00 Ficha: 00523 
+
+  
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 139.829,95 (cento e trinta e 
+nove mil , oitocentos e vinte e nove reais e noventa e cinco centavos ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+  
+Unid. Orc........: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.35.00 - SERVIÇOS DE CONSULTORIA   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 66.253,95 Ficha: 00069 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.095 - MANUTENÇÃO DO PESSOAL DA SECRETARIA   
+
+Conta..............: 3.1.90.94.00 - INDENIZAÇÕES RESTITUIÇÕES TRABALHISTAS   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 58.380,00 Ficha: 00321 
+
+Subfunção......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 12.600,00 Ficha: 00391 
+
+Unid. Orc........: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção......: 361 - ENSINO FUNDAMENTAL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 1.149 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA UNIDADE ESCOLAR   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO   
+
+Valor..............: R$ 2.596,00 Ficha: 00525 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+  
+, 19 DE ABRIL DE 2021 
+
+Publicado por: 
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:06E65DDD 
+ 
+
+ESTADO DE MINAS GERAIS 
+SAAE - SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO DE PIRAPORA 
+
+ 
+SAAE PIRAPORA-MG 
+
+PORTARIA SAAE/PIR-109/2021 
+ 
+PORTARIA SAAE/PIR- 109/2021 DE 22 DE ABRIL DE 2021. 
+  
+O Diretor do Serviço Autônomo de Água e Esgoto – SAAE de Pirapora-MG, no uso legal de suas atribuições conferidas pela Portaria Municipal n° 
+08/2021 de 04 de janeiro de 2021,  
+CONSIDERANDO:  
+
+
+
+Minas Gerais , 29 de Abril de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 2997 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              246 
+ 
+
+A necessidade de reorganizar os procedimentos realizados pela Seção de Controle e Garantia da Qualidade da Água e Esgoto Tratado, para as 
+análises laboratoriais físico-química e bacteriológica, quando solicitadas por terceiros,  
+RESOLVE: 
+Art. 1º - Autorizar a realização de análises particulares apenas para amostras coletadas na área urbana do município de Pirapora-MG. 
+Art. 2º - A coleta da amostra a ser analisada será feita por servidor próprio da Autarquia, ficando vedado o recebimento de quaisquer amostras que 
+tenham sido coletadas pelo usuário/solicitante. 
+Art. 3º - Esta coleta será feita sem custos para o usuário/solicitante. 
+Art. 4º - De acordo com os procedimentos laboratoriais, as coletas serão realizadas de segunda-feira à quarta-feira. 
+Art. 5º - A solicitação das análises deverá ser feita por escrito ou enviada pelo e-mail, secretaria@saaepirapora.com.br, para o devido protocolo e 
+encaminhamento para deferimento ou indeferimento pela Direção da Autarquia. 
+Art. 6º - Após o deferimento pela Direção para realização das Análises, o servidor indicado pela diretoria emitirá orçamento relativo aos parâmetros 
+solicitados e encaminhará à Seção de Contas e Consumo para emissão de fatura avulsa. 
+Art. 7º - Fica a Secretaria do SAAE/Pirapora responsável pelo envio da fatura avulsa ao usuário solicitante por e-mail que deverá ser informado no 
+ato da solicitação, ou pessoalmente quando o usuário não tiver conta de e-mail. 
+Art. 8º - Após o pagamento o usuário deverá apresentar o comprovante de pagamento para que a Seção de Controle e Qualidade da Água e Esgoto 
+realize a devida coleta da amostra. 
+Parágrafo único – Os usuários que optarem pela cobrança na fatura mensal de água e esgoto, terão as amostras coletadas, tão logo o pedido seja 
+deferido pela direção. 
+Art. 9º - Os resultados das Análises Laboratoriais ficarão à disposição em meio físico na Secretaria do SAAE/Pirapora, devidamente assinados pelos 
+responsáveis técnicos. 
+Art. 10 - A tabela de preços para a realização das análises permanece inalterada, conforme Anexo I desta Portaria. 
+Art. 11 - Esta portaria entra em vigor na data de sua assinatura. 
+  
+BRUNO SANTOS GUIMARÃES 
+Diretor SAAE/Pirapora - MG 
+  
+ANEXO I – Portaria 109/2021 
+  
+ITEM PARÂMETRO VALOR 
+  1.1 FÍSICO-QUÍMICA INORGÂNICAS   
+
+1 Cor aparente R$16,29 
+
+2 Cor real R$16,29 
+
+3 Condutividade elétrica R
+29-Abril-2021
+VISCONDE DO RIO BRANCO
+to o Crédito Suplementar no valor total de R$ 139.829,95 (cento e trinta e nove mil , oitocentos e vinte e nove reais e noventa e 
+cinco centavos ), nas seguintes dotações orçamentárias: 
+ 
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função............: 15 - URBANISMO   
+
+Subfunção.......: 451 - INFRA-ESTRUTURA URBANA   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 2.043 - MANUTENÇÃO DOS SERVIÇOS DE MOBILIDADE URBANA   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+
+
+Minas Gerais , 29 de Abril de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 2997 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              245 
+ 
+
+Valor...............: R$ 66.253,95 Ficha: 00201 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 12.600,00 Ficha: 00329 
+
+Subfunção.......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 1.109 - CONST. AMPLIAÇÃO E REFORMA DE UNIDADE SAÚDE 
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 54.000,00 Ficha: 00354 
+
+Subfunção.......: 306 - ALIMENTACAO E NUTRICAO   
+
+Programa........: 0015 - ASSISTÊNCIA NUTRICIONAL   
+
+Proj/Ativ.........: 2.128 - MANUT. PROGRAMA DE ALIMENTAÇÃO E NUTRIÇÃO   
+
+Conta..............: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRATUITA 
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 4.380,00 Ficha: 00486 
+
+Unid. Orc........: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção.......: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE   
+
+Programa........: 0016 - ALIMENTAÇÃO ESCOLAR   
+
+Proj/Ativ.........: 2.263 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO   
+
+Valor...............: R$ 2.596,00 Ficha: 00523 
+
+  
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 139.829,95 (cento e trinta e 
+nove mil , oitocentos e vinte e nove reais e noventa e cinco centavos ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+  
+Unid. Orc........: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.35.00 - SERVIÇOS DE CONSULTORIA   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 66.253,95 Ficha: 00069 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.095 - MANUTENÇÃO DO PESSOAL DA SECRETARIA   
+
+Conta..............: 3.1.90.94.00 - INDENIZAÇÕES RESTITUIÇÕES TRABALHISTAS   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 58.380,00 Ficha: 00321 
+
+Subfunção......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 12.600,00 Ficha: 00391 
+
+Unid. Orc........: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção......: 361 - ENSINO FUNDAMENTAL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 1.149 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA UNIDADE ESCOLAR   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO   
+
+Valor..............: R$ 2.596,00 Ficha: 00525 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+  
+, 19 DE ABRIL DE 2021 
+
+Publicado por: 
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:06E65DDD 
+ 
+
+ESTADO DE MINAS GERAIS 
+SAAE - SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO DE PIRAPORA 
+
+ 
+SAAE PIRAPORA-MG 
+
+PORTARIA SAAE/PIR-109/2021 
+ 
+PORTARIA SAAE/PIR- 109/2021 DE 22 DE ABRIL DE 2021. 
+  
+O Diretor do Serviço Autônomo de Água e Esgoto – SAAE de Pirapora-MG, no uso legal de suas atribuições conferidas pela Portaria Municipal n° 
+08/2021 de 04 de janeiro de 2021,  
+CONSIDERANDO:  
+
+
+
+Minas Gerais , 29 de Abril de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 2997 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              246 
+ 
+
+A necessidade de reorganizar os procedimentos realizados pela Seção de Controle e Garantia da Qualidade da Água e Esgoto Tratado, para as 
+análises laboratoriais físico-química e bacteriológica, quando solicitadas por terceiros,  
+RESOLVE: 
+Art. 1º - Autorizar a realização de análises particulares apenas para amostras coletadas na área urbana do município de Pirapora-MG. 
+Art. 2º - A coleta da amostra a ser analisada será feita por servidor próprio da Autarquia, ficando vedado o recebimento de quaisquer amostras que 
+tenham sido coletadas pelo usuário/solicitante. 
+Art. 3º - Esta coleta será feita sem custos para o usuário/solicitante. 
+Art. 4º - De acordo com os procedimentos laboratoriais, as coletas serão realizadas de segunda-feira à quarta-feira. 
+Art. 5º - A solicitação das análises deverá ser feita por escrito ou enviada pelo e-mail, secretaria@saaepirapora.com.br, para o devido protocolo e 
+encaminhamento para deferimento ou indeferimento pela Direção da Autarquia. 
+Art. 6º - Após o deferimento pela Direção para realização das Análises, o servidor indicado pela diretoria emitirá orçamento relativo aos parâmetros 
+solicitados e encaminhará à Seção de Contas e Consumo para emissão de fatura avulsa. 
+Art. 7º - Fica a Secretaria do SAAE/Pirapora responsável pelo envio da fatura avulsa ao usuário solicitante por e-mail que deverá ser informado no 
+ato da solicitação, ou pessoalmente quando o usuário não tiver conta de e-mail. 
+Art. 8º - Após o pagamento o usuário deverá apresentar o comprovante de pagamento para que a Seção de Controle e Qualidade da Água e Esgoto 
+realize a devida coleta da amostra. 
+Parágrafo único – Os usuários que optarem pela cobrança na fatura mensal de água e esgoto, terão as amostras coletadas, tão logo o pedido seja 
+deferido pela direção. 
+Art. 9º - Os resultados das Análises Laboratoriais ficarão à disposição em meio físico na Secretaria do SAAE/Pirapora, devidamente assinados pelos 
+responsáveis técnicos. 
+Art. 10 - A tabela de preços para a realização das análises permanece inalterada, conforme Anexo I desta Portaria. 
+Art. 11 - Esta portaria entra em vigor na data de sua assinatura. 
+  
+BRUNO SANTOS GUIMARÃES 
+Diretor SAAE/Pirapora - MG 
+  
+ANEXO I – Portaria 109/2021 
+  
+ITEM PARÂMETRO VALOR 
+  1.1 FÍSICO-QUÍMICA INORGÂNICAS   
+
+1 Cor aparente R$16,29 
+
+2 Cor real R$16,29 
+
+3 Condutividade elétrica R$10,54 
+
+4 Ph R$10,54 
+
+5 Turbidez R$10,54 
+
+6 Temperatura R$10,54 
+
+7 Sólidos sedimentáveis R$10,54 
+
+8 Resíduo total (Sólidos Totais) R$16,29 
+
+9 Resíduo filtrável (Sól. Dissolvidos) R$16,29 
+
+10 Resíduo não filtrável (Sól. Suspensos) R$16,29 
+
+11 Resíduo Fixos (
+29-Abril-2021
+VISCONDE DO RIO BRANCO
+a de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 139.829,95 (cento e trinta e 
+nove mil , oitocentos e vinte e nove reais e noventa e cinco centavos ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+  
+Unid. Orc........: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.35.00 - SERVIÇOS DE CONSULTORIA   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 66.253,95 Ficha: 00069 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.095 - MANUTENÇÃO DO PESSOAL DA SECRETARIA   
+
+Conta..............: 3.1.90.94.00 - INDENIZAÇÕES RESTITUIÇÕES TRABALHISTAS   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 58.380,00 Ficha: 00321 
+
+Subfunção......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 12.600,00 Ficha: 00391 
+
+Unid. Orc........: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção......: 361 - ENSINO FUNDAMENTAL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 1.149 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA UNIDADE ESCOLAR   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO   
+
+Valor..............: R$ 2.596,00 Ficha: 00525 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+  
+, 19 DE ABRIL DE 2021 
+
+Publicado por: 
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:06E65DDD 
+ 
+
+ESTADO DE MINAS GERAIS 
+SAAE - SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO DE PIRAPORA 
+
+ 
+SAAE PIRAPORA-MG 
+
+PORTARIA SAAE/PIR-109/2021 
+ 
+PORTARIA SAAE/PIR- 109/2021 DE 22 DE ABRIL DE 2021. 
+  
+O Diretor do Serviço Autônomo de Água e Esgoto – SAAE de Pirapora-MG, no uso legal de suas atribuições conferidas pela Portaria Municipal n° 
+08/2021 de 04 de janeiro de 2021,  
+CONSIDERANDO:  
+
+
+
+Minas Gerais , 29 de Abril de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 2997 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              246 
+ 
+
+A necessidade de reorganizar os procedimentos realizados pela Seção de Controle e Garantia da Qualidade da Água e Esgoto Tratado, para as 
+análises laboratoriais físico-química e bacteriológica, quando solicitadas por terceiros,  
+RESOLVE: 
+Art. 1º - Autorizar a realização de análises particulares apenas para amostras coletadas na área urbana do município de Pirapora-MG. 
+Art. 2º - A coleta da amostra a ser analisada será feita por servidor próprio da Autarquia, ficando vedado o recebimento de quaisquer amostras que 
+tenham sido coletadas pelo usuário/solicitante. 
+Art. 3º - Esta coleta será feita sem custos para o usuário/solicitante. 
+Art. 4º - De acordo com os procedimentos laboratoriais, as coletas serão realizadas de segunda-feira à quarta-feira. 
+Art. 5º - A solicitação das análises deverá ser feita por escrito ou enviada pelo e-mail, secretaria@saaepirapora.com.br, para o devido protocolo e 
+encaminhamento para deferimento ou indeferimento pela Direção da Autarquia. 
+Art. 6º - Após o deferimento pela Direção para realização das Análises, o servidor indicado pela diretoria emitirá orçamento relativo aos parâmetros 
+solicitados e encaminhará à Seção de Contas e Consumo para emissão de fatura avulsa. 
+Art. 7º - Fica a Secretaria do SAAE/Pirapora responsável pelo envio da fatura avulsa ao usuário solicitante por e-mail que deverá ser informado no 
+ato da solicitação, ou pessoalmente quando o usuário não tiver conta de e-mail. 
+Art. 8º - Após o pagamento o usuário deverá apresentar o comprovante de pagamento para que a Seção de Controle e Qualidade da Água e Esgoto 
+realize a devida coleta da amostra. 
+Parágrafo único – Os usuários que optarem pela cobrança na fatura mensal de água e esgoto, terão as amostras coletadas, tão logo o pedido seja 
+deferido pela direção. 
+Art. 9º - Os resultados das Análises Laboratoriais ficarão à disposição em meio físico na Secretaria do SAAE/Pirapora, devidamente assinados pelos 
+responsáveis técnicos. 
+Art. 10 - A tabela de preços para a realização das análises permanece inalterada, conforme Anexo I desta Portaria. 
+Art. 11 - Esta portaria entra em vigor na data de sua assinatura. 
+  
+BRUNO SANTOS GUIMARÃES 
+Diretor SAAE/Pirapora - MG 
+  
+ANEXO I – Portaria 109/2021 
+  
+ITEM PARÂMETRO VALOR 
+  1.1 FÍSICO-QUÍMICA INORGÂNICAS   
+
+1 Cor aparente R$16,29 
+
+2 Cor real R$16,29 
+
+3 Condutividade elétrica R$10,54 
+
+4 Ph R$10,54 
+
+5 Turbidez R$10,54 
+
+6 Temperatura R$10,54 
+
+7 Sólidos sedimentáveis R$10,54 
+
+8 Resíduo total (Sólidos Totais) R$16,29 
+
+9 Resíduo filtrável (Sól. Dissolvidos) R$16,29 
+
+10 Resíduo não filtrável (Sól. Suspensos) R$16,29 
+
+11 Resíduo Fixos (sólidos fixos) R$16,29 
+
+12 Resíduo volátil (Sól. Voláteis) R$16,29 
+
+13 Oxigênio Dissolvido (campo) R$19,17 
+
+14 Alcalinidade total R$10,54 
+
+15 Cloro residual R$10,54 
+
+16 Cloretos R$16,29 
+
+17 Dureza total (Ca e Mg) R$53,31 
+
+18 Flúor R$16,77 
+
+19 Ortofosfato R$21,33 
+
+20 Fósforo total R$37,62 
+
+21 Sulfato R$21,33 
+
+  1.2.METAIS   
+
+22 Alumínio R$26,66 
+
+23 Cobre R$26,66 
+
+24 Ferro R$21,09 
+
+25 Magnésio R$26,66 
+
+26 Manganês R$26,84 
+
+27 Zinco R$40,25 
+
+28 Cromo total R$40,25 
+
+29 Cromo Hexavalente R$40,25 
+
+  1.3. SÉRIE NITROGENADA   
+
+30 Nitrito R$27,74 
+
+31 Nitrato R$27,74 
+
+32 Nitrogênio Amoniacal R$30,67 
+
+33 Nitrogênio Inorgânico Total R$30,67 
+
+34 Nitrogênio Total R$30,67 
+
+  2. COMPOSTOS QUÍMICOS ORGÂNICOS   
+
+35 DBO R$40,85 
+
+36 DQO R$40,85 
+
+37 ÓLEOS E GRAXAS TOTAIS R$115,01 
+
+  3.BACTERIOLOGIA   
+
+38 Coliforme Total R$42,41 
+
+39 Coliforme temotolerante (e.Coli) R$42,41 
+
+40 Bactérias heterotróficas. R$42,41 
+
+  
+BRUNO SANTOS GUIMARÃES 
+Diretor SAAE/Pirapora - MG 
+
+Publicado por: 
+Alessandra Barbosa Rocha Veloso 
+
+Código Identificador:EBE0AAE6 
+ 
+
+
+		2021-04-28T18:51:58-0300
+	VOX SOLUCOES TECNOLOGICAS LTDA:00684621000131

@@ -1,0 +1,255 @@
+07-Novembro-2018
+LEOPOLDINA
+ABRE CRÉDITO SUPLEMENTAR 
+  
+O Prefeito Municipal de Leopoldina, no uso de suas atribuições legais e de acordo com a autorização contida no art 1º, da Lei Municipal nº 4.437 de 
+19 de setembro de 2018 
+D E C R E T A: 
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2018 os seguintes créditos suplementares para reforço das seguintes dotações 
+orçamentárias.R$ 142.400,00 (cento e quarenta e dois mil quatrocentos reais) 
+  
+CRÉDITO(S) 
+
+CLASSIFICAÇÃO FICHA FONTE DR VALOR 
+
+02.03.28.846.0000.0.004- Pagamento de Precatorios e Sentencas Judiciais         
+
+319091 - Sentencas Judiciais 38   100 1.500,00 
+
+02.09.15.122.0001.2.008- Manutencao das Ativ. Sec. Servicos Urbanos         
+
+339039 - Outros Servicos de Terceiros - Pessoa Juridica 111   100 13.500,00 
+
+02.10.01.12.361.0045.2.113- Transporte Escolar - Rec. Proprios         
+
+339039 - Outros Servicos de Terceiros - Pessoa Juridica 210 ENSINO 101 28.000,00 
+
+02.10.02.12.122.0001.2.017- Manutencao Setor Administrativo Sec. Educacao         
+
+339039 - Outros Servicos de Terceiros - Pessoa Juridica 293 ENSINO 101 6.800,00 
+
+02.11.01.10.122.0001.2.016- Manutencao das Ativ. da Secretaria de Saude         
+
+339014 - Diarias - Pessoal Civil 300 SAUDE 102 1.000,00 
+
+339039 - Outros Servicos de Terceiros - Pessoa Juridica 303 SAUDE 102 18.000,00 
+
+02.11.02.10.302.0009.2.096- Media e Alta Complexidade Recursos Vinculados         
+
+339039 - Outros Servicos de Terceiros - Pessoa Juridica 344 ESTSUS 155 19.000,00 
+
+02.11.02.10.305.0010.2.097- Vigilancia em Saude - Rec. Vinculados         
+
+339039 - Outros Servicos de Terceiros - Pessoa Juridica 364 BLVGS 150 6.000,00 
+
+02.11.03.10.303.0008.2.229- Assistencia Farmaceutica         
+
+339030 - Material de Consumo 410 BLAFB 151 17.000,00 
+
+02.11.03.10.303.0008.2.258- Bloco de Assistencia Farmaceutica         
+
+339030 - Material de Consumo 420 SAUDE 102 4.000,00 
+
+02.15.01.08.244.0018.2.043- Atendimento/acompanhamento Familias vulneraveis         
+
+339039 - Outros Servicos de Terceiros - Pessoa Juridica 544 FNAS 129 6.000,00 
+
+02.15.01.08.244.0026.2.052- Manutencao do PAEFI/CREAS         
+
+339039 - Outros Servicos de Terceiros - Pessoa Juridica 566 FNAS 129 2.100,00 
+
+02.15.04.08.122.0001.2.018- Manutencao das Ativ. Sec. Assistencia Social         
+
+339039 - Outros Servicos de Terceiros - Pessoa Juridica 667 AS.SOC 100 19.500,00 
+
+TOTAL DE CRÉDITOS 142.400,00 
+
+  
+Art. 2º : Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes das anulações das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+RECURSO(S) 
+
+ANULAÇÃO DE DOTAÇÕES 
+
+CLASSIFICAÇÃO FICHA FONTE DR VALOR 
+
+02.03.28.846.0000.0.004- Pagamento de Precatorios e Sentencas Judiciais         
+
+339091 - Sentencas Judiciais 39   100 1.500,00 
+
+02.11.01.10.122.0001.2.016- Manutencao das Ativ. da Secretaria de Saude         
+
+339030 - Material de Consumo 301 SAUDE 102 1.000,00 
+
+02.11.01.10.122.0001.2.016- Manutencao das Ativ. da Secretaria de Saude         
+
+339093 - Indenizacoes e Restituicoes 306 ESTSUS 155 4.999,00 
+
+02.11.01.10.122.0001.2.232- Manutencao da Regulacao         
+
+319004 - Contratacao por Tempo Determinado 307 ESTSUS 155 6.999,00 
+
+02.11.02.10.302.0009.2.096- Media e Alta Complexidade Recursos Vinculados         
+
+449052 - Equipamentos e Material Permanente 347 ESTSUS 155 7.002,00 
+
+02.11.02.10.305.0010.2.097- Vigilancia em Saude - Rec. Vinculados         
+
+339030 - Material de Consumo 360 BLVGS 150 6.000,00 
+
+02.11.03.10.301.0008.2.027- Atendimento Basico as Familias         
+
+319013 - Obrigacoes Patronais 380 SAUDE 102 52.800,00 
+
+02.11.03.10.303.0008.2.229- Assistencia Farmaceutica         
+
+339036 - Outros Servicos de Terceiros - Pessoa Fisica 412 BLAFB 151 17.000,00 
+
+02.12.11.363.0014.2.103- Manutencao do CVT/UAI-TEC         
+
+339030 - Material de Consumo 441   100 2.000,00 
+
+02.12.11.363.0014.2.103- Manutencao do CVT/UAI-TEC         
+
+339039 - Outros Servicos de Terceiros - Pessoa Juridica 442   100 2.000,00 
+
+02.15.01.08.244.0017.2.041- Acessos a Beneficios, Programas e Servicos         
+
+339030 - Material de Consumo 521 FNAS 129 6.100,00 
+
+02.15.01.08.244.0017.2.042- Gestao de Servicos /Organizacao do IGD/SUAS         
+
+449052 - Equipamentos e Material Permanente 531 FNAS 129 2.000,00 
+
+02.15.01.08.244.0020.2.045- Oficinas de Convivencia e Participacao Social         
+
+339014 - Diarias - Pessoal Civil 549 AS.SOC 100 4.999,00 
+
+02.15.01.08.244.0020.2.045- Oficinas de Convivencia e Participacao Social         
+
+339030 - Material de Consumo 551 AS.SOC 100 28.001,00 
+
+TOTAL DE ANULAÇÃO 142.400,00 
+
+TOTAL DE RECURSOS 142.400,00 
+
+  
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Leopoldina, 31 de outubro de 2018. 
+  
+JOSÉ ROBERTO DE OLIVEIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Tatiane Bonini Cosine 
+
+Código Identificador:DC03E272 
+ 
+
+
+
+Minas Gerais , 07 de Novembro de 2018   •   Diário Oficial dos Municípios Mineiros   •    ANO X | Nº 2373 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               148 
+ 
+
+ESTADO DE MINAS GERAIS
+07-Novembro-2018
+LEOPOLDINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes das anulações das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+RECURSO(S) 
+
+ANULAÇÃO DE DOTAÇÕES 
+
+CLASSIFICAÇÃO FICHA FONTE DR VALOR 
+
+02.03.28.846.0000.0.004- Pagamento de Precatorios e Sentencas Judiciais         
+
+339091 - Sentencas Judiciais 39   100 1.500,00 
+
+02.11.01.10.122.0001.2.016- Manutencao das Ativ. da Secretaria de Saude         
+
+339030 - Material de Consumo 301 SAUDE 102 1.000,00 
+
+02.11.01.10.122.0001.2.016- Manutencao das Ativ. da Secretaria de Saude         
+
+339093 - Indenizacoes e Restituicoes 306 ESTSUS 155 4.999,00 
+
+02.11.01.10.122.0001.2.232- Manutencao da Regulacao         
+
+319004 - Contratacao por Tempo Determinado 307 ESTSUS 155 6.999,00 
+
+02.11.02.10.302.0009.2.096- Media e Alta Complexidade Recursos Vinculados         
+
+449052 - Equipamentos e Material Permanente 347 ESTSUS 155 7.002,00 
+
+02.11.02.10.305.0010.2.097- Vigilancia em Saude - Rec. Vinculados         
+
+339030 - Material de Consumo 360 BLVGS 150 6.000,00 
+
+02.11.03.10.301.0008.2.027- Atendimento Basico as Familias         
+
+319013 - Obrigacoes Patronais 380 SAUDE 102 52.800,00 
+
+02.11.03.10.303.0008.2.229- Assistencia Farmaceutica         
+
+339036 - Outros Servicos de Terceiros - Pessoa Fisica 412 BLAFB 151 17.000,00 
+
+02.12.11.363.0014.2.103- Manutencao do CVT/UAI-TEC         
+
+339030 - Material de Consumo 441   100 2.000,00 
+
+02.12.11.363.0014.2.103- Manutencao do CVT/UAI-TEC         
+
+339039 - Outros Servicos de Terceiros - Pessoa Juridica 442   100 2.000,00 
+
+02.15.01.08.244.0017.2.041- Acessos a Beneficios, Programas e Servicos         
+
+339030 - Material de Consumo 521 FNAS 129 6.100,00 
+
+02.15.01.08.244.0017.2.042- Gestao de Servicos /Organizacao do IGD/SUAS         
+
+449052 - Equipamentos e Material Permanente 531 FNAS 129 2.000,00 
+
+02.15.01.08.244.0020.2.045- Oficinas de Convivencia e Participacao Social         
+
+339014 - Diarias - Pessoal Civil 549 AS.SOC 100 4.999,00 
+
+02.15.01.08.244.0020.2.045- Oficinas de Convivencia e Participacao Social         
+
+339030 - Material de Consumo 551 AS.SOC 100 28.001,00 
+
+TOTAL DE ANULAÇÃO 142.400,00 
+
+TOTAL DE RECURSOS 142.400,00 
+
+  
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Leopoldina, 31 de outubro de 2018. 
+  
+JOSÉ ROBERTO DE OLIVEIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Tatiane Bonini Cosine 
+
+Código Identificador:DC03E272 
+ 
+
+
+
+Minas Gerais , 07 de Novembro de 2018   •   Diário Oficial dos Municípios Mineiros   •    ANO X | Nº 2373 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               148 
+ 
+
+ESTADO DE MINAS GERAIS

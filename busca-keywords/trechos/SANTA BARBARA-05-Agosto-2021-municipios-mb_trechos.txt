@@ -1,0 +1,3283 @@
+05-Agosto-2021
+SANTA BARBARA
+ 
+  
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+  
+R$ 1,00 
+  
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR 
+VALOR 
+SUPL 
+
+2 PODER EXECUTIVO         
+
+2.09 
+
+SECRET. MUNIC. MEIO 
+AMBIENTE, AGRICULTURA E 
+DESENVOLVIMENTO 
+SUSTENTÁVEL 
+
+        
+
+15.0451.0033.2.075.000 
+
+MANUT PRACA PARQUE 
+JARDIM E AREA 
+PRESERVACAO 
+Outros Serviços de Terceiros - 
+Pessoa Jurídica 
+
+3.3.90.39.00 551 100 22.000,00 
+
+Total Órgão PODER 
+EXECUTIVO 
+
+22.000,00 
+
+  
+Total do Crédito................. 22.000,00 
+  
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que 
+trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal 
+nº 4.320, de 17 de março de 1964. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+
+
+
+Minas Gerais , 05 de Agosto de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3066 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              140 
+ 
+
+R$ 1,00 
+  
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR 
+VALOR 
+RED 
+
+2 PODER EXECUTIVO         
+
+2.09 
+
+SECRET. MUNIC. MEIO 
+AMBIENTE, AGRICULTURA E 
+DESENVOLVIMENTO 
+SUSTENTÁVEL 
+
+        
+
+20.0608.0048.2.247.000 
+
+MANUTENCAO DO PARQUE 
+DE EXPOSICAO 
+Outros Serviços de Terceiros - 
+Pessoa Jurídica 
+
+3.3.90.39.00 582 100 
+
+  
+
+12.000,00 
+
+  
+Outros Serviços de Terceiros - 
+Pessoa Jurídica 
+
+3.3.90.39.00 587 100 10.000,00 
+
+Total PODER 
+EXECUTIVO 
+
+22.000,00 
+
+  
+Total da (s) Redução (ôes)............. 22.000,00 
+  
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 02/08/2021. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Andrea da Costa Caetano 
+
+Código Identificador:ABC12921 
+
+ 
+GABINETE DO PREFEITO 
+
+DECRETO MUNICIPAL DE Nº 4907/2021 
+ 
+
+Regulamenta a Nota Fiscal de Serviços Eletrônica – 
+NFS-e no Município de Santa Bárbara, o sistema de 
+gerenciamento das notas fiscais e a sua utilização, 
+disciplina obrigações acessórias pela Internet e dá 
+outras providências. 
+
+  
+O PREFEITO MUNICIPAL DE SANTA BARBARA, no exercício 
+das atribuições que lhe confere a Lei Orgânica Municipal e art. 134, 
+§3º da Lei n. 1.029/97 com redação dada pela Lei 1.287/2003 (Código 
+Tributário Municipal), CONSIDERANDO a necessidade das 
+Administrações Tributárias Municipais atuarem de forma integrada 
+com o compartilhamento de informações que viabilizará maior 
+controle fiscal e de arrecadação do Imposto sobre Serviços de 
+Qualquer Natureza - ISSQN, conforme o Modelo Conceitual da 
+Associação Brasileira das Secretarias de Finanças das Capitais – 
+ABRASF; CONSIDERANDO a necessidade de aprimoramento das 
+ferramentas utilizadas pela Administração Tributária Municipal; 
+  
+DECRETA: 
+  
+Art. 1o Fica, por este decreto, regulamentada a geração da Nota Fiscal 
+de Serviços Eletrônica (NFS-e) e a Declaração Eletrônica do ISSQN, 
+doravante denominados ISSQN Eletrônico (ISS-e), de existência 
+exclusivamente digital, que deverá ser gerado, armazenado e 
+apresentado eletronicamente à Administração Tributária, por meio do 
+uso da Tecnologia da Informação, tendo como objetivo registrar as 
+operações relativas à prestação e contratação de serviços. 
+Parágrafo único. A geração da NFS-e e a Declaração Eletrônica do 
+ISS somente se dará através dos serviços informatizados 
+disponibilizados pelo município de Santa Bárbara, Minas Gerais na 
+Internet no endereço http://52.67.132.151/nfse.portal, sendo vedada a 
+utilização de outro meio não previsto neste decreto. 
+  
+TÍTULO I 
+Da Nota Fiscal de Serviços Eletrônica 
+CAPÍTULO 1 
+Dos Contribuintes Obrigados 
+  
+Art. 2º As pessoas físicas e jurídicas, prestadoras de serviços, 
+contribuintes do ISSQN, ainda que optante pelo regime previsto na lei 
+complementar 123 de 14 de dezembro de 2006, denominado Simples 
+Nacional, independente da incidência do ISS sobre os serviços 
+executados, inscritas no Cadastro de Contribuintes, do município de 
+Santa Bárbara, Minas Gerais , emitirão a Nota Fiscal de Serviços 
+Eletrônica (NFS-e), utilizando-se da Tecnologia da Informação e de 
+
+Certificado Digital, obtido através de Autoridade Certificadora da 
+ICP-Brasil. 
+  
+§1º Os contribuintes referidos no caput do artigo são aqueles 
+enquadrados nos subitens da lista de serviços, tributáveis pelo Imposto 
+sobre Serviços de Qualquer Natureza (ISSQN), constantes na Lei 
+Complementar de n° 1836/2019. 
+  
+§2º A legislação e os manuais poderão ser obtidos através de 
+Download no portal do Município na Internet. 
+  
+Art. 3º Os contribuintes especificados no artigo 2º, poderão optar pela 
+geração da NFS-e, de forma espontânea, independente da relação de 
+atividades econômicas que exerçam, da receita bruta total auferida 
+com a prestação de serviços e do cronograma para o ingresso previsto 
+no capítulo 5 deste decreto. 
+CAPÍTULO 2 
+  
+Dos Contribuintes Dispensados da Obrigação 
+Art. 4º Os contribuintes enquadrados nas situações previstas em Lei 
+Especial, poderão ser dispensados da geração da NFS-e. 
+  
+CAPÍTULO 3 
+Dos Demais Contribuintes 
+Art. 5º Os contribuintes não obrigados à emissão de Nota Fiscal de 
+Serviços Eletrônica (NFS-e), deverão continuar emitindo os 
+documentos fiscais e os escriturando em conformidade com a 
+legislação tributária municipal. 
+  
+CAPÍTULO 4 
+Do Método para o Ingresso 
+  
+Art. 6º Para o ingresso na metodologia de geração de Nota Fiscal de 
+Serviços Eletrônica (NFS-e), os contribuintes especificados no 
+Capítulo 1, deve, concomitantemente, exercer a atividade econômica 
+descritas na legislação municipal e/ou auferir receita bruta total com a 
+prestação de serviços conforme descrito no capitulo 5 deste decreto. 
+§1º Os contribuintes não obrigados ou dispensados e que fizerem 
+opção, espontaneamente, pela geração da NFS-e, deverão executar os 
+procedimentos administrativos necessários para o ingresso no novo 
+método, na forma da legislação tributária municipal. 
+§2º O ingresso na nova metodologia, ainda que por opção do 
+contribuinte, estará sujeita a análise e autorização da Autoridade 
+Administrativa nos termos da legislação tributária municipal. 
+  
+Seção 1 
+Da Solicitação de Acesso ao Sistema e dos Documentos Necessários 
+para Análise 
+  
+Art. 7º O acesso ao sistema de Nota Fiscal de Serviços Eletrônica 
+(NFS-e), para geração de NFS-e, deve ser requerida mediante o 
+preenchimento da solicitação de acesso ao sistema, disponível na 
+internet, no endereço http://52.67.132.151/nfse.portal. 
+Art. 8º No ato do preenchimento da solicitação de acesso deverá ser 
+anexado os seguintes documentos: 
+I – Contrato social atualizado, quando for o caso; 
+II – Cartão CNPJ atualizado, quando for o caso; 
+III – CPF atualizado, quando se tratar de pessoa física; 
+VI – Consulta impressa quanto a opção ao Simples Nacional; 
+§3º Após solicitado o acesso, a autoridade administrativa, no prazo de 
+até 10 (dez) dias, analisará a solicitação e os documentos constantes 
+nos incisos do artigo 8º, atualizará o Cadastro de Contribuintes e fará 
+o deferimento ou indeferimento da solicitação, conforme o caso. 
+Art. 9º A solicitação prevista na Seção 1 do Capítulo 4, uma vez 
+deferida, será irretratável. 
+Parágrafo único. Depois de deferido, os contribuintes especificados no 
+capitulo 1, do título I, iniciarão a geração da NFS-e no dia seguinte ao 
+deferimento da autorização. 
+  
+CAPÍTULO 5 
+Do Cronograma para o Ingresso 
+Art. 10. O Novo sistema de Nota Fiscal de Serviços Eletrônica (NFS-
+e) estará disponível aos contribuintes obrigados, especificados no 
+capítulo 1, a partir de 09 de agosto de 2021 e a obrigatoriedade de 
+
+
+
+Minas Gerais , 05 de Agosto de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3066 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              141 
+ 
+
+geração da NFS-e em substituição ao método/sistema utilizado 
+anteriormente, será a partir desta mesma data. 
+  
+CAPÍTULO 6 
+Seção 1 
+Das Funcionalidades Disponíveis aos Prestadores e Tomadores de 
+Serviços 
+Art. 11. O sistema de Nota Fiscal de Serviço Eletrônica (NFS-e) 
+05-Agosto-2021
+SANTA BARBARA
+ 
+  
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+
+
+
+Minas Gerais , 05 de Agosto de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3066 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              140 
+ 
+
+R$ 1,00 
+  
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR 
+VALOR 
+RED 
+
+2 PODER EXECUTIVO         
+
+2.09 
+
+SECRET. MUNIC. MEIO 
+AMBIENTE, AGRICULTURA E 
+DESENVOLVIMENTO 
+SUSTENTÁVEL 
+
+        
+
+20.0608.0048.2.247.000 
+
+MANUTENCAO DO PARQUE 
+DE EXPOSICAO 
+Outros Serviços de Terceiros - 
+Pessoa Jurídica 
+
+3.3.90.39.00 582 100 
+
+  
+
+12.000,00 
+
+  
+Outros Serviços de Terceiros - 
+Pessoa Jurídica 
+
+3.3.90.39.00 587 100 10.000,00 
+
+Total PODER 
+EXECUTIVO 
+
+22.000,00 
+
+  
+Total da (s) Redução (ôes)............. 22.000,00 
+  
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 02/08/2021. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Andrea da Costa Caetano 
+
+Código Identificador:ABC12921 
+
+ 
+GABINETE DO PREFEITO 
+
+DECRETO MUNICIPAL DE Nº 4907/2021 
+ 
+
+Regulamenta a Nota Fiscal de Serviços Eletrônica – 
+NFS-e no Município de Santa Bárbara, o sistema de 
+gerenciamento das notas fiscais e a sua utilização, 
+disciplina obrigações acessórias pela Internet e dá 
+outras providências. 
+
+  
+O PREFEITO MUNICIPAL DE SANTA BARBARA, no exercício 
+das atribuições que lhe confere a Lei Orgânica Municipal e art. 134, 
+§3º da Lei n. 1.029/97 com redação dada pela Lei 1.287/2003 (Código 
+Tributário Municipal), CONSIDERANDO a necessidade das 
+Administrações Tributárias Municipais atuarem de forma integrada 
+com o compartilhamento de informações que viabilizará maior 
+controle fiscal e de arrecadação do Imposto sobre Serviços de 
+Qualquer Natureza - ISSQN, conforme o Modelo Conceitual da 
+Associação Brasileira das Secretarias de Finanças das Capitais – 
+ABRASF; CONSIDERANDO a necessidade de aprimoramento das 
+ferramentas utilizadas pela Administração Tributária Municipal; 
+  
+DECRETA: 
+  
+Art. 1o Fica, por este decreto, regulamentada a geração da Nota Fiscal 
+de Serviços Eletrônica (NFS-e) e a Declaração Eletrônica do ISSQN, 
+doravante denominados ISSQN Eletrônico (ISS-e), de existência 
+exclusivamente digital, que deverá ser gerado, armazenado e 
+apresentado eletronicamente à Administração Tributária, por meio do 
+uso da Tecnologia da Informação, tendo como objetivo registrar as 
+operações relativas à prestação e contratação de serviços. 
+Parágrafo único. A geração da NFS-e e a Declaração Eletrônica do 
+ISS somente se dará através dos serviços informatizados 
+disponibilizados pelo município de Santa Bárbara, Minas Gerais na 
+Internet no endereço http://52.67.132.151/nfse.portal, sendo vedada a 
+utilização de outro meio não previsto neste decreto. 
+  
+TÍTULO I 
+Da Nota Fiscal de Serviços Eletrônica 
+CAPÍTULO 1 
+Dos Contribuintes Obrigados 
+  
+Art. 2º As pessoas físicas e jurídicas, prestadoras de serviços, 
+contribuintes do ISSQN, ainda que optante pelo regime previsto na lei 
+complementar 123 de 14 de dezembro de 2006, denominado Simples 
+Nacional, independente da incidência do ISS sobre os serviços 
+executados, inscritas no Cadastro de Contribuintes, do município de 
+Santa Bárbara, Minas Gerais , emitirão a Nota Fiscal de Serviços 
+Eletrônica (NFS-e), utilizando-se da Tecnologia da Informação e de 
+
+Certificado Digital, obtido através de Autoridade Certificadora da 
+ICP-Brasil. 
+  
+§1º Os contribuintes referidos no caput do artigo são aqueles 
+enquadrados nos subitens da lista de serviços, tributáveis pelo Imposto 
+sobre Serviços de Qualquer Natureza (ISSQN), constantes na Lei 
+Complementar de n° 1836/2019. 
+  
+§2º A legislação e os manuais poderão ser obtidos através de 
+Download no portal do Município na Internet. 
+  
+Art. 3º Os contribuintes especificados no artigo 2º, poderão optar pela 
+geração da NFS-e, de forma espontânea, independente da relação de 
+atividades econômicas que exerçam, da receita bruta total auferida 
+com a prestação de serviços e do cronograma para o ingresso previsto 
+no capítulo 5 deste decreto. 
+CAPÍTULO 2 
+  
+Dos Contribuintes Dispensados da Obrigação 
+Art. 4º Os contribuintes enquadrados nas situações previstas em Lei 
+Especial, poderão ser dispensados da geração da NFS-e. 
+  
+CAPÍTULO 3 
+Dos Demais Contribuintes 
+Art. 5º Os contribuintes não obrigados à emissão de Nota Fiscal de 
+Serviços Eletrônica (NFS-e), deverão continuar emitindo os 
+documentos fiscais e os escriturando em conformidade com a 
+legislação tributária municipal. 
+  
+CAPÍTULO 4 
+Do Método para o Ingresso 
+  
+Art. 6º Para o ingresso na metodologia de geração de Nota Fiscal de 
+Serviços Eletrônica (NFS-e), os contribuintes especificados no 
+Capítulo 1, deve, concomitantemente, exercer a atividade econômica 
+descritas na legislação municipal e/ou auferir receita bruta total com a 
+prestação de serviços conforme descrito no capitulo 5 deste decreto. 
+§1º Os contribuintes não obrigados ou dispensados e que fizerem 
+opção, espontaneamente, pela geração da NFS-e, deverão executar os 
+procedimentos administrativos necessários para o ingresso no novo 
+método, na forma da legislação tributária municipal. 
+§2º O ingresso na nova metodologia, ainda que por opção do 
+contribuinte, estará sujeita a análise e autorização da Autoridade 
+Administrativa nos termos da legislação tributária municipal. 
+  
+Seção 1 
+Da Solicitação de Acesso ao Sistema e dos Documentos Necessários 
+para Análise 
+  
+Art. 7º O acesso ao sistema de Nota Fiscal de Serviços Eletrônica 
+(NFS-e), para geração de NFS-e, deve ser requerida mediante o 
+preenchimento da solicitação de acesso ao sistema, disponível na 
+internet, no endereço http://52.67.132.151/nfse.portal. 
+Art. 8º No ato do preenchimento da solicitação de acesso deverá ser 
+anexado os seguintes documentos: 
+I – Contrato social atualizado, quando for o caso; 
+II – Cartão CNPJ atualizado, quando for o caso; 
+III – CPF atualizado, quando se tratar de pessoa física; 
+VI – Consulta impressa quanto a opção ao Simples Nacional; 
+§3º Após solicitado o acesso, a autoridade administrativa, no prazo de 
+até 10 (dez) dias, analisará a solicitação e os documentos constantes 
+nos incisos do artigo 8º, atualizará o Cadastro de Contribuintes e fará 
+o deferimento ou indeferimento da solicitação, conforme o caso. 
+Art. 9º A solicitação prevista na Seção 1 do Capítulo 4, uma vez 
+deferida, será irretratável. 
+Parágrafo único. Depois de deferido, os contribuintes especificados no 
+capitulo 1, do título I, iniciarão a geração da NFS-e no dia seguinte ao 
+deferimento da autorização. 
+  
+CAPÍTULO 5 
+Do Cronograma para o Ingresso 
+Art. 10. O Novo sistema de Nota Fiscal de Serviços Eletrônica (NFS-
+e) estará disponível aos contribuintes obrigados, especificados no 
+capítulo 1, a partir de 09 de agosto de 2021 e a obrigatoriedade de 
+
+
+
+Minas Gerais , 05 de Agosto de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3066 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              141 
+ 
+
+geração da NFS-e em substituição ao método/sistema utilizado 
+anteriormente, será a partir desta mesma data. 
+  
+CAPÍTULO 6 
+Seção 1 
+Das Funcionalidades Disponíveis aos Prestadores e Tomadores de 
+Serviços 
+Art. 11. O sistema de Nota Fiscal de Serviço Eletrônica (NFS-e) 
+contempla duas soluções: 
+§1º A solução on-line será disponibilizada no site do município, 
+contemplando as seguintes funcionalidades: 
+I – geração de nota fiscal de serviço eletrônica, sendo este um 
+processo síncrono; 
+II – recepção e processamento de lote de RPS, sendo este um processo 
+assíncrono; 
+III – envio de lote de RPS síncrono; 
+IV – cancelamento de NFS-e, sendo este um processo síncrono; 
+V – substituição de NFS-e, sendo este um processo síncrono; 
+VI – emissão da carta de correção, sendo este um processo síncrono; 
+VII – cancelamento da carta de correção, sendo este um processo 
+síncrono; 
+VIII – consulta de NFS-e por RPS, sendo este um processo sínc
+05-Agosto-2021
+SANTA BARBARA
+Abre Crédito Suplementar - Superávit Financeiro 
+  
+O Prefeito Municipal de Santa Barbara/MG, no uso de suas atribuições legais e de acordo com a autorização contida no Art. 2º da Lei Orçamentária 
+Anual nº 1990, de 16 de novembro de 2020 D E C R E T A: 
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2021, os seguintes créditos suplementares para reforço das seguintes dotações 
+orçamentárias - R$ 213.919,20. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.05 SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO         
+
+04.0122.0021.2.059.000 
+MANUTENCAO DAS ATIVIDADES DA SECRETARIA 
+Diárias - Pessoal Civil 
+
+3.3.90.14.00 13490 200 2.000,00 
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 126 200 30.000,00 
+
+08.0244.0025.2.102.000 
+MANUTENCAO DAS ATIVIDADES DO CREAS 
+Material de Consumo 
+
+3.3.90.30.00 13376 200 10.000,00 
+
+08.0244.0023.2.096.000 
+MANUTENCAO DO PROGRAMA INCLUSAO PRODUTIVA 
+Material, Bem ou Serviço para Distribuição Gratuita 
+
+3.3.90.32.00 13378 200 54.000,00 
+
+04.0122.0021.2.226.000 
+MANUTENCAO DO CEDESP 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13488 200 15.000,00 
+
+2 PODER EXECUTIVO         
+
+2.10 SECRETARIA MUNICIPAL DE SAÚDE         
+
+10.0122.0057.2.170.000 
+MANUTENCAO DAS ATIVIDADES DA SECRETARIA DE SAUDE 
+Indenizações e Restituições 
+
+3.3.90.93.00 13494 255 101.400,00 
+
+2 PODER EXECUTIVO         
+
+2.12 CONTROLADORIA GERAL DO MUNICÍPIO         
+
+04.0124.0062.2.198.000 
+COORDENACAO DO CONTROLE INTERNO MUNICIPAL 
+Serviços Tecnologia da Informação e Comunicação - Pessoa Jur 
+
+3.3.90.40.00 835 200 1.519,20 
+
+Total Órgão PODER EXECUTIVO 213.919,20 
+
+  
+Total dos Créditos................ 213.919,20 
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal nº 4.320, 
+de 17 de março de 1964. 
+  
+
+
+
+Minas Gerais , 05 de Agosto de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3066 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              261 
+ 
+
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+  
+Total da (s) Redução (ôes)............. 
+  
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 02/08/2021. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Andrea da Costa Caetano 
+
+Código Identificador:7F701EB2 
+
+ 
+CONTABILIDADE 
+
+DECRETO Nº 4905/2021 
+ 
+
+Abre Crédito Suplementar - Excesso de Arrecadação 
+  
+O Prefeito Municipal de Santa Barbara/MG, no uso de suas atribuições legais e de acordo com a autorização contida contida no Art. 2º da Lei 
+Orçamentária Anual nº 1990, de 16 de novembro de 2020 D E C R E T A: 
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2021, os seguintes créditos suplementares para reforço das seguintes dotações 
+orçamentárias - R$ 717.460,00. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.05 SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO         
+
+08.0244.0022.2.088.000 
+BENEFICIOS EVENTUAIS-CESTAS BASICAS EMERGENCIAIS 
+Material, Bem ou Serviço para Distribuição Gratuita 
+
+3.3.90.32.00 176 156 17.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+15.0451.0039.2.109.000 
+MANUTENCAO DAS ATIVIDADES DE VIAS URBANAS 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 470 108 500.000,00 
+
+15.0452.0032.2.070.000 
+MANUTENCAO DAS ATIVIDADES DA LIMPEZA URBANA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 478 108 200.000,00 
+
+2 PODER EXECUTIVO         
+
+2.10 SECRETARIA MUNICIPAL DE SAÚDE         
+
+10.0122.0057.2.170.000 
+MANUTENCAO DAS ATIVIDADES DA SECRETARIA DE SAUDE 
+Indenizações e Restituições 
+
+3.3.90.93.00 13495 155 460,00 
+
+Total Órgão PODER EXECUTIVO 717.460,00 
+
+  
+Total dos Créditos................ 717.460,00 
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal nº 4.320, 
+de 17 de março de 1964. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+  
+Total da (s) Redução (ôes)............. 
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 02/08/2021. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Andrea da Costa Caetano 
+
+Código Identificador:0944E13B 
+
+ 
+CONTABILIDADE 
+
+DECRETO Nº 4906/2021 
+ 
+
+Abre Crédito Suplementar - Anulação de Dotação 
+  
+O Prefeito Municipal de Santa Barbara/MG, no uso de suas atribuições legais e de acordo com a autorização contida contida no Art. 2º da 
+Lei Orçamentária Anual nº 1990, de 16 de novembro de 2020 D E C R E T A: 
+
+
+
+Minas Gerais , 05 de Agosto de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3066 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              262 
+ 
+
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2021, os seguintes créditos suplementares para reforço das seguintes 
+dotações orçamentárias - R$ 714.912,12. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.01 GOVERNANÇA PÚBLICA - GABINETE DO PREFEITO         
+
+04.0122.0015.2.039.000 
+MANUTENCAO DAS ATIVIDADES GABINETE E SECRETARIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13496 200 10.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+15.0451.0036.2.236.000 
+PRESERVACAO DE PREDIOS PUBLICOS 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 458 200 100.000,00 
+
+2 PODER EXECUTIVO         
+
+2.09 
+SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E DESENVOLVIMENTO 
+SUSTENTÁVEL 
+
+        
+
+04.0122.0048.2.139.000 
+MANUTENCAO DAS ATIVIDADES DIRETORIA AGROPECUARIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13497 200 11.500,00 
+
+2 PODER EXECUTIVO         
+
+2.10 SECRETARIA MUNICIPAL DE SAÚDE         
+
+10.0122.0057.2.170.000 
+MANUTENCAO DAS ATIVIDADES DA SECRETARIA DE SAUDE 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 606 202 77.000,00 
+
+10.0301.0058.2.175.000 
+MANUTENCAO DAS U.B.S. - SAUDE DA FAMILIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 659 202 100.800,00 
+
+10.0302.0059.2.187.000 
+MANUT ATIVID DA ATENCAO DE MEDIA COMPLEXIDADE 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13479 202 188.100,00 
+
+10.0301.0058.1.088.000 
+AQUISICAO MOVEIS E EQUIPAMENTOS SAUDA DA FAMILIA 
+Equipamentos e Material Permanente 
+
+4.4.90.52.00 639 202 215.512,12 
+
+2 PODER EXECUTIVO         
+
+2.11 SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO TURISMO         
+
+13.0391.0051.2.150.000 
+SALVAGUARDA DIVULGACAO - BENS MAT CULT REGISTRADOS 
+Material, Bem ou Serviço para Distribuição Gratuita 
+
+3.3.90.32.00 801 100 12.000,00 
+
+Total Órgão PODER EXECUTIVO 714.912,12 
+
+ 
+Total dos Créditos................ 714.912,12 
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal 
+nº 4.320, de 17 de março de 1964. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+R$ 1,00 
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 PODER EXECUTIVO         
+
+2.11 SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO TURISMO         
+
+13.0392.0046.2.128.000 
+MANUTENCAO DO PROJETO ARTE/CORAL - ENSINO MUSICAL 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 782 100 12.000,00 
+
+Total PODER EXECUTIVO 12.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+17.0512.0031.1.023.000 
+REALIZ OBRA AMPL REFOR ESTAC DIST AGUA - DISTRITOS 
+Obras e Instal
+05-Agosto-2021
+SANTA BARBARA
+ 
+  
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.05 SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO         
+
+04.0122.0021.2.059.000 
+MANUTENCAO DAS ATIVIDADES DA SECRETARIA 
+Diárias - Pessoal Civil 
+
+3.3.90.14.00 13490 200 2.000,00 
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 126 200 30.000,00 
+
+08.0244.0025.2.102.000 
+MANUTENCAO DAS ATIVIDADES DO CREAS 
+Material de Consumo 
+
+3.3.90.30.00 13376 200 10.000,00 
+
+08.0244.0023.2.096.000 
+MANUTENCAO DO PROGRAMA INCLUSAO PRODUTIVA 
+Material, Bem ou Serviço para Distribuição Gratuita 
+
+3.3.90.32.00 13378 200 54.000,00 
+
+04.0122.0021.2.226.000 
+MANUTENCAO DO CEDESP 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13488 200 15.000,00 
+
+2 PODER EXECUTIVO         
+
+2.10 SECRETARIA MUNICIPAL DE SAÚDE         
+
+10.0122.0057.2.170.000 
+MANUTENCAO DAS ATIVIDADES DA SECRETARIA DE SAUDE 
+Indenizações e Restituições 
+
+3.3.90.93.00 13494 255 101.400,00 
+
+2 PODER EXECUTIVO         
+
+2.12 CONTROLADORIA GERAL DO MUNICÍPIO         
+
+04.0124.0062.2.198.000 
+COORDENACAO DO CONTROLE INTERNO MUNICIPAL 
+Serviços Tecnologia da Informação e Comunicação - Pessoa Jur 
+
+3.3.90.40.00 835 200 1.519,20 
+
+Total Órgão PODER EXECUTIVO 213.919,20 
+
+  
+Total dos Créditos................ 213.919,20 
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal nº 4.320, 
+de 17 de março de 1964. 
+  
+
+
+
+Minas Gerais , 05 de Agosto de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3066 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              261 
+ 
+
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+  
+Total da (s) Redução (ôes)............. 
+  
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 02/08/2021. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Andrea da Costa Caetano 
+
+Código Identificador:7F701EB2 
+
+ 
+CONTABILIDADE 
+
+DECRETO Nº 4905/2021 
+ 
+
+Abre Crédito Suplementar - Excesso de Arrecadação 
+  
+O Prefeito Municipal de Santa Barbara/MG, no uso de suas atribuições legais e de acordo com a autorização contida contida no Art. 2º da Lei 
+Orçamentária Anual nº 1990, de 16 de novembro de 2020 D E C R E T A: 
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2021, os seguintes créditos suplementares para reforço das seguintes dotações 
+orçamentárias - R$ 717.460,00. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.05 SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO         
+
+08.0244.0022.2.088.000 
+BENEFICIOS EVENTUAIS-CESTAS BASICAS EMERGENCIAIS 
+Material, Bem ou Serviço para Distribuição Gratuita 
+
+3.3.90.32.00 176 156 17.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+15.0451.0039.2.109.000 
+MANUTENCAO DAS ATIVIDADES DE VIAS URBANAS 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 470 108 500.000,00 
+
+15.0452.0032.2.070.000 
+MANUTENCAO DAS ATIVIDADES DA LIMPEZA URBANA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 478 108 200.000,00 
+
+2 PODER EXECUTIVO         
+
+2.10 SECRETARIA MUNICIPAL DE SAÚDE         
+
+10.0122.0057.2.170.000 
+MANUTENCAO DAS ATIVIDADES DA SECRETARIA DE SAUDE 
+Indenizações e Restituições 
+
+3.3.90.93.00 13495 155 460,00 
+
+Total Órgão PODER EXECUTIVO 717.460,00 
+
+  
+Total dos Créditos................ 717.460,00 
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal nº 4.320, 
+de 17 de março de 1964. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+  
+Total da (s) Redução (ôes)............. 
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 02/08/2021. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Andrea da Costa Caetano 
+
+Código Identificador:0944E13B 
+
+ 
+CONTABILIDADE 
+
+DECRETO Nº 4906/2021 
+ 
+
+Abre Crédito Suplementar - Anulação de Dotação 
+  
+O Prefeito Municipal de Santa Barbara/MG, no uso de suas atribuições legais e de acordo com a autorização contida contida no Art. 2º da 
+Lei Orçamentária Anual nº 1990, de 16 de novembro de 2020 D E C R E T A: 
+
+
+
+Minas Gerais , 05 de Agosto de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3066 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              262 
+ 
+
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2021, os seguintes créditos suplementares para reforço das seguintes 
+dotações orçamentárias - R$ 714.912,12. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.01 GOVERNANÇA PÚBLICA - GABINETE DO PREFEITO         
+
+04.0122.0015.2.039.000 
+MANUTENCAO DAS ATIVIDADES GABINETE E SECRETARIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13496 200 10.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+15.0451.0036.2.236.000 
+PRESERVACAO DE PREDIOS PUBLICOS 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 458 200 100.000,00 
+
+2 PODER EXECUTIVO         
+
+2.09 
+SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E DESENVOLVIMENTO 
+SUSTENTÁVEL 
+
+        
+
+04.0122.0048.2.139.000 
+MANUTENCAO DAS ATIVIDADES DIRETORIA AGROPECUARIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13497 200 11.500,00 
+
+2 PODER EXECUTIVO         
+
+2.10 SECRETARIA MUNICIPAL DE SAÚDE         
+
+10.0122.0057.2.170.000 
+MANUTENCAO DAS ATIVIDADES DA SECRETARIA DE SAUDE 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 606 202 77.000,00 
+
+10.0301.0058.2.175.000 
+MANUTENCAO DAS U.B.S. - SAUDE DA FAMILIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 659 202 100.800,00 
+
+10.0302.0059.2.187.000 
+MANUT ATIVID DA ATENCAO DE MEDIA COMPLEXIDADE 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13479 202 188.100,00 
+
+10.0301.0058.1.088.000 
+AQUISICAO MOVEIS E EQUIPAMENTOS SAUDA DA FAMILIA 
+Equipamentos e Material Permanente 
+
+4.4.90.52.00 639 202 215.512,12 
+
+2 PODER EXECUTIVO         
+
+2.11 SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO TURISMO         
+
+13.0391.0051.2.150.000 
+SALVAGUARDA DIVULGACAO - BENS MAT CULT REGISTRADOS 
+Material, Bem ou Serviço para Distribuição Gratuita 
+
+3.3.90.32.00 801 100 12.000,00 
+
+Total Órgão PODER EXECUTIVO 714.912,12 
+
+ 
+Total dos Créditos................ 714.912,12 
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal 
+nº 4.320, de 17 de março de 1964. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+R$ 1,00 
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 PODER EXECUTIVO         
+
+2.11 SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO TURISMO         
+
+13.0392.0046.2.128.000 
+MANUTENCAO DO PROJETO ARTE/CORAL - ENSINO MUSICAL 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 782 100 12.000,00 
+
+Total PODER EXECUTIVO 12.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+17.0512.0031.1.023.000 
+REALIZ OBRA AMPL REFOR ESTAC DIST AGUA - DISTRITOS 
+Obras e Instalações 
+
+4.4.90.51.00 905 200 
+  
+
+100.000,00 
+
+Total PODER EXECUTIVO 100.000,00 
+
+2 PODER EXECUTIVO         
+
+2.06 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO PÚBLICA         
+
+04.0122.0015.2.212.000 
+INDENIZACOES PROGRAMA DE DEMISSAO VOLUNTARIA-PDV 
+Indenizações e Restituições Trabalhistas 
+
+3.1.90.94.00 13444 200 
+  
+
+602.912,12 
+
+Total PODER EXECUTIVO 602.912,12 
+
+  
+Total da (s) Redução (ôes)............. 714.912,12 
+Art. 3º - Est
+05-Agosto-2021
+SANTA BARBARA
+ 
+ 
+
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+  
+Total da (s) Redução (ôes)............. 
+  
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 02/08/2021. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Andrea da Costa Caetano 
+
+Código Identificador:7F701EB2 
+
+ 
+CONTABILIDADE 
+
+DECRETO Nº 4905/2021 
+ 
+
+Abre Crédito Suplementar - Excesso de Arrecadação 
+  
+O Prefeito Municipal de Santa Barbara/MG, no uso de suas atribuições legais e de acordo com a autorização contida contida no Art. 2º da Lei 
+Orçamentária Anual nº 1990, de 16 de novembro de 2020 D E C R E T A: 
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2021, os seguintes créditos suplementares para reforço das seguintes dotações 
+orçamentárias - R$ 717.460,00. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.05 SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO         
+
+08.0244.0022.2.088.000 
+BENEFICIOS EVENTUAIS-CESTAS BASICAS EMERGENCIAIS 
+Material, Bem ou Serviço para Distribuição Gratuita 
+
+3.3.90.32.00 176 156 17.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+15.0451.0039.2.109.000 
+MANUTENCAO DAS ATIVIDADES DE VIAS URBANAS 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 470 108 500.000,00 
+
+15.0452.0032.2.070.000 
+MANUTENCAO DAS ATIVIDADES DA LIMPEZA URBANA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 478 108 200.000,00 
+
+2 PODER EXECUTIVO         
+
+2.10 SECRETARIA MUNICIPAL DE SAÚDE         
+
+10.0122.0057.2.170.000 
+MANUTENCAO DAS ATIVIDADES DA SECRETARIA DE SAUDE 
+Indenizações e Restituições 
+
+3.3.90.93.00 13495 155 460,00 
+
+Total Órgão PODER EXECUTIVO 717.460,00 
+
+  
+Total dos Créditos................ 717.460,00 
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal nº 4.320, 
+de 17 de março de 1964. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+  
+Total da (s) Redução (ôes)............. 
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 02/08/2021. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Andrea da Costa Caetano 
+
+Código Identificador:0944E13B 
+
+ 
+CONTABILIDADE 
+
+DECRETO Nº 4906/2021 
+ 
+
+Abre Crédito Suplementar - Anulação de Dotação 
+  
+O Prefeito Municipal de Santa Barbara/MG, no uso de suas atribuições legais e de acordo com a autorização contida contida no Art. 2º da 
+Lei Orçamentária Anual nº 1990, de 16 de novembro de 2020 D E C R E T A: 
+
+
+
+Minas Gerais , 05 de Agosto de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3066 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              262 
+ 
+
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2021, os seguintes créditos suplementares para reforço das seguintes 
+dotações orçamentárias - R$ 714.912,12. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.01 GOVERNANÇA PÚBLICA - GABINETE DO PREFEITO         
+
+04.0122.0015.2.039.000 
+MANUTENCAO DAS ATIVIDADES GABINETE E SECRETARIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13496 200 10.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+15.0451.0036.2.236.000 
+PRESERVACAO DE PREDIOS PUBLICOS 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 458 200 100.000,00 
+
+2 PODER EXECUTIVO         
+
+2.09 
+SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E DESENVOLVIMENTO 
+SUSTENTÁVEL 
+
+        
+
+04.0122.0048.2.139.000 
+MANUTENCAO DAS ATIVIDADES DIRETORIA AGROPECUARIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13497 200 11.500,00 
+
+2 PODER EXECUTIVO         
+
+2.10 SECRETARIA MUNICIPAL DE SAÚDE         
+
+10.0122.0057.2.170.000 
+MANUTENCAO DAS ATIVIDADES DA SECRETARIA DE SAUDE 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 606 202 77.000,00 
+
+10.0301.0058.2.175.000 
+MANUTENCAO DAS U.B.S. - SAUDE DA FAMILIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 659 202 100.800,00 
+
+10.0302.0059.2.187.000 
+MANUT ATIVID DA ATENCAO DE MEDIA COMPLEXIDADE 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13479 202 188.100,00 
+
+10.0301.0058.1.088.000 
+AQUISICAO MOVEIS E EQUIPAMENTOS SAUDA DA FAMILIA 
+Equipamentos e Material Permanente 
+
+4.4.90.52.00 639 202 215.512,12 
+
+2 PODER EXECUTIVO         
+
+2.11 SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO TURISMO         
+
+13.0391.0051.2.150.000 
+SALVAGUARDA DIVULGACAO - BENS MAT CULT REGISTRADOS 
+Material, Bem ou Serviço para Distribuição Gratuita 
+
+3.3.90.32.00 801 100 12.000,00 
+
+Total Órgão PODER EXECUTIVO 714.912,12 
+
+ 
+Total dos Créditos................ 714.912,12 
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal 
+nº 4.320, de 17 de março de 1964. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+R$ 1,00 
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 PODER EXECUTIVO         
+
+2.11 SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO TURISMO         
+
+13.0392.0046.2.128.000 
+MANUTENCAO DO PROJETO ARTE/CORAL - ENSINO MUSICAL 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 782 100 12.000,00 
+
+Total PODER EXECUTIVO 12.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+17.0512.0031.1.023.000 
+REALIZ OBRA AMPL REFOR ESTAC DIST AGUA - DISTRITOS 
+Obras e Instalações 
+
+4.4.90.51.00 905 200 
+  
+
+100.000,00 
+
+Total PODER EXECUTIVO 100.000,00 
+
+2 PODER EXECUTIVO         
+
+2.06 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO PÚBLICA         
+
+04.0122.0015.2.212.000 
+INDENIZACOES PROGRAMA DE DEMISSAO VOLUNTARIA-PDV 
+Indenizações e Restituições Trabalhistas 
+
+3.1.90.94.00 13444 200 
+  
+
+602.912,12 
+
+Total PODER EXECUTIVO 602.912,12 
+
+  
+Total da (s) Redução (ôes)............. 714.912,12 
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 03/08/2021. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Andrea da Costa Caetano 
+
+Código Identificador:4F22CA0F 
+
+ 
+SEC. DE DESENVOLVIMENTO SOCIAL 
+
+RESULTADO PRELIMINAR - EDITAL 01-2021 - PROGRAMA DE INCLUSÃO PRODUTIVA DA MULHER (QUALIFICAÇÃO I) 
+ 
+RESULTADO PRELIMINAR DO EDITAL DE SELEÇÃO 01/2021: 
+  
+O MUNICÍPIO DE SANTA BÁRBARA/MG, por intermédio da Secretaria Municipal de Desenvolvimento e Proteção Social, no exercício de suas 
+atribuições, com fundamento na Lei Municipal N° 1943/2019 e Decreto Municipal N° 4259/2019, faz saber o RESULTADO PRELIMINAR com a 
+classificação das mulheres inscritas no Programa de Inclusão Produtiva da Mulher, na modalidade de qualificação I, conforme Edital 01/2021. 
+  
+CANDIDATAS CLASSIFICADAS: 
+ 
+  
+
+
+
+Minas Gerais , 05 de Agosto de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3066 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              263 
+ 
+
+CLASSIFICAÇÃO CANDIDATA CPF SITUAÇÃO DA INSCRIÇÃO 
+
+1 Ana Lúcia Figueiredo 344.***.166-** DEFERIDA 
+
+2 Lúcia Elena de Paiva Souza 028.***.176-** DEFERIDA 
+
+3 Marlene Batista da Silva 853.***.306-** DEFERIDA 
+
+4 Ana Lúcia de Moraes 063.***.486-** DEFERIDA 
+
+5 Débora Cássia Cerqueira 028.***.236-** DEFERIDA 
+
+6 Margarete Pereira de São José 093.***.606-** DEFERIDA 
+
+7 Maria Cristina da Silva 015.***.816-** DEFERIDA 
+
+8 Altina Cunha da Silva 046.***.136-** DEFERIDA 
+
+9 Edivânia Aparecida Santiago 081.***.526-** DEFERIDA 
+
+10 Petrina da Glória Perdigão 111.***.096-** DEFERIDA 
+
+11 Cássia da Conceição Aparecida Ribeiro 060.***.816-** DEFERIDA 
+
+12 Cláudia das Dores da Conceição 083.***.586-** D
+05-Agosto-2021
+SANTA BARBARA
+Abre Crédito Suplementar - Excesso de Arrecadação 
+  
+O Prefeito Municipal de Santa Barbara/MG, no uso de suas atribuições legais e de acordo com a autorização contida contida no Art. 2º da Lei 
+Orçamentária Anual nº 1990, de 16 de novembro de 2020 D E C R E T A: 
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2021, os seguintes créditos suplementares para reforço das seguintes dotações 
+orçamentárias - R$ 717.460,00. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.05 SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO         
+
+08.0244.0022.2.088.000 
+BENEFICIOS EVENTUAIS-CESTAS BASICAS EMERGENCIAIS 
+Material, Bem ou Serviço para Distribuição Gratuita 
+
+3.3.90.32.00 176 156 17.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+15.0451.0039.2.109.000 
+MANUTENCAO DAS ATIVIDADES DE VIAS URBANAS 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 470 108 500.000,00 
+
+15.0452.0032.2.070.000 
+MANUTENCAO DAS ATIVIDADES DA LIMPEZA URBANA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 478 108 200.000,00 
+
+2 PODER EXECUTIVO         
+
+2.10 SECRETARIA MUNICIPAL DE SAÚDE         
+
+10.0122.0057.2.170.000 
+MANUTENCAO DAS ATIVIDADES DA SECRETARIA DE SAUDE 
+Indenizações e Restituições 
+
+3.3.90.93.00 13495 155 460,00 
+
+Total Órgão PODER EXECUTIVO 717.460,00 
+
+  
+Total dos Créditos................ 717.460,00 
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal nº 4.320, 
+de 17 de março de 1964. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+  
+Total da (s) Redução (ôes)............. 
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 02/08/2021. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Andrea da Costa Caetano 
+
+Código Identificador:0944E13B 
+
+ 
+CONTABILIDADE 
+
+DECRETO Nº 4906/2021 
+ 
+
+Abre Crédito Suplementar - Anulação de Dotação 
+  
+O Prefeito Municipal de Santa Barbara/MG, no uso de suas atribuições legais e de acordo com a autorização contida contida no Art. 2º da 
+Lei Orçamentária Anual nº 1990, de 16 de novembro de 2020 D E C R E T A: 
+
+
+
+Minas Gerais , 05 de Agosto de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3066 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              262 
+ 
+
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2021, os seguintes créditos suplementares para reforço das seguintes 
+dotações orçamentárias - R$ 714.912,12. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.01 GOVERNANÇA PÚBLICA - GABINETE DO PREFEITO         
+
+04.0122.0015.2.039.000 
+MANUTENCAO DAS ATIVIDADES GABINETE E SECRETARIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13496 200 10.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+15.0451.0036.2.236.000 
+PRESERVACAO DE PREDIOS PUBLICOS 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 458 200 100.000,00 
+
+2 PODER EXECUTIVO         
+
+2.09 
+SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E DESENVOLVIMENTO 
+SUSTENTÁVEL 
+
+        
+
+04.0122.0048.2.139.000 
+MANUTENCAO DAS ATIVIDADES DIRETORIA AGROPECUARIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13497 200 11.500,00 
+
+2 PODER EXECUTIVO         
+
+2.10 SECRETARIA MUNICIPAL DE SAÚDE         
+
+10.0122.0057.2.170.000 
+MANUTENCAO DAS ATIVIDADES DA SECRETARIA DE SAUDE 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 606 202 77.000,00 
+
+10.0301.0058.2.175.000 
+MANUTENCAO DAS U.B.S. - SAUDE DA FAMILIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 659 202 100.800,00 
+
+10.0302.0059.2.187.000 
+MANUT ATIVID DA ATENCAO DE MEDIA COMPLEXIDADE 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13479 202 188.100,00 
+
+10.0301.0058.1.088.000 
+AQUISICAO MOVEIS E EQUIPAMENTOS SAUDA DA FAMILIA 
+Equipamentos e Material Permanente 
+
+4.4.90.52.00 639 202 215.512,12 
+
+2 PODER EXECUTIVO         
+
+2.11 SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO TURISMO         
+
+13.0391.0051.2.150.000 
+SALVAGUARDA DIVULGACAO - BENS MAT CULT REGISTRADOS 
+Material, Bem ou Serviço para Distribuição Gratuita 
+
+3.3.90.32.00 801 100 12.000,00 
+
+Total Órgão PODER EXECUTIVO 714.912,12 
+
+ 
+Total dos Créditos................ 714.912,12 
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal 
+nº 4.320, de 17 de março de 1964. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+R$ 1,00 
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 PODER EXECUTIVO         
+
+2.11 SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO TURISMO         
+
+13.0392.0046.2.128.000 
+MANUTENCAO DO PROJETO ARTE/CORAL - ENSINO MUSICAL 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 782 100 12.000,00 
+
+Total PODER EXECUTIVO 12.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+17.0512.0031.1.023.000 
+REALIZ OBRA AMPL REFOR ESTAC DIST AGUA - DISTRITOS 
+Obras e Instalações 
+
+4.4.90.51.00 905 200 
+  
+
+100.000,00 
+
+Total PODER EXECUTIVO 100.000,00 
+
+2 PODER EXECUTIVO         
+
+2.06 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO PÚBLICA         
+
+04.0122.0015.2.212.000 
+INDENIZACOES PROGRAMA DE DEMISSAO VOLUNTARIA-PDV 
+Indenizações e Restituições Trabalhistas 
+
+3.1.90.94.00 13444 200 
+  
+
+602.912,12 
+
+Total PODER EXECUTIVO 602.912,12 
+
+  
+Total da (s) Redução (ôes)............. 714.912,12 
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 03/08/2021. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Andrea da Costa Caetano 
+
+Código Identificador:4F22CA0F 
+
+ 
+SEC. DE DESENVOLVIMENTO SOCIAL 
+
+RESULTADO PRELIMINAR - EDITAL 01-2021 - PROGRAMA DE INCLUSÃO PRODUTIVA DA MULHER (QUALIFICAÇÃO I) 
+ 
+RESULTADO PRELIMINAR DO EDITAL DE SELEÇÃO 01/2021: 
+  
+O MUNICÍPIO DE SANTA BÁRBARA/MG, por intermédio da Secretaria Municipal de Desenvolvimento e Proteção Social, no exercício de suas 
+atribuições, com fundamento na Lei Municipal N° 1943/2019 e Decreto Municipal N° 4259/2019, faz saber o RESULTADO PRELIMINAR com a 
+classificação das mulheres inscritas no Programa de Inclusão Produtiva da Mulher, na modalidade de qualificação I, conforme Edital 01/2021. 
+  
+CANDIDATAS CLASSIFICADAS: 
+ 
+  
+
+
+
+Minas Gerais , 05 de Agosto de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3066 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              263 
+ 
+
+CLASSIFICAÇÃO CANDIDATA CPF SITUAÇÃO DA INSCRIÇÃO 
+
+1 Ana Lúcia Figueiredo 344.***.166-** DEFERIDA 
+
+2 Lúcia Elena de Paiva Souza 028.***.176-** DEFERIDA 
+
+3 Marlene Batista da Silva 853.***.306-** DEFERIDA 
+
+4 Ana Lúcia de Moraes 063.***.486-** DEFERIDA 
+
+5 Débora Cássia Cerqueira 028.***.236-** DEFERIDA 
+
+6 Margarete Pereira de São José 093.***.606-** DEFERIDA 
+
+7 Maria Cristina da Silva 015.***.816-** DEFERIDA 
+
+8 Altina Cunha da Silva 046.***.136-** DEFERIDA 
+
+9 Edivânia Aparecida Santiago 081.***.526-** DEFERIDA 
+
+10 Petrina da Glória Perdigão 111.***.096-** DEFERIDA 
+
+11 Cássia da Conceição Aparecida Ribeiro 060.***.816-** DEFERIDA 
+
+12 Cláudia das Dores da Conceição 083.***.586-** DEFERIDA 
+
+13 Marília Antônia José 065.***.956-21 DEFERIDA 
+
+14 Cristiane Cecilia da Silva 075.***.136-** DEFERIDA 
+
+15 Taiana Salgado Lima 090.***.176-64 DEFERIDA 
+
+16 Simone Gonçalves dos Santos 088.***.376-** DEFERIDA 
+
+17 Gersica Aparecida de Souza 091.***.156-** DEFERIDA 
+
+18 Mirielly Adriana dos Santos 126.***.736-** DEFERIDA 
+
+19 Juliete da C. Beltodo Amorim 143.***.256-** DEFERIDA 
+
+20 Nayara Nazareth de Ol
+05-Agosto-2021
+SANTA BARBARA
+ 
+  
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.05 SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO         
+
+08.0244.0022.2.088.000 
+BENEFICIOS EVENTUAIS-CESTAS BASICAS EMERGENCIAIS 
+Material, Bem ou Serviço para Distribuição Gratuita 
+
+3.3.90.32.00 176 156 17.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+15.0451.0039.2.109.000 
+MANUTENCAO DAS ATIVIDADES DE VIAS URBANAS 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 470 108 500.000,00 
+
+15.0452.0032.2.070.000 
+MANUTENCAO DAS ATIVIDADES DA LIMPEZA URBANA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 478 108 200.000,00 
+
+2 PODER EXECUTIVO         
+
+2.10 SECRETARIA MUNICIPAL DE SAÚDE         
+
+10.0122.0057.2.170.000 
+MANUTENCAO DAS ATIVIDADES DA SECRETARIA DE SAUDE 
+Indenizações e Restituições 
+
+3.3.90.93.00 13495 155 460,00 
+
+Total Órgão PODER EXECUTIVO 717.460,00 
+
+  
+Total dos Créditos................ 717.460,00 
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal nº 4.320, 
+de 17 de março de 1964. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+  
+Total da (s) Redução (ôes)............. 
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 02/08/2021. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Andrea da Costa Caetano 
+
+Código Identificador:0944E13B 
+
+ 
+CONTABILIDADE 
+
+DECRETO Nº 4906/2021 
+ 
+
+Abre Crédito Suplementar - Anulação de Dotação 
+  
+O Prefeito Municipal de Santa Barbara/MG, no uso de suas atribuições legais e de acordo com a autorização contida contida no Art. 2º da 
+Lei Orçamentária Anual nº 1990, de 16 de novembro de 2020 D E C R E T A: 
+
+
+
+Minas Gerais , 05 de Agosto de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3066 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              262 
+ 
+
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2021, os seguintes créditos suplementares para reforço das seguintes 
+dotações orçamentárias - R$ 714.912,12. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.01 GOVERNANÇA PÚBLICA - GABINETE DO PREFEITO         
+
+04.0122.0015.2.039.000 
+MANUTENCAO DAS ATIVIDADES GABINETE E SECRETARIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13496 200 10.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+15.0451.0036.2.236.000 
+PRESERVACAO DE PREDIOS PUBLICOS 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 458 200 100.000,00 
+
+2 PODER EXECUTIVO         
+
+2.09 
+SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E DESENVOLVIMENTO 
+SUSTENTÁVEL 
+
+        
+
+04.0122.0048.2.139.000 
+MANUTENCAO DAS ATIVIDADES DIRETORIA AGROPECUARIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13497 200 11.500,00 
+
+2 PODER EXECUTIVO         
+
+2.10 SECRETARIA MUNICIPAL DE SAÚDE         
+
+10.0122.0057.2.170.000 
+MANUTENCAO DAS ATIVIDADES DA SECRETARIA DE SAUDE 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 606 202 77.000,00 
+
+10.0301.0058.2.175.000 
+MANUTENCAO DAS U.B.S. - SAUDE DA FAMILIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 659 202 100.800,00 
+
+10.0302.0059.2.187.000 
+MANUT ATIVID DA ATENCAO DE MEDIA COMPLEXIDADE 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13479 202 188.100,00 
+
+10.0301.0058.1.088.000 
+AQUISICAO MOVEIS E EQUIPAMENTOS SAUDA DA FAMILIA 
+Equipamentos e Material Permanente 
+
+4.4.90.52.00 639 202 215.512,12 
+
+2 PODER EXECUTIVO         
+
+2.11 SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO TURISMO         
+
+13.0391.0051.2.150.000 
+SALVAGUARDA DIVULGACAO - BENS MAT CULT REGISTRADOS 
+Material, Bem ou Serviço para Distribuição Gratuita 
+
+3.3.90.32.00 801 100 12.000,00 
+
+Total Órgão PODER EXECUTIVO 714.912,12 
+
+ 
+Total dos Créditos................ 714.912,12 
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal 
+nº 4.320, de 17 de março de 1964. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+R$ 1,00 
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 PODER EXECUTIVO         
+
+2.11 SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO TURISMO         
+
+13.0392.0046.2.128.000 
+MANUTENCAO DO PROJETO ARTE/CORAL - ENSINO MUSICAL 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 782 100 12.000,00 
+
+Total PODER EXECUTIVO 12.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+17.0512.0031.1.023.000 
+REALIZ OBRA AMPL REFOR ESTAC DIST AGUA - DISTRITOS 
+Obras e Instalações 
+
+4.4.90.51.00 905 200 
+  
+
+100.000,00 
+
+Total PODER EXECUTIVO 100.000,00 
+
+2 PODER EXECUTIVO         
+
+2.06 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO PÚBLICA         
+
+04.0122.0015.2.212.000 
+INDENIZACOES PROGRAMA DE DEMISSAO VOLUNTARIA-PDV 
+Indenizações e Restituições Trabalhistas 
+
+3.1.90.94.00 13444 200 
+  
+
+602.912,12 
+
+Total PODER EXECUTIVO 602.912,12 
+
+  
+Total da (s) Redução (ôes)............. 714.912,12 
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 03/08/2021. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Andrea da Costa Caetano 
+
+Código Identificador:4F22CA0F 
+
+ 
+SEC. DE DESENVOLVIMENTO SOCIAL 
+
+RESULTADO PRELIMINAR - EDITAL 01-2021 - PROGRAMA DE INCLUSÃO PRODUTIVA DA MULHER (QUALIFICAÇÃO I) 
+ 
+RESULTADO PRELIMINAR DO EDITAL DE SELEÇÃO 01/2021: 
+  
+O MUNICÍPIO DE SANTA BÁRBARA/MG, por intermédio da Secretaria Municipal de Desenvolvimento e Proteção Social, no exercício de suas 
+atribuições, com fundamento na Lei Municipal N° 1943/2019 e Decreto Municipal N° 4259/2019, faz saber o RESULTADO PRELIMINAR com a 
+classificação das mulheres inscritas no Programa de Inclusão Produtiva da Mulher, na modalidade de qualificação I, conforme Edital 01/2021. 
+  
+CANDIDATAS CLASSIFICADAS: 
+ 
+  
+
+
+
+Minas Gerais , 05 de Agosto de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3066 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              263 
+ 
+
+CLASSIFICAÇÃO CANDIDATA CPF SITUAÇÃO DA INSCRIÇÃO 
+
+1 Ana Lúcia Figueiredo 344.***.166-** DEFERIDA 
+
+2 Lúcia Elena de Paiva Souza 028.***.176-** DEFERIDA 
+
+3 Marlene Batista da Silva 853.***.306-** DEFERIDA 
+
+4 Ana Lúcia de Moraes 063.***.486-** DEFERIDA 
+
+5 Débora Cássia Cerqueira 028.***.236-** DEFERIDA 
+
+6 Margarete Pereira de São José 093.***.606-** DEFERIDA 
+
+7 Maria Cristina da Silva 015.***.816-** DEFERIDA 
+
+8 Altina Cunha da Silva 046.***.136-** DEFERIDA 
+
+9 Edivânia Aparecida Santiago 081.***.526-** DEFERIDA 
+
+10 Petrina da Glória Perdigão 111.***.096-** DEFERIDA 
+
+11 Cássia da Conceição Aparecida Ribeiro 060.***.816-** DEFERIDA 
+
+12 Cláudia das Dores da Conceição 083.***.586-** DEFERIDA 
+
+13 Marília Antônia José 065.***.956-21 DEFERIDA 
+
+14 Cristiane Cecilia da Silva 075.***.136-** DEFERIDA 
+
+15 Taiana Salgado Lima 090.***.176-64 DEFERIDA 
+
+16 Simone Gonçalves dos Santos 088.***.376-** DEFERIDA 
+
+17 Gersica Aparecida de Souza 091.***.156-** DEFERIDA 
+
+18 Mirielly Adriana dos Santos 126.***.736-** DEFERIDA 
+
+19 Juliete da C. Beltodo Amorim 143.***.256-** DEFERIDA 
+
+20 Nayara Nazareth de Oliveira 116.***.796-** DEFERIDA 
+
+21 Stefany Gabriely Natividade Rodrigues 082.***.666-** DEFERIDA 
+
+22 Nadyla Dayviane da Silva 102.***.686-** DEFERIDA 
+
+23 Carliana Maria Gonçalves 129.***.736-** DEFERIDA 
+
+24 Ana Paula Pereira 133.***.666-** DEFERIDA 
+
+25 Luana Camila de Araújo de França 140.***.246-** DEFERIDA 
+
+26 Ana Flávia Martins 155.***.096-** DEFERIDA 
+
+27 Merylaine da Conceição André 173.***.056-** DEFERIDA 
+
+28 Bruna Lúcia Gonç
+05-Agosto-2021
+SANTA BARBARA
+ 
+  
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+  
+Total da (s) Redução (ôes)............. 
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 02/08/2021. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Andrea da Costa Caetano 
+
+Código Identificador:0944E13B 
+
+ 
+CONTABILIDADE 
+
+DECRETO Nº 4906/2021 
+ 
+
+Abre Crédito Suplementar - Anulação de Dotação 
+  
+O Prefeito Municipal de Santa Barbara/MG, no uso de suas atribuições legais e de acordo com a autorização contida contida no Art. 2º da 
+Lei Orçamentária Anual nº 1990, de 16 de novembro de 2020 D E C R E T A: 
+
+
+
+Minas Gerais , 05 de Agosto de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3066 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              262 
+ 
+
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2021, os seguintes créditos suplementares para reforço das seguintes 
+dotações orçamentárias - R$ 714.912,12. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.01 GOVERNANÇA PÚBLICA - GABINETE DO PREFEITO         
+
+04.0122.0015.2.039.000 
+MANUTENCAO DAS ATIVIDADES GABINETE E SECRETARIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13496 200 10.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+15.0451.0036.2.236.000 
+PRESERVACAO DE PREDIOS PUBLICOS 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 458 200 100.000,00 
+
+2 PODER EXECUTIVO         
+
+2.09 
+SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E DESENVOLVIMENTO 
+SUSTENTÁVEL 
+
+        
+
+04.0122.0048.2.139.000 
+MANUTENCAO DAS ATIVIDADES DIRETORIA AGROPECUARIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13497 200 11.500,00 
+
+2 PODER EXECUTIVO         
+
+2.10 SECRETARIA MUNICIPAL DE SAÚDE         
+
+10.0122.0057.2.170.000 
+MANUTENCAO DAS ATIVIDADES DA SECRETARIA DE SAUDE 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 606 202 77.000,00 
+
+10.0301.0058.2.175.000 
+MANUTENCAO DAS U.B.S. - SAUDE DA FAMILIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 659 202 100.800,00 
+
+10.0302.0059.2.187.000 
+MANUT ATIVID DA ATENCAO DE MEDIA COMPLEXIDADE 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13479 202 188.100,00 
+
+10.0301.0058.1.088.000 
+AQUISICAO MOVEIS E EQUIPAMENTOS SAUDA DA FAMILIA 
+Equipamentos e Material Permanente 
+
+4.4.90.52.00 639 202 215.512,12 
+
+2 PODER EXECUTIVO         
+
+2.11 SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO TURISMO         
+
+13.0391.0051.2.150.000 
+SALVAGUARDA DIVULGACAO - BENS MAT CULT REGISTRADOS 
+Material, Bem ou Serviço para Distribuição Gratuita 
+
+3.3.90.32.00 801 100 12.000,00 
+
+Total Órgão PODER EXECUTIVO 714.912,12 
+
+ 
+Total dos Créditos................ 714.912,12 
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal 
+nº 4.320, de 17 de março de 1964. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+R$ 1,00 
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 PODER EXECUTIVO         
+
+2.11 SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO TURISMO         
+
+13.0392.0046.2.128.000 
+MANUTENCAO DO PROJETO ARTE/CORAL - ENSINO MUSICAL 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 782 100 12.000,00 
+
+Total PODER EXECUTIVO 12.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+17.0512.0031.1.023.000 
+REALIZ OBRA AMPL REFOR ESTAC DIST AGUA - DISTRITOS 
+Obras e Instalações 
+
+4.4.90.51.00 905 200 
+  
+
+100.000,00 
+
+Total PODER EXECUTIVO 100.000,00 
+
+2 PODER EXECUTIVO         
+
+2.06 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO PÚBLICA         
+
+04.0122.0015.2.212.000 
+INDENIZACOES PROGRAMA DE DEMISSAO VOLUNTARIA-PDV 
+Indenizações e Restituições Trabalhistas 
+
+3.1.90.94.00 13444 200 
+  
+
+602.912,12 
+
+Total PODER EXECUTIVO 602.912,12 
+
+  
+Total da (s) Redução (ôes)............. 714.912,12 
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 03/08/2021. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Andrea da Costa Caetano 
+
+Código Identificador:4F22CA0F 
+
+ 
+SEC. DE DESENVOLVIMENTO SOCIAL 
+
+RESULTADO PRELIMINAR - EDITAL 01-2021 - PROGRAMA DE INCLUSÃO PRODUTIVA DA MULHER (QUALIFICAÇÃO I) 
+ 
+RESULTADO PRELIMINAR DO EDITAL DE SELEÇÃO 01/2021: 
+  
+O MUNICÍPIO DE SANTA BÁRBARA/MG, por intermédio da Secretaria Municipal de Desenvolvimento e Proteção Social, no exercício de suas 
+atribuições, com fundamento na Lei Municipal N° 1943/2019 e Decreto Municipal N° 4259/2019, faz saber o RESULTADO PRELIMINAR com a 
+classificação das mulheres inscritas no Programa de Inclusão Produtiva da Mulher, na modalidade de qualificação I, conforme Edital 01/2021. 
+  
+CANDIDATAS CLASSIFICADAS: 
+ 
+  
+
+
+
+Minas Gerais , 05 de Agosto de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3066 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              263 
+ 
+
+CLASSIFICAÇÃO CANDIDATA CPF SITUAÇÃO DA INSCRIÇÃO 
+
+1 Ana Lúcia Figueiredo 344.***.166-** DEFERIDA 
+
+2 Lúcia Elena de Paiva Souza 028.***.176-** DEFERIDA 
+
+3 Marlene Batista da Silva 853.***.306-** DEFERIDA 
+
+4 Ana Lúcia de Moraes 063.***.486-** DEFERIDA 
+
+5 Débora Cássia Cerqueira 028.***.236-** DEFERIDA 
+
+6 Margarete Pereira de São José 093.***.606-** DEFERIDA 
+
+7 Maria Cristina da Silva 015.***.816-** DEFERIDA 
+
+8 Altina Cunha da Silva 046.***.136-** DEFERIDA 
+
+9 Edivânia Aparecida Santiago 081.***.526-** DEFERIDA 
+
+10 Petrina da Glória Perdigão 111.***.096-** DEFERIDA 
+
+11 Cássia da Conceição Aparecida Ribeiro 060.***.816-** DEFERIDA 
+
+12 Cláudia das Dores da Conceição 083.***.586-** DEFERIDA 
+
+13 Marília Antônia José 065.***.956-21 DEFERIDA 
+
+14 Cristiane Cecilia da Silva 075.***.136-** DEFERIDA 
+
+15 Taiana Salgado Lima 090.***.176-64 DEFERIDA 
+
+16 Simone Gonçalves dos Santos 088.***.376-** DEFERIDA 
+
+17 Gersica Aparecida de Souza 091.***.156-** DEFERIDA 
+
+18 Mirielly Adriana dos Santos 126.***.736-** DEFERIDA 
+
+19 Juliete da C. Beltodo Amorim 143.***.256-** DEFERIDA 
+
+20 Nayara Nazareth de Oliveira 116.***.796-** DEFERIDA 
+
+21 Stefany Gabriely Natividade Rodrigues 082.***.666-** DEFERIDA 
+
+22 Nadyla Dayviane da Silva 102.***.686-** DEFERIDA 
+
+23 Carliana Maria Gonçalves 129.***.736-** DEFERIDA 
+
+24 Ana Paula Pereira 133.***.666-** DEFERIDA 
+
+25 Luana Camila de Araújo de França 140.***.246-** DEFERIDA 
+
+26 Ana Flávia Martins 155.***.096-** DEFERIDA 
+
+27 Merylaine da Conceição André 173.***.056-** DEFERIDA 
+
+28 Bruna Lúcia Gonçalves de Paula 088.***.406-02 DEFERIDA 
+
+29 Adriana Aparecida da Silva 096.***.776-** DEFERIDA 
+
+30 Michele de Fátima Pires 123.***.806-** DEFERIDA 
+
+31 Rosimary Gomes 110.***.486-** DEFERIDA 
+
+32 Efigênia do Rosario Lemos Duarte 050.***.226-** DEFERIDA 
+
+33 Aparecida Antônia Souza 508.***.956-** DEFERIDA 
+
+34 Gislane Auxiliadora da Cruz 027.***.466-** DEFERIDA 
+
+  
+CANDIDATAS DESCLASSIFICADAS: 
+  
+CANDIDATA CPF SITUAÇÃO DA INSCRIÇÃO 
+
+Adriana da Conceição Ramos 094.***.146-** INDEFERIDA 
+
+Amanda Silva dos Reis 130.***.616-** INDEFERIDA 
+
+Ana Maria de Souza Borges 034.***.546-** INDEFERIDA 
+
+Celma Sandra Gonçalves da Silva 058.***.766-** INDEFERIDA 
+
+Cintia Miranda Moreira Teodoro 102-***.796-** INDEFERIDA 
+
+Cleuzimar Cristina Junior 066.***.806-** INDEFERIDA 
+
+Deyciele Aparecida Barbosa 144.***.046-** INDEFERIDA 
+
+Dulcinéia Rocha Duarte Campos 114.***.186-** INDEFERIDA 
+
+Elaine Cristina Gonçalves Felisberto 053.***.116-** INDEFERIDA 
+
+Ilda Maria 162.***.413-** INDEFERIDA 
+
+Jamille Hillary Fonseca Nina 145.***.926-** INDEFERIDA 
+
+Josely de Oliveira Arcanjo Dias 081.***.226-** INDEFERIDA 
+
+Juliete Matilde Rodrigues 102.***396-** INDEFERIDA 
+
+Leidismar Vieira Guimarães Silva 126.***.526-** INDEFERIDA 
+
+Lúcia Maria 
+05-Agosto-2021
+SANTA BARBARA
+Abre Crédito Suplementar - Anulação de Dotação 
+  
+O Prefeito Municipal de Santa Barbara/MG, no uso de suas atribuições legais e de acordo com a autorização contida contida no Art. 2º da 
+Lei Orçamentária Anual nº 1990, de 16 de novembro de 2020 D E C R E T A: 
+
+
+
+Minas Gerais , 05 de Agosto de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3066 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              262 
+ 
+
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2021, os seguintes créditos suplementares para reforço das seguintes 
+dotações orçamentárias - R$ 714.912,12. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.01 GOVERNANÇA PÚBLICA - GABINETE DO PREFEITO         
+
+04.0122.0015.2.039.000 
+MANUTENCAO DAS ATIVIDADES GABINETE E SECRETARIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13496 200 10.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+15.0451.0036.2.236.000 
+PRESERVACAO DE PREDIOS PUBLICOS 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 458 200 100.000,00 
+
+2 PODER EXECUTIVO         
+
+2.09 
+SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E DESENVOLVIMENTO 
+SUSTENTÁVEL 
+
+        
+
+04.0122.0048.2.139.000 
+MANUTENCAO DAS ATIVIDADES DIRETORIA AGROPECUARIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13497 200 11.500,00 
+
+2 PODER EXECUTIVO         
+
+2.10 SECRETARIA MUNICIPAL DE SAÚDE         
+
+10.0122.0057.2.170.000 
+MANUTENCAO DAS ATIVIDADES DA SECRETARIA DE SAUDE 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 606 202 77.000,00 
+
+10.0301.0058.2.175.000 
+MANUTENCAO DAS U.B.S. - SAUDE DA FAMILIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 659 202 100.800,00 
+
+10.0302.0059.2.187.000 
+MANUT ATIVID DA ATENCAO DE MEDIA COMPLEXIDADE 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13479 202 188.100,00 
+
+10.0301.0058.1.088.000 
+AQUISICAO MOVEIS E EQUIPAMENTOS SAUDA DA FAMILIA 
+Equipamentos e Material Permanente 
+
+4.4.90.52.00 639 202 215.512,12 
+
+2 PODER EXECUTIVO         
+
+2.11 SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO TURISMO         
+
+13.0391.0051.2.150.000 
+SALVAGUARDA DIVULGACAO - BENS MAT CULT REGISTRADOS 
+Material, Bem ou Serviço para Distribuição Gratuita 
+
+3.3.90.32.00 801 100 12.000,00 
+
+Total Órgão PODER EXECUTIVO 714.912,12 
+
+ 
+Total dos Créditos................ 714.912,12 
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal 
+nº 4.320, de 17 de março de 1964. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+R$ 1,00 
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 PODER EXECUTIVO         
+
+2.11 SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO TURISMO         
+
+13.0392.0046.2.128.000 
+MANUTENCAO DO PROJETO ARTE/CORAL - ENSINO MUSICAL 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 782 100 12.000,00 
+
+Total PODER EXECUTIVO 12.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+17.0512.0031.1.023.000 
+REALIZ OBRA AMPL REFOR ESTAC DIST AGUA - DISTRITOS 
+Obras e Instalações 
+
+4.4.90.51.00 905 200 
+  
+
+100.000,00 
+
+Total PODER EXECUTIVO 100.000,00 
+
+2 PODER EXECUTIVO         
+
+2.06 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO PÚBLICA         
+
+04.0122.0015.2.212.000 
+INDENIZACOES PROGRAMA DE DEMISSAO VOLUNTARIA-PDV 
+Indenizações e Restituições Trabalhistas 
+
+3.1.90.94.00 13444 200 
+  
+
+602.912,12 
+
+Total PODER EXECUTIVO 602.912,12 
+
+  
+Total da (s) Redução (ôes)............. 714.912,12 
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 03/08/2021. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Andrea da Costa Caetano 
+
+Código Identificador:4F22CA0F 
+
+ 
+SEC. DE DESENVOLVIMENTO SOCIAL 
+
+RESULTADO PRELIMINAR - EDITAL 01-2021 - PROGRAMA DE INCLUSÃO PRODUTIVA DA MULHER (QUALIFICAÇÃO I) 
+ 
+RESULTADO PRELIMINAR DO EDITAL DE SELEÇÃO 01/2021: 
+  
+O MUNICÍPIO DE SANTA BÁRBARA/MG, por intermédio da Secretaria Municipal de Desenvolvimento e Proteção Social, no exercício de suas 
+atribuições, com fundamento na Lei Municipal N° 1943/2019 e Decreto Municipal N° 4259/2019, faz saber o RESULTADO PRELIMINAR com a 
+classificação das mulheres inscritas no Programa de Inclusão Produtiva da Mulher, na modalidade de qualificação I, conforme Edital 01/2021. 
+  
+CANDIDATAS CLASSIFICADAS: 
+ 
+  
+
+
+
+Minas Gerais , 05 de Agosto de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3066 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              263 
+ 
+
+CLASSIFICAÇÃO CANDIDATA CPF SITUAÇÃO DA INSCRIÇÃO 
+
+1 Ana Lúcia Figueiredo 344.***.166-** DEFERIDA 
+
+2 Lúcia Elena de Paiva Souza 028.***.176-** DEFERIDA 
+
+3 Marlene Batista da Silva 853.***.306-** DEFERIDA 
+
+4 Ana Lúcia de Moraes 063.***.486-** DEFERIDA 
+
+5 Débora Cássia Cerqueira 028.***.236-** DEFERIDA 
+
+6 Margarete Pereira de São José 093.***.606-** DEFERIDA 
+
+7 Maria Cristina da Silva 015.***.816-** DEFERIDA 
+
+8 Altina Cunha da Silva 046.***.136-** DEFERIDA 
+
+9 Edivânia Aparecida Santiago 081.***.526-** DEFERIDA 
+
+10 Petrina da Glória Perdigão 111.***.096-** DEFERIDA 
+
+11 Cássia da Conceição Aparecida Ribeiro 060.***.816-** DEFERIDA 
+
+12 Cláudia das Dores da Conceição 083.***.586-** DEFERIDA 
+
+13 Marília Antônia José 065.***.956-21 DEFERIDA 
+
+14 Cristiane Cecilia da Silva 075.***.136-** DEFERIDA 
+
+15 Taiana Salgado Lima 090.***.176-64 DEFERIDA 
+
+16 Simone Gonçalves dos Santos 088.***.376-** DEFERIDA 
+
+17 Gersica Aparecida de Souza 091.***.156-** DEFERIDA 
+
+18 Mirielly Adriana dos Santos 126.***.736-** DEFERIDA 
+
+19 Juliete da C. Beltodo Amorim 143.***.256-** DEFERIDA 
+
+20 Nayara Nazareth de Oliveira 116.***.796-** DEFERIDA 
+
+21 Stefany Gabriely Natividade Rodrigues 082.***.666-** DEFERIDA 
+
+22 Nadyla Dayviane da Silva 102.***.686-** DEFERIDA 
+
+23 Carliana Maria Gonçalves 129.***.736-** DEFERIDA 
+
+24 Ana Paula Pereira 133.***.666-** DEFERIDA 
+
+25 Luana Camila de Araújo de França 140.***.246-** DEFERIDA 
+
+26 Ana Flávia Martins 155.***.096-** DEFERIDA 
+
+27 Merylaine da Conceição André 173.***.056-** DEFERIDA 
+
+28 Bruna Lúcia Gonçalves de Paula 088.***.406-02 DEFERIDA 
+
+29 Adriana Aparecida da Silva 096.***.776-** DEFERIDA 
+
+30 Michele de Fátima Pires 123.***.806-** DEFERIDA 
+
+31 Rosimary Gomes 110.***.486-** DEFERIDA 
+
+32 Efigênia do Rosario Lemos Duarte 050.***.226-** DEFERIDA 
+
+33 Aparecida Antônia Souza 508.***.956-** DEFERIDA 
+
+34 Gislane Auxiliadora da Cruz 027.***.466-** DEFERIDA 
+
+  
+CANDIDATAS DESCLASSIFICADAS: 
+  
+CANDIDATA CPF SITUAÇÃO DA INSCRIÇÃO 
+
+Adriana da Conceição Ramos 094.***.146-** INDEFERIDA 
+
+Amanda Silva dos Reis 130.***.616-** INDEFERIDA 
+
+Ana Maria de Souza Borges 034.***.546-** INDEFERIDA 
+
+Celma Sandra Gonçalves da Silva 058.***.766-** INDEFERIDA 
+
+Cintia Miranda Moreira Teodoro 102-***.796-** INDEFERIDA 
+
+Cleuzimar Cristina Junior 066.***.806-** INDEFERIDA 
+
+Deyciele Aparecida Barbosa 144.***.046-** INDEFERIDA 
+
+Dulcinéia Rocha Duarte Campos 114.***.186-** INDEFERIDA 
+
+Elaine Cristina Gonçalves Felisberto 053.***.116-** INDEFERIDA 
+
+Ilda Maria 162.***.413-** INDEFERIDA 
+
+Jamille Hillary Fonseca Nina 145.***.926-** INDEFERIDA 
+
+Josely de Oliveira Arcanjo Dias 081.***.226-** INDEFERIDA 
+
+Juliete Matilde Rodrigues 102.***396-** INDEFERIDA 
+
+Leidismar Vieira Guimarães Silva 126.***.526-** INDEFERIDA 
+
+Lúcia Maria dos Santos 810.***.946-** INDEFERIDA 
+
+Maria das Graças Guimarães Almeida 079.***.716-** INDEFERIDA 
+
+Maria de Fátima dos Reis Rodrigues 092.***.106-** INDEFERIDA 
+
+Maria Inez Natividade Cassimiro 344.***.906-** INDEFERIDA 
+
+Marlene da Silva Pereira Nepomuceno- 785.***.806-** INDEFERIDA 
+
+Nilma de Oliveira Clemente 083.***.856-** INDEFERIDA 
+
+Sâmela Marçal de Oliveira 114.***.766-** INDEFERIDA 
+
+Sandra Rosânia 
+05-Agosto-2021
+SANTA BARBARA
+ 
+  
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+  
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.01 GOVERNANÇA PÚBLICA - GABINETE DO PREFEITO         
+
+04.0122.0015.2.039.000 
+MANUTENCAO DAS ATIVIDADES GABINETE E SECRETARIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13496 200 10.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+15.0451.0036.2.236.000 
+PRESERVACAO DE PREDIOS PUBLICOS 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 458 200 100.000,00 
+
+2 PODER EXECUTIVO         
+
+2.09 
+SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E DESENVOLVIMENTO 
+SUSTENTÁVEL 
+
+        
+
+04.0122.0048.2.139.000 
+MANUTENCAO DAS ATIVIDADES DIRETORIA AGROPECUARIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13497 200 11.500,00 
+
+2 PODER EXECUTIVO         
+
+2.10 SECRETARIA MUNICIPAL DE SAÚDE         
+
+10.0122.0057.2.170.000 
+MANUTENCAO DAS ATIVIDADES DA SECRETARIA DE SAUDE 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 606 202 77.000,00 
+
+10.0301.0058.2.175.000 
+MANUTENCAO DAS U.B.S. - SAUDE DA FAMILIA 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 659 202 100.800,00 
+
+10.0302.0059.2.187.000 
+MANUT ATIVID DA ATENCAO DE MEDIA COMPLEXIDADE 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 13479 202 188.100,00 
+
+10.0301.0058.1.088.000 
+AQUISICAO MOVEIS E EQUIPAMENTOS SAUDA DA FAMILIA 
+Equipamentos e Material Permanente 
+
+4.4.90.52.00 639 202 215.512,12 
+
+2 PODER EXECUTIVO         
+
+2.11 SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO TURISMO         
+
+13.0391.0051.2.150.000 
+SALVAGUARDA DIVULGACAO - BENS MAT CULT REGISTRADOS 
+Material, Bem ou Serviço para Distribuição Gratuita 
+
+3.3.90.32.00 801 100 12.000,00 
+
+Total Órgão PODER EXECUTIVO 714.912,12 
+
+ 
+Total dos Créditos................ 714.912,12 
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal 
+nº 4.320, de 17 de março de 1964. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+R$ 1,00 
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 PODER EXECUTIVO         
+
+2.11 SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO TURISMO         
+
+13.0392.0046.2.128.000 
+MANUTENCAO DO PROJETO ARTE/CORAL - ENSINO MUSICAL 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 782 100 12.000,00 
+
+Total PODER EXECUTIVO 12.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+17.0512.0031.1.023.000 
+REALIZ OBRA AMPL REFOR ESTAC DIST AGUA - DISTRITOS 
+Obras e Instalações 
+
+4.4.90.51.00 905 200 
+  
+
+100.000,00 
+
+Total PODER EXECUTIVO 100.000,00 
+
+2 PODER EXECUTIVO         
+
+2.06 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO PÚBLICA         
+
+04.0122.0015.2.212.000 
+INDENIZACOES PROGRAMA DE DEMISSAO VOLUNTARIA-PDV 
+Indenizações e Restituições Trabalhistas 
+
+3.1.90.94.00 13444 200 
+  
+
+602.912,12 
+
+Total PODER EXECUTIVO 602.912,12 
+
+  
+Total da (s) Redução (ôes)............. 714.912,12 
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 03/08/2021. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Andrea da Costa Caetano 
+
+Código Identificador:4F22CA0F 
+
+ 
+SEC. DE DESENVOLVIMENTO SOCIAL 
+
+RESULTADO PRELIMINAR - EDITAL 01-2021 - PROGRAMA DE INCLUSÃO PRODUTIVA DA MULHER (QUALIFICAÇÃO I) 
+ 
+RESULTADO PRELIMINAR DO EDITAL DE SELEÇÃO 01/2021: 
+  
+O MUNICÍPIO DE SANTA BÁRBARA/MG, por intermédio da Secretaria Municipal de Desenvolvimento e Proteção Social, no exercício de suas 
+atribuições, com fundamento na Lei Municipal N° 1943/2019 e Decreto Municipal N° 4259/2019, faz saber o RESULTADO PRELIMINAR com a 
+classificação das mulheres inscritas no Programa de Inclusão Produtiva da Mulher, na modalidade de qualificação I, conforme Edital 01/2021. 
+  
+CANDIDATAS CLASSIFICADAS: 
+ 
+  
+
+
+
+Minas Gerais , 05 de Agosto de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3066 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              263 
+ 
+
+CLASSIFICAÇÃO CANDIDATA CPF SITUAÇÃO DA INSCRIÇÃO 
+
+1 Ana Lúcia Figueiredo 344.***.166-** DEFERIDA 
+
+2 Lúcia Elena de Paiva Souza 028.***.176-** DEFERIDA 
+
+3 Marlene Batista da Silva 853.***.306-** DEFERIDA 
+
+4 Ana Lúcia de Moraes 063.***.486-** DEFERIDA 
+
+5 Débora Cássia Cerqueira 028.***.236-** DEFERIDA 
+
+6 Margarete Pereira de São José 093.***.606-** DEFERIDA 
+
+7 Maria Cristina da Silva 015.***.816-** DEFERIDA 
+
+8 Altina Cunha da Silva 046.***.136-** DEFERIDA 
+
+9 Edivânia Aparecida Santiago 081.***.526-** DEFERIDA 
+
+10 Petrina da Glória Perdigão 111.***.096-** DEFERIDA 
+
+11 Cássia da Conceição Aparecida Ribeiro 060.***.816-** DEFERIDA 
+
+12 Cláudia das Dores da Conceição 083.***.586-** DEFERIDA 
+
+13 Marília Antônia José 065.***.956-21 DEFERIDA 
+
+14 Cristiane Cecilia da Silva 075.***.136-** DEFERIDA 
+
+15 Taiana Salgado Lima 090.***.176-64 DEFERIDA 
+
+16 Simone Gonçalves dos Santos 088.***.376-** DEFERIDA 
+
+17 Gersica Aparecida de Souza 091.***.156-** DEFERIDA 
+
+18 Mirielly Adriana dos Santos 126.***.736-** DEFERIDA 
+
+19 Juliete da C. Beltodo Amorim 143.***.256-** DEFERIDA 
+
+20 Nayara Nazareth de Oliveira 116.***.796-** DEFERIDA 
+
+21 Stefany Gabriely Natividade Rodrigues 082.***.666-** DEFERIDA 
+
+22 Nadyla Dayviane da Silva 102.***.686-** DEFERIDA 
+
+23 Carliana Maria Gonçalves 129.***.736-** DEFERIDA 
+
+24 Ana Paula Pereira 133.***.666-** DEFERIDA 
+
+25 Luana Camila de Araújo de França 140.***.246-** DEFERIDA 
+
+26 Ana Flávia Martins 155.***.096-** DEFERIDA 
+
+27 Merylaine da Conceição André 173.***.056-** DEFERIDA 
+
+28 Bruna Lúcia Gonçalves de Paula 088.***.406-02 DEFERIDA 
+
+29 Adriana Aparecida da Silva 096.***.776-** DEFERIDA 
+
+30 Michele de Fátima Pires 123.***.806-** DEFERIDA 
+
+31 Rosimary Gomes 110.***.486-** DEFERIDA 
+
+32 Efigênia do Rosario Lemos Duarte 050.***.226-** DEFERIDA 
+
+33 Aparecida Antônia Souza 508.***.956-** DEFERIDA 
+
+34 Gislane Auxiliadora da Cruz 027.***.466-** DEFERIDA 
+
+  
+CANDIDATAS DESCLASSIFICADAS: 
+  
+CANDIDATA CPF SITUAÇÃO DA INSCRIÇÃO 
+
+Adriana da Conceição Ramos 094.***.146-** INDEFERIDA 
+
+Amanda Silva dos Reis 130.***.616-** INDEFERIDA 
+
+Ana Maria de Souza Borges 034.***.546-** INDEFERIDA 
+
+Celma Sandra Gonçalves da Silva 058.***.766-** INDEFERIDA 
+
+Cintia Miranda Moreira Teodoro 102-***.796-** INDEFERIDA 
+
+Cleuzimar Cristina Junior 066.***.806-** INDEFERIDA 
+
+Deyciele Aparecida Barbosa 144.***.046-** INDEFERIDA 
+
+Dulcinéia Rocha Duarte Campos 114.***.186-** INDEFERIDA 
+
+Elaine Cristina Gonçalves Felisberto 053.***.116-** INDEFERIDA 
+
+Ilda Maria 162.***.413-** INDEFERIDA 
+
+Jamille Hillary Fonseca Nina 145.***.926-** INDEFERIDA 
+
+Josely de Oliveira Arcanjo Dias 081.***.226-** INDEFERIDA 
+
+Juliete Matilde Rodrigues 102.***396-** INDEFERIDA 
+
+Leidismar Vieira Guimarães Silva 126.***.526-** INDEFERIDA 
+
+Lúcia Maria dos Santos 810.***.946-** INDEFERIDA 
+
+Maria das Graças Guimarães Almeida 079.***.716-** INDEFERIDA 
+
+Maria de Fátima dos Reis Rodrigues 092.***.106-** INDEFERIDA 
+
+Maria Inez Natividade Cassimiro 344.***.906-** INDEFERIDA 
+
+Marlene da Silva Pereira Nepomuceno- 785.***.806-** INDEFERIDA 
+
+Nilma de Oliveira Clemente 083.***.856-** INDEFERIDA 
+
+Sâmela Marçal de Oliveira 114.***.766-** INDEFERIDA 
+
+Sandra Rosânia de Jesus Silva 940.***.806-** INDEFERIDA 
+
+Sônia Antônia de Ramos 731.***.496-** INDEFERIDA 
+
+Staiane Michele Marcos 135.***.976-** INDEFERIDA 
+
+Viviane Werley dos Santos 117.***.016-** INDEFERIDA 
+
+Wilza Maria Aparecida Santos da Conceição 033.***.626-** INDEFERIDA 
+
+  
+Da lista supramencionada, caberá recurso administrativo, no prazo de 03 (três) dias úteis, contados da data da publicação 
+  
+Santa Bárbara, 03 de agosto de 2021. 
+  
+LUCINÉIA IMACULADA VALADARES DAMÁSIO 
+Secretária Municipal de Desenvolvimento, Mobilização e Proteção Social 
+
+Publicado por: 
+Luciana Angelica Couto Gomes 
+
+Código Identificador:B5F62F9C 
+
+ 
+ESTADO DE MINAS GERAIS
+05-Agosto-2021
+SANTA BARBARA
+ 
+  
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+R$ 1,00 
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 PODER EXECUTIVO         
+
+2.11 SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO TURISMO         
+
+13.0392.0046.2.128.000 
+MANUTENCAO DO PROJETO ARTE/CORAL - ENSINO MUSICAL 
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+3.3.90.39.00 782 100 12.000,00 
+
+Total PODER EXECUTIVO 12.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+17.0512.0031.1.023.000 
+REALIZ OBRA AMPL REFOR ESTAC DIST AGUA - DISTRITOS 
+Obras e Instalações 
+
+4.4.90.51.00 905 200 
+  
+
+100.000,00 
+
+Total PODER EXECUTIVO 100.000,00 
+
+2 PODER EXECUTIVO         
+
+2.06 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO PÚBLICA         
+
+04.0122.0015.2.212.000 
+INDENIZACOES PROGRAMA DE DEMISSAO VOLUNTARIA-PDV 
+Indenizações e Restituições Trabalhistas 
+
+3.1.90.94.00 13444 200 
+  
+
+602.912,12 
+
+Total PODER EXECUTIVO 602.912,12 
+
+  
+Total da (s) Redução (ôes)............. 714.912,12 
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 03/08/2021. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Andrea da Costa Caetano 
+
+Código Identificador:4F22CA0F 
+
+ 
+SEC. DE DESENVOLVIMENTO SOCIAL 
+
+RESULTADO PRELIMINAR - EDITAL 01-2021 - PROGRAMA DE INCLUSÃO PRODUTIVA DA MULHER (QUALIFICAÇÃO I) 
+ 
+RESULTADO PRELIMINAR DO EDITAL DE SELEÇÃO 01/2021: 
+  
+O MUNICÍPIO DE SANTA BÁRBARA/MG, por intermédio da Secretaria Municipal de Desenvolvimento e Proteção Social, no exercício de suas 
+atribuições, com fundamento na Lei Municipal N° 1943/2019 e Decreto Municipal N° 4259/2019, faz saber o RESULTADO PRELIMINAR com a 
+classificação das mulheres inscritas no Programa de Inclusão Produtiva da Mulher, na modalidade de qualificação I, conforme Edital 01/2021. 
+  
+CANDIDATAS CLASSIFICADAS: 
+ 
+  
+
+
+
+Minas Gerais , 05 de Agosto de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3066 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              263 
+ 
+
+CLASSIFICAÇÃO CANDIDATA CPF SITUAÇÃO DA INSCRIÇÃO 
+
+1 Ana Lúcia Figueiredo 344.***.166-** DEFERIDA 
+
+2 Lúcia Elena de Paiva Souza 028.***.176-** DEFERIDA 
+
+3 Marlene Batista da Silva 853.***.306-** DEFERIDA 
+
+4 Ana Lúcia de Moraes 063.***.486-** DEFERIDA 
+
+5 Débora Cássia Cerqueira 028.***.236-** DEFERIDA 
+
+6 Margarete Pereira de São José 093.***.606-** DEFERIDA 
+
+7 Maria Cristina da Silva 015.***.816-** DEFERIDA 
+
+8 Altina Cunha da Silva 046.***.136-** DEFERIDA 
+
+9 Edivânia Aparecida Santiago 081.***.526-** DEFERIDA 
+
+10 Petrina da Glória Perdigão 111.***.096-** DEFERIDA 
+
+11 Cássia da Conceição Aparecida Ribeiro 060.***.816-** DEFERIDA 
+
+12 Cláudia das Dores da Conceição 083.***.586-** DEFERIDA 
+
+13 Marília Antônia José 065.***.956-21 DEFERIDA 
+
+14 Cristiane Cecilia da Silva 075.***.136-** DEFERIDA 
+
+15 Taiana Salgado Lima 090.***.176-64 DEFERIDA 
+
+16 Simone Gonçalves dos Santos 088.***.376-** DEFERIDA 
+
+17 Gersica Aparecida de Souza 091.***.156-** DEFERIDA 
+
+18 Mirielly Adriana dos Santos 126.***.736-** DEFERIDA 
+
+19 Juliete da C. Beltodo Amorim 143.***.256-** DEFERIDA 
+
+20 Nayara Nazareth de Oliveira 116.***.796-** DEFERIDA 
+
+21 Stefany Gabriely Natividade Rodrigues 082.***.666-** DEFERIDA 
+
+22 Nadyla Dayviane da Silva 102.***.686-** DEFERIDA 
+
+23 Carliana Maria Gonçalves 129.***.736-** DEFERIDA 
+
+24 Ana Paula Pereira 133.***.666-** DEFERIDA 
+
+25 Luana Camila de Araújo de França 140.***.246-** DEFERIDA 
+
+26 Ana Flávia Martins 155.***.096-** DEFERIDA 
+
+27 Merylaine da Conceição André 173.***.056-** DEFERIDA 
+
+28 Bruna Lúcia Gonçalves de Paula 088.***.406-02 DEFERIDA 
+
+29 Adriana Aparecida da Silva 096.***.776-** DEFERIDA 
+
+30 Michele de Fátima Pires 123.***.806-** DEFERIDA 
+
+31 Rosimary Gomes 110.***.486-** DEFERIDA 
+
+32 Efigênia do Rosario Lemos Duarte 050.***.226-** DEFERIDA 
+
+33 Aparecida Antônia Souza 508.***.956-** DEFERIDA 
+
+34 Gislane Auxiliadora da Cruz 027.***.466-** DEFERIDA 
+
+  
+CANDIDATAS DESCLASSIFICADAS: 
+  
+CANDIDATA CPF SITUAÇÃO DA INSCRIÇÃO 
+
+Adriana da Conceição Ramos 094.***.146-** INDEFERIDA 
+
+Amanda Silva dos Reis 130.***.616-** INDEFERIDA 
+
+Ana Maria de Souza Borges 034.***.546-** INDEFERIDA 
+
+Celma Sandra Gonçalves da Silva 058.***.766-** INDEFERIDA 
+
+Cintia Miranda Moreira Teodoro 102-***.796-** INDEFERIDA 
+
+Cleuzimar Cristina Junior 066.***.806-** INDEFERIDA 
+
+Deyciele Aparecida Barbosa 144.***.046-** INDEFERIDA 
+
+Dulcinéia Rocha Duarte Campos 114.***.186-** INDEFERIDA 
+
+Elaine Cristina Gonçalves Felisberto 053.***.116-** INDEFERIDA 
+
+Ilda Maria 162.***.413-** INDEFERIDA 
+
+Jamille Hillary Fonseca Nina 145.***.926-** INDEFERIDA 
+
+Josely de Oliveira Arcanjo Dias 081.***.226-** INDEFERIDA 
+
+Juliete Matilde Rodrigues 102.***396-** INDEFERIDA 
+
+Leidismar Vieira Guimarães Silva 126.***.526-** INDEFERIDA 
+
+Lúcia Maria dos Santos 810.***.946-** INDEFERIDA 
+
+Maria das Graças Guimarães Almeida 079.***.716-** INDEFERIDA 
+
+Maria de Fátima dos Reis Rodrigues 092.***.106-** INDEFERIDA 
+
+Maria Inez Natividade Cassimiro 344.***.906-** INDEFERIDA 
+
+Marlene da Silva Pereira Nepomuceno- 785.***.806-** INDEFERIDA 
+
+Nilma de Oliveira Clemente 083.***.856-** INDEFERIDA 
+
+Sâmela Marçal de Oliveira 114.***.766-** INDEFERIDA 
+
+Sandra Rosânia de Jesus Silva 940.***.806-** INDEFERIDA 
+
+Sônia Antônia de Ramos 731.***.496-** INDEFERIDA 
+
+Staiane Michele Marcos 135.***.976-** INDEFERIDA 
+
+Viviane Werley dos Santos 117.***.016-** INDEFERIDA 
+
+Wilza Maria Aparecida Santos da Conceição 033.***.626-** INDEFERIDA 
+
+  
+Da lista supramencionada, caberá recurso administrativo, no prazo de 03 (três) dias úteis, contados da data da publicação 
+  
+Santa Bárbara, 03 de agosto de 2021. 
+  
+LUCINÉIA IMACULADA VALADARES DAMÁSIO 
+Secretária Municipal de Desenvolvimento, Mobilização e Proteção Social 
+
+Publicado por: 
+Luciana Angelica Couto Gomes 
+
+Código Identificador:B5F62F9C 
+
+ 
+ESTADO DE MINAS GERAIS

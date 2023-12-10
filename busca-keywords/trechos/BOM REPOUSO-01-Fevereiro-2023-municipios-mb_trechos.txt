@@ -1,0 +1,172 @@
+01-Fevereiro-2023
+BOM REPOUSO
+ABRE CRÉDITO SUPLEMENTAR 
+
+  
+
+O Prefeito Municipal de Bom Repouso, no uso de suas atribuições legais, de conformidade com os artigos 40 e 46 da Lei nº 4.320/64, inciso I do art. 
+
+21 e inciso IX do art. 87 da Lei Orgânica Municipal, e de acordo com a autorização contida no art. 4º da Lei Municipal nº 943, de 23 de Dezembro 
+
+de 2022, e inciso I do art. 30 da Constituição Federal. 
+
+  
+
+D E C R E T A: 
+
+  
+
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2022 o (s) seguinte (s) crédito (s) suplementar (es) para reforço da (s) seguinte 
+
+(s) dotação (ões) orçamentária (s).R$ 1.744.494,83 (um milhão setecentos e quarenta e quatro mil quatrocentos e noventa e quatro reais e oitenta e 
+
+três centavos) 
+
+  
+CRÉDITO(S) 
+
+CLASSIFICAÇÃO FICHA FONTE DR VALOR 
+
+02.03.01.04.122.0001.1.004 - AQUISICAO MOVEIS/EQUIPAMENTOS PARA ADMINISTRACAO         
+
+449052 - Equipamentos e Material Permanente 25   100 1.564.939,40 
+
+02.03.01.04.122.0001.2.004 - MANUTENCAO DAS ATIVIDADES DO DPTO ADMINISTRACAO         
+
+339047 - Obrigacoes Tributarias e Contributivas 598 RECORD 170 180,43 
+
+02.04.02.15.451.0002.1.010 - AQUISICAO DE IMOVEL PARA INFRAESTUTURA URBANA         
+
+449061 - Aquisicao de Imoveis 78   100 60.711,00 
+
+449061 - Aquisicao de Imoveis 597 RECORD 170 90.000,00 
+
+02.04.02.15.452.0002.2.011 - MANUTENCAO ATIVIDADES DPTO OBRAS,VIACAO E SERV.PUB         
+
+339039 - Outros Servicos de Terceiros - Pessoa Juridica 119   100 12.520,00 
+
+02.04.02.26.782.0002.2.007 - MANUTENCAO DOS SERVICOS DE ESTRADAS E RODAGEM         
+
+449039 - Outros Servicos de Terceiros Pessoa Juridica 596 CESONE 260 6.144,00 
+
+02.06.01.10.301.0009.2.036 - MANTER ACOES DE SAUDE NA ATENCAO BASICA         
+
+339030 - Material de Consumo 332 SAUDE 102 10.000,00 
+
+TOTAL DE CRÉDITOS 1.744.494,83 
+
+  
+
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Lei Federal nº 4.320, 
+
+de 17 de março de 1964, a(s) seguinte(s): 
+
+  
+RECURSO(S) 
+
+ANULAÇÃO DE DOTAÇÕES 
+
+CLASSIFICAÇÃO FICHA FONTE DR VALOR 
+
+02.03.01.04.122.0001.2.004 - MANUTENCAO DAS ATIVIDADES DO DPTO ADMINISTRACAO         
+
+339036 - Outros Servicos de Terceiros - Pessoa Fisica 37   100 10.000,00 
+
+02.03.02.28.846.0001.0.008 - AMORTIZACAO E ENCARGOS DA DIVIDA - BDMG         
+
+469071 - Principal da Divida Contratual Resgatado 65   100 60.711,00 
+
+02.04.02.15.451.0002.1.013 - PAVIMENTACAO E MELHORIA DE VIAS PUBLICAS         
+
+339030 - Material de Consumo 476 CESONE 260 6.144,00 
+
+02.04.02.15.452.0002.2.011 - MANUTENCAO ATIVIDADES DPTO OBRAS,VIACAO E SERV.PUB         
+
+319004 - Contratacao por Tempo Determinado 107   100 12.520,00 
+
+02.04.02.15.452.0002.2.011 - MANUTENCAO ATIVIDADES DPTO OBRAS,VIACAO E SERV.PUB         
+
+  
+CLASSIFICAÇÃO FICHA FONTE DR VALOR 
+
+339030 - Material de Consumo 114 RECORD 170 90.180,43 
+
+02.05.01.12.361.0000.1.055 - CONSTRUCAO DA QUADRA DA ESCOLA MUNICIPAL         
+
+449051 - Obras e Instalacoes 529 ENSINO 101 114.515,88 
+
+02.05.01.12.361.0004.2.017 - MANUTENCAO DAS ATIVIDADES DO ENSINO FUNDAMENTAL         
+
+339030 - Material de Consumo 193 ENSINO 101 41.710,16 
+
+02.05.01.12.361.0004.2.018 - MANUTENCAO DO ENSINO FUNDAMENTAL - FUNDEB         
+
+319004 - Contratacao por Tempo Determinado 204 FEB.70 101 378.926,91 
+
+02.06.01.10.301.0000.0.012 - CONVENIO COM O CONSORCIO EM SAUDE - CISAMESP         
+
+337041 - Contribuicoes 319 SAUDE 102 1.262,85 
+
+02.06.01.10.301.0000.1.058 - IMPLANTACAO DO SISTEMA DE GASES ( OXIGENIO)         
+
+449051 - Obras e Instalacoes 523 SAUDE 102 320.000,00 
+
+02.06.01.10.301.0009.1.031 - AQUISICAO DE MOVEIS E EQUIP. P/ SERVICOS DE SAUDE         
+
+449052 - Equipamentos e Material Permanente 323 SAUDE 102 13,40 
+
+02.06.01.10.301.0009.1.034 - AQUISICAO DE VEICULO PARA SERVICO DE SAUDE         
+
+449052 - Equipamentos e Material Permanente 324 SAUDE 102 2.525,08 
+
+02.06.01.10.301.0009.2.036 - MANTER ACOES DE SAUDE NA ATENCAO BASICA         
+
+319011 - Vencimentos e Vantagens Fixas - Pessoal Civil 326 SAUDE 102 9,86 
+
+02.06.01.10.301.0009.2.036 - MANTER ACOES DE SAUDE NA ATENCAO BASICA         
+
+319016 - Outras Despesas Variaveis - Pessoal Civil 328 SAUDE 102 5.589,20 
+
+02.06.01.10.301.0009.2.036 - MANTER ACOES DE SAUDE NA ATENCAO BASICA         
+
+
+
+Minas Gerais , 01 de Fevereiro de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XIV | Nº 3445 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              290 
+
+ 
+
+339008 - Outros Beneficios Assist. do Servidor e do Militar 330 SAUDE 102 8.897,93 
+
+02.06.01.10.301.0009.2.036 - MANTER ACOES DE SAUDE NA ATENCAO BASICA         
+
+339034 - Outras Desp. Pessoal Dec. Cont. Terceirizacao 334 SAUDE 102 688.715,63 
+
+02.06.01.10.301.0009.2.036 - MANTER ACOES DE SAUDE NA ATENCAO BASICA         
+
+339036 - Outros Servicos de Terceiros - Pessoa Fisica 335 SAUDE 102 2.772,50 
+
+TOTAL DE ANULAÇÃO 1.744.494,83 
+
+TOTAL DE RECURSOS 1.744.494,83 
+
+  
+
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. Bom Repouso, 29 de dezembro de 2022. 
+
+  
+
+EDMILSON ANDRADE  
+Prefeito Municipal 
+
+Publicado por: 
+Aline Honoria de Freitas 
+
+Código Identificador:0049117B 
+
+ 
+
+ESTADO DE MINAS GERAIS

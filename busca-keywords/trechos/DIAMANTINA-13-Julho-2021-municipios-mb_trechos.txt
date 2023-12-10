@@ -1,0 +1,517 @@
+13-Julho-2021
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0428 1521.12.0361.0011.2078.118 - SALÁRIOS/ENCARGOS FUNDEB 60% 42.312,48 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0461 1521.12.0361.0011.2083.119 - SALÁRIOS/ENCARGOS DO TRANSPORTE ESCOLAR 19.832,45 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0549 1522.12.0365.0011.2090.119 - SALÁRIOS/ENCARGOS CRECHE 40% 24.330,71 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0549 1522.12.0365.0011.2090.119 - SALÁRIOS/ENCARGOS CRECHE 40% 10.006,35 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0554 1522.12.0365.0011.2090.119 - SALÁRIOS/ENCARGOS CRECHE 40% 3.214,78 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0554 1522.12.0365.0011.2090.119 - SALÁRIOS/ENCARGOS CRECHE 40% 605,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0554 1522.12.0365.0011.2090.119 - SALÁRIOS/ENCARGOS CRECHE 40% 6.793,71 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0667 1610.10.0122.0013.2103.102 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO MUNICIPAL DE SAÚDE 3.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0669 1610.10.0122.0013.2103.102 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO MUNICIPAL DE SAÚDE 2.000,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0676 1610.10.0122.0013.2104.102 - SALÁRIOS/ENCARGOS DA SMS 198.847,10 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0677 1610.10.0122.0013.2104.102 - SALÁRIOS/ENCARGOS DA SMS 8.888,01 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0677 1610.10.0122.0013.2104.102 - SALÁRIOS/ENCARGOS DA SMS 200.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0682 1610.10.0122.0013.2104.102 - SALÁRIOS/ENCARGOS DA SMS 30.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0683 1610.10.0122.0013.2104.102 - SALÁRIOS/ENCARGOS DA SMS 2.000,00 
+
+  3.3.90.08.00.00 - Outros Benefícios Assistenciais do Servidor ou do Militar   
+
+0684 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 2.000,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+0685 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 30.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0686 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 50.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 100.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0693 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 20.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0695 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 20.000,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+0696 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 519,50 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+Ficha Funcional Programática Valor 
+
+0698 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 14.358,64 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0798 1621.10.0301.0014.2112.102 - SALÁRIOS/ENCARGOS DO BLATB 16.062,21 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0798 1621.10.0301.0014.2112.102 - SALÁRIOS/ENCARGOS DO BLATB 450.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0800 1621.10.0301.0014.2112.102 - SALÁRIOS/ENCARGOS DO BLATB 150.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0810 1621.10.0301.0014.2112.102 - SALÁRIOS/ENCARGOS DO BLATB 30.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0819 1621.10.0301.0014.2113.102 - MANUTENÇÃO DAS ATIVIDADES DO BLATB 1.000,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+0821 1621.10.0301.0014.2113.102 - MANUTENÇÃO DAS ATIVIDADES DO BLATB 1.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+0838 1621.10.0301.0014.2113.102 - MANUTENÇÃO DAS ATIVIDADES DO BLATB 14.000,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+0840 1621.10.0301.0014.2113.102 - MANUTENÇÃO DAS ATIVIDADES DO BLATB 1.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0854 1621.10.0301.0014.2115.102 - MANUTENÇÃO DAS ATIVIDADES DO NASF 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0856 1621.10.0301.0014.2115.102 - MANUTENÇÃO DAS ATIVIDADES DO NASF 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0859 1621.10.0301.0014.2115.102 - MANUTENÇÃO DAS ATIVIDADES DO NASF 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0861 1621.10.0301.0014.2115.102 - MANUTENÇÃO DAS ATIVIDADES DO NASF 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0863 1621.10.0301.0014.2258.102 - MANUTENÇÃO DOS CONTRATOS DE PROGRAMA DO CIAMAJE-BLATB 1.000,00 
+
+  3.3.93.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+0865 1621.10.0303.0015.2116.102 - MANUTENÇÃO DA FARMÁCIA BÁSICA 20.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0868 1621.10.0303.0015.2116.102 - MANUTENÇÃO DA FARMÁCIA BÁSICA 11.346,62 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+
+
+Minas Gerais , 13 de Julho de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3049 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              251 
+ 
+
+0877 1621.10.0303.0015.2116.102 - MANUTENÇÃO DA FARMÁCIA BÁSICA 2.000,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+0882 1621.10.0303.0015.2259.102 - SALÁRIOS ENCARGOS FARMACIA BASICA 41.660,89 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0911 1622.10.0302.0016.2119.102 - RATEIO DO CONSÓRCIO PÚBLICO - CISNORJE 1.000,00 
+
+  3.2.71.70.00.00 - Rateio pela Participação em Consórcio Público   
+
+0915 1622.10.0302.0016.2119.102 - RATEIO DO CONSÓRCIO PÚBLICO - CISNORJE 1.829,23 
+
+  4.4.71.70.00.00 - Rateio pela Participação em Consórcio Público   
+
+0917 1622.10.0302.0016.2119.102 - RATEIO DO CONSÓRCIO PÚBLICO - CISNORJE 11.460,17 
+
+  4.6.71.70.00.00 - Rateio pela Participação em Consórcio Público   
+
+0947 1622.10.0302.0016.2122.102 - MANUTENÇÃO DA URGÊNCIA E EMERGÊNCIA MUNICIPAL 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0959 1622.10.0302.0016.2124.102 - SALÁRIOS/ENCARGOS DO BLMAC 5.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0961 1622.10.0302.0016.2124.102 - SALÁRIOS/ENCARGOS DO BLMAC 5.000,00 
+
+  3.1.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+0964 1622.10.0302.0016.2124.102 - SALÁRIOS/ENCARGOS DO BLMAC 10.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+1022 1622.10.0302.0016.2240.102 - RATEIO DO CONSÓRCIO CIAMAJE 1.000,00 
+
+  3.1.71.70.00.00 - Rateio pela Participação em Consórcio Público   
+
+1023 1622.10.0302.0016.2240.102 - RATEIO DO CONSÓRCIO CIAMAJE 1.000,00 
+
+  3.2.71.70.00.00 - Rateio pela Participação em Consórcio Público   
+
+1024 1622.10.0302.0016.2240.102 - RATEIO DO CONSÓRCIO CIAMAJE 1.000,00 
+
+  3.3.71.70.00.00 - Rateio pela Participação em Consórcio Público   
+
+Ficha Funcional Programática Valor 
+
+1025 1622.10.0302.0016.2240.102 - RATEIO DO CONSÓRCIO CIAMAJE 1.000,00 
+
+  4.4.71.70.00.00 - Rateio pela Participação em Consórcio Público   
+
+1026 1622.10.0302.0016.2241.102 - MANUTENÇÃO DOS CONTRATOS DE PROGRAMA DO CIIAMAJE 1.000,00 
+
+  3.3.93.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+1065 1623.10.0304.0022.2138.102 - SALÁRIOS/ENCARGOS DA VIG DA SITUAÇÃO DE SAÚDE 2.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1067 1623.10.0304.0022.2138.102 - SALÁRIOS/ENCARGOS DA VIG DA SITUAÇÃO DE
+13-Julho-2021
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0037 1120.04.0122.0003.2026.100 - MANUTENÇÃO DAS ATIVIDADES DA CHEFIA DE GABINETE 3.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1340 1730.18.0541.0024.2261.100 - MANUTENÇÃO DAS ATIVIDADES DO ATERRO MUNICIPAL 20.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1340 1730.18.0541.0024.2261.100 - MANUTENÇÃO DAS ATIVIDADES DO ATERRO MUNICIPAL 30.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1340 1730.18.0541.0024.2261.100 - MANUTENÇÃO DAS ATIVIDADES DO ATERRO MUNICIPAL 56.807,97 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1844 2030.13.0392.0055.2256.100 - PROMOVER E APOIAR O CARNAVAL 4.704,25 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+2112 1621.10.0301.0068.1143.154 - ENFRENTAMENTO DA EMERGÊNCIA COVID19 - BLATB 1.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+Total 115.512,22 
+
+  
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+Artigo 4º: Revogam-se as disposições em contrário. 
+  
+DIAMANTINA, 22 de Junho de 2021 
+  
+
+
+
+Minas Gerais , 13 de Julho de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3049 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              253 
+ 
+
+JUSCELINO BRASILIANO ROQUE 
+Prefeito Municipal 
+
+Publicado por: 
+Nilza de Fátima Alves 
+
+Código Identificador:A6F565BF 
+
+ 
+SECRETARIA MUNICIPAL DE GOVERNO 
+
+EDITAL - 7/2021 DA NOTIFICAÇÃO DE AUTUAÇÃO DE INFRAÇÕES DE TRÂNSITO 
+ 
+DEPARTAMENTO MUNICIPAL DE TRÂNSITO E TRANSPORTES (DMTT) - DMTT 
+  
+EDITAL - 7/2021 DA NOTIFICAÇÃO DE AUTUAÇÃO DE INFRAÇÕES DE TRÂNSITO 
+  
+DEPARTAMENTO MUNICIPAL DE TRÂNSITO E TRANSPORTES (DMTT) - DMTT, em conformidade com as disposições e competências 
+estabelecidas pela Lei Federal nº. 9.503/97, e pelas Resoluções do CONTRAN nº. 619/2016 e 845/2021, após esgotadas as tentativas de ciência por 
+meio de notificação via remessa postal, Notifica através do presente Edital, os proprietários dos veículos, abaixo relacionados, das respectivas 
+Infrações de Transito, estabelecendo prazo legal de 30 (trinta) dias, a contar da presente publicação para a facultativa interposição da Defesa da 
+Autuação ou Solicitar a aplicação de Penalidade de Advertência Por Escrito, observado os termos da Resolução do CONTRAN Conselho Nacional 
+de Transito, nº. 619/2016. A Defesa da Autuação por ventura interposta, ou a Solicitação da aplicação da Penalidade de Advertência por Escrito, 
+deverão ser entregues PESSOALMENTE: no DEPARTAMENTO MUNICIPAL DE TRÂNSITO E TRANSPORTES (DMTT) DMTT, à Rua 
+da Gloria, 394 - Centro - DIAMANTINA - MG - CEP. 39100000, ou VIA CORREIOS para Rua da Gloria, 394 - Centro - DIAMANTINA - 
+MG - CEP. 39100000 (de preferência mediante aviso de recebimento) e no link publicado no site da Prefeitura Municipal de Diamantina 
+https://diamantina.mg.gov.br/servicos-ao-cidadao/multas-de-transito/. 
+  
+Caso o infrator não tenha sido identificado no momento da autuação, e tratando-se de infração de responsabilidade do condutor, para fins de 
+pontuação, o proprietário do veículo, tem o prazo de 30 dias a contar da presente publicação, para identificá-lo, sob pena de ser considerado o 
+responsável pela pontuação decorrente, nos termos dos §§ 7º e 8º do artigo 257, da Lei Federal 9.503/97 (Código de Transito Brasileiro). O 
+formulário para identificação do Condutor Infrator pode ser solicitado no DEPARTAMENTO MUNICIPAL DE TRÂNSITO E TRANSPORTES 
+(DMTT), à Rua da Gloria, 394 - Centro - DIAMANTINA - MG - CEP. 39100000. 
+  
+* A disponibilidade do atendimento presencial está sujeita a possíveis restrições estabelecidas por decreto municipal ou estadual. Favor 
+conferir a disponibilidade pelo telefone: (38) 3531-9165. 
+  
+PLACA NRO AIT DATA DA INFRAÇÃO CÓDIGO INFRAÇÃO 
+
+HAM9040 AG05757122 15/03/2021 7633-2 
+
+HCH2498 AG05757125 15/03/2021 5541-2 
+
+DOR6E13 AG05757126 15/03/2021 5541-2 
+
+PKD8J51 AG05757127 15/03/2021 5541-2 
+
+HKE6453 AG05757035 15/03/2021 5541-2 
+
+GZV7377 AG05757036 15/03/2021 5541-2 
+
+RMI2E85 AG05757037 15/03/2021 5541-2 
+
+QUC9J79 AG05757038 15/03/2021 5550-0 
+
+OLT1617 AG05757039 15/03/2021 5550-0 
+
+HLZ2754 AG05757040 15/03/2021 5541-2 
+
+PCA4420 AG05757041 15/03/2021 5541-2 
+
+OPA2B22 AG05757042 15/03/2021 5550-0 
+
+OQV6408 AG05757043 15/03/2021 5550-0 
+
+GON4357 AG05757603 15/03/2021 5550-0 
+
+HGS5466 AG05757605 15/03/2021 5568-0 
+
+HNZ4537 AG05757607 15/03/2021 5550-0 
+
+FHB5D71 AG05757608 15/03/2021 5550-0 
+
+QUC9J79 AG05757609 15/03/2021 5550-0 
+
+HKP6756 AG05757610 15/03/2021 5550-0 
+
+HLK1528 AG05757612 15/03/2021 5541-3 
+
+EBG1805 AG05757613 15/03/2021 5550-0 
+
+HBR6187 AG05757614 15/03/2021 5436-0 
+
+KPN1I21 AG05757615 15/03/2021 5550-0 
+
+PWE2763 AG05757616 15/03/2021 5380-0 
+
+HAY0I03 AG05757619 15/03/2021 7366-2 
+
+HAY0I03 AG05757620 15/03/2021 5185-1 
+
+OXK5195 AG05757621 15/03/2021 5568-0 
+
+GRU1616 AG05757622 15/03/2021 5541-3 
+
+OLT1617 AG05757623 15/03/2021 5550-0 
+
+GYK7153 AG05757624 15/03/2021 5550-0 
+
+OQR4197 AG05757626 15/03/2021 5541-4 
+
+QOK9F02 AG05757627 15/03/2021 5550-0 
+
+RMJ5A39 AG05757628 15/03/2021 5967-0 
+
+GON4538 AG05757629 15/03/2021 5525-0 
+
+HNC2I32 AG05757630 15/03/2021 5967-0 
+
+HLP9040 AG05757631 15/03/2021 5967-0 
+
+GUX2556 AG05757632 15/03/2021 5185-2 
+
+PWR0976 AG05757129 16/03/2021 7633-1 
+
+PUC1436 AG05757224 16/03/2021 7633-1 
+
+GYQ0690 AG05757130 16/03/2021 7633-1 
+
+CIN5740 AG05757633 16/03/2021 5185-1 
+
+OLV3199 AG05757634 16/03/2021 5185-1 
+
+GWP3682 AG05757635 16/03/2021 5185-1 
+
+PZH5F80 AG05757636 16/03/2021 5185-1 
+
+HOD5834 AG05757637 16/03/2021 5185-1 
+
+GWA4365 AG05757225 17/03/2021 5550-0 
+
+PUE9899 AG05757226 17/03/2021 5550-0 
+
+PUE2004 AG05757227 17/03/2021 5550-0 
+
+
+
+Minas Gerais , 13 de Julho de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3049 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              254 
+ 
+
+OPX7337 AG05757639 17/03/2021 5207-0 
+
+OPK0305 AG05756957 19/03/2021 5967-0 
+
+KCT2962 AG05757229 19/03/2021 5452-1 
+
+NBS1863 AG05757230 19/03/2021 5452-1 
+
+GUN3951 AG05757232 19/03/2021 5550-0 
+
+IAM2100 AG05757233 19/03/2021 5452-1 
+
+HDZ8315 AG05757345 19/03/2021 5207-0 
+
+RFH9A31 AG05757346 19/03/2021 5207-0 
+
+OQB2054 AG05757347 19/03/2021 5207-0 
+
+QUU7419 AG05757348 19/03/2021 5207-0 
+
+HJO8D15 AG05757349 19/03/2021 5207-0 
+
+QUL2188 AG05757350 19/03/2021 5207-0 
+
+HEG5644 AG05757351 19/03/2021 7064-0 
+
+GYC7015 AG05757352 19/03/2021 5207-0 
+
+QQP4377 AG05757068 20/05/2021 7633-1 
+
+RDZ6C99 AG05756856 20/05/2021 7633-1 
+
+EJA8878 AG05757686 20/05/2021 7366-2 
+
+HFC6D11 AG05757687 20/05/2021 5550-0 
+
+KHV8J73 AG05757688 20/05/2021 5967-0 
+
+HHG6017 AG05757690 20/05/2021 7366-2 
+
+HBR7864 AG05757691 20/05/2021 5541-3 
+
+PYX7I26 AG05756790 21/05/2021 7366-2 
+
+GVW6C35 AG05756791 22/05/2021 5380-0 
+
+GON5629 AG05757070 24/05/2021 5509-0 
+
+HLB1080 AG05757271 24/05/2021 5185-2 
+
+NXZ4862 AG05757273 24/05/2021 5568-0 
+
+CMM5I75 AG05757274 25/05/2021 5550-0 
+
+GWQ9446 AG05757275 25/05/2021 5550-0 
+
+DNI7905 AG05757276 09/06/2021 5380-0 
+
+OQG8966 AG05757080 09/06/2021 5509-0 
+
+MNJ3335 AG05757278 09/06/2021 7625-2 
+
+DVV6825 AG05757280 09/06/2021 5738-0 
+
+HDJ8040 AG05757281 09/06/2021 5452-1 
+
+HLF4220 AG05757283 09/06/2021 5541-4 
+
+PPL8730 AG05757284 09/06/2021 7633-2 
+
+HEC2189 AG05757083 09/06/2021 5738-0 
+
+HKG8A67 AG05757285 09/06/2021 5738-0 
+
+HEC2393 AG05757286 09/06/2021 5738-0 
+
+OLR7H30 AG05757287 09/06/2021 7633-1 
+
+GQR5373 AG05757288 09/06/2021 5550-0 
+
+NYG8279 AG05757289 09/06/2021 5738-0 
+
+HIP9087 AG05757084 09/06/2021 7633-1 
+
+HOA6J64 AG05757164 09/06/2021 7625-2 
+
+HEC3177 AG05757291 09/06/2021 5738-0 
+
+HIP9087 AG05757292 09/06/2021 7633-1 
+
+HIP9087 AG05757293 09/06/2021 5207-0 
+
+HLF4220 AG05757821 09/06/2021 5541-4 
+
+PWK7740 AG05757822 09/06/2021 5550-0 

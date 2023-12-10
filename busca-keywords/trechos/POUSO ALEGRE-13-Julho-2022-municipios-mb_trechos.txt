@@ -1,0 +1,286 @@
+13-Julho-2022
+POUSO ALEGRE
+A DE CRÉDITO SUPLEMENTAR NA FORMA DOS ARTIGOS 42 E 43 DA LEI 4.320/64. 
+
+  
+
+Autor: Poder Executivo 
+  
+
+A Câmara Municipal de Pouso Alegre Estado de Minas Gerais, aprova e o Chefe do Poder Executivo sanciona e promulga a seguinte Lei: 
+
+  
+
+Art. 1º Fica o Poder Executivo autorizado a abrir crédito adicional suplementar, no valor de R$ 2.273.837,07 (dois milhões, duzentos e setenta e três 
+
+mil, oitocentos e trinta e sete reais e sete centavos), para adequação das dotações orçamentárias de despesas de pessoal de várias unidades da 
+
+Prefeitura Municipal de Pouso Alegre. 
+
+  
+Unidade Função Subfunção Programa Projeto / Atividade Elemento Descrição Fonte Valor 
+
+003 0004 0122 0001 2009 3319011 
+Vencimentos e Vantagens 
+
+Fixas 
+1001001 R$ 73.000,00 
+
+003 0004 0122 0001 2009 3319013 Obrigações Patronais 1001001 R$ 16.800,00 
+
+003 0004 0122 0001 2009 3319016 Outras Despesas Variáveis 1001001 R$ 47.500,00 
+
+011 0010 0122 0002 2102 3319004 
+Contratação por Tempo 
+
+Indeterminado 
+1023000 R$ 31.004,89 
+
+011 0010 0122 0002 2102 3319013 Obrigações Patronais 1023000 R$ 38.179,00 
+
+011 0010 0122 0002 2102 3319113 Obrigações Patronais 1023000 R$ 82.152,89 
+
+011 0010 0122 0002 2102 3339049 Auxílio - Transporte 1023000 R$ 24.560,65 
+
+011 0010 0301 0002 2157 3319113 Obrigações Patronais 1023000 R$ 359.276,04 
+
+011 0010 0301 0002 2157 3339049 Auxílio - Transporte 1023000 R$ 6.441,37 
+
+015 0004 0122 0001 2193 3319011 
+Vencimentos e Vantagens 
+
+Fixas 
+1001001 R$ 252.611,15 
+
+015 0004 0122 0001 2193 3319013 Obrigações Patronais 1001001 R$ 27.566,42 
+
+015 0004 0122 0001 2193 3319016 Outras Despesas Variáveis 1001001 R$ 77.918,47 
+
+015 0004 0122 0001 2193 3319113 Obrigações Patronais 1001001 R$ 78.664,75 
+
+006 0008 0244 0025 2032 3319011 
+Vencimentos e Vantagens 
+
+Fixas 
+1001001 R$ 268.076,28 
+
+010 0004 0122 0030 2094 3319011 
+Vencimentos e Vantagens 
+
+Fixas 
+1001001 R$ 570.000,00 
+
+010 0004 0122 0030 2094 3319113 Obrigações Patronais 1001001 R$ 180.000,00 
+
+010 0004 0122 0030 2094 3319013 Obrigações Patronais 1001001 R$ 50.000,00 
+
+013 0004 0122 0001 2188 3319013 Obrigações Patronais 1001001 R$ 40.000,00 
+
+013 0004 0122 0001 2188 3319113 Obrigações Patronais 1001001 R$ 50.085,16 
+
+  
+
+Art. 2º Para ocorrer os créditos indicados no artigo anterior, serão utilizados como recursos as anulações de dotações orçamentárias, conforme 
+
+abaixo discriminadas: 
+
+  
+Unidade Função Subfunção Programa Projeto / Atividade Elemento Descrição Fonte Valor 
+
+003 0020 0606 0010 1009 3449052 
+Equipamentos e Material 
+
+Permanente 
+1001001 R$ 169.000,00 
+
+015 0004 0122 0001 2193 3339092 
+Despesas de Exercícios 
+
+Anteriores 
+1001001 R$ 122.000,00 
+
+015 0004 0122 0001 2193 3339039 
+Outros serviços de terceiros - 
+
+Pessoa Jurídica 
+1001001 R$ 314.760,79 
+
+006 0008 0241 0022 2022 3339030 Material de Consumo 1001001 R$ 20.000,00 
+
+006 0008 0244 0021 1019 3449052 
+Equipamentos e Material 
+
+Permanente 
+1001001 R$ 48.076,28 
+
+006 0008 0244 0025 2028 3339030 Material de Consumo 1001001 R$ 10.000,00 
+
+006 0008 0244 0025 2030 3339030 Material de Consumo 1001001 R$ 10.000,00 
+
+006 0014 0422 0022 2049 3339030 Material de Consumo 1001001 R$ 170.000,00 
+
+006 0014 0422 0022 2049 3339039 
+Outros serviços de terceiros - 
+
+Pessoa Jurídica 
+1001001 R$ 10.000,00 
+
+001 0004 0144 0001 2000 3319011 
+Vencimentos e Vantagens 
+
+Fixas 
+1001001 R$ 750.000,00 
+
+010 0004 0122 0030 2094 3339030 Material de Consumo 1001001 R$ 50.000,00 
+
+014 0004 0122 0038 2189 3319011 
+Vencimentos e Vantagens 
+
+Fixas 
+1001001 R$ 90.000,00 
+
+009 0004 0122 0029 1067 3449061 Aquisição de Imóveis 1001001 R$ 510.000,00 
+
+  
+
+Art. 3º Os créditos das dotações constantes desta lei poderão, caso necessário, ser suplementado no decorrer do exercício financeiro de 2022, dentro 
+
+do limite estabelecido na Lei de Diretrizes Orçamentarias. 
+
+  
+
+Art. 4º Revogam-se as disposições em contrário. 
+
+  
+
+Art. 5º Esta lei entrará em vigor na data de sua publicação. 
+
+  
+
+Pouso Alegre, 08 de julho de 2022. 
+
+  
+
+JOSÉ DIMAS DA SILVA FONSECA 
+Prefeito Municipal 
+
+  
+EYDER DE SOUZA LAMBERT SILVESTRE CÂNDIDO DE SOUZA TURBINO 
+
+Chefe de Gabinete Secretário de Administração de Finanças 
+
+
+
+Minas Gerais , 13 de Julho de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIV | Nº 3304 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                   304 
+
+ 
+
+Publicado por: 
+Antoniele de Rezende 
+
+Código Identificador:B86A9549 
+
+ 
+CHEFIA DE GABINETE 
+
+ERRATA, A PUBLICAÇÃO DO DIA 04/07/2022 REFERENTE AO EDITAL DE PROCESSO SELETIVO 01/2022. 
+
+ 
+
+PROCESSO SELETIVO 01/2022 
+
+MODO DE DISPUTA: ABERTO 
+
+TIPO: CRITÉRIO DE MAIOR PONTUAÇÃO TOTAL 
+
+ÓRGÃOS REQUISITANTES: SECRETARIA MUNICIPAL DE GESTÃO DE PESSOAS 
+
+INÍCIO DO ACOLHIMENTO DE PROPOSTAS: 04/07/2022 
+
+ABERTURA DAS HABILITAÇÕES: 18/07/2022 às 9h00min. 
+
+ABERTURA DAS PROPOSTAS COMERCIAIS: 18/07/2022 a partir de 9h01min 
+  
+
+Não havendo expediente na data supracitada, a data limite para encaminhamento das Propostas Técnicas, bem como a data para a sessão da Seleção 
+
+ficará prorrogada para o primeiro dia útil subsequente, nos mesmos horários. 
+
+  
+
+Torna-se público, para conhecimento dos interessados, que o Município de Pouso Alegre, por meio da Secretaria Municipal de Gestão de Pessoas, 
+
+sediada na Rua Carijós, nº 45, Centro, Pouso Alegre/MG, CEP 37550-050, que realizará a contratação de Entidade Fechada de Previdência 
+
+Complementar, por meio de Processo Seletivo, nos termos da Emenda Constitucional 103, de 12 de novembro de 2019; nas Leis Complementares 
+
+108, de 29 de maio de 2001 e 109, de 29 de maio de 2001 e Lei Ordinária Municipal 6.505, de 10 de novembro de 2021, e as exigências 
+
+estabelecidas neste Edital. 
+
+  
+
+O encaminhamento das propostas deverá ser efetuado até a data e horário fixados para abertura das propostas comerciais. 
+
+  
+
+1. DO OBJETO 
+  
+
+1.1 Seleções de Entidade Fechada de Previdência Complementar interessadas em administrar plano de benefícios previdenciários dos servidores da 
+
+administração direta e indireta do Poder Executivo e do Poder Legislativo do Município de Pouso Alegre/MG. 
+
+  
+
+1.2 O presente Processo de Seleção objetiva o recebimento de documentos habilitatórios e de propostas técnicas e implicará em seleção de Entidade 
+
+Fechada de Previdência Complementar que apresente a proposta mais vantajosa para posterior assinatura de Convênio de Adesão. 
+
+  
+
+1.3 O recebimento e o julgamento das propostas técnicas ficarão a cargo da Comissão constituída através da Portaria nº 4.241, de 29 de junho de 
+
+2022, e alterações. 
+
+  
+
+2. PARTICIPAÇÃO  
+  
+
+Poderão participar deste processo seletivo as pessoas jurídicas que se enquadram no conceito de Entidade Fechada de Previdência Complementar e 
+
+que estejam devidamente autorizadas a funcionar como tal pelo respectivo órgão regulador, Superintendência Nacional de Previdência 
+
+Complementar – PREVIC e categorizadas como em “situação normal” no CadPrevic[1]. 
+
+  
+
+3. LOCAL, DATA E HORÁRIO PARA RECEBIMENTO DE PROPOSTAS 
+  
+
+3.1. Recebimento das Propostas: até o dia 18/07/2022. 
+
+  
+
+3.2 Em meio físico: 
+
+  
+
+3.2.1 O(s) envelope(s) contendo a "Habilitação" e a "Proposta Técnica" deverá(ão) ser protocolado(s), devidamente fechado(s), impreterivelmente no 
+
+endereço especificado abaixo: 
+
+  
+
+· Rua dos Carijós, nº 45, centro, município de Pouso Alegre/MG, CEP 37.550-050, Superintendência Municipal de Gestão de Recursos Materiais, 
+
+em dias úteis e horário comercial. 
+
+  
+
+3.2.2 Os envelopes deverão ainda indicar em sua parte externa e frontal os seguintes dizeres:
