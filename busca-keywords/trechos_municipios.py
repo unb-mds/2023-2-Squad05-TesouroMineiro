@@ -62,11 +62,11 @@ def salvar_trechos(arquivo_destino, data, nome_do_municipio, trechos):
                 f.write(trecho + '\n')
 
 
+if __name__ == "__main__":
+    pasta = 'diarios_spiders/diarios/full'
+    keyword = 'CRÉDITO SUPLEMENTAR'
+    pasta_destino = 'busca-keywords/trechos'
 
-pasta = 'diarios_spiders/diarios/full'
-keyword = 'CRÉDITO SUPLEMENTAR'
-pasta_destino = 'busca-keywords/trechos'
-
-criar_pasta_destino(pasta_destino)
-iterar_arquivos(pasta, keyword, pasta_destino)
+    criar_pasta_destino(pasta_destino)
+    iterar_arquivos(pasta, keyword, pasta_destino)
 
