@@ -14,7 +14,8 @@ def test_salvar_trechos():
     nome_do_municipio = "MUNICIPIOX"
     trechos = ["Trecho 1", "Trecho 2"]
     
-    salvar_trechos(arquivo_destino, data, nome_do_municipio, trechos)
+    #uso com modo 'w' (substituição)
+    salvar_trechos(arquivo_destino, data, nome_do_municipio, trechos, mode='w')
     
     with open(arquivo_destino, 'r', encoding='utf-8') as f:
         conteudo = f.read()

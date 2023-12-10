@@ -26,6 +26,7 @@ def test_processar_trechos():
     # Verifica o conteúdo do arquivo JSON
     with open(arquivo_json, 'r') as arquivo:
         conteudo = json.load(arquivo)
-        assert len(conteudo[:-1]) == 1
-        assert conteudo[0]['Categoria'] == 'Crédito Suplementar'
-        assert conteudo[0]['Soma'] == 1000.0
+        for i in conteudo:
+            assert len(i) == 3
+            assert i['Categoria'] == 'Crédito Suplementar'
+            assert i['Soma'] == 1000.0
