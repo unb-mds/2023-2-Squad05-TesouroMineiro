@@ -72,21 +72,15 @@ const Graficos = () => {
   const fetchChartData = (selectedMunicipio, selectedData, reportType, year = '2023') => {
     let series = [];
     let data = [];
-    console.log(selectedMunicipio, selectedData, reportType)
     credsup.forEach((d) => {
       if (d.Municipio === selectedMunicipio) {
         d.Analises.forEach((a) => {
-          console.log(a)
-          console.log(selectedYear)
           if ((reportType === 'geral')) {
-            console.log("Entrou")
             series.push(a.SomaAnual);
             data.push(a.Ano);
           } else if (a.Ano == year) {
             data = Object.keys(a.Meses)
             series = Object.values(a.Meses)
-            console.log(series)
-            console.log(data)
           }
         });
       }
