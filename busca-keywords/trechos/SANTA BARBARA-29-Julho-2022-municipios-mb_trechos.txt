@@ -1,0 +1,1554 @@
+29-Julho-2022
+SANTA BARBARA
+Abre Crédito Suplementar - Anulação de Dotação 
+  
+O Prefeito Municipal de Santa Barbara/MG, no uso de suas atribuições legais e de acordo com a autorização contida no Art. 4º da Lei 
+Orçamentária Anual nº 2.039 de 16 de dezembro de 2021. 
+  
+D E C R E T A:  
+  
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2022, os seguintes créditos suplementares para reforço das seguintes 
+dotações orçamentárias no valor de R$ 2.801.896,46 (Dois Milhões Oitocentos e Um Mil Oitocentos e Noventa e Seis Reais e Quarenta e Seis 
+Centavos) 
+  
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+
+  R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.05 SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO         
+
+08.0244.0025.2.101.000 MANUTENÇÃO DAS ATIVIDADES DO CREAS         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 21514 100 2.500,00 
+
+08.0244.0022.2.086.000 
+MANUTENCAO DO CENTRO DE REFERÊNCIA E ASSISTÊNCIA 
+SOCIAL- CRAS 
+
+        
+
+  Equipamentos e Material Permanente 4.4.90.52.00 13802 100 8.000,00 
+
+2 PODER EXECUTIVO         
+
+2.07 SECRETARIA MUNICIPAL DE EDUCAÇÃO         
+
+12.0361.0008.2.028.000 MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 14211 101 170.200,00 
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 14210 101 506.800,00 
+
+  Obrigações Patronais 3.1.90.13.00 14212 101 145.000,00 
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 21518 101 700,00 
+
+12.0122.0004.2.002.000 MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA         
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 314 101 98.700,00 
+
+12.0365.0008.2.030.000 MANUT ATIVID EDUC INF PRE ESCOLA FUNDEB PESSOAL         
+
+  Obrigações Patronais 3.1.90.13.00 396 118 1.800,00 
+
+12.0365.0005.2.011.000 MANUTENÇÃO DAS ATIVIDADES DAS CRECHES MUNICIPAIS         
+
+  Obrigações Patronais 3.1.90.13.00 13893 101 13.300,00 
+
+12.0361.0008.2.255.000 MANUT ATIVIDADE ENS FUNDAMENTAL - FUNDEB 70         
+
+  Obrigações Patronais 3.1.90.13.00 14001 118 217.000,00 
+
+12.0361.0008.2.024.000 MANUTENCAO DAS ATIVIDADES DO TRANSPORTE ESCOLAR         
+
+  Obrigações Patronais 3.1.90.13.00 14207 101 4.800,00 
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 14209 101 2.100,00 
+
+12.0364.0006.2.017.000 CUSTEIO DO TRANSPORTE DE ESTUDANTES UNIVERSITARIOS         
+
+  Material, Bem ou Serviço para Distribuição Gratuita 3.3.90.32.00 21952 200 142.200,00 
+
+12.0361.0008.2.223.000 CONCESSAO DE BOLSA ESTAGIO PEDAGOGICA - ED BASICA         
+
+  Outros Serviços de Terceiros - Pessoa Física 3.3.90.36.00 354 101 1.500,00 
+
+12.0361.0008.1.006.000 CONTRUÇÃO E READEQUAÇÃO DOS PRÉDIOS ESCOLARES         
+
+  Equipamentos e Material Permanente 4.4.90.52.00 14204 101 0,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+04.0122.0036.2.103.000 
+MANUTENCAO DA SECRETARIA MUNICIPAL DE 
+INFRAESTRUTURA E URBANISMO 
+
+        
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 14121 100 105.000,00 
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 14129 100 10.000,00 
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 22151 200 153.010,00 
+
+15.0451.0039.2.109.000 MANUTENCAO DAS ATIVIDADES DE VIAS URBANAS         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 14149 100 36.000,00 
+
+17.0511.0031.2.065.000 MANUTENÇÃO DO SANEAMENTO BÁSICO RURAL         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 14159 100 130.000,00 
+
+15.0451.0042.2.111.000 MANUT ATIVIDADES INFRAESTRUTURA RURAL         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 14169 100 30.000,00 
+
+2 PODER EXECUTIVO         
+
+2.09 
+SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E 
+DESENVOLVIMENTO SUSTENTÁVEL 
+
+        
+
+04.0122.0015.2.052.000 
+MANUTENÇÃO DA SECRETARIA DE MEIO AMBIENTE E 
+AGROPECUARIA 
+
+        
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 13689 100 40.000,00 
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 21517 100 6.000,00 
+
+  Material de Consumo 3.3.90.30.00 13696 100 9.000,00 
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 21910 200 60.000,00 
+
+15.0452.0030.2.056.000 MANUTENÇÃO DO TERMINAL RODOVIÁRIO         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 21519 100 3.500,00 
+
+18.0244.0033.2.053.000 MANUTENÇÃO DOS CEMITÉRIOS MUNICIPAIS         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 21831 100 1.400,00 
+
+18.0541.0033.2.075.000 GESTÃO DE ÁREAS VERDES E PROTEGIDAS         
+
+  Material de Consumo 3.3.90.30.00 13726 100 2.700,00 
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 13727 100 29.486,46 
+
+18.0452.0032.2.073.000 COLETA DE RESÍDUOS SÓLIDOS         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 21912 200 150.000,00 
+
+
+
+Minas Gerais , 29 de Julho de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIV | Nº 3316 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              245 
+ 
+
+18.0452.0032.2.070.000 MANUTENÇÃO DAS ATIVIDADES DA LIMPEZA URBANA         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 21914 200 168.000,00 
+
+18.0542.0093.2.300.000 MANUTENÇÃO DO PROGRAMA DE PROTEÇÃO A FAUNA         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 21915 200 29.400,00 
+
+2 PODER EXECUTIVO         
+
+2.10 SECRETARIA MUNICIPAL DE SAÚDE         
+
+10.0302.0059.2.186.000 MANUTENÇÃO DAS ATIVIDADES DE MÉDIA COMPLEXIDADE         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 703 102 25.020,00 
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 704 102 50.300,00 
+
+  Obrigações Patronais 3.1.90.13.00 705 102 17.060,00 
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 706 102 800,00 
+
+10.0122.0057.2.169.000 MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA DE SAÚDE         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 13874 102 19.150,00 
+
+  Obrigações Patronais 3.1.90.13.00 13876 102 4.460,00 
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 13877 102 5.120,00 
+
+  Indenizações e Restituições 3.3.90.93.00 13886 102 14.500,00 
+
+10.0305.0061.2.193.000 MANUTENÇÃO DAS AÇÕES DA VIGILÂNCIA EM SAÚDE         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 14083 102 107.100,00 
+
+  Obrigações Patronais 3.1.90.13.00 14082 102 25.060,00 
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 14081 102 15.000,00 
+
+10.0122.0060.2.189.000 MANUTENÇÃO DA FARMÁCIA BÁSICA         
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 628 102 5.830,00 
+
+10.0302.0059.2.180.000 MANUTENÇÃO DAS ATIVIDADES DO SAUSB         
+
+  Obrigações Patronais 3.1.90.13.00 689 102 290,00 
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 690 102 14.880,00 
+
+10.0301.0058.2.174.000 MANUTENÇÃO DAS UNIDADES BÁSICAS DE SAÚDE         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 13938 102 189.230,00 
+
+2 PODER EXECUTIVO         
+
+2.11 
+SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO 
+TURISMO 
+
+        
+
+04.0122.0044.2.117.000 MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA         
+
+  Material de Consumo 3.3.90.30.00 13590 100 3.400,00 
+
+13.0392.0046.2.129.000 PROMOÇÃO E REALIZAÇÃO DE EVENTOS CULTURAIS         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 785 100 26.600,00 
+
+              
+
+      Total Órgão PODER EXECUTIVO 2.801.896,46 
+
+      Total dos Créditos................ 2.801.896,46 
+
+  
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal 
+nº 4.320, de 17 de março de 1964. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+
+ 
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 PODER EXECUTIVO         
+
+2.11 SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO TURISMO         
+
+13.0392.0046.2.128.000 MANUTENÇÃO DO PROJETO ARTE/CORAL         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 13608 100 30.000,00 
+
+      Tota
+29-Julho-2022
+SANTA BARBARA
+ 
+  
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+
+  R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.05 SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO         
+
+08.0244.0025.2.101.000 MANUTENÇÃO DAS ATIVIDADES DO CREAS         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 21514 100 2.500,00 
+
+08.0244.0022.2.086.000 
+MANUTENCAO DO CENTRO DE REFERÊNCIA E ASSISTÊNCIA 
+SOCIAL- CRAS 
+
+        
+
+  Equipamentos e Material Permanente 4.4.90.52.00 13802 100 8.000,00 
+
+2 PODER EXECUTIVO         
+
+2.07 SECRETARIA MUNICIPAL DE EDUCAÇÃO         
+
+12.0361.0008.2.028.000 MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 14211 101 170.200,00 
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 14210 101 506.800,00 
+
+  Obrigações Patronais 3.1.90.13.00 14212 101 145.000,00 
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 21518 101 700,00 
+
+12.0122.0004.2.002.000 MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA         
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 314 101 98.700,00 
+
+12.0365.0008.2.030.000 MANUT ATIVID EDUC INF PRE ESCOLA FUNDEB PESSOAL         
+
+  Obrigações Patronais 3.1.90.13.00 396 118 1.800,00 
+
+12.0365.0005.2.011.000 MANUTENÇÃO DAS ATIVIDADES DAS CRECHES MUNICIPAIS         
+
+  Obrigações Patronais 3.1.90.13.00 13893 101 13.300,00 
+
+12.0361.0008.2.255.000 MANUT ATIVIDADE ENS FUNDAMENTAL - FUNDEB 70         
+
+  Obrigações Patronais 3.1.90.13.00 14001 118 217.000,00 
+
+12.0361.0008.2.024.000 MANUTENCAO DAS ATIVIDADES DO TRANSPORTE ESCOLAR         
+
+  Obrigações Patronais 3.1.90.13.00 14207 101 4.800,00 
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 14209 101 2.100,00 
+
+12.0364.0006.2.017.000 CUSTEIO DO TRANSPORTE DE ESTUDANTES UNIVERSITARIOS         
+
+  Material, Bem ou Serviço para Distribuição Gratuita 3.3.90.32.00 21952 200 142.200,00 
+
+12.0361.0008.2.223.000 CONCESSAO DE BOLSA ESTAGIO PEDAGOGICA - ED BASICA         
+
+  Outros Serviços de Terceiros - Pessoa Física 3.3.90.36.00 354 101 1.500,00 
+
+12.0361.0008.1.006.000 CONTRUÇÃO E READEQUAÇÃO DOS PRÉDIOS ESCOLARES         
+
+  Equipamentos e Material Permanente 4.4.90.52.00 14204 101 0,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+04.0122.0036.2.103.000 
+MANUTENCAO DA SECRETARIA MUNICIPAL DE 
+INFRAESTRUTURA E URBANISMO 
+
+        
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 14121 100 105.000,00 
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 14129 100 10.000,00 
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 22151 200 153.010,00 
+
+15.0451.0039.2.109.000 MANUTENCAO DAS ATIVIDADES DE VIAS URBANAS         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 14149 100 36.000,00 
+
+17.0511.0031.2.065.000 MANUTENÇÃO DO SANEAMENTO BÁSICO RURAL         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 14159 100 130.000,00 
+
+15.0451.0042.2.111.000 MANUT ATIVIDADES INFRAESTRUTURA RURAL         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 14169 100 30.000,00 
+
+2 PODER EXECUTIVO         
+
+2.09 
+SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E 
+DESENVOLVIMENTO SUSTENTÁVEL 
+
+        
+
+04.0122.0015.2.052.000 
+MANUTENÇÃO DA SECRETARIA DE MEIO AMBIENTE E 
+AGROPECUARIA 
+
+        
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 13689 100 40.000,00 
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 21517 100 6.000,00 
+
+  Material de Consumo 3.3.90.30.00 13696 100 9.000,00 
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 21910 200 60.000,00 
+
+15.0452.0030.2.056.000 MANUTENÇÃO DO TERMINAL RODOVIÁRIO         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 21519 100 3.500,00 
+
+18.0244.0033.2.053.000 MANUTENÇÃO DOS CEMITÉRIOS MUNICIPAIS         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 21831 100 1.400,00 
+
+18.0541.0033.2.075.000 GESTÃO DE ÁREAS VERDES E PROTEGIDAS         
+
+  Material de Consumo 3.3.90.30.00 13726 100 2.700,00 
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 13727 100 29.486,46 
+
+18.0452.0032.2.073.000 COLETA DE RESÍDUOS SÓLIDOS         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 21912 200 150.000,00 
+
+
+
+Minas Gerais , 29 de Julho de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIV | Nº 3316 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              245 
+ 
+
+18.0452.0032.2.070.000 MANUTENÇÃO DAS ATIVIDADES DA LIMPEZA URBANA         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 21914 200 168.000,00 
+
+18.0542.0093.2.300.000 MANUTENÇÃO DO PROGRAMA DE PROTEÇÃO A FAUNA         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 21915 200 29.400,00 
+
+2 PODER EXECUTIVO         
+
+2.10 SECRETARIA MUNICIPAL DE SAÚDE         
+
+10.0302.0059.2.186.000 MANUTENÇÃO DAS ATIVIDADES DE MÉDIA COMPLEXIDADE         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 703 102 25.020,00 
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 704 102 50.300,00 
+
+  Obrigações Patronais 3.1.90.13.00 705 102 17.060,00 
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 706 102 800,00 
+
+10.0122.0057.2.169.000 MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA DE SAÚDE         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 13874 102 19.150,00 
+
+  Obrigações Patronais 3.1.90.13.00 13876 102 4.460,00 
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 13877 102 5.120,00 
+
+  Indenizações e Restituições 3.3.90.93.00 13886 102 14.500,00 
+
+10.0305.0061.2.193.000 MANUTENÇÃO DAS AÇÕES DA VIGILÂNCIA EM SAÚDE         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 14083 102 107.100,00 
+
+  Obrigações Patronais 3.1.90.13.00 14082 102 25.060,00 
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 14081 102 15.000,00 
+
+10.0122.0060.2.189.000 MANUTENÇÃO DA FARMÁCIA BÁSICA         
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 628 102 5.830,00 
+
+10.0302.0059.2.180.000 MANUTENÇÃO DAS ATIVIDADES DO SAUSB         
+
+  Obrigações Patronais 3.1.90.13.00 689 102 290,00 
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 690 102 14.880,00 
+
+10.0301.0058.2.174.000 MANUTENÇÃO DAS UNIDADES BÁSICAS DE SAÚDE         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 13938 102 189.230,00 
+
+2 PODER EXECUTIVO         
+
+2.11 
+SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO 
+TURISMO 
+
+        
+
+04.0122.0044.2.117.000 MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA         
+
+  Material de Consumo 3.3.90.30.00 13590 100 3.400,00 
+
+13.0392.0046.2.129.000 PROMOÇÃO E REALIZAÇÃO DE EVENTOS CULTURAIS         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 785 100 26.600,00 
+
+              
+
+      Total Órgão PODER EXECUTIVO 2.801.896,46 
+
+      Total dos Créditos................ 2.801.896,46 
+
+  
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal 
+nº 4.320, de 17 de março de 1964. 
+  
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+
+ 
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 PODER EXECUTIVO         
+
+2.11 SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO TURISMO         
+
+13.0392.0046.2.128.000 MANUTENÇÃO DO PROJETO ARTE/CORAL         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 13608 100 30.000,00 
+
+      Total PODER EXECUTIVO 30.000,00 
+
+2 PODER EXECUTIVO         
+
+2.04 SECRET. MUNIC. DE GOVERNO, ESPORTES E ORDEM PÚBLICA         
+
+06.0125.0055.1.079.000 AQUISICAO MOVEIS/EQUIPAMENTOS GUARDA MUNICIPAL         
+
+  Equipamentos e Material Permanente 4.4.90.52.00 21542 200 142.200,00 
+
+      Total PODER EXECUTIVO 142.200,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+04.0122.0036.2.103.000 
+MANUTENCAO DA SECRETARIA MUNICIPAL DE INFRAESTRUTURA E 
+URBANISMO 
+
+        
+
+  Material de Consumo 3.3.90.30.00 2205
+29-Julho-2022
+SANTA BARBARA
+ 
+  
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+  
+
+ 
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 PODER EXECUTIVO         
+
+2.11 SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO TURISMO         
+
+13.0392.0046.2.128.000 MANUTENÇÃO DO PROJETO ARTE/CORAL         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 13608 100 30.000,00 
+
+      Total PODER EXECUTIVO 30.000,00 
+
+2 PODER EXECUTIVO         
+
+2.04 SECRET. MUNIC. DE GOVERNO, ESPORTES E ORDEM PÚBLICA         
+
+06.0125.0055.1.079.000 AQUISICAO MOVEIS/EQUIPAMENTOS GUARDA MUNICIPAL         
+
+  Equipamentos e Material Permanente 4.4.90.52.00 21542 200 142.200,00 
+
+      Total PODER EXECUTIVO 142.200,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+04.0122.0036.2.103.000 
+MANUTENCAO DA SECRETARIA MUNICIPAL DE INFRAESTRUTURA E 
+URBANISMO 
+
+        
+
+  Material de Consumo 3.3.90.30.00 22050 200 73.010,00 
+
+04.0122.0015.1.109.000 MODERNIZAÇAO DA SECRETARIA DE INFRAESTRUTURA E URBANISMO         
+
+  Obras e Instalações 4.4.90.51.00 14118 100 30.000,00 
+
+  Equipamentos e Material Permanente 4.4.90.52.00 21948 200 80.000,00 
+
+15.0451.0036.1.048.000 CONST REDE DE DRENAGEM PLUVIAL - SEDE E DISTRITO         
+
+  Obras e Instalações 4.4.90.51.00 14344 100 281.000,00 
+
+      Total PODER EXECUTIVO 464.010,00 
+
+2 PODER EXECUTIVO         
+
+2.05 SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO         
+
+08.0244.0022.2.088.000 
+CONCESSÃO DE BENEFÍCIOS EVENTUAIS ESTABELECIDOS EM LEIS 
+MUNICIPAIS 
+
+        
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 13808 100 2.500,00 
+
+08.0244.0022.2.310.000 MANUTENÇÃO DAS ATIVIDADES DO CRAS ITINERANTE         
+
+  Equipamentos e Material Permanente 4.4.90.52.00 13853 100 8.000,00 
+
+      Total PODER EXECUTIVO 10.500,00 
+
+2 PODER EXECUTIVO         
+
+2.09 
+SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E 
+DESENVOLVIMENTO SUSTENTÁVEL 
+
+        
+
+18.0542.0083.2.302.000 MANUTENÇÃO DAS ATIVIDADES DE EDUCAÇÃO AMBIENTAL         
+
+  Contribuições 3.3.50.41.00 13735 100 5.000,00 
+
+  Material de Consumo 3.3.90.30.00 13734 100 10.000,00 
+
+  Premiações Culturais, Artísticas, Científicas, Desport e Out 3.3.90.31.00 13733 100 5.000,00 
+
+20.0608.0092.2.141.000 FOMENTO AO PRODUTOR RURAL         
+
+  Material, Bem ou Serviço para Distribuição Gratuita 3.3.90.32.00 22084 200 89.400,00 
+
+18.0542.0083.2.301.000 CONTROLE DAS MUDANÇAS CLIMÁTICAS         
+
+  Serviços de Consultoria 3.3.90.35.00 13736 100 20.000,00 
+
+18.0244.0033.2.053.000 MANUTENÇÃO DOS CEMITÉRIOS MUNICIPAIS         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 13709 100 9.320,46 
+
+  Equipamentos e Material Permanente 4.4.90.52.00 21817 200 58.000,00 
+
+
+
+Minas Gerais , 29 de Julho de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIV | Nº 3316 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              246 
+ 
+
+15.0452.0030.2.056.000 MANUTENÇÃO DO TERMINAL RODOVIÁRIO         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 13716 100 4.000,00 
+
+18.0541.0030.2.287.000 PROGRAMA LIXO ZERO E COMPOSTAGEM URBANA         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 14188 100 6.900,00 
+
+18.0542.0032.2.072.000 CONSERV. DO GALPAO DE TRIAGEM DE MAT. RECICLAVEIS         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 21917 200 110.000,00 
+
+04.0122.0015.2.052.000 MANUTENÇÃO DA SECRETARIA DE MEIO AMBIENTE E AGROPECUARIA         
+
+  Equipamentos e Material Permanente 4.4.90.52.00 21916 200 150.000,00 
+
+  Equipamentos e Material Permanente 4.4.90.52.00 13697 100 11.700,00 
+
+18.0542.0093.2.300.000 MANUTENÇÃO DO PROGRAMA DE PROTEÇÃO A FAUNA         
+
+  Equipamentos e Material Permanente 4.4.90.52.00 13732 100 20.166,00 
+
+      Total PODER EXECUTIVO 499.486,46 
+
+2 PODER EXECUTIVO         
+
+2.07 SECRETARIA MUNICIPAL DE EDUCAÇÃO         
+
+12.0122.0004.2.002.000 MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 14191 101 0,00 
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 314 101 162.273,60 
+
+12.0361.0008.2.028.000 MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL         
+
+  Indenizações e Restituições Trabalhistas 3.1.90.94.00 14213 101 54.000,00 
+
+12.0361.0008.2.223.000 CONCESSAO DE BOLSA ESTAGIO PEDAGOGICA - ED BASICA         
+
+  Outros Serviços de Terceiros - Pessoa Física 3.3.90.36.00 354 101 238.626,40 
+
+04.0128.0076.2.021.000 
+REALIZAÇÃO DE TRENAMENTOS/FORUNS/SEMINÁRIOS DOS 
+PROFISSIONAIS DA EDUCAÇÃO 
+
+        
+
+  Outros Serviços de Terceiros - Pessoa Física 3.3.90.36.00 13832 101 10.000,00 
+
+12.0365.0005.2.011.000 MANUTENÇÃO DAS ATIVIDADES DAS CRECHES MUNICIPAIS         
+
+  Outros Serviços de Terceiros - Pessoa Física 3.3.90.36.00 13895 101 12.000,00 
+
+  Serviços Tecnologia da Informação e Comunicação - Pessoa Jur 3.3.90.40.00 361 101 20.000,00 
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 13926 118 51.000,00 
+
+12.0365.0005.1.004.000 
+CONSTRUÇÃO E READEQUAÇÃO DAS INSTALAÇÕES DAS CRECHES 
+MUNICIPAIS 
+
+        
+
+  Obras e Instalações 4.4.90.51.00 14202 101 22.000,00 
+
+  Equipamentos e Material Permanente 4.4.90.52.00 14201 101 128.000,00 
+
+12.0361.0008.1.006.000 CONTRUÇÃO E READEQUAÇÃO DOS PRÉDIOS ESCOLARES         
+
+  Obras e Instalações 4.4.90.51.00 14203 101 193.200,00 
+
+  Equipamentos e Material Permanente 4.4.90.52.00 14204 101 103.000,00 
+
+12.0361.0008.2.255.000 MANUT ATIVIDADE ENS FUNDAMENTAL - FUNDEB 70         
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 13999 118 167.800,00 
+
+ 
+Total PODER EXECUTIVO 1.161.900,00 
+
+2 PODER EXECUTIVO         
+
+2.10 SECRETARIA MUNICIPAL DE SAÚDE         
+
+10.0122.0060.2.189.000 MANUTENÇÃO DA FARMÁCIA BÁSICA         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 13901 102 13.000,00 
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 13902 102 169.000,00 
+
+10.0302.0059.2.180.000 MANUTENÇÃO DAS ATIVIDADES DO SAUSB         
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 13989 102 47.100,00 
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 13991 102 200,00 
+
+  Indenizações e Restituições Trabalhistas 3.1.90.94.00 13992 102 5.000,00 
+
+10.0302.0067.2.178.000 MANUTENÇÃO DO ATENDIMENTO PSICOSSOCIAL         
+
+  Indenizações e Restituições Trabalhistas 3.1.90.94.00 13977 102 2.000,00 
+
+10.0122.0057.2.169.000 MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA DE SAÚDE         
+
+  Indenizações e Restituições Trabalhistas 3.1.90.94.00 13878 102 5.000,00 
+
+10.0302.0059.2.186.000 MANUTENÇÃO DAS ATIVIDADES DE MÉDIA COMPLEXIDADE         
+
+  Indenizações e Restituições Trabalhistas 3.1.90.94.00 707 102 1.000,00 
+
+  Indenizações e Restituições 3.3.90.93.00 14019 102 1.500,00 
+
+10.0301.0058.1.135.000 AQUISICAO DE VEICULOS         
+
+  Equipamentos e Material Permanente 4.4.90.52.00 13925 102 250.000,00 
+
+      Total PODER EXECUTIVO 493.800,00 
+
+      Total da (s) Redução (ôes).............  2.801.896,46 
+
+  
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 27/07/2022. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Erica Pereira de Moura 
+
+Código Identificador:1DDD2DFB 
+
+ 
+CONTABILIDADE 
+
+DECRETO N° 05284/2022 
+ 
+DECRETO Nº 05284/2022 
+  
+
+Abre Crédito Suplementar - Superávit Financeiro 
+  
+O Prefeito Municipal de Santa Barbara/MG, no uso de suas atribuições legais e de acordo com a autorização contida no Art. 6º da Lei 
+Orçamentária Anual nº 2.039 de 16 de dezembro de 2021. 
+  
+D E C R E T A:  
+  
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2022, os seguintes créditos suplementares para reforço das seguintes 
+dotações orçamentárias no valor de R$ 600.000,00 (Seiscentos Mil Reais ) 
+  
+
+
+
+Minas Gerais , 29 de Julho de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIV | Nº 3316 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              247 
+ 
+
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃ
+29-Julho-2022
+SANTA BARBARA
+Abre Crédito Suplementar - Superávit Financeiro 
+  
+O Prefeito Municipal de Santa Barbara/MG, no uso de suas atribuições legais e de acordo com a autorização contida no Art. 6º da Lei 
+Orçamentária Anual nº 2.039 de 16 de dezembro de 2021. 
+  
+D E C R E T A:  
+  
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2022, os seguintes créditos suplementares para reforço das seguintes 
+dotações orçamentárias no valor de R$ 600.000,00 (Seiscentos Mil Reais ) 
+  
+
+
+
+Minas Gerais , 29 de Julho de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIV | Nº 3316 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              247 
+ 
+
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+
+  R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.05 SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO         
+
+08.0241.0028.1.146.000 AQUISIÇÃO DE MÓVEIS E EQUIPAMENTOS CENTRO DIA IDOSO         
+
+  Equipamentos e Material Permanente 4.4.90.52.00 22152 200 100.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+15.0451.0042.2.111.000 MANUT ATIVIDADES INFRAESTRUTURA RURAL         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 22063 208 500.000,00 
+
+Total Órgão PODER EXECUTIVO 600.000,00 
+
+Total dos Créditos................ 600.000,00 
+
+  
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal 
+nº 4.320, de 17 de março de 1964. 
+  
+RECURSOS(S) 
+
+SUPERÁVIT FINANCEIRO 600.000,00 
+
+  
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 27/07/2022. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Erica Pereira de Moura 
+
+Código Identificador:330D231D 
+
+ 
+CONTABILIDADE 
+
+DECRETO N° 052822022 
+ 
+DECRETO Nº 05282/2022 
+  
+
+Abre Crédito Suplementar - Excesso de Arrecadação 
+  
+O Prefeito Municipal de Santa Barbara/MG, no uso de suas atribuições legais e de acordo com a autorização contida no Art. 6º da Lei 
+Orçamentária Anual nº 2.039 de 16 de dezembro de 2021. 
+  
+D E C R E T A:  
+  
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2022, os seguintes créditos suplementares para reforço das seguintes 
+dotações orçamentárias no valor de R$ 184.170,00 (Cento e Oitenta e Quatro Mil Cento e Setenta Reais ) 
+  
+  R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.01 GOVERNANÇA PÚBLICA - GABINETE DO PREFEITO         
+
+04.0122.0015.2.038.000 MANUTENÇÃO DAS ATIVIDADE DO GABINETE DO PREFEITO         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 21835 100 13.000,00 
+
+  Outros Serviços de Terceiros - Pessoa Física 3.3.90.36.00 14294 100 700,00 
+
+2 PODER EXECUTIVO         
+
+2.04 SECRET. MUNIC. DE GOVERNO, ESPORTES E ORDEM PÚBLICA         
+
+06.0181.0055.2.285.000 APOIO A SEGURANÇA PÚBLICA - CONVÊNIO POLÍCIA CÍVIL         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 22104 100 310,00 
+
+2 PODER EXECUTIVO         
+
+2.05 SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO         
+
+08.0244.0024.2.099.000 MANUTENÇÃO DAS ATIVIDADES DO CADASTRO ÚNICO         
+
+  Obrigações Patronais 3.1.90.13.00 13821 100 1.000,00 
+
+04.0122.0015.2.058.000 MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 13747 100 1.200,00 
+
+08.0244.0022.2.086.000 
+MANUTENCAO DO CENTRO DE REFERÊNCIA E ASSISTÊNCIA 
+SOCIAL- CRAS 
+
+        
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 13796 100 2.100,00 
+
+2 PODER EXECUTIVO         
+
+2.06 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO PÚBLICA         
+
+04.0122.0015.2.201.000 
+GESTAO DE PROCESSOS GERENCIAS NA ADMINISTRAÇÃO 
+PUBLICA 
+
+        
+
+  Contratação por Tempo Determinado 3.1.90.04.00 14320 170 22.000,00 
+
+  Obrigações Patronais 3.1.90.13.00 14322 170 18.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+04.0122.0036.2.103.000 
+MANUTENCAO DA SECRETARIA MUNICIPAL DE 
+INFRAESTRUTURA E URBANISMO 
+
+        
+
+  Contratação por Tempo Determinado 3.1.90.04.00 14120 100 11.000,00 
+
+  Obrigações Patronais 3.1.90.13.00 14122 100 27.000,00 
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 14123 100 9.000,00 
+
+15.0451.0039.2.234.000 MANUT ATIVID DE INFRAESTRUTURA E URBANISMO         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 21512 100 2.890,00 
+
+2 PODER EXECUTIVO         
+
+2.09 
+SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E 
+DESENVOLVIMENTO SUSTENTÁVEL 
+
+        
+
+
+
+Minas Gerais , 29 de Julho de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIV | Nº 3316 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              248 
+ 
+
+04.0122.0015.2.052.000 
+MANUTENÇÃO DA SECRETARIA DE MEIO AMBIENTE E 
+AGROPECUARIA 
+
+        
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 13689 100 30.000,00 
+
+  Obrigações Patronais 3.1.90.13.00 13690 100 19.000,00 
+
+2 PODER EXECUTIVO         
+
+2.11 
+SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO 
+TURISMO 
+
+        
+
+13.0695.0047.2.131.000 MANUTENÇÃO DAS ATIVIDADES DE TURISMO         
+
+  Obrigações Patronais 3.1.90.13.00 789 100 3.000,00 
+
+27.0812.0054.2.160.000 MANUTENÇÃO DA DIRETORIA DE ESPORTES         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 14219 100 300,00 
+
+2 PODER EXECUTIVO         
+
+2.13 
+SECRETARIA DE DESENVOLVIMENTO ECONÔMICO, 
+SUSTENTÁVEL E INOVAÇÃO 
+
+        
+
+04.0122.0015.2.051.000 
+MANUTENÇÃO SEC. DES. ECONÔMICO SUSTENTAVEL E 
+INOVAÇÃO 
+
+        
+
+  Contratação por Tempo Determinado 3.1.90.04.00 22146 100 1.670,00 
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 14046 100 17.000,00 
+
+  Obrigações Patronais 3.1.90.13.00 14047 100 5.000,00 
+
+Total Órgão PODER EXECUTIVO 184.170,00 
+
+Total dos Créditos................ 184.170,00 
+
+  
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal 
+nº 4.320, de 17 de março de 1964. 
+  
+RECURSOS(S) 
+
+EXCESSO DE ARRECADAÇÃO 184.170,00 
+
+  
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 27/07/2022. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Erica Pereira de Moura 
+
+Código Identificador:D45E6A7F 
+
+ 
+RECURSOS HUMANOS 
+
+PROGRAMA MUNICIPAL DE ESTÁGIO EDITAL DE PROCESSO SELETIVO SIMPLIFICADO N.º 12/2022 
+ 
+O MUNICÍPIO DE SANTA BARBARA, por intermédio da Divisão de Gestão de Pessoas, vinculada à Secretaria Municipal de Administração 
+Pública, no exercício de suas atribuições legais; 
+FAZ SABER: 
+Encontram-se abertas, conforme os memorandos de n.º 652/2022/SMS , 094/2022/SMS, 641/2022/SMDPS e 642/2022/SMDPS, as inscrições para 
+Processo Seletivo destinado para alunos regularmente matriculados e frequentes em Cursos de Educação Superior e/ou de Educação Profissional, na 
+forma da Lei Federal n.º 11.788/2008, da Lei Municipal n.º 1863/2018, da Lei Municipal n.º 1658/2013, do Decreto Municipal n.º 3496/2018 e 
+demais normas complementares aplicáveis, no âmbito do Poder Executivo Municipal, nas condições constantes nos seguintes itens do presente Edital 
+de Processo Seletivo. 
+1. DA VAGA  
+1.1. O presente Edital de Processo Seletivo visa o preenchimento de vagas para ESTÁGIO NÃO-REMUNERADO / OBRIGATÓRIO nos Cursos 
+de Educação Superior em SERVIÇO SOCIAL, DIREITO e NUTRIÇÃO; ou no Curso de Educação Profissional em TÉCNICO EM SAÚDE 
+BUCAL. 
+1.2. Os Estágio Obrigatórios serão realizados nas Secretarias Municipais requerentes, quando houver necessidade e disponibilidade de vagas, 
+obedecendo a ordem de classificação final e o prazo de validade previsto neste Edital de Processo Seletivo. 
+1.3. Este Processo Seletivo é de caráter não eliminatório, ficando assim classificados todos os que cumprirem os requisitos mínimos exigidos e 
+descritos nos itens presentes neste Edital, observando-se seu prazo de vigência. 
+2. DOS 
+29-Julho-2022
+SANTA BARBARA
+ 
+ 
+
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+
+  R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.05 SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO         
+
+08.0241.0028.1.146.000 AQUISIÇÃO DE MÓVEIS E EQUIPAMENTOS CENTRO DIA IDOSO         
+
+  Equipamentos e Material Permanente 4.4.90.52.00 22152 200 100.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+15.0451.0042.2.111.000 MANUT ATIVIDADES INFRAESTRUTURA RURAL         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 22063 208 500.000,00 
+
+Total Órgão PODER EXECUTIVO 600.000,00 
+
+Total dos Créditos................ 600.000,00 
+
+  
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal 
+nº 4.320, de 17 de março de 1964. 
+  
+RECURSOS(S) 
+
+SUPERÁVIT FINANCEIRO 600.000,00 
+
+  
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 27/07/2022. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Erica Pereira de Moura 
+
+Código Identificador:330D231D 
+
+ 
+CONTABILIDADE 
+
+DECRETO N° 052822022 
+ 
+DECRETO Nº 05282/2022 
+  
+
+Abre Crédito Suplementar - Excesso de Arrecadação 
+  
+O Prefeito Municipal de Santa Barbara/MG, no uso de suas atribuições legais e de acordo com a autorização contida no Art. 6º da Lei 
+Orçamentária Anual nº 2.039 de 16 de dezembro de 2021. 
+  
+D E C R E T A:  
+  
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2022, os seguintes créditos suplementares para reforço das seguintes 
+dotações orçamentárias no valor de R$ 184.170,00 (Cento e Oitenta e Quatro Mil Cento e Setenta Reais ) 
+  
+  R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.01 GOVERNANÇA PÚBLICA - GABINETE DO PREFEITO         
+
+04.0122.0015.2.038.000 MANUTENÇÃO DAS ATIVIDADE DO GABINETE DO PREFEITO         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 21835 100 13.000,00 
+
+  Outros Serviços de Terceiros - Pessoa Física 3.3.90.36.00 14294 100 700,00 
+
+2 PODER EXECUTIVO         
+
+2.04 SECRET. MUNIC. DE GOVERNO, ESPORTES E ORDEM PÚBLICA         
+
+06.0181.0055.2.285.000 APOIO A SEGURANÇA PÚBLICA - CONVÊNIO POLÍCIA CÍVIL         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 22104 100 310,00 
+
+2 PODER EXECUTIVO         
+
+2.05 SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO         
+
+08.0244.0024.2.099.000 MANUTENÇÃO DAS ATIVIDADES DO CADASTRO ÚNICO         
+
+  Obrigações Patronais 3.1.90.13.00 13821 100 1.000,00 
+
+04.0122.0015.2.058.000 MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 13747 100 1.200,00 
+
+08.0244.0022.2.086.000 
+MANUTENCAO DO CENTRO DE REFERÊNCIA E ASSISTÊNCIA 
+SOCIAL- CRAS 
+
+        
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 13796 100 2.100,00 
+
+2 PODER EXECUTIVO         
+
+2.06 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO PÚBLICA         
+
+04.0122.0015.2.201.000 
+GESTAO DE PROCESSOS GERENCIAS NA ADMINISTRAÇÃO 
+PUBLICA 
+
+        
+
+  Contratação por Tempo Determinado 3.1.90.04.00 14320 170 22.000,00 
+
+  Obrigações Patronais 3.1.90.13.00 14322 170 18.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+04.0122.0036.2.103.000 
+MANUTENCAO DA SECRETARIA MUNICIPAL DE 
+INFRAESTRUTURA E URBANISMO 
+
+        
+
+  Contratação por Tempo Determinado 3.1.90.04.00 14120 100 11.000,00 
+
+  Obrigações Patronais 3.1.90.13.00 14122 100 27.000,00 
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 14123 100 9.000,00 
+
+15.0451.0039.2.234.000 MANUT ATIVID DE INFRAESTRUTURA E URBANISMO         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 21512 100 2.890,00 
+
+2 PODER EXECUTIVO         
+
+2.09 
+SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E 
+DESENVOLVIMENTO SUSTENTÁVEL 
+
+        
+
+
+
+Minas Gerais , 29 de Julho de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIV | Nº 3316 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              248 
+ 
+
+04.0122.0015.2.052.000 
+MANUTENÇÃO DA SECRETARIA DE MEIO AMBIENTE E 
+AGROPECUARIA 
+
+        
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 13689 100 30.000,00 
+
+  Obrigações Patronais 3.1.90.13.00 13690 100 19.000,00 
+
+2 PODER EXECUTIVO         
+
+2.11 
+SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO 
+TURISMO 
+
+        
+
+13.0695.0047.2.131.000 MANUTENÇÃO DAS ATIVIDADES DE TURISMO         
+
+  Obrigações Patronais 3.1.90.13.00 789 100 3.000,00 
+
+27.0812.0054.2.160.000 MANUTENÇÃO DA DIRETORIA DE ESPORTES         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 14219 100 300,00 
+
+2 PODER EXECUTIVO         
+
+2.13 
+SECRETARIA DE DESENVOLVIMENTO ECONÔMICO, 
+SUSTENTÁVEL E INOVAÇÃO 
+
+        
+
+04.0122.0015.2.051.000 
+MANUTENÇÃO SEC. DES. ECONÔMICO SUSTENTAVEL E 
+INOVAÇÃO 
+
+        
+
+  Contratação por Tempo Determinado 3.1.90.04.00 22146 100 1.670,00 
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 14046 100 17.000,00 
+
+  Obrigações Patronais 3.1.90.13.00 14047 100 5.000,00 
+
+Total Órgão PODER EXECUTIVO 184.170,00 
+
+Total dos Créditos................ 184.170,00 
+
+  
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal 
+nº 4.320, de 17 de março de 1964. 
+  
+RECURSOS(S) 
+
+EXCESSO DE ARRECADAÇÃO 184.170,00 
+
+  
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 27/07/2022. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Erica Pereira de Moura 
+
+Código Identificador:D45E6A7F 
+
+ 
+RECURSOS HUMANOS 
+
+PROGRAMA MUNICIPAL DE ESTÁGIO EDITAL DE PROCESSO SELETIVO SIMPLIFICADO N.º 12/2022 
+ 
+O MUNICÍPIO DE SANTA BARBARA, por intermédio da Divisão de Gestão de Pessoas, vinculada à Secretaria Municipal de Administração 
+Pública, no exercício de suas atribuições legais; 
+FAZ SABER: 
+Encontram-se abertas, conforme os memorandos de n.º 652/2022/SMS , 094/2022/SMS, 641/2022/SMDPS e 642/2022/SMDPS, as inscrições para 
+Processo Seletivo destinado para alunos regularmente matriculados e frequentes em Cursos de Educação Superior e/ou de Educação Profissional, na 
+forma da Lei Federal n.º 11.788/2008, da Lei Municipal n.º 1863/2018, da Lei Municipal n.º 1658/2013, do Decreto Municipal n.º 3496/2018 e 
+demais normas complementares aplicáveis, no âmbito do Poder Executivo Municipal, nas condições constantes nos seguintes itens do presente Edital 
+de Processo Seletivo. 
+1. DA VAGA  
+1.1. O presente Edital de Processo Seletivo visa o preenchimento de vagas para ESTÁGIO NÃO-REMUNERADO / OBRIGATÓRIO nos Cursos 
+de Educação Superior em SERVIÇO SOCIAL, DIREITO e NUTRIÇÃO; ou no Curso de Educação Profissional em TÉCNICO EM SAÚDE 
+BUCAL. 
+1.2. Os Estágio Obrigatórios serão realizados nas Secretarias Municipais requerentes, quando houver necessidade e disponibilidade de vagas, 
+obedecendo a ordem de classificação final e o prazo de validade previsto neste Edital de Processo Seletivo. 
+1.3. Este Processo Seletivo é de caráter não eliminatório, ficando assim classificados todos os que cumprirem os requisitos mínimos exigidos e 
+descritos nos itens presentes neste Edital, observando-se seu prazo de vigência. 
+2. DOS REQUISITOS PARA INSCRIÇÃO  
+2.1. O Estágio Não-Remunerado e Obrigatório previsto neste Edital de Processo Seletivo destina-se, exclusivamente, aos estudantes regularmente 
+matriculados e com frequência efetiva nos Cursos de Educação Superior em SERVIÇO SOCIAL, DIREITO e NUTRIÇÃO; ou no Curso de 
+Educação Profissional em TÉCNICO EM SAÚDE BUCAL; ou no Curso de Educação Profissional em TÉCNICO EM SAÚDE BUCAL, os quais 
+estejam em período de realização de Estágio Obrigatório, devidamente comprovado, vinculados ao ensino público ou ao ensino particular nas 
+Instituições de Ensino reconhecidas pelo MEC. 
+3. DAS INSCRIÇÕES 
+3.1. As inscrições para os interessados no Processo Seletivo de que trata este Ed
+29-Julho-2022
+SANTA BARBARA
+Abre Crédito Suplementar - Excesso de Arrecadação 
+  
+O Prefeito Municipal de Santa Barbara/MG, no uso de suas atribuições legais e de acordo com a autorização contida no Art. 6º da Lei 
+Orçamentária Anual nº 2.039 de 16 de dezembro de 2021. 
+  
+D E C R E T A:  
+  
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2022, os seguintes créditos suplementares para reforço das seguintes 
+dotações orçamentárias no valor de R$ 184.170,00 (Cento e Oitenta e Quatro Mil Cento e Setenta Reais ) 
+  
+  R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.01 GOVERNANÇA PÚBLICA - GABINETE DO PREFEITO         
+
+04.0122.0015.2.038.000 MANUTENÇÃO DAS ATIVIDADE DO GABINETE DO PREFEITO         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 21835 100 13.000,00 
+
+  Outros Serviços de Terceiros - Pessoa Física 3.3.90.36.00 14294 100 700,00 
+
+2 PODER EXECUTIVO         
+
+2.04 SECRET. MUNIC. DE GOVERNO, ESPORTES E ORDEM PÚBLICA         
+
+06.0181.0055.2.285.000 APOIO A SEGURANÇA PÚBLICA - CONVÊNIO POLÍCIA CÍVIL         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 22104 100 310,00 
+
+2 PODER EXECUTIVO         
+
+2.05 SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO         
+
+08.0244.0024.2.099.000 MANUTENÇÃO DAS ATIVIDADES DO CADASTRO ÚNICO         
+
+  Obrigações Patronais 3.1.90.13.00 13821 100 1.000,00 
+
+04.0122.0015.2.058.000 MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 13747 100 1.200,00 
+
+08.0244.0022.2.086.000 
+MANUTENCAO DO CENTRO DE REFERÊNCIA E ASSISTÊNCIA 
+SOCIAL- CRAS 
+
+        
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 13796 100 2.100,00 
+
+2 PODER EXECUTIVO         
+
+2.06 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO PÚBLICA         
+
+04.0122.0015.2.201.000 
+GESTAO DE PROCESSOS GERENCIAS NA ADMINISTRAÇÃO 
+PUBLICA 
+
+        
+
+  Contratação por Tempo Determinado 3.1.90.04.00 14320 170 22.000,00 
+
+  Obrigações Patronais 3.1.90.13.00 14322 170 18.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+04.0122.0036.2.103.000 
+MANUTENCAO DA SECRETARIA MUNICIPAL DE 
+INFRAESTRUTURA E URBANISMO 
+
+        
+
+  Contratação por Tempo Determinado 3.1.90.04.00 14120 100 11.000,00 
+
+  Obrigações Patronais 3.1.90.13.00 14122 100 27.000,00 
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 14123 100 9.000,00 
+
+15.0451.0039.2.234.000 MANUT ATIVID DE INFRAESTRUTURA E URBANISMO         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 21512 100 2.890,00 
+
+2 PODER EXECUTIVO         
+
+2.09 
+SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E 
+DESENVOLVIMENTO SUSTENTÁVEL 
+
+        
+
+
+
+Minas Gerais , 29 de Julho de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIV | Nº 3316 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              248 
+ 
+
+04.0122.0015.2.052.000 
+MANUTENÇÃO DA SECRETARIA DE MEIO AMBIENTE E 
+AGROPECUARIA 
+
+        
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 13689 100 30.000,00 
+
+  Obrigações Patronais 3.1.90.13.00 13690 100 19.000,00 
+
+2 PODER EXECUTIVO         
+
+2.11 
+SECRET. MUNIC. DE CULTURA E DESENVOLVIMENTO DO 
+TURISMO 
+
+        
+
+13.0695.0047.2.131.000 MANUTENÇÃO DAS ATIVIDADES DE TURISMO         
+
+  Obrigações Patronais 3.1.90.13.00 789 100 3.000,00 
+
+27.0812.0054.2.160.000 MANUTENÇÃO DA DIRETORIA DE ESPORTES         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 14219 100 300,00 
+
+2 PODER EXECUTIVO         
+
+2.13 
+SECRETARIA DE DESENVOLVIMENTO ECONÔMICO, 
+SUSTENTÁVEL E INOVAÇÃO 
+
+        
+
+04.0122.0015.2.051.000 
+MANUTENÇÃO SEC. DES. ECONÔMICO SUSTENTAVEL E 
+INOVAÇÃO 
+
+        
+
+  Contratação por Tempo Determinado 3.1.90.04.00 22146 100 1.670,00 
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 14046 100 17.000,00 
+
+  Obrigações Patronais 3.1.90.13.00 14047 100 5.000,00 
+
+Total Órgão PODER EXECUTIVO 184.170,00 
+
+Total dos Créditos................ 184.170,00 
+
+  
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal 
+nº 4.320, de 17 de março de 1964. 
+  
+RECURSOS(S) 
+
+EXCESSO DE ARRECADAÇÃO 184.170,00 
+
+  
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 27/07/2022. 
+  
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Erica Pereira de Moura 
+
+Código Identificador:D45E6A7F 
+
+ 
+RECURSOS HUMANOS 
+
+PROGRAMA MUNICIPAL DE ESTÁGIO EDITAL DE PROCESSO SELETIVO SIMPLIFICADO N.º 12/2022 
+ 
+O MUNICÍPIO DE SANTA BARBARA, por intermédio da Divisão de Gestão de Pessoas, vinculada à Secretaria Municipal de Administração 
+Pública, no exercício de suas atribuições legais; 
+FAZ SABER: 
+Encontram-se abertas, conforme os memorandos de n.º 652/2022/SMS , 094/2022/SMS, 641/2022/SMDPS e 642/2022/SMDPS, as inscrições para 
+Processo Seletivo destinado para alunos regularmente matriculados e frequentes em Cursos de Educação Superior e/ou de Educação Profissional, na 
+forma da Lei Federal n.º 11.788/2008, da Lei Municipal n.º 1863/2018, da Lei Municipal n.º 1658/2013, do Decreto Municipal n.º 3496/2018 e 
+demais normas complementares aplicáveis, no âmbito do Poder Executivo Municipal, nas condições constantes nos seguintes itens do presente Edital 
+de Processo Seletivo. 
+1. DA VAGA  
+1.1. O presente Edital de Processo Seletivo visa o preenchimento de vagas para ESTÁGIO NÃO-REMUNERADO / OBRIGATÓRIO nos Cursos 
+de Educação Superior em SERVIÇO SOCIAL, DIREITO e NUTRIÇÃO; ou no Curso de Educação Profissional em TÉCNICO EM SAÚDE 
+BUCAL. 
+1.2. Os Estágio Obrigatórios serão realizados nas Secretarias Municipais requerentes, quando houver necessidade e disponibilidade de vagas, 
+obedecendo a ordem de classificação final e o prazo de validade previsto neste Edital de Processo Seletivo. 
+1.3. Este Processo Seletivo é de caráter não eliminatório, ficando assim classificados todos os que cumprirem os requisitos mínimos exigidos e 
+descritos nos itens presentes neste Edital, observando-se seu prazo de vigência. 
+2. DOS REQUISITOS PARA INSCRIÇÃO  
+2.1. O Estágio Não-Remunerado e Obrigatório previsto neste Edital de Processo Seletivo destina-se, exclusivamente, aos estudantes regularmente 
+matriculados e com frequência efetiva nos Cursos de Educação Superior em SERVIÇO SOCIAL, DIREITO e NUTRIÇÃO; ou no Curso de 
+Educação Profissional em TÉCNICO EM SAÚDE BUCAL; ou no Curso de Educação Profissional em TÉCNICO EM SAÚDE BUCAL, os quais 
+estejam em período de realização de Estágio Obrigatório, devidamente comprovado, vinculados ao ensino público ou ao ensino particular nas 
+Instituições de Ensino reconhecidas pelo MEC. 
+3. DAS INSCRIÇÕES 
+3.1. As inscrições para os interessados no Processo Seletivo de que trata este Edital serão realizadas na modalidade online, conforme disposto no art. 
+12º do Decreto Municipal n.º 4307/2020, no período de 05 de agosto de 2022 à 09 de agosto de 2022 e o candidato deverá preencher, 
+obrigatoriamente, a Ficha de Inscrição (Anexo I) e enviar a mesma de forma digitalizada/escaneada juntamente com os documentos válidos de CPF; 
+RG; Comprovante de Residência; Histórico Escolar, Declaração de Frequência e/mais Carta de Apresentação atualizada emitida pela Instituição de 
+Ensino, constando, principalmente, o nome do curso, o período em que o estudante está cursando e a carga horária curricular 
+exigida/obrigatória para o cumprimento do Estágio Obrigatório; e os Títulos (caso possua e conforme quadro do item 5.1.) para o endereço 
+eletrônico (e-mail): processoseletivopmsb@gmail.com 
+3.1.1. Ressalta-se que os interessados no Processo Seletivo de que trata este Edital devem estar devidamente matriculados e frequentes em período 
+afim de cumprimento da carga horária curricular exigida/obrigatória de Estágio Obrigatório nos Cursos de Educação Superior em SERVIÇO 
+SOCIAL, DIREITO e NUTRIÇÃO; ou no Curso de Educação Profissional em TÉCNICO EM SAÚDE BUCAL. 
+3.2. O candidato deverá sinalizar

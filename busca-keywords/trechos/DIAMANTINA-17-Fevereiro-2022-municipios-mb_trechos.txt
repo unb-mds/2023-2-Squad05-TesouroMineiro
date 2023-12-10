@@ -1,0 +1,436 @@
+17-Fevereiro-2022
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0429 1521.12.0361.0011.2078.118 - SALÁRIOS/ENCARGOS FUNDEB 60% 4.873,32 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0430 1521.12.0361.0011.2078.118 - SALÁRIOS/ENCARGOS FUNDEB 60% 100,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0435 1521.12.0361.0011.2079.119 - SALÁRIOS/ENCARGOS FUNDEB 40% 2.817,81 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0436 1521.12.0361.0011.2079.119 - SALÁRIOS/ENCARGOS FUNDEB 40% 408,33 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0439 1521.12.0361.0011.2079.119 - SALÁRIOS/ENCARGOS FUNDEB 40% 618,43 
+
+  3.3.90.08.00.00 - Outros Benefícios Assistenciais do Servidor ou do Militar   
+
+0545 1522.12.0365.0011.2089.118 - SALÁRIOS/ENCARGOS CRECHE 60% 12,65 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0546 1522.12.0365.0011.2089.118 - SALÁRIOS/ENCARGOS CRECHE 60% 2.945,48 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0555 1522.12.0365.0011.2090.119 - SALÁRIOS/ENCARGOS CRECHE 40% 0,88 
+
+  3.3.90.08.00.00 - Outros Benefícios Assistenciais do Servidor ou do Militar   
+
+0593 1523.12.0365.0011.2094.118 - SALÁRIOS/ENCARGOS PRÉ ESCOLA 60% 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0596 1523.12.0365.0011.2094.119 - SALÁRIOS/ENCARGOS PRÉ ESCOLA 60% 627,11 
+
+  3.3.90.08.00.00 - Outros Benefícios Assistenciais do Servidor ou do Militar   
+
+0600 1523.12.0365.0011.2095.119 - SALÁRIOS/ENCARGOS PRÉ ESCOLA 40% 0,06 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0760 1610.10.0122.0068.1134.102 - ENFRENTAMENTO DA EMERGÊNCIA COVID19 11.517,15 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+  
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0760 1610.10.0122.0068.1134.102 - ENFRENTAMENTO DA EMERGÊNCIA COVID19 873,51 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0760 1610.10.0122.0068.1134.102 - ENFRENTAMENTO DA EMERGÊNCIA COVID19 12.515,35 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0760 1610.10.0122.0068.1134.102 - ENFRENTAMENTO DA EMERGÊNCIA COVID19 24.217,62 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0760 1610.10.0122.0068.1134.102 - ENFRENTAMENTO DA EMERGÊNCIA COVID19 2.618,51 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0760 1610.10.0122.0068.1134.102 - ENFRENTAMENTO DA EMERGÊNCIA COVID19 1.266,45 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0760 1610.10.0122.0068.1134.102 - ENFRENTAMENTO DA EMERGÊNCIA COVID19 1.119,99 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0760 1610.10.0122.0068.1134.102 - ENFRENTAMENTO DA EMERGÊNCIA COVID19 970,56 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0760 1610.10.0122.0068.1134.102 - ENFRENTAMENTO DA EMERGÊNCIA COVID19 2.597,18 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 225,98 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 585,65 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 233,21 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 875,15 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 14.046,03 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 1.976,71 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 1.826,93 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 1.511,66 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 5.793,36 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 1.791,49 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 481,96 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 4.463,25 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 12.084,43 
+
+
+
+Minas Gerais , 17 de Fevereiro de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3202 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                   304 
+
+ 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 2.974,67 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 17.120,66 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 47.676,66 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 2.442,54 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 186,56 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 479,73 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1356 1730.18.0542.0024.2159.100 - MANUTENÇÃO DE PROGRAMA DE DESPOLUIÇÃO DE CÓRREGOS E RIOS 11.770,18 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+  
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+1997 1920.08.0244.0036.2176.229 - MANUTENÇÃO DAS ATIVIDADES DO CRAS/PAIF 167,65 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+Total 199.814,85 
+
+  
+
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+
+  
+
+Artigo 4º: Revogam-se as disposições em contrário. 
+
+  
+
+DIAMANTINA, 22 de Dezembro de 2021 
+  
+
+JUSCELINO BRASILIANO ROQUE 
+Prefeito Municipal 
+
+Publicado por: 
+Nilza de Fátima Alves 
+
+Código Identificador:910D76E2 
+
+ 
+
+ESTADO DE MINAS GERAIS
+17-Fevereiro-2022
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0760 1610.10.0122.0068.1134.102 - ENFRENTAMENTO DA EMERGÊNCIA COVID19 873,51 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0760 1610.10.0122.0068.1134.102 - ENFRENTAMENTO DA EMERGÊNCIA COVID19 12.515,35 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0760 1610.10.0122.0068.1134.102 - ENFRENTAMENTO DA EMERGÊNCIA COVID19 24.217,62 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0760 1610.10.0122.0068.1134.102 - ENFRENTAMENTO DA EMERGÊNCIA COVID19 2.618,51 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0760 1610.10.0122.0068.1134.102 - ENFRENTAMENTO DA EMERGÊNCIA COVID19 1.266,45 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0760 1610.10.0122.0068.1134.102 - ENFRENTAMENTO DA EMERGÊNCIA COVID19 1.119,99 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0760 1610.10.0122.0068.1134.102 - ENFRENTAMENTO DA EMERGÊNCIA COVID19 970,56 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0760 1610.10.0122.0068.1134.102 - ENFRENTAMENTO DA EMERGÊNCIA COVID19 2.597,18 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 225,98 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 585,65 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 233,21 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 875,15 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 14.046,03 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 1.976,71 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 1.826,93 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 1.511,66 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 5.793,36 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 1.791,49 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 481,96 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 4.463,25 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 12.084,43 
+
+
+
+Minas Gerais , 17 de Fevereiro de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3202 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                   304 
+
+ 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 2.974,67 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 17.120,66 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 47.676,66 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 2.442,54 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 186,56 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1348 1730.18.0542.0024.2155.100 - MANUTENÇÃO DOS SERVIÇOS DE COLETA SELETIVA DE LIXO 479,73 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1356 1730.18.0542.0024.2159.100 - MANUTENÇÃO DE PROGRAMA DE DESPOLUIÇÃO DE CÓRREGOS E RIOS 11.770,18 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+  
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+1997 1920.08.0244.0036.2176.229 - MANUTENÇÃO DAS ATIVIDADES DO CRAS/PAIF 167,65 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+Total 199.814,85 
+
+  
+
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+
+  
+
+Artigo 4º: Revogam-se as disposições em contrário. 
+
+  
+
+DIAMANTINA, 22 de Dezembro de 2021 
+  
+
+JUSCELINO BRASILIANO ROQUE 
+Prefeito Municipal 
+
+Publicado por: 
+Nilza de Fátima Alves 
+
+Código Identificador:910D76E2 
+
+ 
+
+ESTADO DE MINAS GERAIS
+17-Fevereiro-2022
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+1997 1920.08.0244.0036.2176.229 - MANUTENÇÃO DAS ATIVIDADES DO CRAS/PAIF 167,65 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+Total 199.814,85 
+
+  
+
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+
+  
+
+Artigo 4º: Revogam-se as disposições em contrário. 
+
+  
+
+DIAMANTINA, 22 de Dezembro de 2021 
+  
+
+JUSCELINO BRASILIANO ROQUE 
+Prefeito Municipal 
+
+Publicado por: 
+Nilza de Fátima Alves 
+
+Código Identificador:910D76E2 
+
+ 
+
+ESTADO DE MINAS GERAIS

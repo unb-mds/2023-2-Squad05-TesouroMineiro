@@ -17,8 +17,14 @@ def buscar_trechos(caminho_arquivo, keyword, pasta_destino):
     with open(caminho_arquivo, 'r', encoding='utf-8') as arquivo:
         texto_completo = arquivo.read()
 
-    datas_encontradas = re.findall(r'\d{2} de [A-Z][a-z]+ de \d{4}', texto_completo)
-    data = datas_encontradas.pop()
+    try:
+        padrao_data = r"\b(\d{1,2}-[A-Za-z]+-\d{4})\b"
+        correspondencia = re.search(padrao_data, caminho_arquivo)
+        data = correspondencia.group(1)
+        print(data)
+    except:
+        return 'Erro encontrado nas datas.'
+        
 
     for bloco in re.split(re.escape("PREFEITURA "), texto_completo):
         bloco = bloco.strip()
@@ -54,8 +60,7 @@ def salvar_trechos(arquivo_destino, data, nome_do_municipio, trechos):
                 f.write(data + '\n')
                 f.write(nome_do_municipio + '\n')
                 f.write(trecho + '\n')
-    else:
-        print(f'Município: {nome_do_municipio} não possui.')
+
 
 
 pasta = 'diarios_spiders/diarios/full'

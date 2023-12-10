@@ -1,0 +1,545 @@
+06-Agosto-2019
+VISCONDE DO RIO BRANCO
+A DE CRÉDITO SUPLEMENTAR E DA OUTRAS PROVIDÊNCIAS. 
+  
+O(A) Prefeito(a) Municipal de , Estado de Minas Gerais, no uso de suas atribuições legais, com base na Lei 14672018 12/12/2018 e art. 43 da Lei 
+Federal 4.320/64, decreta: 
+Art. 1o. - Fica aberto o Crédito Suplementar no valor total de R$ 148.321,00 (cento e quarenta e oito mil , trezentos e vinte e um reais ), as seguintes 
+dotações orçamentárias: 
+  
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.011 - MANUTENÇÃO DO PESSOAL DA SECRETARIA 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$4.900,00 
+
+Unid. Orc.: 02.007.000 - SECRETARIA MUN. AGRICULTURA E MEIO AMBIENTE 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.076 - MANUTENÇÃO DO PESSOAL DA SECRETARIA 
+
+Conta.....: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL C 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$17.200,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10- SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.102 - MANUTENÇÃO PESSOAL AGENTE COMUNIT. SAÚDE-ACS 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$6.000,00 
+
+Conta.....: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL C 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$22.400,00 
+
+Proj/Ativ.: 2.104 - MANUTENÇÃO PESSOAL SAÚDE BUCAL 
+
+Conta.....: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL C 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$7.300,00 
+
+Subfunção.: 305 - VIGILANCIA EPIDEMIOLOGICA 
+
+Programa..: 0014 - VIGILÂNCIA EM SAÚDE 
+
+Proj/Ativ.: 2.125 - MANUT. ATIVIDADES DA VIGIL. EPIDEMIOLOGICA 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$4.000,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12- EDUCACAO 
+
+Subfunção.:  122 - ADMINISTRACAO GERAL 
+
+Programa..:  0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.08.00 - OUTROS BENEFÍCIOS ASSISTENCIAIS 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$1.021,00 
+
+Unid. Orc.: 02.009.002 - FUNDO NACIONAL DE DESENV. EDUCAÇÃO - FUNDEB 
+
+Função....: 12- EDUCACAO 
+
+Subfunção.: 365 - EDUCACAO INFANTIL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 2.190 - MANUT. PESSOAL DOCENTE REC. FUNDEB PRE-ESCOLA 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 
+
+Valor.....: R$5.900,00 
+
+Conta.....: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL C 
+
+Fonte.....: 118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 
+
+Valor.....: R$79.600,00 
+
+  
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 148.321,00 (cento e quarenta 
+e oito mil , trezentos e vinte e um reais ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+  
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 1.109 - CONST. AMPLIAÇÃO E REFORMA DE UNIDADE SAÚDE 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$33.700,00 
+
+Proj/Ativ.: 2.101 - MANUTENÇÃO PESSOAL SAÚDE DA FAMÍLIA - PSF 
+
+Conta.....: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL C 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$6.000,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+
+
+Minas Gerais , 06 de Agosto de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2560 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              203 
+ 
+
+Valor.....: R$1.021,00 
+
+Unid. Orc.: 02.009.002 - FUNDO NACIONAL DE DESENV. EDUCAÇÃO - FUNDEB 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 361 - ENSINO FUNDAMENTAL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 2.180 - MANUTENÇÃO DO PESSOAL DOCENTE - FUNDEB 
+
+Conta.....: 3.1.91.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte.....: 118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 
+
+Valor.....: R$85.500,00 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função....: 13 - CULTURA 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.200 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.35.00 - SERVIÇOS DE CONSULTORIA 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$22.100,00 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+  
+Prefeitura Municipal de , 19 de julho de 2019 
+__________________ 
+
+Publicado por: 
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:D988CC8B 
+ 
+
+ 
+
+
+		2019-08-05T19:12:46-0300
+	VOX SOLUCOES TECNOLOGICAS LTDA ME:00684621000131
+06-Agosto-2019
+VISCONDE DO RIO BRANCO
+to o Crédito Suplementar no valor total de R$ 148.321,00 (cento e quarenta e oito mil , trezentos e vinte e um reais ), as seguintes 
+dotações orçamentárias: 
+  
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.011 - MANUTENÇÃO DO PESSOAL DA SECRETARIA 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$4.900,00 
+
+Unid. Orc.: 02.007.000 - SECRETARIA MUN. AGRICULTURA E MEIO AMBIENTE 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.076 - MANUTENÇÃO DO PESSOAL DA SECRETARIA 
+
+Conta.....: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL C 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$17.200,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10- SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.102 - MANUTENÇÃO PESSOAL AGENTE COMUNIT. SAÚDE-ACS 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$6.000,00 
+
+Conta.....: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL C 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$22.400,00 
+
+Proj/Ativ.: 2.104 - MANUTENÇÃO PESSOAL SAÚDE BUCAL 
+
+Conta.....: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL C 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$7.300,00 
+
+Subfunção.: 305 - VIGILANCIA EPIDEMIOLOGICA 
+
+Programa..: 0014 - VIGILÂNCIA EM SAÚDE 
+
+Proj/Ativ.: 2.125 - MANUT. ATIVIDADES DA VIGIL. EPIDEMIOLOGICA 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$4.000,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12- EDUCACAO 
+
+Subfunção.:  122 - ADMINISTRACAO GERAL 
+
+Programa..:  0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.08.00 - OUTROS BENEFÍCIOS ASSISTENCIAIS 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$1.021,00 
+
+Unid. Orc.: 02.009.002 - FUNDO NACIONAL DE DESENV. EDUCAÇÃO - FUNDEB 
+
+Função....: 12- EDUCACAO 
+
+Subfunção.: 365 - EDUCACAO INFANTIL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 2.190 - MANUT. PESSOAL DOCENTE REC. FUNDEB PRE-ESCOLA 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 
+
+Valor.....: R$5.900,00 
+
+Conta.....: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL C 
+
+Fonte.....: 118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 
+
+Valor.....: R$79.600,00 
+
+  
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 148.321,00 (cento e quarenta 
+e oito mil , trezentos e vinte e um reais ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+  
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 1.109 - CONST. AMPLIAÇÃO E REFORMA DE UNIDADE SAÚDE 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$33.700,00 
+
+Proj/Ativ.: 2.101 - MANUTENÇÃO PESSOAL SAÚDE DA FAMÍLIA - PSF 
+
+Conta.....: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL C 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$6.000,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+
+
+Minas Gerais , 06 de Agosto de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2560 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              203 
+ 
+
+Valor.....: R$1.021,00 
+
+Unid. Orc.: 02.009.002 - FUNDO NACIONAL DE DESENV. EDUCAÇÃO - FUNDEB 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 361 - ENSINO FUNDAMENTAL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 2.180 - MANUTENÇÃO DO PESSOAL DOCENTE - FUNDEB 
+
+Conta.....: 3.1.91.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte.....: 118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 
+
+Valor.....: R$85.500,00 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função....: 13 - CULTURA 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.200 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.35.00 - SERVIÇOS DE CONSULTORIA 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$22.100,00 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+  
+Prefeitura Municipal de , 19 de julho de 2019 
+__________________ 
+
+Publicado por: 
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:D988CC8B 
+ 
+
+ 
+
+
+		2019-08-05T19:12:46-0300
+	VOX SOLUCOES TECNOLOGICAS LTDA ME:00684621000131
+06-Agosto-2019
+VISCONDE DO RIO BRANCO
+a de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 148.321,00 (cento e quarenta 
+e oito mil , trezentos e vinte e um reais ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+  
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 1.109 - CONST. AMPLIAÇÃO E REFORMA DE UNIDADE SAÚDE 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$33.700,00 
+
+Proj/Ativ.: 2.101 - MANUTENÇÃO PESSOAL SAÚDE DA FAMÍLIA - PSF 
+
+Conta.....: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL C 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$6.000,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+
+
+Minas Gerais , 06 de Agosto de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2560 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              203 
+ 
+
+Valor.....: R$1.021,00 
+
+Unid. Orc.: 02.009.002 - FUNDO NACIONAL DE DESENV. EDUCAÇÃO - FUNDEB 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 361 - ENSINO FUNDAMENTAL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 2.180 - MANUTENÇÃO DO PESSOAL DOCENTE - FUNDEB 
+
+Conta.....: 3.1.91.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte.....: 118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 
+
+Valor.....: R$85.500,00 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função....: 13 - CULTURA 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.200 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.35.00 - SERVIÇOS DE CONSULTORIA 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$22.100,00 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+  
+Prefeitura Municipal de , 19 de julho de 2019 
+__________________ 
+
+Publicado por: 
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:D988CC8B 
+ 
+
+ 
+
+
+		2019-08-05T19:12:46-0300
+	VOX SOLUCOES TECNOLOGICAS LTDA ME:00684621000131

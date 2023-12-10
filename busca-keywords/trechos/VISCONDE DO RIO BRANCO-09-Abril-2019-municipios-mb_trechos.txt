@@ -1,0 +1,802 @@
+09-Abril-2019
+VISCONDE DO RIO BRANCO
+to o Crédito Suplementar no valor total de R$ 
+
+186.952,00 (cento e oitenta e seis mil , novecentos e cinquenta e dois 
+
+reais ), as seguintes dotações orçamentárias: 
+
+  
+Unid. Orc.: 02.001.000 - GABINETE DO PREFEITO 
+
+Função....: 04 - ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.003 - MANUT. ATIVIDADES GABINETE 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$3.000,00 
+
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função....: 04 - ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.92.00 - DESPESAS DE EXERCÍCIOS ANTERIORES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$66.000,00 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$9.000,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 153 - TRANS. DE RECURSOS DO SUS - SERVIÇOS DE S 
+
+Valor.....: R$103.000,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.115 - MANUT. CENTRO DE ATENÇÃO PSICOSSOCIAL - CAPS 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$2.052,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função....: 08 - ASSISTENCIA SOCIAL 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.233 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor.....: R$300,00 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor.....: R$3.600,00 
+
+  
+
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo 
+
+primeiro deste decreto fica anulado o valor de R$ 186.952,00 (cento e 
+
+oitenta e seis mil , novecentos e cinquenta e dois reais ), referente a 
+
+anulação parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc.: 02.003.000 - PROCURADORIA GERAL DO MUNICIPIO 
+
+Função....: 03 - ESSENCIAL A JUSTICA 
+
+Subfunção.: 092 - REPRESENTACAO JUDICIAL E EXTRAJUDICIAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.007 - MANUT. ATIVID. PROCURADORIA 
+
+Conta.....: 3.3.90.92.00 - DESPESAS DE EXERCÍCIOS ANTERIORES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$3.000,00 
+
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função....: 04 - ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$9.000,00 
+
+Proj/Ativ.: 2.021 - TRANF. ASSOC. SERVIDORES PÚBLICOS - ASSERV 
+
+Conta.....: 3.3.70.41.00 - CONTRIBUIÇÕES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$66.000,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 1.109 - CONST. AMPLIAÇÃO E REFORMA DE UNIDADE SAÚDE 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$2.052,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 1.122 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UND. SAÚDE 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 153 - TRANS. DE RECURSOS DO SUS - SERVIÇOS DE S 
+
+Valor.....: R$103.000,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função....: 08 - ASSISTENCIA SOCIAL 
+
+Subfunção.: 244 - ASSISTENCIA COMUNITARIA 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.237 - MANUTENÇÃO DAS ATIVIDADES DO CRAS 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor.....: R$3.900,00 
+
+
+
+Minas Gerais , 09 de Abril de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2478 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              172 
+
+ 
+
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto 
+
+em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de , 15 de março de 2019 
+
+______________________ 
+
+Publicado por: 
+
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:28F54766 
+
+ 
+DEPARTAMENTO DE CONTABILIDADE 
+
+DECRETO N.000060/2019 
+
+ 
+
+FUNDO MUN. PREVIDÊNCIA DE VISC. DO RIO BRANCO 
+
+DECRETO Nº 00060/2019, DE 25 DE MARÇO DE 2019. 
+
+  
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO 
+
+ESPECIAL E DA OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O(A) Prefeito(a) Municipal de VISCONDE DO RIO BRANCO, 
+
+Estado de Minas Gerais, no uso de suas atribuições legais, com base 
+
+na Lei Municipal 1472/2019 de 19/03/2019 e art. 43 da Lei Federal 
+
+4.320/64, decreta: 
+
+Art. 1o. - Fica aberto o Crédito Especial no valor total de R$ 
+
+11.000,00 (onze mil reais ), as seguintes dotações orçamentárias: 
+
+  
+Unid. Orc.: 03.001.001 - FUNDO DE PREVIDENCIA 
+
+Função: 04 - ADMINISTRACAO 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0025 - PROGRAMA DE PREVIDENCIA 
+
+Proj/Ativ.: 2.966 - MANUTENÇÃO DE DESPESAS ADMINISTRATIVAS RPPS 
+
+Conta: 3.3.90.40.00 - SERVIÇOS TECNOLOGIA INFOR E COMUNIC - PJ 
+
+Fonte: 103 - CONTRIBUIÇÃO PARA O RPPS 
+
+Valor: R$ 11.000,00 
+
+  
+
+Art. 2o. - Como recursos a abertura de Crédito Especial no artigo 
+
+primeiro deste decreto fica anulado o valor de R$ 11.000,00 (onze mil 
+
+reais ), referente a anulação parcial ou total das dotações abaixo 
+
+relacionadas. 
+
+  
+Unid. Orc.: 03.001.001 - FUNDO DE PREVIDENCIA 
+
+Função: 04 - ADMINISTRACAO 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0025 - PROGRAMA DE PREVIDENCIA 
+
+Proj/Ativ.: 2.966 - MANUTENÇÃO DE DESPESAS ADMINISTRATIVAS RPPS 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 103 - CONTRIBUIÇÃO PARA O RPPS 
+
+Valor: R$ 11.000,00 
+
+  
+
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto 
+
+em vigor na data de sua publicação. 
+
+  
+
+VISCONDE DO RIO BRANCO, 25 DE MARÇO DE 2019  
+
+___________ 
+
+Publicado por: 
+
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:4FC7EFCD 
+
+ 
+DEPARTAMENTO DE CONTABILIDADE 
+
+DECRETO N.000057/2019 
+
+ 
+
+DECRETO 57/2019 
+
+  
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO 
+
+ESPECIAL E DA OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O prefeito Municipal de Visconde do Rio Branco no uso de suas 
+
+atribuições legais, com base na Lei Municipal 1.467/2018 e art. 43 da 
+
+Lei Federal 4.320/64, decreta: 
+
+Art. 1º. Fica o poder legislativo autorizado a abrir Crédito Especial no 
+
+orçamento vigente para o exercício de 2019, no valor de R$ 80.000,00 
+
+(Oitenta Mil reais) à seguinte dotação orçamentária: 
+
+  
+01 CAMARA MUNICIPAL E VISCONDE DO RIO BRANCO   
+
+001.001 LEGISLATIVA   
+
+01 LEGISLATIVA   
+
+031 AÇÃO LEGISLATIVA   
+
+0101 PROCESSO LEGISLATIVO   
+
+2.657 MANUTENÇÃO DAS ATIVIDADES DA CAMARA   
+
+3.3.90.40 SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO- PJ   
+
+VALOR: 
+R$ 
+
+80.000,00 
+
+  
+
+Art. 2º. Como recurso para abertura de Crédito Especial do artigo 1º 
+
+deste decreto fica anulado o valor de R$ 80.000,00 (Oitenta Mil reais) 
+
+referente anulação parcial da dotação abaixo. 
+
+  
+01 CAMARA MUNICIPAL E VISCONDE DO RIO BRANCO   
+
+001.001 LEGISLATIVA   
+
+01 LEGISLATIVA   
+
+031 AÇÃO LEGISLATIVA   
+
+0101 PROCESSO LEGISLATIVO   
+
+2.657 MANUTENÇÃO DAS ATIVIDADES DA CAMARA   
+
+3.3.90.39 OUTRO
+09-Abril-2019
+VISCONDE DO RIO BRANCO
+a de Crédito Suplementar no artigo 
+
+primeiro deste decreto fica anulado o valor de R$ 186.952,00 (cento e 
+
+oitenta e seis mil , novecentos e cinquenta e dois reais ), referente a 
+
+anulação parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc.: 02.003.000 - PROCURADORIA GERAL DO MUNICIPIO 
+
+Função....: 03 - ESSENCIAL A JUSTICA 
+
+Subfunção.: 092 - REPRESENTACAO JUDICIAL E EXTRAJUDICIAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.007 - MANUT. ATIVID. PROCURADORIA 
+
+Conta.....: 3.3.90.92.00 - DESPESAS DE EXERCÍCIOS ANTERIORES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$3.000,00 
+
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função....: 04 - ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$9.000,00 
+
+Proj/Ativ.: 2.021 - TRANF. ASSOC. SERVIDORES PÚBLICOS - ASSERV 
+
+Conta.....: 3.3.70.41.00 - CONTRIBUIÇÕES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$66.000,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 1.109 - CONST. AMPLIAÇÃO E REFORMA DE UNIDADE SAÚDE 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$2.052,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 1.122 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UND. SAÚDE 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 153 - TRANS. DE RECURSOS DO SUS - SERVIÇOS DE S 
+
+Valor.....: R$103.000,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função....: 08 - ASSISTENCIA SOCIAL 
+
+Subfunção.: 244 - ASSISTENCIA COMUNITARIA 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.237 - MANUTENÇÃO DAS ATIVIDADES DO CRAS 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor.....: R$3.900,00 
+
+
+
+Minas Gerais , 09 de Abril de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2478 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              172 
+
+ 
+
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto 
+
+em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de , 15 de março de 2019 
+
+______________________ 
+
+Publicado por: 
+
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:28F54766 
+
+ 
+DEPARTAMENTO DE CONTABILIDADE 
+
+DECRETO N.000060/2019 
+
+ 
+
+FUNDO MUN. PREVIDÊNCIA DE VISC. DO RIO BRANCO 
+
+DECRETO Nº 00060/2019, DE 25 DE MARÇO DE 2019. 
+
+  
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO 
+
+ESPECIAL E DA OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O(A) Prefeito(a) Municipal de VISCONDE DO RIO BRANCO, 
+
+Estado de Minas Gerais, no uso de suas atribuições legais, com base 
+
+na Lei Municipal 1472/2019 de 19/03/2019 e art. 43 da Lei Federal 
+
+4.320/64, decreta: 
+
+Art. 1o. - Fica aberto o Crédito Especial no valor total de R$ 
+
+11.000,00 (onze mil reais ), as seguintes dotações orçamentárias: 
+
+  
+Unid. Orc.: 03.001.001 - FUNDO DE PREVIDENCIA 
+
+Função: 04 - ADMINISTRACAO 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0025 - PROGRAMA DE PREVIDENCIA 
+
+Proj/Ativ.: 2.966 - MANUTENÇÃO DE DESPESAS ADMINISTRATIVAS RPPS 
+
+Conta: 3.3.90.40.00 - SERVIÇOS TECNOLOGIA INFOR E COMUNIC - PJ 
+
+Fonte: 103 - CONTRIBUIÇÃO PARA O RPPS 
+
+Valor: R$ 11.000,00 
+
+  
+
+Art. 2o. - Como recursos a abertura de Crédito Especial no artigo 
+
+primeiro deste decreto fica anulado o valor de R$ 11.000,00 (onze mil 
+
+reais ), referente a anulação parcial ou total das dotações abaixo 
+
+relacionadas. 
+
+  
+Unid. Orc.: 03.001.001 - FUNDO DE PREVIDENCIA 
+
+Função: 04 - ADMINISTRACAO 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0025 - PROGRAMA DE PREVIDENCIA 
+
+Proj/Ativ.: 2.966 - MANUTENÇÃO DE DESPESAS ADMINISTRATIVAS RPPS 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 103 - CONTRIBUIÇÃO PARA O RPPS 
+
+Valor: R$ 11.000,00 
+
+  
+
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto 
+
+em vigor na data de sua publicação. 
+
+  
+
+VISCONDE DO RIO BRANCO, 25 DE MARÇO DE 2019  
+
+___________ 
+
+Publicado por: 
+
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:4FC7EFCD 
+
+ 
+DEPARTAMENTO DE CONTABILIDADE 
+
+DECRETO N.000057/2019 
+
+ 
+
+DECRETO 57/2019 
+
+  
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO 
+
+ESPECIAL E DA OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O prefeito Municipal de Visconde do Rio Branco no uso de suas 
+
+atribuições legais, com base na Lei Municipal 1.467/2018 e art. 43 da 
+
+Lei Federal 4.320/64, decreta: 
+
+Art. 1º. Fica o poder legislativo autorizado a abrir Crédito Especial no 
+
+orçamento vigente para o exercício de 2019, no valor de R$ 80.000,00 
+
+(Oitenta Mil reais) à seguinte dotação orçamentária: 
+
+  
+01 CAMARA MUNICIPAL E VISCONDE DO RIO BRANCO   
+
+001.001 LEGISLATIVA   
+
+01 LEGISLATIVA   
+
+031 AÇÃO LEGISLATIVA   
+
+0101 PROCESSO LEGISLATIVO   
+
+2.657 MANUTENÇÃO DAS ATIVIDADES DA CAMARA   
+
+3.3.90.40 SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO- PJ   
+
+VALOR: 
+R$ 
+
+80.000,00 
+
+  
+
+Art. 2º. Como recurso para abertura de Crédito Especial do artigo 1º 
+
+deste decreto fica anulado o valor de R$ 80.000,00 (Oitenta Mil reais) 
+
+referente anulação parcial da dotação abaixo. 
+
+  
+01 CAMARA MUNICIPAL E VISCONDE DO RIO BRANCO   
+
+001.001 LEGISLATIVA   
+
+01 LEGISLATIVA   
+
+031 AÇÃO LEGISLATIVA   
+
+0101 PROCESSO LEGISLATIVO   
+
+2.657 MANUTENÇÃO DAS ATIVIDADES DA CAMARA   
+
+3.3.90.39 OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA   
+
+VALOR: 
+R$ 
+
+80.000,00 
+
+  
+
+Art. 3º. Esta Lei entrará em vigor na data de sua publicação. 
+
+  
+
+Visconde do Rio Branco, 19 de março de 2019. 
+
+  
+
+IRAN SILVA COURI 
+
+Prefeito Municipal 
+
+Visconde do Rio Branco/MG 
+
+Publicado por: 
+
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:4D7ACAD9 
+
+ 
+
+ESTADO DE MINAS GERAIS 
+
+SAAE - SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO DE 
+
+PIRAPORA 
+
+ 
+
+SAAE PIRAPORA-MG 
+
+CONTRATO 26/2019 
+
+ 
+
+Serviço Autônomo de Água e Esgoto de Pirapora-MG. Errata: 
+
+Contrato 26/2019. Contratado: Líder Segurança do Trabalho e Saúde 
+
+Ocupacional Ltda – CNPJ 02.215.813/00001-24. Objeto: Serviço de 
+
+medicina no trabalho. Valor: R$660,00/mês. Processo 53/2019 – PBS 
+
+111/2019 – Dispensa de Licitação, artigo 24, inciso II – Lei 8666/93. 
+
+Vigência: 08/04/2019 a 31/12/2019.  
+
+  
+
+Pirapora-MG, 08 de abril de 2019.  
+
+  
+
+ESMERALDO PEREIRA SANTOS  
+
+Diretor do SAAE/Pirapora-MG.  
+
+Publicado por: 
+
+Alessandra Barbosa Rocha Veloso 
+
+Código Identificador:A1119827 
+
+ 
+SAAE PIRAPORA-MG 
+
+RESULTADO PREGÃO PRESENCIAL 13/2019 
+
+ 
+
+Serviço Autônomo de Água e Esgoto de Pirapora-MG. Resultado 
+
+Pregão Presencial 13/2019. Processo: 36/2019. Objeto: Material para 
+
+nova célula do aterro sanitário agregada graúdo, canaletas, 
+
+geomembra, geotêxtil, manilhas e o serviço de instalação da 
+
+geomembrana. Empresas vencedoras: Lotes 01 e 02: DS Materiais de 
+
+Construção Ltda – EPP – CNPJ 25.817.545/0001-16; Lote 03: 
+
+Inovadrain – Soluções Técnicas para Impermeabilização e Drenagem 
+
+Ltda – CNPJ 21.206.110/0001-84 e Lote 04: JL Soluções Ambientais 
+
+Ltda – CNPJ 09.425.934/0001-40.  
+
+  
+
+Pirapora-MG, 08 de abril de 2019.  
+
+  
+
+ESMERALDO PEREIRA SANTOS  
+
+Diretor do SAAE/Pirapora-MG. 
+
+Publicado por: 
+
+Alessandra Barbosa Rocha Veloso 
+
+Código Identificador:EC17562F 
+
+ 
+SAAE PIRAPORA-MG 
+
+CONTRATO 27/2019 
+
+ 
+
+
+
+Minas Gerais , 09 de Abril de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2478 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              173 
+
+ 
+
+Serviço Autônomo de Água e Esgoto de Pirapora-MG. Contrato 
+
+27/2019. Contratado: JL Soluções Ambientais Ltda – CNPJ 
+
+09.425.934/0001-40. Obje

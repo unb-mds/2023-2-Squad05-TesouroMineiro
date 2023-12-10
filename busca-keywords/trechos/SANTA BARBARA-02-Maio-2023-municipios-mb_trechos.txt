@@ -1,0 +1,308 @@
+02-Maio-2023
+SANTA BARBARA
+ 
+  
+CRÉDITO SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.07 SECRETARIA MUNICIPAL DE EDUCAÇÃO         
+
+12.0361.0008.2.255.000 MANUT ATIVIDADE ENS FUNDAMENTAL - DOCENTE         
+
+  Indenizações e Restituições Trabalhistas 3.1.90.94.00 3443 1540 45.910,68 
+
+12.0365.0008.2.030.000 MANUT ATIVID EDUC INF PRE ESCOLA FUNDEB PESSOAL - DOCENTE         
+
+  Indenizações e Restituições Trabalhistas 3.1.90.94.00 3592 1540 12.979,14 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+04.0122.0036.2.103.000 MANUTENCAO DA SECRETARIA MUNICIPAL DE INFRAESTRUTURA E URBANISMO         
+
+  Indenizações e Restituições Trabalhistas 3.1.90.94.00 4127 1500 45.094,89 
+
+2 PODER EXECUTIVO         
+
+2.10 SECRETARIA MUNICIPAL DE SAÚDE         
+
+10.0302.0067.2.178.000 MANUTENÇÃO DO ATENDIMENTO PSICOSSOCIAL         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 6280 1500 2.671,35 
+
+10.0122.0060.2.189.000 MANUTENÇÃO DA FARMÁCIA BÁSICA         
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 5927 1500 1.562,40 
+
+  Obrigações Patronais 3.1.90.13.00 5928 1500 241,23 
+
+10.0301.0058.2.174.000 MANUTENÇÃO DAS UNIDADES BÁSICAS DE SAÚDE         
+
+  Indenizações e Restituições Trabalhistas 3.1.90.94.00 6013 1500 3.080,95 
+
+10.0305.0061.2.193.000 MANUTENÇÃO DAS AÇÕES DA VIGILÂNCIA EM SAÚDE         
+
+  Indenizações e Restituições Trabalhistas 3.1.90.94.00 6365 1500 7.345,50 
+
+10.0122.0057.2.172.000 MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA DE SAÚDE - SUBSIDIOS         
+
+  Indenizações e Restituições Trabalhistas 3.1.90.94.00 9984 1500 34.990,73 
+
+2 PODER EXECUTIVO         
+
+2.12 CONTROLADORIA GERAL DO MUNICÍPIO         
+
+04.0124.0089.2.197.000 COORDENAÇÃO DOS SERVIÇOS DE OUVIDORIA         
+
+  Indenizações e Restituições Trabalhistas 3.1.90.94.00 7624 1500 2.123,17 
+
+2 PODER EXECUTIVO         
+
+2.13 SECRETARIA DE DESENVOLVIMENTO ECONÔMICO, SUSTENTÁVEL E INOVAÇÃO         
+
+04.0122.0015.2.051.000 MANUTENÇÃO SEC. DES. ECONÔMICO SUSTENTAVEL E INOVAÇÃO         
+
+  Indenizações e Restituições Trabalhistas 3.1.90.94.00 7811 1500 5.852,93 
+
+Total Órgão PODER EXECUTIVO  161.852,97 
+
+Total dos Créditos................  161.852,97 
+
+  
+
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1º do art. 43, da Le i Federal 
+
+nº 4.320, de 17 de março de 1964. 
+  
+RECURSOS(S) 
+
+TRANSFERÊNCIA 161.852,97 
+
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 PODER EXECUTIVO         
+
+2.12 CONTROLADORIA GERAL DO MUNICÍPIO         
+
+04.0124.0089.2.197.000 COORDENAÇÃO DOS SERVIÇOS DE OUVIDORIA         
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 7610 1500 2.123,17 
+
+Total PODER EXECUTIVO 2.123,17 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+04.0122.0036.2.103.000 MANUTENCAO DA SECRETARIA MUNICIPAL DE INFRAESTRUTURA E URBANISMO         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 4110 1500 45.094,89 
+
+Total PODER EXECUTIVO 45.094,89 
+
+2 PODER EXECUTIVO         
+
+2.13 SECRETARIA DE DESENVOLVIMENTO ECONÔMICO, SUSTENTÁVEL E INOVAÇÃO         
+
+04.0122.0015.2.051.000 MANUTENÇÃO SEC. DES. ECONÔMICO SUSTENTAVEL E INOVAÇÃO         
+
+  Material de Consumo 3.3.90.30.00 7815 1500 2.652,93 
+
+  Outros Serviços de Terceiros - Pessoa Física 3.3.90.36.00 7850 1500 3.200,00 
+
+Total PODER EXECUTIVO 5.852,93 
+
+2 PODER EXECUTIVO         
+
+2.07 SECRETARIA MUNICIPAL DE EDUCAÇÃO         
+
+12.0361.0008.2.255.000 MANUT ATIVIDADE ENS FUNDAMENTAL - DOCENTE         
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 3427 1540 45.910,68 
+
+12.0365.0008.2.030.000 MANUT ATIVID EDUC INF PRE ESCOLA FUNDEB PESSOAL - DOCENTE         
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 3576 1540 12.979,14 
+
+Total PODER EXECUTIVO 58.889,82 
+
+2 PODER EXECUTIVO         
+
+2.10 SECRETARIA MUNICIPAL DE SAÚDE         
+
+10.0305.0061.2.193.000 MANUTENÇÃO DAS AÇÕES DA VIGILÂNCIA EM SAÚDE         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 6350 1500 7.345,50 
+
+10.0122.0057.2.172.000 MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA DE SAÚDE - SUBSIDIOS         
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 5881 1500 34.990,73 
+
+10.0302.0067.2.178.000 MANUTENÇÃO DO ATENDIMENTO PSICOSSOCIAL         
+
+  Indenizações e Restituições Trabalhistas 3.1.90.94.00 6290 1500 2.671,35 
+
+10.0122.0060.2.189.000 MANUTENÇÃO DA FARMÁCIA BÁSICA         
+
+  Outros Serviços de Terceiros - Pessoa Física 3.3.90.36.00 5935 1500 1.803,63 
+
+10.0301.0058.2.174.000 MANUTENÇÃO DAS UNIDADES BÁSICAS DE SAÚDE         
+
+  Outros Serviços de Terceiros - Pessoa Física 3.3.90.36.00 6090 1500 3.080,95 
+
+Total PODER EXECUTIVO 49.892,16 
+
+Total da (s) Redução (ôes)............. 161.852,97 
+
+  
+
+
+
+Minas Gerais , 02 de Maio de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3505 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              339 
+
+ 
+
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+
+Santa Barbara, 27/04/2023. 
+  
+
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Amanda Luíza Araújo Casita 
+
+Código Identificador:C5117196 
+
+ 
+
+ESTADO DE MINAS GERAIS
+02-Maio-2023
+SANTA BARBARA
+97 
+
+CRÉDITO SUPLEMENTAR - ANEXO II - REDUÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 PODER EXECUTIVO         
+
+2.12 CONTROLADORIA GERAL DO MUNICÍPIO         
+
+04.0124.0089.2.197.000 COORDENAÇÃO DOS SERVIÇOS DE OUVIDORIA         
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 7610 1500 2.123,17 
+
+Total PODER EXECUTIVO 2.123,17 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+04.0122.0036.2.103.000 MANUTENCAO DA SECRETARIA MUNICIPAL DE INFRAESTRUTURA E URBANISMO         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 4110 1500 45.094,89 
+
+Total PODER EXECUTIVO 45.094,89 
+
+2 PODER EXECUTIVO         
+
+2.13 SECRETARIA DE DESENVOLVIMENTO ECONÔMICO, SUSTENTÁVEL E INOVAÇÃO         
+
+04.0122.0015.2.051.000 MANUTENÇÃO SEC. DES. ECONÔMICO SUSTENTAVEL E INOVAÇÃO         
+
+  Material de Consumo 3.3.90.30.00 7815 1500 2.652,93 
+
+  Outros Serviços de Terceiros - Pessoa Física 3.3.90.36.00 7850 1500 3.200,00 
+
+Total PODER EXECUTIVO 5.852,93 
+
+2 PODER EXECUTIVO         
+
+2.07 SECRETARIA MUNICIPAL DE EDUCAÇÃO         
+
+12.0361.0008.2.255.000 MANUT ATIVIDADE ENS FUNDAMENTAL - DOCENTE         
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 3427 1540 45.910,68 
+
+12.0365.0008.2.030.000 MANUT ATIVID EDUC INF PRE ESCOLA FUNDEB PESSOAL - DOCENTE         
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 3576 1540 12.979,14 
+
+Total PODER EXECUTIVO 58.889,82 
+
+2 PODER EXECUTIVO         
+
+2.10 SECRETARIA MUNICIPAL DE SAÚDE         
+
+10.0305.0061.2.193.000 MANUTENÇÃO DAS AÇÕES DA VIGILÂNCIA EM SAÚDE         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 6350 1500 7.345,50 
+
+10.0122.0057.2.172.000 MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA DE SAÚDE - SUBSIDIOS         
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 5881 1500 34.990,73 
+
+10.0302.0067.2.178.000 MANUTENÇÃO DO ATENDIMENTO PSICOSSOCIAL         
+
+  Indenizações e Restituições Trabalhistas 3.1.90.94.00 6290 1500 2.671,35 
+
+10.0122.0060.2.189.000 MANUTENÇÃO DA FARMÁCIA BÁSICA         
+
+  Outros Serviços de Terceiros - Pessoa Física 3.3.90.36.00 5935 1500 1.803,63 
+
+10.0301.0058.2.174.000 MANUTENÇÃO DAS UNIDADES BÁSICAS DE SAÚDE         
+
+  Outros Serviços de Terceiros - Pessoa Física 3.3.90.36.00 6090 1500 3.080,95 
+
+Total PODER EXECUTIVO 49.892,16 
+
+Total da (s) Redução (ôes)............. 161.852,97 
+
+  
+
+
+
+Minas Gerais , 02 de Maio de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3505 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              339 
+
+ 
+
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+
+Santa Barbara, 27/04/2023. 
+  
+
+ALCEMIR JOSÉ MOREIRA 
+Prefeito Municipal 
+
+Publicado por: 
+Amanda Luíza Araújo Casita 
+
+Código Identificador:C5117196 
+
+ 
+
+ESTADO DE MINAS GERAIS

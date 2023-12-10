@@ -1,0 +1,324 @@
+10-Junho-2022
+MENDES PIMENTEL
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes descriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0029 
+2100.06.0181.0006.2093.100 – MANUTENÇÃO DO CONVÊNIO COM A POLÍCIA CIVIL 
+
+3.3.90.30.00.00 – Material de Consumo 
+7.000,00 
+
+0051 
+2300.04.0124.0008.2072.100 – GESTÃO E ADMINISTRAÇÃO DO CONTROLE MUNICIPAL 
+
+3.3.90.14.00.00 – Diárias – Pessoal Civil 
+1.000,00 
+
+0052 
+2300.04.0124.0008.2072.100 – GESTÃO E ADMINISTRAÇÃO DO CONTROLE MUNICIPAL 
+
+3.3.90.30.00.00 – Material de Consumo 
+1.000,00 
+
+0053 
+2300.04.012.0008..2072.100 - GESTÃO E ADMINISTRAÇÃO DO CONTROLE MUNICIPAL 
+
+3.3.90.33.00.00 – Passagens e Despesas com Locomoção 
+1.000,00 
+
+0054 
+2300.04.012.0008..2072.100 - GESTÃO E ADMINISTRAÇÃO DO CONTROLE MUNICIPAL 
+
+3.3.90.36.00.00 – Outros Serviços de Terceiros – Pessoa Física 
+118,00 
+
+0054 
+2300.04.012.0008..2072.100 - GESTÃO E ADMINISTRAÇÃO DO CONTROLE MUNICIPAL 
+
+3.3.90.36.00.00 – Outros Serviços de Terceiros – Pessoa Física 
+350,12 
+
+0056 
+2300.04.012.0008..2072.100 - GESTÃO E ADMINISTRAÇÃO DO CONTROLE MUNICIPAL 
+
+3.3.90.47.00.00 – Obrigações Tributárias e Contributivas 
+1.000,00 
+
+0063 
+2400.04.0123.0009.2073.100 – GESTÃO E ADMINISTRAÇÃO ATIV. FINANCEIRAS, CONTÁBIL E TRIBUTÁRIA 
+
+3.3.90.30.00.00 – Mateial de Consumo 
+1.000,00 
+
+0064 
+2400.04.0123.0009.2073.100 – GESTÃO E ADMINISTRAÇÃO ATIV. FINANCEIRAS, CONTÁBIL E TRIBUTÁRIA 
+
+3.3.90.33.00.00 – Passagens e Despesas com Locomoção 
+1.000,00 
+
+0065 
+2400.04.0123.0009.2073.100 – GESTÃO E ADMINISTRAÇÃO ATIV. FINANCEIRAS, CONTÁBIL E TRIBUTÁRIA 
+
+3.3.90.36.00.00 – Outros Serviços de Terceiros – Pesoa Física 
+1.000,00 
+
+0066 
+2400.04.0123.0009.2073.100 – GESTÃO E ADMINISTRAÇÃO ATIV. FINANCEIRAS, CONTÁBIL E TRIBUTÁRIA 
+
+3.3.90.39.00.00 – Outros Seerviços de Terceiros – Pessoa Jurídica 
+1.000,00 
+
+0067 
+2400.04.0123.0009.2073.100 – GESTÃO E ADMINISTRAÇÃO ATIV. FINANCEIRAS, CONTÁBIL E TRIBUTÁRIA 
+
+3.3.90.47.00.00 – Obrigações Tributárias e Contributivas 
+2.000,00 
+
+0072 
+2400.04.0129.0009.2083.100 – REMUNERAÇÃO DOS SERVIDORES DO SETOR TRIBUTÁRIO 
+
+3.1.90.04.00.00 – Contratação por Tempo Determinado 
+1.000,00 
+
+0075 
+2400.04.0129.0009.2083.100 – REMUNERAÇÃO DOS SERVIDORES DO SETOR TRIBUTÁRIO 
+
+3.1.90.16.00.00 – Outras Despesas Variáveis – Pessoas Civil 
+1.000,00 
+
+0076 
+2400.04.0129.0009.2083.100 – REMUNERAÇÃO DOS SERVIDORES DO SETOR TRIBUTÁRIO 
+
+3.1.90.94.00.00 – Indenizações e Restituições Trabalhistas 
+1.000,00 
+
+0078 
+2400.04.0129.0009.2084.100 – MANUTENÇÃO DAS ATIVIDADES DO SETOR TRIBUTÁRIO 
+
+3.3.90.30.00.00 – Material de Consumo 
+1.000,00 
+
+0079 
+2400.04.0129.0009.2084.100 – MANUTENÇÃO DAS ATIVIDADES DO SETOR TRIBUTÁRIO 
+
+3.3.90.33.00.00 – Passagens e Despesas com Locomoção 
+1.000,00 
+
+0080 
+2400.04.0129.0009.2084.100 – MANUTENÇÃO DAS ATIVIDADES DO SETOR TRIBUTÁRIO 
+
+3.3.90.36.00.00 – Outros Serviços de Terceiros – Pessoa Física 
+1.000,00 
+
+0081 
+2400.04.0129.0009.2084.100 – MANUTENÇÃO DAS ATIVIDADES DO SETOR TRIBUTÁRIO 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros –Pessoa Jurídica 
+1.000,00 
+
+0082 
+2400.04.0129.0009.2084.100 – MANUTENÇÃO DAS ATIVIDADES DO SETOR TRIBUTÁRIO 
+
+3.3.90.47.00.00 – Obrigações Tributárias e Contributivas 
+1.000,00 
+
+0089 
+2500.04.0122.0010.1003.100 – AQUISIÇÃO DE IMÓVEIS P/ADMINISTRAÇÃO 
+
+4.4.90.61.00.00 – Aquisição de Imóveis 
+1.000,00 
+
+0107 
+2500.04.0128.0013.2009.100 – MANUTENÇÃO ATIV DE RH E TREINAMENTO DE SERVIDORES 
+
+3.3.90.30.00.00 – Material de Consumo 
+1.000,00 
+
+0108 
+2500.04.0128.0013.2009.100 – MANUTENÇÃO ATIV DE RH E TREINAMENTO DE SERVIDORES 
+
+3.3.90.33.00.00 – Passagens e Despesas co locomoção 
+1.000,00 
+
+0109 
+2500.04.0128.0013.2009.100 – MANUTENÇÃO ATIV DE RH E TREINAMENTO DE SERVIDORES 
+
+3.3.90.36.00.00 – Outros Serviçoa de Terceiros – Pessoa Física 
+1.000,00 
+
+0110 
+2500.04.0128.0013.2009.100 – MANUTENÇÃO ATIV DE RH E TREINAMENTO DE SERVIDORES 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica 
+1.000,00 
+
+0111 
+2500.04.0128.0013.2009.100 – MANUTENÇÃO ATIV DE RH E TREINAMENTO DE SERVIDORES 
+
+3.3.90.47.00.00 – Obrigações Tributárias e Contributivas 
+1.00000 
+
+
+
+Minas Gerais , 10 de Junho de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIV | Nº 3281 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              249 
+
+ 
+
+0115 
+2500.24.0722.0010.100 – MANUTENÇÃO DAS ESTAÇÕES DE RETRASMISSÃO DE TV 
+
+3.3.90.36.00.00 – Outros Serviços de Terceiros – Pessoa Física 
+1.000,00 
+
+0116 
+2500.24.0722.0010.100 – MANUTENÇÃO DAS ESTAÇÕES DE RETRASMISSÃO DE TV 
+
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+1.000,00 
+
+0117 
+2500.24.0722.0010.100 – MANUTENÇÃO DAS ESTAÇÕES DE RETRASMISSÃO DE TV 
+
+3.3.90.47.00.00 – Obrigações Tributárias e Contributivas 
+1.000,00 
+
+0131 
+2610.13.0391.0012.1006.100 – AQUISIÇÃO DE VEÍCULOS, MÁQ., EQUIP. E MÓVEIS P/ FUNDO CULTUR 
+
+4.4.90.52.00.00 – Equipamentos e Material Permanente 
+8.000,00 
+
+0131 
+2610.13.0391.0012.1006.100 – AQUISIÇÃO DE VEÍCULOS, MÁQ., EQUIP. E MÓVEIS P/ FUNDO CULTUR 
+
+4.4.90.52.00.00 – Equipamentos e Material Permanente 
+173,54 
+
+0131 
+2610.13.0391.0012.1006.100 – AQUISIÇÃO DE VEÍCULOS, MÁQ., EQUIP. E MÓVEIS P/ FUNDO CULTUR 
+
+4.4.90.52.00.00 – Equipamentos e Material Permanente 
+
+757,61 
+
+  
+
+0153 
+2700.04.0122.0014.2076.100 – GESTÃO E ADMINISTRAÇÃO DAS ATIV. ESP., LAZER E TURISMO 
+
+3.3.90.40.00.00 – Serviços de Tecnologia da Informação e Comunicação – Pessoa Jurídica 
+1.000,00 
+
+0154 
+2700.04.0122.0014.2076.100 – GESTÃO E ADMINISTRAÇÃO DAS ATIV. ESP., LAZER E TURISMO 
+
+3.3.90.47.00.00 – Obrigação Tributárias e Contributivas 
+1.000,00 
+
+0258 
+2821.0361.0022.2024.145 – MANUTENÇÃO ATIV. DO TRANSP. ESC. – ENSINO FUNDAMENTAL 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica 
+35.500,00 
+
+0332 
+2823.12.0365.0022.1021.119 – AQUISIÇÃO DE VEÍCULOS, MÁQ., EQUIP. E MÓVEIS P/ PRÉ ESCOLA 
+
+4.4.90.52.00.00 – Equipamentos e Material Permanente 
+4.715,68 
+
+0332 
+2823.12.0365.0022.1021.119 – AQUISIÇÃO DE VEÍCULOS, MÁQ., EQUIP. E MÓVEIS P/ PRÉ ESCOLA 
+
+4.4.90.52.00.00 – Equipamentos e Material Permanente 
+5.089,92 
+
+0332 
+2823.12.0365.0022.1021.119 – AQUISIÇÃO DE VEÍCULOS, MÁQ., EQUIP. E MÓVEIS P/ PRÉ ESCOLA 
+
+4.4.90.52.00.00 – Equipamentos e Material Permanente 
+999,47 
+
+0332 
+2823.12.0365.0022.1021.119 – AQUISIÇÃO DE VEÍCULOS, MÁQ., EQUIP. E MÓVEIS P/ PRÉ ESCOLA 
+
+4.4.90.52.00.00 – Equipamentos e Material Permanente 
+
+2.254,47 
+
+  
+
+0332 
+2823.12.0365.0022.1021.119 – AQUISIÇÃO DE VEÍCULOS, MÁQ., EQUIP. E MÓVEIS P/ PRÉ ESCOLA 
+
+4.4.90.52.00.00 – Equipamentos e Material Permanente 
+8.789,26 
+
+0337 
+2823.12.0365.0022.1023.119 – REFORMA, AMPL., CONST. E/OU MANUT. DE PRÉ ESCOLAS 
+
+4.4.90.51.00.00 – Obras e Instalações 
+35.000,00 
+
+0337 
+2823.12.0365.0022.1023.119 – REFORMA, AMPL., CONST. E/OU MANUT. DE PRÉ ESCOLAS 
+
+4.4.90.51.00.00 – Obras e Instalações 
+10.000,00 
+
+0385 
+2830.12.0362.0022.2034.100 – MANUTENÇÃO DAS ATIV. TRANSPORTE ESC. NO ENSINO MÉDIO 
+
+3.3.90.47.00.00 – Obrigações Tributárias e Contributivas 
+1.000,00 
+
+0387 
+2840.12.0364.0022.2091.100 – AJUDA FINANCEIRA A ESTUDANTES 
+
+3.3.90.48.00.00 – Outros Auxílios Financeiros a Pessoas Físicas 
+1.000,00 
+
+0388 
+2840.12.0364.0022.2092.100 – TRANSPORTE DE ALUNOS UNIVERSITÁRIOS 
+
+3.3.40.41.00.00 – Contribuições 
+1.000,00 
+
+0399 
+2910.10.0122.0023.2037.102 – MANUTENÇÃO DAS ATIVIDADES CONSELHO MUNIC DE SAÚDE 
+
+3.3.90.30.00.00 – Material de Consumo 
+1.000,00 
+
+0400 
+2910.10.0122.0023.2037.102 – MANUTENÇÃO DAS ATIVIDADES CONSELHO MUNIC DE SAÚDE 
+
+3.3.90.33.00.00 – Passagens e Despesas com Locomoção 
+1.000,00 
+
+0414 
+2910.10.0128.0023.2036.102 – CAPACITAÇÃO/FORMAÇÃO SERVIDORES DA SMS 
+
+3.3.90.30.00.00 – Material de Consumo 
+
+79,03 
+
+  
+
+0427 
+2921.10.0301.0024.2039.102 – REMUNERAÇÃO DOS PROFISSIONAIS ATENÇÃO BÁSICA EM SAÚDE 
+
+3.1.90.04.00.00 – Contratação por Tempo Determinado 
+3.000,00 
+
+0427 
+2921.10.0301.0024.2039.102 – REMUNERAÇÃO DOS PROFISSIONAIS ATENÇÃO BÁSICA EM SAÚDE 

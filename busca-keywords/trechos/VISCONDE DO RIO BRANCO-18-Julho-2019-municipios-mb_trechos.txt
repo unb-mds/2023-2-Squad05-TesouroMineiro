@@ -1,0 +1,801 @@
+18-Julho-2019
+VISCONDE DO RIO BRANCO
+A DE CRÉDITO SUPLEMENTAR E DA OUTRAS PROVIDÊNCIAS. 
+  
+O(A) Prefeito(a) Municipal de , Estado de Minas Gerais, no uso de suas atribuições legais, com base na Lei 14672018 12/12/2018 e art. 43 da Lei 
+Federal 4.320/64, decreta:  
+Art. 1o. - Fica aberto o Crédito Suplementar no valor total de R$ 92.848,00 (noventa e dois mil , oitocentos e quarenta e oito reais ), as seguintes 
+dotações orçamentárias: 
+  
+Unid. Orc.: 02.001.000 - GABINETE DO PREFEITO 
+
+Função....: 04 - ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.003 - MANUT. ATIVIDADES GABINETE 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$560,00 
+
+Unid. Orc.: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função....: 04 - ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.040 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.08.00 - OUTROS BENEFÍCIOS ASSISTENCIAIS 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.000,00 
+
+Função....: 25 - ENERGIA 
+
+Subfunção.: 752 - ENERGIA ELETRICA 
+
+Programa..: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 2.069 - MANUT.SERV ENERGIA ELÉTRICA URBANA E RURAL 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 117 - COSIP 
+
+Valor.....: R$84.741,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.46.00 - AUXÍLIO-ALIMENTAÇÃO 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$100,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.115 - MANUT. CENTRO DE ATENÇÃO PSICOSSOCIAL - CAPS 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$150,00 
+
+Proj/Ativ.: 2.116 - MANUT. PESSOAL CENTRO DE ATENÇÃO PSIC. - CAPS 
+
+Conta.....: 3.1.90.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$20,00 
+
+Subfunção.: 303 - SUPORTE PROFILATICO E TERAPEUTICO 
+
+Programa..: 0013 - ASSITÊNCIA FARMACEUTICA 
+
+Proj/Ativ.: 2.123 - MANUTENÇÃO DA ASSISTÊNCIA FARMACÊUTICA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$278,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.222,00 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$100,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função....: 08 - ASSISTENCIA SOCIAL 
+
+Subfunção.: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.251 - MANUTENÇÃO ATIVIDADES DO CONSELHO TUTELAR 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$4.650,00 
+
+Subfunção.: 244 - ASSISTENCIA COMUNITARIA 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.241 - MANUTENÇÃO DO PROGRAMA BOLSA FAMILIA 
+
+
+
+Minas Gerais , 18 de Julho de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2547 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              187 
+ 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor.....: R$27,00 
+
+  
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 92.848,00 (noventa e dois 
+mil , oitocentos e quarenta e oito reais ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+  
+Unid. Orc.: 02.001.000 - GABINETE DO PREFEITO 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.003 - MANUT. ATIVIDADES GABINETE 
+
+Conta.....: 3.3.90.14.00 - DIÁRIAS - CIVIL 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.222,00 
+
+Conta.....: 3.3.90.33.00 - PASSAGENS E DESPESAS COM LOCOMOÇÃO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$560,00 
+
+Unid. Orc.: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.040 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.000,00 
+
+Função....: 25- ENERGIA 
+
+Subfunção.: 752 - ENERGIA ELETRICA 
+
+Programa..: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 1.070 - OBRAS EXTENÇÃO REDE ELÉTRICA URBANA E RURAL 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 117 - COSIP 
+
+Valor.....: R$84.741,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$278,00 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$150,00 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.103 - MANUT. ATIV. AGENTE COMUNIT. SAUDE - ACS 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$100,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.115 - MANUT. CENTRO DE ATENÇÃO PSICOSSOCIAL - CAPS 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$20,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.48.00 - OUTROS AUXÍLIOS FINANCEIROS PESSSOAS FÍSI 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$100,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função....: 08 - ASSISTENCIA SOCIAL 
+
+Subfunção.: 241 - ASSISTENCIA AO IDOSO 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.249 - MANUTENÇÃO DE SUBVENÇÕES SOCIAL 
+
+Conta.....: 3.3.50.43.00 - SUBVENÇÕES SOCIAIS 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$4.650,00 
+
+Subfunção.: 244 - ASSISTENCIA COMUNITARIA 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 1.240 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA DO CREAS 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor.....: R$27,00 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+  
+Prefeitura Municipal de , 08 de julho de 2019 
+
+Publicado por: 
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:89073759 
+ 
+
+ 
+
+
+		2019-07-17T18:30:26-0300
+	VOX SOLUCOES TECNOLOGICAS LTDA ME:00684621000131
+18-Julho-2019
+VISCONDE DO RIO BRANCO
+to o Crédito Suplementar no valor total de R$ 92.848,00 (noventa e dois mil , oitocentos e quarenta e oito reais ), as seguintes 
+dotações orçamentárias: 
+  
+Unid. Orc.: 02.001.000 - GABINETE DO PREFEITO 
+
+Função....: 04 - ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.003 - MANUT. ATIVIDADES GABINETE 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$560,00 
+
+Unid. Orc.: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função....: 04 - ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.040 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.08.00 - OUTROS BENEFÍCIOS ASSISTENCIAIS 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.000,00 
+
+Função....: 25 - ENERGIA 
+
+Subfunção.: 752 - ENERGIA ELETRICA 
+
+Programa..: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 2.069 - MANUT.SERV ENERGIA ELÉTRICA URBANA E RURAL 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 117 - COSIP 
+
+Valor.....: R$84.741,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.46.00 - AUXÍLIO-ALIMENTAÇÃO 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$100,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.115 - MANUT. CENTRO DE ATENÇÃO PSICOSSOCIAL - CAPS 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$150,00 
+
+Proj/Ativ.: 2.116 - MANUT. PESSOAL CENTRO DE ATENÇÃO PSIC. - CAPS 
+
+Conta.....: 3.1.90.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$20,00 
+
+Subfunção.: 303 - SUPORTE PROFILATICO E TERAPEUTICO 
+
+Programa..: 0013 - ASSITÊNCIA FARMACEUTICA 
+
+Proj/Ativ.: 2.123 - MANUTENÇÃO DA ASSISTÊNCIA FARMACÊUTICA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$278,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.222,00 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$100,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função....: 08 - ASSISTENCIA SOCIAL 
+
+Subfunção.: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.251 - MANUTENÇÃO ATIVIDADES DO CONSELHO TUTELAR 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$4.650,00 
+
+Subfunção.: 244 - ASSISTENCIA COMUNITARIA 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.241 - MANUTENÇÃO DO PROGRAMA BOLSA FAMILIA 
+
+
+
+Minas Gerais , 18 de Julho de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2547 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              187 
+ 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor.....: R$27,00 
+
+  
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 92.848,00 (noventa e dois 
+mil , oitocentos e quarenta e oito reais ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+  
+Unid. Orc.: 02.001.000 - GABINETE DO PREFEITO 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.003 - MANUT. ATIVIDADES GABINETE 
+
+Conta.....: 3.3.90.14.00 - DIÁRIAS - CIVIL 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.222,00 
+
+Conta.....: 3.3.90.33.00 - PASSAGENS E DESPESAS COM LOCOMOÇÃO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$560,00 
+
+Unid. Orc.: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.040 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.000,00 
+
+Função....: 25- ENERGIA 
+
+Subfunção.: 752 - ENERGIA ELETRICA 
+
+Programa..: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 1.070 - OBRAS EXTENÇÃO REDE ELÉTRICA URBANA E RURAL 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 117 - COSIP 
+
+Valor.....: R$84.741,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$278,00 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$150,00 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.103 - MANUT. ATIV. AGENTE COMUNIT. SAUDE - ACS 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$100,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.115 - MANUT. CENTRO DE ATENÇÃO PSICOSSOCIAL - CAPS 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$20,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.48.00 - OUTROS AUXÍLIOS FINANCEIROS PESSSOAS FÍSI 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$100,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função....: 08 - ASSISTENCIA SOCIAL 
+
+Subfunção.: 241 - ASSISTENCIA AO IDOSO 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.249 - MANUTENÇÃO DE SUBVENÇÕES SOCIAL 
+
+Conta.....: 3.3.50.43.00 - SUBVENÇÕES SOCIAIS 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$4.650,00 
+
+Subfunção.: 244 - ASSISTENCIA COMUNITARIA 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 1.240 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA DO CREAS 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor.....: R$27,00 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+  
+Prefeitura Municipal de , 08 de julho de 2019 
+
+Publicado por: 
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:89073759 
+ 
+
+ 
+
+
+		2019-07-17T18:30:26-0300
+	VOX SOLUCOES TECNOLOGICAS LTDA ME:00684621000131
+18-Julho-2019
+VISCONDE DO RIO BRANCO
+a de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 92.848,00 (noventa e dois 
+mil , oitocentos e quarenta e oito reais ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+  
+Unid. Orc.: 02.001.000 - GABINETE DO PREFEITO 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.003 - MANUT. ATIVIDADES GABINETE 
+
+Conta.....: 3.3.90.14.00 - DIÁRIAS - CIVIL 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.222,00 
+
+Conta.....: 3.3.90.33.00 - PASSAGENS E DESPESAS COM LOCOMOÇÃO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$560,00 
+
+Unid. Orc.: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.040 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.000,00 
+
+Função....: 25- ENERGIA 
+
+Subfunção.: 752 - ENERGIA ELETRICA 
+
+Programa..: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 1.070 - OBRAS EXTENÇÃO REDE ELÉTRICA URBANA E RURAL 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 117 - COSIP 
+
+Valor.....: R$84.741,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$278,00 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$150,00 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.103 - MANUT. ATIV. AGENTE COMUNIT. SAUDE - ACS 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$100,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.115 - MANUT. CENTRO DE ATENÇÃO PSICOSSOCIAL - CAPS 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$20,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.48.00 - OUTROS AUXÍLIOS FINANCEIROS PESSSOAS FÍSI 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$100,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função....: 08 - ASSISTENCIA SOCIAL 
+
+Subfunção.: 241 - ASSISTENCIA AO IDOSO 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.249 - MANUTENÇÃO DE SUBVENÇÕES SOCIAL 
+
+Conta.....: 3.3.50.43.00 - SUBVENÇÕES SOCIAIS 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$4.650,00 
+
+Subfunção.: 244 - ASSISTENCIA COMUNITARIA 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 1.240 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA DO CREAS 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor.....: R$27,00 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+  
+Prefeitura Municipal de , 08 de julho de 2019 
+
+Publicado por: 
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:89073759 
+ 
+
+ 
+
+
+		2019-07-17T18:30:26-0300
+	VOX SOLUCOES TECNOLOGICAS LTDA ME:00684621000131

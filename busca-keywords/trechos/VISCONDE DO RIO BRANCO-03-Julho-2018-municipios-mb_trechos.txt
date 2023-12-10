@@ -1,0 +1,446 @@
+03-Julho-2018
+VISCONDE DO RIO BRANCO
+A DE CRÉDITO SUPLEMENTAR E DA OUTRAS PROVIDÊNCIAS. 
+  
+O(A) Prefeito(a) Municipal de VISCONDE DO RIO BRANCO, Estado de Minas Gerais, no uso de suas atribuições legais, com base na Lei 
+Municipal 1394/2017 de 20/10/2017 e art. 43 da Lei Federal 4.320/64, decreta: 
+
+
+
+Minas Gerais , 03 de Julho de 2018   •   Diário Oficial dos Municípios Mineiros   •    ANO X | Nº 2285 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               85 
+ 
+
+  
+Unid. Orc.: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função: 04 - ADMINISTRACAO 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.040 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta: 3.3.90.14.00 - DIÁRIAS - CIVIL 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 340,00 
+
+Conta: 3.3.90.33.00 - PASSAGENS E DESPESAS COM LOCOMOÇÃO 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 4.000,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função: 10 - SAUDE 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.095 - MANUTENÇÃO DO PESSOAL DA SECRETARIA 
+
+Conta: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 56.480,00 
+
+Conta: 3.1.90.16.00 - OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 23.300,00 
+
+Conta: 3.1.90.94.00 - INDENIZAÇÕES RESTITUIÇÕES TRABALHISTAS 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 6.900,00 
+
+Conta: 3.1.90.94.00 - INDENIZAÇÕES RESTITUIÇÕES TRABALHISTAS 
+
+Fonte: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁSICA 
+
+Valor: R$ 10.300,00 
+
+Conta: 3.1.90.94.00 - INDENIZAÇÕES RESTITUIÇÕES TRABALHISTAS 
+
+Fonte: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor: R$ 3.500,00 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta: 3.3.90.46.00 - AUXÍLIO-ALIMENTAÇÃO 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 23.400,00 
+
+Subfunção: 301 - ATENCAO BASICA 
+
+Programa: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.101 - MANUTENÇÃO PESSOAL SAÚDE DA FAMÍLIA - PSF 
+
+Conta: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 22.750,00 
+
+Conta: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁSICA 
+
+Valor: R$ 34.650,00 
+
+Conta: 3.1.90.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 4.500,00 
+
+Conta: 3.1.90.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁSICA 
+
+Valor: R$ 8.400,00 
+
+Conta: 3.1.90.16.00 - OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL 
+
+Fonte: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁSICA 
+
+Valor: R$ 13.700,00 
+
+Proj/Ativ.: 2.102 - MANUTENÇÃO PESSOAL AGENTE COMUNIT. SAÚDE-ACS 
+
+Conta: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 
+
+Fonte: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁSICA 
+
+Valor: R$ 94.715,00 
+
+Subfunção: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.116 - MANUT. PESSOAL CENTRO DE ATENÇÃO PSIC. - CAPS 
+
+Conta: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor: R$ 8.500,00 
+
+Conta: 3.1.90.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor: R$ 2.800,00 
+
+Conta: 3.1.90.16.00 - OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL 
+
+Fonte: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor: R$ 3.300,00 
+
+Subfunção: 305 - VIGILANCIA EPIDEMIOLOGICA 
+
+Programa: 0014 - VIGILÂNCIA EM SAÚDE 
+
+Proj/Ativ.: 2.125 - MANUT. ATIVIDADES DA VIGIL. EPIDEMIOLOGICA 
+
+Conta: 3.1.90.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 2.940,00 
+
+Conta: 3.1.90.16.00 - OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL 
+
+Fonte: 150 - TRANS.DE RECURSOS DO SUS - VIGILÂNCIA SAÚDE 
+
+Valor: R$ 3.100,00 
+
+Conta: 3.1.91.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte: 150 - TRANS.DE RECURSOS DO SUS - VIGILÂNCIA SAÚDE 
+
+Valor: R$ 3.200,00 
+
+  
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 330.775,00 (trezentos e trinta 
+mil , setecentos e setenta e cinco reais ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+ 
+  
+
+
+
+Minas Gerais , 03 de Julho de 2018   •   Diário Oficial dos Municípios Mineiros   •    ANO X | Nº 2285 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               86 
+ 
+
+Unid. Orc.: 02.005.000 - SECRETARIA MUN. FAZENDA E EXECUÇÃO FISCAL. 
+
+Função: 04 - ADMINISTRACAO 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.036 - MANUTENÇÃO DO PESSOAL DA SECRETARIA 
+
+Conta: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 8.500,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função: 10 - SAUDE 
+
+Subfunção: 301 - ATENCAO BASICA 
+
+Programa: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 1.108 - AQUISIÇÃO DE IMÓVEL PARA UNIDADE DE SAÚDE 
+
+Conta: 4.4.90.61.00 - AQUISIÇÃO DE IMÓVEIS 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 89.740,00 
+
+Proj/Ativ.: 2.102 - MANUTENÇÃO PESSOAL AGENTE COMUNIT. SAÚDE-ACS 
+
+Conta: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 22.750,00 
+
+Proj/Ativ.: 2.103 - MANUT. ATIV. AGENTE COMUNIT. SAUDE - ACS 
+
+Conta: 3.3.90.36.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 
+
+Fonte: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁSICA 
+
+Valor: R$ 161.765,00 
+
+Subfunção: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.119 - MANUT. ATIV. CENTRO ESPECIALIDADES ODONT- CEO 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor: R$ 9.600,00 
+
+Subfunção: 305 - VIGILANCIA EPIDEMIOLOGICA 
+
+Programa: 0014 - VIGILÂNCIA EM SAÚDE 
+
+Proj/Ativ.: 2.125 - MANUT. ATIVIDADES DA VIGIL. EPIDEMIOLOGICA 
+
+Conta: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte: 150 - TRANS.DE RECURSOS DO SUS - VIGILÂNCIA SAÚDE 
+
+Valor: R$ 3.200,00 
+
+Conta: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 27.780,00 
+
+Conta: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 
+
+Fonte: 150 - TRANS.DE RECURSOS DO SUS - VIGILÂNCIA SAÚDE 
+
+Valor: R$ 3.100,00 
+
+Unid. Orc.: 02.010.002 - FUNDO MUN. PROTEÇÃO DO PATRIMÔNIO CULTURAL 
+
+Função: 13 - CULTURA 
+
+Subfunção: 391 - PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGIC 
+
+Programa: 0021 - PATRIMÔNIO HISTÓRICO, ARTÍSTICO, CULTURAL E A 
+
+Proj/Ativ.: 1.205 - REF/AMPL BENS PROTEGIDOS PELO PATRIMONIO 
+
+Conta: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 4.340,00 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+  
+VISCONDE DO RIO BRANCO, 28 DE JUNHO DE 2018 
+  
+IRAN SILVA COURI 
+Prefeito 
+
+Publicado por: 
+Marileia Medeiros 
+
+Código Identificador:69E94964 
+
+ 
+
+
+		2018-07-02T18:45:02-0300
+	VOX SOLUCOES TECNOLOGICAS LTDA ME:00684621000131
+03-Julho-2018
+VISCONDE DO RIO BRANCO
+a de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 330.775,00 (trezentos e trinta 
+mil , setecentos e setenta e cinco reais ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+ 
+  
+
+
+
+Minas Gerais , 03 de Julho de 2018   •   Diário Oficial dos Municípios Mineiros   •    ANO X | Nº 2285 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               86 
+ 
+
+Unid. Orc.: 02.005.000 - SECRETARIA MUN. FAZENDA E EXECUÇÃO FISCAL. 
+
+Função: 04 - ADMINISTRACAO 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.036 - MANUTENÇÃO DO PESSOAL DA SECRETARIA 
+
+Conta: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 8.500,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função: 10 - SAUDE 
+
+Subfunção: 301 - ATENCAO BASICA 
+
+Programa: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 1.108 - AQUISIÇÃO DE IMÓVEL PARA UNIDADE DE SAÚDE 
+
+Conta: 4.4.90.61.00 - AQUISIÇÃO DE IMÓVEIS 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 89.740,00 
+
+Proj/Ativ.: 2.102 - MANUTENÇÃO PESSOAL AGENTE COMUNIT. SAÚDE-ACS 
+
+Conta: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 22.750,00 
+
+Proj/Ativ.: 2.103 - MANUT. ATIV. AGENTE COMUNIT. SAUDE - ACS 
+
+Conta: 3.3.90.36.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 
+
+Fonte: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁSICA 
+
+Valor: R$ 161.765,00 
+
+Subfunção: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.119 - MANUT. ATIV. CENTRO ESPECIALIDADES ODONT- CEO 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor: R$ 9.600,00 
+
+Subfunção: 305 - VIGILANCIA EPIDEMIOLOGICA 
+
+Programa: 0014 - VIGILÂNCIA EM SAÚDE 
+
+Proj/Ativ.: 2.125 - MANUT. ATIVIDADES DA VIGIL. EPIDEMIOLOGICA 
+
+Conta: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte: 150 - TRANS.DE RECURSOS DO SUS - VIGILÂNCIA SAÚDE 
+
+Valor: R$ 3.200,00 
+
+Conta: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 27.780,00 
+
+Conta: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 
+
+Fonte: 150 - TRANS.DE RECURSOS DO SUS - VIGILÂNCIA SAÚDE 
+
+Valor: R$ 3.100,00 
+
+Unid. Orc.: 02.010.002 - FUNDO MUN. PROTEÇÃO DO PATRIMÔNIO CULTURAL 
+
+Função: 13 - CULTURA 
+
+Subfunção: 391 - PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGIC 
+
+Programa: 0021 - PATRIMÔNIO HISTÓRICO, ARTÍSTICO, CULTURAL E A 
+
+Proj/Ativ.: 1.205 - REF/AMPL BENS PROTEGIDOS PELO PATRIMONIO 
+
+Conta: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 4.340,00 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+  
+VISCONDE DO RIO BRANCO, 28 DE JUNHO DE 2018 
+  
+IRAN SILVA COURI 
+Prefeito 
+
+Publicado por: 
+Marileia Medeiros 
+
+Código Identificador:69E94964 
+
+ 
+
+
+		2018-07-02T18:45:02-0300
+	VOX SOLUCOES TECNOLOGICAS LTDA ME:00684621000131

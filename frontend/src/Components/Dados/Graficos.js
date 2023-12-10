@@ -8,8 +8,7 @@ const Graficos = () => {
   const [reportType, setReportType] = useState('geral');
 
   const [years, setYears] = useState([])
-  const [selectedYear, setSelectedYear] = useState("")
-
+  const [selectedYear, setSelectedYear] = useState("2023")
   const chartRef = useRef(null);
 
   const [municipios, setMunicipios] = useState([]);
@@ -23,7 +22,8 @@ const Graficos = () => {
     });
     setMunicipios([...newarr]);
     setSelectedMunicipio(newarr[0])
-    fetchChartData(newarr[0], selectedMunicipio, 'geral')
+    
+    fetchChartData(newarr[0], selectedMunicipio, 'geral', '2023')
     let years = []
     credsup.forEach((d) => {
       if (newarr[0] == d.Municipio) {
@@ -47,6 +47,11 @@ const Graficos = () => {
         })
       }
     })
+    
+    newarr.sort(function(a, b) {
+      return b - a;
+    });
+    
     setYears([...newarr])
     fetchChartData(e.target.value, selectedData, reportType);
   };
@@ -61,22 +66,23 @@ const Graficos = () => {
     fetchChartData(selectedMunicipio, selectedData, e.target.value);
   };
 
-  const fetchChartData = (selectedMunicipio, selectedData, reportType) => {
+  const handleYearChange = (e) => {
+    setSelectedYear(e.target.value)
+    fetchChartData(selectedMunicipio, selectedData, reportType, e.target.value);
+  }
+
+  const fetchChartData = (selectedMunicipio, selectedData, reportType, year = '2023') => {
     let series = [];
     let data = [];
-    console.log(selectedMunicipio, selectedData, reportType)
     credsup.forEach((d) => {
       if (d.Municipio === selectedMunicipio) {
         d.Analises.forEach((a) => {
           if ((reportType === 'geral')) {
-            console.log("Entrou")
             series.push(a.SomaAnual);
             data.push(a.Ano);
-          } else {
+          } else if (a.Ano == year) {
             data = Object.keys(a.Meses)
             series = Object.values(a.Meses)
-            console.log(series)
-            console.log(data)
           }
         });
       }
@@ -94,13 +100,21 @@ const Graficos = () => {
       xaxis: {
         categories: chartData,
       },
-      yaxix: {
+      yaxis: {
         labels: {
-          formatter: function (value) {
-            return value.toFixed(0)
+          formatter: function (numero) {
+            const numeroFormatado = 'R$ ' + numero.toFixed(2).replace('.', ',').replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+            return numeroFormatado;
           }
         }
-      }
+      },
+      dataLabels: {
+        enabled: false,
+        formatter: function (val) {
+          const numeroFormatado = 'R$ ' + val.toFixed(2).replace('.', ',').replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+          return numeroFormatado;
+        },
+      },
     },
     series: [
       {
@@ -151,7 +165,7 @@ const Graficos = () => {
             <option value='anual'>Anual</option>
           </select>
           {reportType == 'anual' && (
-            <select className='form-select' value={selectedYear} onChange={(e) => setSelectedYear(e.target.value)}>
+            <select className='form-select' value={selectedYear} onChange={(e) => handleYearChange(e)}>
               {years.map((y, id) => (
                 <option key={id} value={y}>
                   {y}

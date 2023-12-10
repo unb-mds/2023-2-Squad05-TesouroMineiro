@@ -1,0 +1,683 @@
+22-Fevereiro-2022
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0090 1210.04.0122.0027.2189.100 - MANTER AS ATIVIDADES DA SECRET. MUN. DE PLANEJAMENTO E GESTÃ 50,00 
+
+  3.3.90.46.00.00 - Auxílio-alimentação   
+
+0305 1500.12.0122.0030.2040.101 - MANTER AS ATIVIDADES DOS CONSELHOS MUNICIPAIS - SEC. MUN. DE 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+  
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0313 1510.12.0122.0030.2056.101 - MANTER AS ATIVIDADES DO PROERD 20.000,00 
+
+  3.3.50.43.00.00 - Subvenções Sociais   
+
+0314 1510.12.0122.0030.2057.101 - MANTER AS ATIVIDADES DO PROGEA 10.000,00 
+
+  3.3.50.43.00.00 - Subvenções Sociais   
+
+0336 1510.12.0128.0031.2051.101 - MANTER AS ATIVIDADES DO NÚCLEO DE FORMAÇÃO CONTINUADA - SMED 2.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0337 1510.12.0128.0031.2051.101 - MANTER AS ATIVIDADES DO NÚCLEO DE FORMAÇÃO CONTINUADA - SMED 8.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0338 1510.12.0128.0031.2051.101 - MANTER AS ATIVIDADES DO NÚCLEO DE FORMAÇÃO CONTINUADA - SMED 2.000,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0339 1510.12.0128.0031.2051.101 - MANTER AS ATIVIDADES DO NÚCLEO DE FORMAÇÃO CONTINUADA - SMED 1.501,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0340 1510.12.0128.0031.2051.101 - MANTER AS ATIVIDADES DO NÚCLEO DE FORMAÇÃO CONTINUADA - SMED 12.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0343 1521.12.0128.0031.2136.101 - MANTER AS ATIVIDADES DO NÚCLEO DE FORMAÇÃO CONTINUADA - ENS. 5.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0344 1521.12.0128.0031.2136.101 - MANTER AS ATIVIDADES DO NÚCLEO DE FORMAÇÃO CONTINUADA - ENS. 2.000,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0346 1521.12.0128.0031.2136.101 - MANTER AS ATIVIDADES DO NÚCLEO DE FORMAÇÃO CONTINUADA - ENS. 8.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0393 1521.12.0361.0030.2139.101 - MANTER AS ATIVIDADES DO ENSINO FUNDAMENTAL 10.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0394 1521.12.0361.0030.2140.144 - MANTER O SERVIÇO DE ALIMENTAÇÃO ESCOLAR - ENSINO FUNDAMENTAL 21.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0557 1523.12.0365.0030.2156.144 - MANTER O SERVIÇO DE ALIMENTAÇÃO ESCOLAR NO ENSINO INFANTIL - 17.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0606 1610.10.0122.0001.2035.155 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE SAÚDE 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0612 1610.10.0122.0001.2035.155 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE SAÚDE 1.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0620 1610.10.0122.0001.2041.102 - MANTER AS ATIVIDADES DE PROMOÇÃO DA SAÚDE E EDUCAÇÃO PERMENE 700,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0634 1610.10.0122.0001.2114.102 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 10.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+0650 1610.10.0122.0002.1034.155 - COMBATE À PANDEMIA DE COVID-19 - SECRETARIA MUNICIPAL DE SAÚ 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0652 1610.10.0122.0002.1034.155 - COMBATE À PANDEMIA DE COVID-19 - SECRETARIA MUNICIPAL DE SAÚ 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0675 1610.10.0122.0002.1034.155 - COMBATE À PANDEMIA DE COVID-19 - SECRETARIA MUNICIPAL DE SAÚ 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0677 1610.10.0122.0002.1034.155 - COMBATE À PANDEMIA DE COVID-19 - SECRETARIA MUNICIPAL DE SAÚ 1.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0679 1610.10.0122.0002.1034.155 - COMBATE À PANDEMIA DE COVID-19 - SECRETARIA MUNICIPAL DE SAÚ 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+0768 1610.10.0303.0004.2029.155 - MANTER AS ATIVIDADES DA FARMÁCIA BÁSICA 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0774 1610.10.0303.0004.2029.155 - MANTER AS ATIVIDADES DA FARMÁCIA BÁSICA 1.000,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+0780 1621.10.0301.0068.1033.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLATB 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0782 1621.10.0301.0068.1033.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLATB 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0798 1621.10.0301.0068.1033.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLATB 1.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+0800 1621.10.0301.0068.1033.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLATB 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+  
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0802 1621.10.0301.0068.1033.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLATB 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0804 1621.10.0301.0068.1033.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLATB 1.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0806 1621.10.0301.0068.1033.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLATB 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+
+
+Minas Gerais , 22 de Fevereiro de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3205 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              242 
+
+ 
+
+0818 1622.10.0302.0002.1035.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLMAC 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0820 1622.10.0302.0002.1035.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLMAC 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0822 1622.10.0302.0002.1035.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLMAC 1.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0824 1622.10.0302.0002.1035.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLMAC 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0867 1622.10.0302.0005.1039.155 - ADQUIRIR VEÍCULOS, MÁQUINAS, EQUIPAMENTOS E/OU MÓVEIS - SAÚD 4.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0916 1622.10.0302.0005.2045.102 - MANTER AS ATIVIDADES DO BLOCO DE MÉD. E. ALT. COMPL. - BLMAC 9.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1229 1710.04.0122.0025.2176.100 - MANTER AS ATIVIDADES DA SEC. MUN. DE DESN. AGROP. E MEIO AMB 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1308 1810.04.0122.0041.2021.100 - LOCAR E/OU MANTER VEÍC., MÁQ. E/OU EQUIP. - DESENV. URBANO E 1,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1403 1810.17.0512.0040.1011.100 - IMPLANT. DRENAGEM DE ÁGUAS E/OU DESASSOR. BARRAGENS E CURSOS 112.871,01 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1458 1910.08.0122.0014.2193.100 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENVOLVIME 4.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+1519 1920.08.0244.0015.2195.100 - MANTER AS ATIVIDADES DOS CRAS / PA
+22-Fevereiro-2022
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0313 1510.12.0122.0030.2056.101 - MANTER AS ATIVIDADES DO PROERD 20.000,00 
+
+  3.3.50.43.00.00 - Subvenções Sociais   
+
+0314 1510.12.0122.0030.2057.101 - MANTER AS ATIVIDADES DO PROGEA 10.000,00 
+
+  3.3.50.43.00.00 - Subvenções Sociais   
+
+0336 1510.12.0128.0031.2051.101 - MANTER AS ATIVIDADES DO NÚCLEO DE FORMAÇÃO CONTINUADA - SMED 2.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0337 1510.12.0128.0031.2051.101 - MANTER AS ATIVIDADES DO NÚCLEO DE FORMAÇÃO CONTINUADA - SMED 8.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0338 1510.12.0128.0031.2051.101 - MANTER AS ATIVIDADES DO NÚCLEO DE FORMAÇÃO CONTINUADA - SMED 2.000,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0339 1510.12.0128.0031.2051.101 - MANTER AS ATIVIDADES DO NÚCLEO DE FORMAÇÃO CONTINUADA - SMED 1.501,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0340 1510.12.0128.0031.2051.101 - MANTER AS ATIVIDADES DO NÚCLEO DE FORMAÇÃO CONTINUADA - SMED 12.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0343 1521.12.0128.0031.2136.101 - MANTER AS ATIVIDADES DO NÚCLEO DE FORMAÇÃO CONTINUADA - ENS. 5.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0344 1521.12.0128.0031.2136.101 - MANTER AS ATIVIDADES DO NÚCLEO DE FORMAÇÃO CONTINUADA - ENS. 2.000,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0346 1521.12.0128.0031.2136.101 - MANTER AS ATIVIDADES DO NÚCLEO DE FORMAÇÃO CONTINUADA - ENS. 8.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0393 1521.12.0361.0030.2139.101 - MANTER AS ATIVIDADES DO ENSINO FUNDAMENTAL 10.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0394 1521.12.0361.0030.2140.144 - MANTER O SERVIÇO DE ALIMENTAÇÃO ESCOLAR - ENSINO FUNDAMENTAL 21.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0557 1523.12.0365.0030.2156.144 - MANTER O SERVIÇO DE ALIMENTAÇÃO ESCOLAR NO ENSINO INFANTIL - 17.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0606 1610.10.0122.0001.2035.155 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE SAÚDE 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0612 1610.10.0122.0001.2035.155 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE SAÚDE 1.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0620 1610.10.0122.0001.2041.102 - MANTER AS ATIVIDADES DE PROMOÇÃO DA SAÚDE E EDUCAÇÃO PERMENE 700,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0634 1610.10.0122.0001.2114.102 - PROMOVER A GESTÃO E OPERACIONALIZAÇÃO DO SUS 10.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+0650 1610.10.0122.0002.1034.155 - COMBATE À PANDEMIA DE COVID-19 - SECRETARIA MUNICIPAL DE SAÚ 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0652 1610.10.0122.0002.1034.155 - COMBATE À PANDEMIA DE COVID-19 - SECRETARIA MUNICIPAL DE SAÚ 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0675 1610.10.0122.0002.1034.155 - COMBATE À PANDEMIA DE COVID-19 - SECRETARIA MUNICIPAL DE SAÚ 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0677 1610.10.0122.0002.1034.155 - COMBATE À PANDEMIA DE COVID-19 - SECRETARIA MUNICIPAL DE SAÚ 1.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0679 1610.10.0122.0002.1034.155 - COMBATE À PANDEMIA DE COVID-19 - SECRETARIA MUNICIPAL DE SAÚ 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+0768 1610.10.0303.0004.2029.155 - MANTER AS ATIVIDADES DA FARMÁCIA BÁSICA 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0774 1610.10.0303.0004.2029.155 - MANTER AS ATIVIDADES DA FARMÁCIA BÁSICA 1.000,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+0780 1621.10.0301.0068.1033.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLATB 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0782 1621.10.0301.0068.1033.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLATB 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0798 1621.10.0301.0068.1033.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLATB 1.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+0800 1621.10.0301.0068.1033.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLATB 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+  
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0802 1621.10.0301.0068.1033.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLATB 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0804 1621.10.0301.0068.1033.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLATB 1.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0806 1621.10.0301.0068.1033.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLATB 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+
+
+Minas Gerais , 22 de Fevereiro de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3205 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              242 
+
+ 
+
+0818 1622.10.0302.0002.1035.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLMAC 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0820 1622.10.0302.0002.1035.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLMAC 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0822 1622.10.0302.0002.1035.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLMAC 1.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0824 1622.10.0302.0002.1035.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLMAC 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0867 1622.10.0302.0005.1039.155 - ADQUIRIR VEÍCULOS, MÁQUINAS, EQUIPAMENTOS E/OU MÓVEIS - SAÚD 4.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0916 1622.10.0302.0005.2045.102 - MANTER AS ATIVIDADES DO BLOCO DE MÉD. E. ALT. COMPL. - BLMAC 9.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1229 1710.04.0122.0025.2176.100 - MANTER AS ATIVIDADES DA SEC. MUN. DE DESN. AGROP. E MEIO AMB 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1308 1810.04.0122.0041.2021.100 - LOCAR E/OU MANTER VEÍC., MÁQ. E/OU EQUIP. - DESENV. URBANO E 1,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1403 1810.17.0512.0040.1011.100 - IMPLANT. DRENAGEM DE ÁGUAS E/OU DESASSOR. BARRAGENS E CURSOS 112.871,01 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1458 1910.08.0122.0014.2193.100 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENVOLVIME 4.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+1519 1920.08.0244.0015.2195.100 - MANTER AS ATIVIDADES DOS CRAS / PAIF 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1524 1920.08.0244.0015.2195.100 - MANTER AS ATIVIDADES DOS CRAS / PAIF 1.000,00 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+1644 1940.08.0243.0018.1099.100 - CONSTRUIR, AMPLIAR E/OU REFORMAR EDIFICAÇÕES - FUMBEM 800,00 
+
+  4.4.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física   
+
+1646 1940.08.0243.0018.1099.100 - CONSTRUIR, AMPLIAR E/OU REFORMAR EDIFICAÇÕES - FUMBEM 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1648 1940.08.0243.0018.2030.100 -
+22-Fevereiro-2022
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0802 1621.10.0301.0068.1033.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLATB 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0804 1621.10.0301.0068.1033.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLATB 1.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0806 1621.10.0301.0068.1033.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLATB 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+
+
+Minas Gerais , 22 de Fevereiro de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3205 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              242 
+
+ 
+
+0818 1622.10.0302.0002.1035.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLMAC 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0820 1622.10.0302.0002.1035.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLMAC 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0822 1622.10.0302.0002.1035.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLMAC 1.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0824 1622.10.0302.0002.1035.155 - PROMOVER O ENFRENTAMENTO DA PANDEMIA DE COVID-19 - BLMAC 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0867 1622.10.0302.0005.1039.155 - ADQUIRIR VEÍCULOS, MÁQUINAS, EQUIPAMENTOS E/OU MÓVEIS - SAÚD 4.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0916 1622.10.0302.0005.2045.102 - MANTER AS ATIVIDADES DO BLOCO DE MÉD. E. ALT. COMPL. - BLMAC 9.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1229 1710.04.0122.0025.2176.100 - MANTER AS ATIVIDADES DA SEC. MUN. DE DESN. AGROP. E MEIO AMB 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1308 1810.04.0122.0041.2021.100 - LOCAR E/OU MANTER VEÍC., MÁQ. E/OU EQUIP. - DESENV. URBANO E 1,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1403 1810.17.0512.0040.1011.100 - IMPLANT. DRENAGEM DE ÁGUAS E/OU DESASSOR. BARRAGENS E CURSOS 112.871,01 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1458 1910.08.0122.0014.2193.100 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE DESENVOLVIME 4.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+1519 1920.08.0244.0015.2195.100 - MANTER AS ATIVIDADES DOS CRAS / PAIF 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1524 1920.08.0244.0015.2195.100 - MANTER AS ATIVIDADES DOS CRAS / PAIF 1.000,00 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+1644 1940.08.0243.0018.1099.100 - CONSTRUIR, AMPLIAR E/OU REFORMAR EDIFICAÇÕES - FUMBEM 800,00 
+
+  4.4.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física   
+
+1646 1940.08.0243.0018.1099.100 - CONSTRUIR, AMPLIAR E/OU REFORMAR EDIFICAÇÕES - FUMBEM 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1648 1940.08.0243.0018.2030.100 - MANTER AS ATIVIDADES DA FUMBEM 700,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1673 2000.13.0392.0046.2005.100 - PROMOVER E APOIAR O CARNAVAL 7.224,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1674 2000.13.0392.0046.2005.100 - PROMOVER E APOIAR O CARNAVAL 13.045,84 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1831 2110.27.0812.0057.1015.124 - CONSTRUIR, AMPLIAR E/OU REFORMAR ÁREAS DE LAZER E/OU ESPORTE 3.426,80 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+Total 307.319,65 
+
+  
+
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+
+Artigo 4º: Revogam-se as disposições em contrário. 
+
+  
+
+DIAMANTINA, 3 de Janeiro de 2022 
+  
+
+JUSCELINO BRASILIANO ROQUE 
+Prefeito Municipal 
+
+Publicado por: 
+Nilza de Fátima Alves 
+
+Código Identificador:660EA2E5 
+
+ 
+GABINETE DO PREFEITO 
+
+DECRETO Nº 00002/2022 DE 3 DE JANEIRO DE 2022 
+
+ 
+
+Decreto Nº 00002/2022 de 3 de Janeiro de 2022 
+  
+
+Transferência de Dotações 
+  
+
+O Prefeito Municipal, no uso de suas atribuiçoes legais, com base no artigo 43, da Lei Federal Nº 4.320/64 e da Lei Municipal Nº 4147 de 22 
+
+de Julho de 2021 ,considerando a necessidade de realocar créditos orçamentários dentro de uma mesma categoria de programação, decreta: 
+Artigo 1º: Fica transferido o valor na ordem de R$ 1.344.566,31 (Hum milhão, trezentos e quarenta e quatro Mil e quinhentos e sessenta e seis reais 
+
+e trinta e um centavos), às dotações do Orçamento Programa do exercício fluente: 
+
+  
+Ficha Funcional Programática Valor 
+
+0039 
+1150.04.0124.0062.2174.100 - MANTER AS ATIVIDADES DA CONTROLADORIA GERAL DO MUNICÍPIO 
+
+129,62 
+3.1.91.13.00.00 - Obrigações Patronais 
+
+0040 
+1150.04.0124.0062.2174.100 - MANTER AS ATIVIDADES DA CONTROLADORIA GERAL DO MUNICÍPIO 
+
+800,00 
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+
+0044 
+1150.04.0124.0062.2174.100 - MANTER AS ATIVIDADES DA CONTROLADORIA GERAL DO MUNICÍPIO 
+
+600,00 
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+
+0044 
+1150.04.0124.0062.2174.100 - MANTER AS ATIVIDADES DA CONTROLADORIA GERAL DO MUNICÍPIO 
+
+1.000,00 
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+
+0044 
+1150.04.0124.0062.2174.100 - MANTER AS ATIVIDADES DA CONTROLADORIA GERAL DO MUNICÍPIO 
+
+640,00 
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+
+0143 
+1310.28.0843.0060.0001.100 - AMORTIZAR AS DÍVIDAS CONTRATADAS 
+
+50.000,00 
+3.2.90.21.00.00 - Juros sobre a Dívida por Contrato 
+
+0161 
+1320.04.0129.0059.2049.100 - MANTER AS ATIVIDADES DO DEPARTAMENTO DE TRIBUTOS 
+
+100,00 
+3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica 
+
+0210 
+1400.06.0153.0032.2165.100 - MANTER CONVÊNIOS E/OU PARCERIAS COM O TIRO DE GUERRA 
+
+200,00 
+3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica 
+
+0210 
+1400.06.0153.0032.2165.100 - MANTER CONVÊNIOS E/OU PARCERIAS COM O TIRO DE GUERRA 
+
+30,00 
+3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica 
+
+0210 
+1400.06.0153.0032.2165.100 - MANTER CONVÊNIOS E/OU PARCERIAS COM O TIRO DE GUERRA 
+
+1.250,00 
+3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica 
+
+0220 
+1400.06.0181.0032.2166.100 - MANTER CONVÊNIOS E/OU PARCERIAS PARA PROMOÇÃO DA SEGURANÇA 
+
+1.000,00 
+3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica 
+
+
+
+Minas Gerais , 22 de Fevereiro de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3205 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              243 
+
+ 
+
+0220 
+1400.06.0181.0032.2166.100 - MANTER CONVÊNIOS E/OU PARCERIAS PARA PROMOÇÃO DA SEGURANÇA 
+
+150,00 
+3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica 
+
+0263 
+1430.06.0181.0032.2033.100 - MANTER AS ATIVIDADES DA GUARDA CIVIL PATRIMONIAL 
+
+500,00 
+3.3.90.30.00.00 - Material de Consumo 
+
+0320 
+1510.12.0122.0030.2135.101 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+9.640,63 
+3.1.91.13.00.00 - Obrigações Patronais 
+
+0329 
+1510.12.0122.0030.2135.101 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+35.000,00 
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+
+0329 
+1510.12.0122.0030.2135.101 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+20.591,30 
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+
+0329 
+1510.12.0122.0030.2135.101 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+3.000,00 
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+
+0333 
+1510.12.0122.0030.2135.101 - MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+200,00 
+3.3.90

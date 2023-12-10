@@ -1,4 +1,4 @@
-17 de Novembro de 2023
+17-Novembro-2023
 SANTA BARBARA
  
   
@@ -303,7 +303,7 @@ CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL
 2 PODER EXECUTIVO         
 
 2.05 SECRET. MUNIC. DESENVO
-17 de Novembro de 2023
+17-Novembro-2023
 SANTA BARBARA
 Abre Crédito Suplementar - Superávit Financeiro 
 
@@ -567,7 +567,7 @@ CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL
 10.0302.0059.2.186.000 MANUTENÇÃO DAS ATIVIDADES DE MÉDIA COMPLEXIDADE         
 
   Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 
-17 de Novembro de 2023
+17-Novembro-2023
 SANTA BARBARA
  
   
@@ -838,7 +838,7 @@ CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL
 2.14 2         
 
 04.0121.0078.2.305.000 GESTAO 
-17 de Novembro de 2023
+17-Novembro-2023
 SANTA BARBARA
 Abre Crédito Suplementar – Anulação de Dotação 
 
@@ -1101,7 +1101,7 @@ Total PODER EXECUTIVO 111.393,00
   Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 3162 1500 265.000,00 
 
 12.0361.0008.2.024.000 MANUTENCAO
-17 de Novembro de 2023
+17-Novembro-2023
 SANTA BARBARA
  
   
@@ -1368,7 +1368,7 @@ Total PODER EXECUTIVO 267.000,00
   Contratação por Tempo Determinado 3.1.90.04.00 6158 1500 65.000,00 
 
   Vencimentos 
-17 de Novembro de 2023
+17-Novembro-2023
 SANTA BARBARA
  
   
