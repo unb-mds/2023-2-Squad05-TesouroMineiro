@@ -1,0 +1,665 @@
+02-Maio-2022
+CATAS ALTAS
+Abre Crédito Suplementar - Anulação de Dotação 
+  
+O Prefeito Municipal de Catas Altas/MG, no uso de suas atribuições e com base no Art. 2º da Lei Orçamentária Anual nº 698/2020 e em 
+conformidade com o Art. 176 da Consituição Federal, D E C R E T A: 
+  
+Art. 1º - Fica aberto o Crédito Suplementar no Orçamento vigente do Poder Executivo Municipal, no montante de R$ 1.288.000,00, conforme 
+discriminações: 
+  
+R$ 1,00 
+  
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.03 PROCURADORIA JURÍDICA MUNICIPAL         
+
+12.0361.3013.2.118.000 REMUN. PROFIS. EDUCAÇ. BASICA/FUNDAMENTAL- FEB.70%         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 163 118 20.000,00 
+
+  
+12.0365.3013.2.120.000 
+
+  
+REMUN. PROFIS. EDUCAÇ. BASICA/CRECHE- FEB.70% 
+
+        
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 175 118 5.000,00 
+
+  
+12.0361.3001.2.069.000 
+
+  
+GESTAO DO ENSINO BASICO 
+
+        
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 111 101 30.000,00 
+
+  
+2 
+
+  
+PODER EXECUTIVO 
+
+        
+
+2.04 SECRET. MUNIC. DE GOVERNO, ESPORTES E ORDEM PÚBLICA         
+
+20.0122.4001.2.101.000 GESTAO DA SECRETARIA DE AGRICUL. E MEIO AMBIENTE         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 2201 200 175.000,00 
+
+  
+20.0605.4004.3.068.000 
+
+  
+AQUISICAO DE EQUIPAMENTOS AGRICOLAS 
+
+        
+
+  Equipamentos e Material Permanente 4.4.90.52.00 325 108 50.000,00 
+
+  
+2 
+
+  
+PODER EXECUTIVO 
+
+        
+
+2.05 SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO         
+
+10.0305.5004.2.020.000 GESTAO DA VIGILANCIA EPIDEMIOLOGICA         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 506 102 20.000,00 
+
+  Obrigações Patronais 3.1.90.13.00 512 102 20.000,00 
+
+  
+10.0302.5003.2.012.000 
+
+  
+GESTAO DOS PROCEDIMENTOS ESPECIALIZADOS 
+
+        
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 456 102 10.000,00 
+
+  
+10.0122.5001.2.007.000 
+
+  
+GESTAO DA SAUDE MUNICIPAL DE SAUDE 
+
+        
+
+  Material de Consumo 3.3.90.30.00 369 102 10.000,00 
+
+  
+10.0122.5001.2.162.000 
+
+  
+DIVULGACAO DA ACAO PUBLICA NA SAUDE 
+
+        
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 380 102 1.000,00 
+
+
+
+Minas Gerais , 02 de Maio de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIV | Nº 3252 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              266 
+ 
+
+  
+10.0301.5002.2.018.000 
+
+  
+GESTAO DO ATENDIMENTO DA ATENCAO BASICA 
+
+        
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 409 102 15.000,00 
+
+2 PODER EXECUTIVO         
+
+2.06 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO PÚBLICA         
+
+04.0122.6005.2.078.000 MANUTENCAO DAS ATIV. DA SECRETARIA DE OBRAS         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 546 100 25.000,00 
+
+  
+17.0512.4005.3.053.000 
+
+  
+CONST. AMPL. CONS. DE SISTEMA DE ABASTEC. DE AGUA 
+
+        
+
+  Aquisição de Imóveis 4.4.90.61.00 594 108 25.000,00 
+
+  Aquisição de Imóveis 4.4.90.61.00 2203 208 850.000,00 
+
+  
+2 
+
+  
+PODER EXECUTIVO 
+
+        
+
+2.07 SECRETARIA MUNICIPAL DE EDUCAÇÃO         
+
+13.0122.7001.2.028.000 GESTAO DA SECRETARIA DE TURISMO         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 682 100 10.000,00 
+
+  
+2 
+
+  
+PODER EXECUTIVO 
+
+        
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+27.0122.8001.2.045.000 GESTAO DA SECRETARIA DE ESPORTE E LAZER         
+
+  Material de Consumo 3.3.90.30.00 735 100 15.000,00 
+
+  
+2 
+
+  
+PODER EXECUTIVO 
+
+        
+
+2.09 SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E         
+
+  DESENVOLVIMENTO SUSTENTÁVEL         
+
+08.0122.9002.2.151.000 APOIO AO CMAS         
+
+  Material de Consumo 3.3.90.30.00 767 129 2.000,00 
+
+  
+08.0244.9005.2.122.000 
+
+  
+MANUTENCAO DOS BENEFICIOS EVENTUAIS 
+
+        
+
+  Outros Auxílios Financeiros a Pessoas Físicas 3.3.90.48.00 793 100 5.000,00 
+
+    Total Órgão PODER EXECUTIVO 1.288.000,00 
+
+  
+Total dos Créditos................ 1.288.000,00 
+  
+
+Art. 2º - Os recursos utilizados serão os constantes do quadro abaixo: 
+  
+R$ 1,00 
+  
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 2.03 
+12.0361.3013.2.118.000 
+
+PODER EXECUTIVO PROCURADORIA JURÍDICA MUNICIPAL REMUN. PROFIS. EDUCAÇ. 
+BASICA/FUNDAMENTAL- FEB.70% 
+
+3.1.90.04.00 160 118 25.000,00 
+
+  Contratação por Tempo Determinado Obras e Instalações 4.4.90.51.00 131 101 30.000,00 
+
+    Total PODER EXECUTIVO 55.000,00 
+
+2 PODER EXECUTIVO         
+
+2.04 SECRET. MUNIC. DE GOVERNO, ESPORTES E ORDEM PÚBLICA         
+
+20.0608.4004.1.122.000 PROGRAMA DE INTERNET RURAL         
+
+  Obras e Instalações 4.4.90.51.00 342 108 50.000,00 
+
+    Total PODER EXECUTIVO 50.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+27.0812.8002.2.046.000 DESPORTOS UNIFICADO         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 746 100 15.000,00 
+
+    Total PODER EXECUTIVO 15.000,00 
+
+2 PODER EXECUTIVO         
+
+2.05 SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO         
+
+10.0302.5003.2.012.000 GESTAO DOS PROCEDIMENTOS ESPECIALIZADOS         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 453 102 10.000,00 
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 509 102 20.000,00 
+
+  Material de Consumo 3.3.90.30.00 369 102 1.000,00 
+
+  Material, Bem ou Serviço para Distribuição Gratuita 3.3.90.32.00 405 102 15.000,00 
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 524 102 20.000,00 
+
+  Equipamentos e Material Permanente 4.4.90.52.00 372 102 10.000,00 
+
+    Total PODER EXECUTIVO 76.000,00 
+
+2 PODER EXECUTIVO         
+
+2.09 
+SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E DESENVOLVIMENTO 
+SUSTENTÁVEL 
+
+        
+
+08.0122.9002.2.152.000 APOIO A GESTAO DO SUAS         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 774 129 2.000,00 
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 791 100 5.000,00 
+
+    Total PODER EXECUTIVO 7.000,00 
+
+2 PODER EXECUTIVO         
+
+2.06 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO PÚBLICA         
+
+26.0782.6006.1.111.000 CONSTRUCAO, REVITALIZACAO E MANUTENCAO DE PONTES         
+
+  Material de Consumo 3.3.90.30.00 619 100 25.000,00 
+
+  Material de Consumo 3.3.90.30.00 620 108 25.000,00 
+
+    Total PODER EXECUTIVO 50.000,00 
+
+2 PODER EXECUTIVO         
+
+2.07 SECRETARIA MUNICIPAL DE EDUCAÇÃO         
+
+13.0122.7001.2.028.000 GESTAO DA SECRETARIA DE TURISMO         
+
+  Outros Serviços de Terceiros - Pessoa Física 3.3.90.36.00 685 100 10.000,00 
+
+    Total PODER EXECUTIVO 10.000,00 
+
+  
+Total da (s) Redução (ôes)............................................................................... 263.000,00 
+  
+Art. 3º - Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos para 28/04/2022, revogadas as disposições em contrário. 
+  
+Catas Altas, 28/04/2022.  
+
+
+
+Minas Gerais , 02 de Maio de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIV | Nº 3252 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              267 
+ 
+
+SAULO MORAIS DE CASTRO 
+Prefeito Municipal 
+
+Publicado por: 
+Ludimili Aparecida Guerra 
+
+Código Identificador:972C62B8 
+
+ 
+ESTADO DE MINAS GERAIS
+02-Maio-2022
+CATAS ALTAS
+to o Crédito Suplementar no Orçamento vigente do Poder Executivo Municipal, no montante de R$ 1.288.000,00, conforme 
+discriminações: 
+  
+R$ 1,00 
+  
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.03 PROCURADORIA JURÍDICA MUNICIPAL         
+
+12.0361.3013.2.118.000 REMUN. PROFIS. EDUCAÇ. BASICA/FUNDAMENTAL- FEB.70%         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 163 118 20.000,00 
+
+  
+12.0365.3013.2.120.000 
+
+  
+REMUN. PROFIS. EDUCAÇ. BASICA/CRECHE- FEB.70% 
+
+        
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 175 118 5.000,00 
+
+  
+12.0361.3001.2.069.000 
+
+  
+GESTAO DO ENSINO BASICO 
+
+        
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 111 101 30.000,00 
+
+  
+2 
+
+  
+PODER EXECUTIVO 
+
+        
+
+2.04 SECRET. MUNIC. DE GOVERNO, ESPORTES E ORDEM PÚBLICA         
+
+20.0122.4001.2.101.000 GESTAO DA SECRETARIA DE AGRICUL. E MEIO AMBIENTE         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 2201 200 175.000,00 
+
+  
+20.0605.4004.3.068.000 
+
+  
+AQUISICAO DE EQUIPAMENTOS AGRICOLAS 
+
+        
+
+  Equipamentos e Material Permanente 4.4.90.52.00 325 108 50.000,00 
+
+  
+2 
+
+  
+PODER EXECUTIVO 
+
+        
+
+2.05 SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO         
+
+10.0305.5004.2.020.000 GESTAO DA VIGILANCIA EPIDEMIOLOGICA         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 506 102 20.000,00 
+
+  Obrigações Patronais 3.1.90.13.00 512 102 20.000,00 
+
+  
+10.0302.5003.2.012.000 
+
+  
+GESTAO DOS PROCEDIMENTOS ESPECIALIZADOS 
+
+        
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 456 102 10.000,00 
+
+  
+10.0122.5001.2.007.000 
+
+  
+GESTAO DA SAUDE MUNICIPAL DE SAUDE 
+
+        
+
+  Material de Consumo 3.3.90.30.00 369 102 10.000,00 
+
+  
+10.0122.5001.2.162.000 
+
+  
+DIVULGACAO DA ACAO PUBLICA NA SAUDE 
+
+        
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 380 102 1.000,00 
+
+
+
+Minas Gerais , 02 de Maio de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIV | Nº 3252 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              266 
+ 
+
+  
+10.0301.5002.2.018.000 
+
+  
+GESTAO DO ATENDIMENTO DA ATENCAO BASICA 
+
+        
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 409 102 15.000,00 
+
+2 PODER EXECUTIVO         
+
+2.06 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO PÚBLICA         
+
+04.0122.6005.2.078.000 MANUTENCAO DAS ATIV. DA SECRETARIA DE OBRAS         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 546 100 25.000,00 
+
+  
+17.0512.4005.3.053.000 
+
+  
+CONST. AMPL. CONS. DE SISTEMA DE ABASTEC. DE AGUA 
+
+        
+
+  Aquisição de Imóveis 4.4.90.61.00 594 108 25.000,00 
+
+  Aquisição de Imóveis 4.4.90.61.00 2203 208 850.000,00 
+
+  
+2 
+
+  
+PODER EXECUTIVO 
+
+        
+
+2.07 SECRETARIA MUNICIPAL DE EDUCAÇÃO         
+
+13.0122.7001.2.028.000 GESTAO DA SECRETARIA DE TURISMO         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 682 100 10.000,00 
+
+  
+2 
+
+  
+PODER EXECUTIVO 
+
+        
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+27.0122.8001.2.045.000 GESTAO DA SECRETARIA DE ESPORTE E LAZER         
+
+  Material de Consumo 3.3.90.30.00 735 100 15.000,00 
+
+  
+2 
+
+  
+PODER EXECUTIVO 
+
+        
+
+2.09 SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E         
+
+  DESENVOLVIMENTO SUSTENTÁVEL         
+
+08.0122.9002.2.151.000 APOIO AO CMAS         
+
+  Material de Consumo 3.3.90.30.00 767 129 2.000,00 
+
+  
+08.0244.9005.2.122.000 
+
+  
+MANUTENCAO DOS BENEFICIOS EVENTUAIS 
+
+        
+
+  Outros Auxílios Financeiros a Pessoas Físicas 3.3.90.48.00 793 100 5.000,00 
+
+    Total Órgão PODER EXECUTIVO 1.288.000,00 
+
+  
+Total dos Créditos................ 1.288.000,00 
+  
+
+Art. 2º - Os recursos utilizados serão os constantes do quadro abaixo: 
+  
+R$ 1,00 
+  
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 2.03 
+12.0361.3013.2.118.000 
+
+PODER EXECUTIVO PROCURADORIA JURÍDICA MUNICIPAL REMUN. PROFIS. EDUCAÇ. 
+BASICA/FUNDAMENTAL- FEB.70% 
+
+3.1.90.04.00 160 118 25.000,00 
+
+  Contratação por Tempo Determinado Obras e Instalações 4.4.90.51.00 131 101 30.000,00 
+
+    Total PODER EXECUTIVO 55.000,00 
+
+2 PODER EXECUTIVO         
+
+2.04 SECRET. MUNIC. DE GOVERNO, ESPORTES E ORDEM PÚBLICA         
+
+20.0608.4004.1.122.000 PROGRAMA DE INTERNET RURAL         
+
+  Obras e Instalações 4.4.90.51.00 342 108 50.000,00 
+
+    Total PODER EXECUTIVO 50.000,00 
+
+2 PODER EXECUTIVO         
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+27.0812.8002.2.046.000 DESPORTOS UNIFICADO         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 746 100 15.000,00 
+
+    Total PODER EXECUTIVO 15.000,00 
+
+2 PODER EXECUTIVO         
+
+2.05 SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO         
+
+10.0302.5003.2.012.000 GESTAO DOS PROCEDIMENTOS ESPECIALIZADOS         
+
+  Contratação por Tempo Determinado 3.1.90.04.00 453 102 10.000,00 
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 509 102 20.000,00 
+
+  Material de Consumo 3.3.90.30.00 369 102 1.000,00 
+
+  Material, Bem ou Serviço para Distribuição Gratuita 3.3.90.32.00 405 102 15.000,00 
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 524 102 20.000,00 
+
+  Equipamentos e Material Permanente 4.4.90.52.00 372 102 10.000,00 
+
+    Total PODER EXECUTIVO 76.000,00 
+
+2 PODER EXECUTIVO         
+
+2.09 
+SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E DESENVOLVIMENTO 
+SUSTENTÁVEL 
+
+        
+
+08.0122.9002.2.152.000 APOIO A GESTAO DO SUAS         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 774 129 2.000,00 
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 791 100 5.000,00 
+
+    Total PODER EXECUTIVO 7.000,00 
+
+2 PODER EXECUTIVO         
+
+2.06 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO PÚBLICA         
+
+26.0782.6006.1.111.000 CONSTRUCAO, REVITALIZACAO E MANUTENCAO DE PONTES         
+
+  Material de Consumo 3.3.90.30.00 619 100 25.000,00 
+
+  Material de Consumo 3.3.90.30.00 620 108 25.000,00 
+
+    Total PODER EXECUTIVO 50.000,00 
+
+2 PODER EXECUTIVO         
+
+2.07 SECRETARIA MUNICIPAL DE EDUCAÇÃO         
+
+13.0122.7001.2.028.000 GESTAO DA SECRETARIA DE TURISMO         
+
+  Outros Serviços de Terceiros - Pessoa Física 3.3.90.36.00 685 100 10.000,00 
+
+    Total PODER EXECUTIVO 10.000,00 
+
+  
+Total da (s) Redução (ôes)............................................................................... 263.000,00 
+  
+Art. 3º - Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos para 28/04/2022, revogadas as disposições em contrário. 
+  
+Catas Altas, 28/04/2022.  
+
+
+
+Minas Gerais , 02 de Maio de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIV | Nº 3252 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              267 
+ 
+
+SAULO MORAIS DE CASTRO 
+Prefeito Municipal 
+
+Publicado por: 
+Ludimili Aparecida Guerra 
+
+Código Identificador:972C62B8 
+
+ 
+ESTADO DE MINAS GERAIS

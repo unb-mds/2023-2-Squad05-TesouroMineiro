@@ -1,0 +1,472 @@
+02-Setembro-2022
+MENDES PIMENTEL
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes descriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0005 
+2100.04.0122.0004.2001.100 – REMUNERAÇÃO DOS SERVIDORES DO GABINETE 
+
+3.1.90.16.00.00 – Outras Despesas Variáveis – Pessoal Civil 
+247,91 
+
+0033 
+2200.02.0062.0007.2005.100 – REMUNERAÇÃO DOS SERVIDORES DA PROCURADORIA 
+
+3.1.90.04.00.00 – Contratação por Tempo Determinado 
+1.000,00 
+
+0036 
+2200.02.0062.0007.2005.100 – REMUNERAÇÃO DOS SERVIDORES DA PROCURADORIA 
+
+3.1.90.16.00.00 – Outras Despesas Variáveis – Pessoal Civil 
+97,11 
+
+0037 
+2200.02.0062.0007.2005.100 – REMUNERAÇÃO DOS SERVIDORES DA PROCURADORIA 
+
+3.1.90.94.00.00 – Indenizações e Restituições Trabalhistas 
+1.000,00 
+
+0044 
+2200.02.0062.0007.3001.100 – PAGAMENTO DE PRECATÓRIO OU DÍVIDAS AJUIZADAS 
+
+3.1.90.91.00.00 – Sentenças Judiciais 
+2.600,00 
+
+0059 
+2400.04.0123.0009.2007.100 – REMUNERAÇÃO DOS SERVIDORES DO SMF 
+
+3.1.90.13.00.00 – Obrigações Patronais 
+3.400,00 
+
+0068 
+2400.04.0123.0009.2073.100 – GESTÃO E ADMINIST.ATIV. FINANCEIRAS, CONTÁBIL E TRIBUTÁRIA 
+
+3.3.90.93.00.00 – Indenizações e Restituições 
+5.310,37 
+
+0068 
+2400.04.0123.0009.2073.100 – GESTÃO E ADMINIST.ATIV. FINANCEIRAS, CONTÁBIL E TRIBUTÁRIA 
+
+3.3.90.93.00.00 – Indenizações e Restituições 
+4.110,36 
+
+0100 
+2500.04.0122.0010.2074.100 – GESTÃO E ADMINIST. DAS ATIVIDADES DA SMA E DE PESSOAL 
+
+3.3.90.36.00.00 – Outros Serviços de Terceiros – Pessoa Física 
+8.000,00 
+
+0106 
+2500.04.0128.0013.2009.100 – MANUTENÇÃO ATIV DE RH E TREINAMENTO DE SERVIDORES 
+
+3.3.90.14.00.00 – Diárias – Pessoal Civil 
+1.000,00 
+
+0112 
+2500.09.0272.0010.3006.100 – PAGTO DE APOSENTADORIAS E PENSÕES E SERVIDORES MUNICIPAIS 
+
+3.1.90.01.00.00 – Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares 
+5.000,00 
+
+0119 
+2600.04.0122.0011.2012.100 – REMUNERAÇÃO DOS SERVIDORES DA SEC MUN DE CULTURA 
+
+3.1.90.04.00.00 – Contratação por Tempo Determinado 
+1.000,00 
+
+0130 
+2600.04.0122.0011.2075.100 – GESTÃO E ADMINISTRAÇÃO DA SEC. MUNICIPAL DE CULTURA 
+
+3.3.90.47.00.00 – Obrigações Tributárias e Contributivas 
+1.000,00 
+
+0139 
+2610.13.0392.0012.2014.100 – FOMENTO A PROJETOS NA ÁREA DO PATRIMÕNIO CULTURAL 
+
+3.3.90.30.00.00 – Material de Consumo 
+1.000,00 
+
+0155 
+2700.23.0695.0017.2016.100 – APOIO A PROJETOS DE INFRA ESTRUTURA TURÍSTICA 
+
+3.3.90.30.00.00 – Material de Consumo 
+1.000,00 
+
+0169 
+2700.27.0812.0015.2017.100 – REALIZAÇÃO DE CAMPEONATOS MUNICIPAIS E REGIONAIS 
+
+3.3.90.47.00.00 – Obrigações Tributárias e Contributivas 
+1.000,0 
+
+0172 
+2810.12.0122.0022.1013.101 – AQUISIÇÃO DE IMÓVEIS P/SME 
+
+4.4.90.61.00.00 – Aquisição de Imóveis 
+1.000,00 
+
+0173 
+2810.12.0122.0022.1014.101 – REFORMA, AMPLIAÇÃO, CONST. E/OU MANUT. EM PRÉDIOS DA SME 
+
+4.4.90.51.00.00 – Obras e Instalações 
+1.000,00 
+
+0177 
+2810.12.0122.0022.2018.101 – REMUNERAÇÃO DOS SERVIDORES DA SME 
+
+3.1.90.16.00.00 – Outras Despesas Variáveis – Pessoal Civil 
+1.000,00 
+
+0181 
+2810.12.0122.0022.2077.101 – GESTÃO E ADMINISTRAÇÃO DA SEC. MUNICIPAL DE EDUCAÇÃO 
+
+3.3.90.30.00.00 – Material de Consumo 
+10.82,55 
+
+0181 
+2810.12.0122.0022.2077.101 – GESTÃO E ADMINISTRAÇÃO DA SEC. MUNICIPAL DE EDUCAÇÃO 
+
+3.3.90.30.00.00 – Material de Consumo 
+6.000,00 
+
+0184 
+2810.12.0122.0022.2077.101 – GESTÃO E ADMINISTRAÇÃO DA SEC. MUNICIPAL DE EDUCAÇÃO 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica 
+14.000,00 
+
+0202 
+2821.12.0361.0022.1015.101 – AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ ENS. FUNDAME 
+
+4.4.90.52.00.00 – Equipamentos e Material Permanente 
+1.065,01 
+
+0202 
+2821.12.0361.0022.1015.101 – AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ ENS. FUNDAME 
+
+4.4.90.52.00.00 – Equipamentos e Material Permanente 
+15.143,84 
+
+0203 
+2821.12.0361.0022.1015.119 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ ENS. FUNDAME 
+
+4.4.90.52.00.00 - Equipamentos e Material Permanente 
+3.996.64 
+
+0203 
+2821.12.0361.0022.1015.119 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ ENS. FUNDAME 
+
+4.4.90.52.00.00 - Equipamentos e Material Permanente 
+7.499,28 
+
+0208 
+2821.12.0361.0022.1017.101 – REFORMA, AMPL., CONST. E/OU MANUT. ESCOLAS ENS. FUND. 
+
+4.4.90.51.00.00 – Obras e Instalações 
+10.000,00 
+
+0209 
+2821.12.0361.0022.1017.119 - REFORMA, AMPL., CONST. E/OU MANUT. ESCOLAS ENS. FUND. 
+
+4.4.90.51.00.00 – Obras e Instalações 
+30.000,00 
+
+0214 
+2821.12.0361.0022.1055.101 – CONSTRUÇÃO DE QUADRAS POLIESPOTIVAS ESC. MUNICIPAIS 
+
+4.4.90.51.00.00 – Obras e Instalações 
+1.000,00 
+
+0220 
+2821.12.0361.0022.2022.101 – REMUNERAÇÃO DOS PROFESSORES ENSINO FUNDAMENTAL 
+
+3.1.90.04.00.00 – Contratação por Tempo Determinado 
+5.929,64 
+
+0246 
+2821.12.0361.0022.2023.101 – MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL 
+
+3.3.90.40.00.00 – Serviços de Tecnologia da Informação e Comunicação – Pessoa Jurídica 
+10.000,00 
+
+0246 
+2821.12.0361.0022.2023.101 – MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL 
+
+3.3.90.40.00.00 – Serviços de Tecnologia da Informação e Comunicação – Pessoa Jurídica 
+5.000,00 
+
+0246 
+2821.12.0361.0022.2023.101 – MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL 
+
+3.3.90.40.00.00 – Serviços de Tecnologia da Informação e Comunicação – Pessoa Jurídica 
+4.000,00 
+
+0246 
+2821.12.0361.0022.2023.101 – MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL 
+
+3.3.90.40.00.00 – Serviços de Tecnologia da Informação e Comunicação – Pessoa Jurídica 
+4.000,00 
+
+0246 
+2821.12.0361.0022.2023.101 – MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL 
+
+3.3.90.40.00.00 – Serviços de Tecnologia da Informação e Comunicação – Pessoa Jurídica 
+3.000,00 
+
+0249 
+2821.12.0361.002.2024.101 – MANUTENÇÃO ATIV. DO TRANSP. ESC. – ENSINO FUNDAMENTAL 
+
+3.3.90.30.00.00 – Material de Consumo 
+3.000,00 
+
+0264 
+2821.12.0361.0022.2025.101 – REMUNERAÇÃO DOS DEMAIS PROFISSIONAIS ENSINO FUNDAMENTAL 
+
+3.1.90.11.00.00 – Vencimentos e Vantagens Fixas – Pessoal Civil 
+30.000,00 
+
+0264 
+2821.12.0361.0022.2025.101 – REMUNERAÇÃO DOS DEMAIS PROFISSIONAIS ENSINO FUNDAMENTAL 
+
+3.1.90.11.00.00 – Vencimentos e Vantagens Fixas – Pessoal Civil 
+28.00,00 
+
+0296 
+2822.12.0365.0022.1020.146 – REFORMA, AMPLIAÇÃO, CONST. E/OU MANUT. CRECHES 
+
+4.4.90.51.00.00 – Obras e Instalações 
+25.666,39 
+
+0348 
+2823.12.0365.0022.2029.100 – MANUTENÇÃO DA MERENDA ESCOLAR NA PRÉ ESCOLA 
+
+3.3.90.30.00.00 – Material de Consumo 
+1.000,00 
+
+0362 2823.12.0365.0022.2031.119 – MANUTENÇÃO DAS ATIVIDADES DA PRÉ ESCOLA 1.000,00 
+
+
+
+Minas Gerais , 02 de Setembro de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIV | Nº 3341 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              300 
+
+ 
+
+3.3.90.30.00.00 – Material de Consumo 
+
+0393 
+2910.10.0122.0023.2035.102 - REMUNERAÇÃO DOS SERVIDORES DA ADMIN. DA SMS 
+
+3.1.90.04.00.00 – Contratação por Tempo Determinado 
+20.000,00 
+
+0429 
+2921.10.0301.0024.2039.102 – REMUNERAÇÃO DOS PROFISSIONAIS atenção básica em saúde 
+
+3.1.90.11.00.00 – Vencimentos e Vantagens Fixas – Pessoal Civil 
+6.90,00 
+
+0430 
+2921.10.0301.0024.2039.19 – REMUNERAÇÃO DOS PROFISSIONAIS ATENÇÃO BÁSICA EM SAÚDE 
+
+3.1.90.11.00.00 – Vencimentos e Vantagens Fixas – Pessoal Civil 
+1.974,95 
+
+0430 
+2921.10.0301.0024.2039.19 – REMUNERAÇÃO DOS PROFISSIONAIS ATENÇÃO BÁSICA EM SAÚDE 
+
+3.1.90.11.00.00 – Vencimentos e Vantagens Fixas – Pessoal Civil 
+404,87 
+
+0458 
+2921.10.0301.0024.2043.159 – REMUNERAÇÃO DOS SERVIDORES EM SAÚDE BUCAL 
+
+3.1.90.16.00.00 – Outras Despesas Variáveis – Pessoal Civil 
+1.000,00 
+
+0478 
+2921.10.0301.0024.2064.102 – REMUNERAÇÃO DOS AGENTES COMUM. DE SAÚDE – ACS 
+
+3.1.90.11.00.00 – Vencimentos e Vantagens Fixas – Pessoal Civil 
+30.000,00 
+
+0508 
+2922.10.0302.0025.2044.159 – ATENÇÃO À SAÚDE SERVIÇOS AMBULATORIAIS E HOSPITALARES 
+
+3.3.50.43.00.00 – Subvenções Sociais 
+7.803,60 
+
+0522 
+2923.10.0304.0026.2045.159 – REMUNERAÇÃO DOS SERVIDORES DA VIGILÂNCIA SANITÁRIA 
+
+3.1.90.11.00.00 – Vencimentos e Vantagens Fixas – Pessoal Civil 
+2.202,98 
+
+0522 
+2923.10.0304.0026.2045.159 – REMUNERAÇÃO DOS SERVIDORES DA V
+02-Setembro-2022
+MENDES PIMENTEL
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes descriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0094 
+2500.04.0122.0010.2008.100 – REMUNERAÇÃO DOS SERVIDORES DA SMA E PESSOAL 
+
+3.1.90.13.00.00 – Obrigações Patronais 
+6.089,59 
+
+
+
+Minas Gerais , 02 de Setembro de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIV | Nº 3341 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              301 
+
+ 
+
+0393 
+2910.10.0122.0023.2035.102 – REMUNERAÇÃO DOS SERVIDORES DA ADMIN. DA SMS 
+
+3.1.90.04.00.00 – Contratação por Tempo Determinado 
+302,25 
+
+0477 
+2921.10.0301.0024.2064.159 – REMUNERAÇÃO DOS AGENTES COMUM. DE SAÚDE – ACS 
+
+3.1.90.04.00.00 – Contratação por Tempo Determinado 
+151,72 
+
+TOTAL 6.543,56 
+
+   
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+
+Artigo 4º: Revogam-se as disposições em contrário. 
+
+  
+
+Mendes Pimentel, 01 de junho de 2022 
+
+  
+
+PAULO ANTÔNIO DE SOUZA 
+Prefeito Municipal 
+
+  
+
+Certidão: certifico que este Decreto foi registrado no livro nº ____, à (s) folha (s)______, e publicado no Diário Oficial do Município, no site 
+
+http://www.diariomunicipal.com.br/amm-mg/, em _____/_____/2021. 
+
+Publicado por: 
+Aides Soares 
+
+Código Identificador:444BD099 
+
+ 
+SETOR DE CONTABILIDADE 
+
+DECRETO N° 078, DE 28 DE JULHO 2022. 
+
+ 
+
+Crédito Adicional Suplementar 
+
+  
+
+O Prefeito Municipal no uso de suas atribuições legais, com base no artigo 43, da Lei Federal Nº 4.320/64 e da Lei Municipal Nº 1.705 de 28 de 
+
+Julho de 2021, decreta: 
+
+  
+
+Artigo 1º: Fica transferido o valor na ordem de R$ 624.259,28 (Seiscentos e vinte e quatro Mil e duzentos e cinquenta e nove reais e vinte e oito 
+
+centavos), às dotações do Orçamento Programa do exercício fluente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0793 
+2921.10.0301.0024.2061.255 – MANUTENÇÃO DAS ATIVIDADES EM ATENÇÃO BÁSICA EM SAÚDE 
+
+3.3.90.30.00.00 – Material de Consumo 
+36.626,05 
+
+0800 
+2830.12.0362.0022.2034.206 – MANUTENÇÃO DAS ATIV. TRANSPORTE ESC. NO ENSINO MÉDIO 
+
+3.3.90.30.00.00 – Material de Consumo 
+12.014,23 
+
+0812 
+3100.15.0451.0031.1048.268 – PAVIMENTAÇÃO DE VIAS PÚBLICAS URBANAS E RURAIS 
+
+4.4.90.51.00.00 – Obras e Instalações 
+400.344,10 
+
+0846 
+2500.04.0122.0010.2074.200 – GESTÃLO E ADMINIST. DAS ATIVIDADES DA SMA E DE PESSOAL 
+
+3.3.90.30.00.00 – Material de Consumo 
+16.494,90 
+
+0851 
+2610.13.0392.0012.2013.200 – REALIZAÇÃO DE FESTAS CULTURAIS NO MUNICÍPIO 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica 
+108.780,00 
+
+0853 
+2921.10.0301.0024.2062.202 – AJUDA FINANCEIRA EM SAÚDE A PESSOAS CARENTES 
+
+3.3.90.48.00.00 – Outros Auxílios Financeiros a Pessoas Físicas 
+50.000,00 
+
+TOTAL 624.259,28 
+
+  
+
+Artigo 2º: Como recursos à abertura do Crédito de que trata este decreto, serão utilizados os recursos provenientes de Superávit Financeiro apurado 
+
+no exercício anterior, nos termos do inciso I, § 1º do art. 43 da Lei 4.320/64. 
+
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+
+Artigo 4º: Revogam-se as disposições em contrário. 
+
+  
+
+Mendes Pimentel, 28 de julho de 2022 
+
+  
+
+PAULO ANTÔNIO DE SOUZA 
+Prefeito Municipal 
+
+  
+
+Certidão: certifico que este Decreto foi registrado no livro nº ____, à (s) folha (s)______, e publicado no Diário Oficial do Município, no site 
+
+http://www.diariomunicipal.com.br/amm-mg/, em _____/_____/2021. 
+
+Publicado por: 
+Aides Soares 
+
+Código Identificador:0A6EE81F 
+
+ 
+
+ESTADO DE MINAS GERAIS

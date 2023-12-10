@@ -1,0 +1,247 @@
+14-Fevereiro-2020
+ARAÇUAÍ
+A DE CRÉDITO SUPLEMENTAR AO ORÇAMENTO GERAL DO MUNICÍPIO, EM FAVOR DA 
+SECRETARIA MUNICIPAL DE SAÚDE, NO VALOR DE R$245.000,00 (DUZENTOS E QUARENTA E CINCO MIL REAIS) 
+
+  
+Faço saber que o povo do Município de Araçuaí, através de seus representantes, aprovou e eu, Prefeito Municipal, sanciono e promulgo a seguinte 
+lei: 
+  
+Art. 1º Fica o Executivo Municipal autorizado a abrir, mediante decreto, crédito adicional suplementar às dotações do orçamento vigente no valor de 
+R$245.000,00 (duzentos e quarenta e cinco mil reais) em favor da Secretaria Municipal de Saúde para reforçar dotações orçamentárias com saldos 
+insuficientes para cobrir despesas relativas à folha de pagamento do Décimo Terceiro Salário dos Servidores da Saúde, conforme disposto nos artigos 
+40 a 43 da Lei Nº. 4.320/64. 
+Art. 2º. O valor constante do artigo 1º será incorporado nas seguintes dotações orçamentárias vigentes: 
+  
+CÓDIGO ELEMENTO FONTE DESCRIÇÃO DA DESPESA FICHA VALOR 
+
+02.006.001.10.301.0045.2175 31.90.04.00 102 GESTÃO DOS SERVIÇOS DA ATENÇÃO BÁSICA 301 195.000,00 
+
+02.006.001.10.302.0046.2176 31.90.04.00 102 GESTÃO DOS SERVIÇOS MAC 336 50.000,00 
+
+TOTAL   245.000,00 
+
+  
+§1º. Fica o Poder Executivo autorizado promover as alterações necessárias para compatibilização ao PPA e LDO, nos termos do art. 16, § 1º, incisos 
+I e II da Lei Complementar nº. 101/00. 
+Art. 3º. Para fazer face à despesa estipulada no artigo 1º, fica o Executivo Municipal autorizado a efetuar a anulação parcial, conforme disposto no 
+inciso III do §1° do art. 43 da Lei Federal n° 4.320/64 das seguintes dotações: 
+  
+CÓDIGO ELEMENTO FONTE DESCRIÇÃO DA DESPESA FICHA VALOR 
+
+02.007.001.08.122.0041.1062 44.90.51.00 100 CONSTRUÇÃO/REFORMA/EQUIPAMENTOS 384 40.000,00 
+
+02.007.001.08.244.0041.2157 33.50.43.00 100 PROTEÇÃO SOCIAL ESPECIAL 425 55.000,00 
+
+02.011.001.15.452.0025.1039 44.90.51.00 100 ABERT. PAV. AMPL.R. AV. CONS. MEIO FIO E CALC. 569 60.000,00 
+
+02.011.001.15.452.0025.2074 33.90.39.00 100 MANUT. SERV. CONSERV. RUAS AV. PQUES JARDINS 574 40.000,00 
+
+02.012.002.18.122.0008.2259 31.90.04.00 100 MANUT. ATIV. FUNDO MUNIC. MEIO AMBIENTE 607 50.000,00 
+
+TOTAL   245.000,00 
+
+  
+Art. 4º- Esta Lei entra em vigor na data de sua publicação. 
+.  
+  
+ARMANDO JARDIM PAIXÃO 
+Prefeito Municipal 
+
+Publicado por: 
+Marizete Luíz Silva 
+
+Código Identificador:7C4D55EB 
+ 
+
+COMISSÃO DE LICITAÇÃO 
+LEI MUNICIPAL Nº491 DE 16 DE DEZEMBRO DE 2019 
+
+ 
+LEI MUNICIPAL N° 491 DE 16 DE DEZEMBRO DE 2019. 
+  
+
+AUTORIZA ABERTURA DE CRÉDITO SUPLEMENTAR AO ORÇAMENTO GERAL DO MUNICÍPIO, EM FAVOR DA 
+SECRETARIA MUNICIPAL DE EDUCAÇÃO, NO VALOR DE R$614.500,00 (SEISCENTOS E QUATORZE MIL E 
+QUINHENTOS REAIS) 
+
+  
+Faço saber que o povo do Município de Araçuaí, através de seus representantes, aprovou e eu, Prefeito Municipal, sanciono e promulgo a seguinte 
+lei: 
+  
+Art. 1º Fica o Executivo Municipal autorizado a abrir, mediante decreto, crédito adicional suplementar às dotações do orçamento vigente no valor de 
+R$614.500,00 (Seiscentos e quatorze mil e quinhentos reais) em favor da Secretaria Municipal de Educação, para reforçar dotações orçamentárias 
+com saldos insuficientes para cobrir despesas relativas à folha de pagamento do Décimo Terceiro Salário dos Servidores da educação, conforme 
+disposto nos artigos 40 a 43 da Lei Nº. 4.320/64. 
+  
+Art. 2º. O valor constante do artigo 1º será incorporado nas seguintes dotações orçamentárias vigentes: 
+  
+CÓDIGO ELEMENTO FONTE DESCRIÇÃO DA DESPESA FICHA VALOR 
+
+02.04.01.12.122.0036.2164 31.90.11.00 101 GESTAO DA SECRETARIA MUNICIPAL DE EDUCAÇÃO 188 2.500,00 
+
+02.04.01.12.361.0036.1070 31.90.04.00 101 GESTAO DO ENSINO FUNDAMENTAL 212 155.000,00 
+
+02.04.01.12.361.0036.1070 31.90.11.00 101 GESTAO DO ENSINO FUNDAMENTAL 213 155.000,00 
+
+02.04.01.12.361.0036.2165 33.90.39.00 100 GESTAO DO ENSINO FUNDAMENTAL 220 37.000,00 
+
+02.04.01.12.361.0036.2166 31.90.04.00 101 GESTAO DO TRANSPORTE ESCOLAR 221 2.000,00 
+
+02.04.01.12.361.0036.2166 31.90.11.00 101 GESTAO DO TRANSPORTE ESCOLAR 222 15.500,00 
+
+02.04.01.12.361.0036.2187 31.90.11.00 101 MANUTENÇÃO CESU 231 35.000,00 
+
+02.04.01.12.365.0036.2169 31.90.04.00 101 GESTAO DO ENSINO INFANTIL 245 88.000,00 
+
+02.04.01.12.365.0036.2169 31.90.11.00 101 GESTAO DO ENSINO INFANTIL 246 122.000,00 
+
+02.04.01.12.366.0036.2170 31.90.11.00 101 GESTAO DO ENSINO DE JOVENS E ADULTOS 255 2.500,00 
+
+TOTAL 614.500,00 
+
+  
+§1º. Fica o Poder Executivo autorizado promover as alterações necessárias para compatibilização ao PPA e LDO, nos termos do art. 16, § 1º, incisos 
+I e II da Lei Complementar nº. 101/00. 
+Art. 3º. Para fazer face à despesa estipulada no artigo 1º, fica o Executivo Municipal autorizado a efetuar a anulação parcial, conforme disposto no 
+inciso III do §1° do art. 43 da Lei Federal n° 4.320/64 das seguintes dotações: 
+ 
+  
+
+
+
+Minas Gerais , 14 de Fevereiro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2695 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              190 
+ 
+
+CÓDIGO ELEMENTO FONTE DESCRIÇÃO DA DESPESA FICHA VALOR 
+
+02.04.01.12.122.0036.2164 33.90.14.00 101 GESTAO DA SECRETARIA MUNICIPAL DE EDUCAÇÃO 193 7.000,00 
+
+02.04.01.12.122.0036.2164 33.90.39.00 101 GESTAO DA SECRETARIA MUNICIPAL DE EDUCAÇÃO 197 9.000,00 
+
+02.04.01.12.361.0036.2165 33.90.39.00 101 GESTAO DO ENSINO FUNDAMENTAL 220 20.000,00 
+
+02.04.01.12.365.0036.2169 33.90.39.00 101 GESTAO DO ENSINO INFANTIL 253 20.000,00 
+
+02.02.01.04.122.0005.2016 33.90.36.00 100 MANUT. ATIV.FUNC.SECRETARIA 94 20.000,00 
+
+02.02.01.04.122.0005.2016 33.90.39.00 100 MANUT. ATIV.FUNC.SECRETARIA 95 50.000,00 
+
+02.02.01.04.122.0005.3006 44.90.52.00 100 EQUIP. P/SEC/ADMINIST. E DEPARTAMENTOS 124 10000,00 
+
+02.02.01.28.846.0004.2020 33.90.47.00 100 CONTR.FORMAÇÃO PATR. SERVIDOR PUBLICO 130 200000,00 
+
+02.11.01.15.452.0025.1039 44.90.51.00 100 ABERT.PAV.AMPL.R.AV.CONS.MEIO FIO CALC 569 278.500,00 
+
+TOTAL 614.500,00 
+
+  
+Art. 4º- Esta Lei entra em vigor na data de sua publicação. 
+  
+ARMANDO JARDIM PAIXÃO 
+Prefeito Municipal 
+
+Publicado por: 
+Marizete Luíz Silva 
+
+Código Identificador:89081E81 
+ 
+
+ESTADO DE MINAS GERAIS
+14-Fevereiro-2020
+ARAÇUAÍ
+A DE CRÉDITO SUPLEMENTAR AO ORÇAMENTO GERAL DO MUNICÍPIO, EM FAVOR DA 
+SECRETARIA MUNICIPAL DE EDUCAÇÃO, NO VALOR DE R$614.500,00 (SEISCENTOS E QUATORZE MIL E 
+QUINHENTOS REAIS) 
+
+  
+Faço saber que o povo do Município de Araçuaí, através de seus representantes, aprovou e eu, Prefeito Municipal, sanciono e promulgo a seguinte 
+lei: 
+  
+Art. 1º Fica o Executivo Municipal autorizado a abrir, mediante decreto, crédito adicional suplementar às dotações do orçamento vigente no valor de 
+R$614.500,00 (Seiscentos e quatorze mil e quinhentos reais) em favor da Secretaria Municipal de Educação, para reforçar dotações orçamentárias 
+com saldos insuficientes para cobrir despesas relativas à folha de pagamento do Décimo Terceiro Salário dos Servidores da educação, conforme 
+disposto nos artigos 40 a 43 da Lei Nº. 4.320/64. 
+  
+Art. 2º. O valor constante do artigo 1º será incorporado nas seguintes dotações orçamentárias vigentes: 
+  
+CÓDIGO ELEMENTO FONTE DESCRIÇÃO DA DESPESA FICHA VALOR 
+
+02.04.01.12.122.0036.2164 31.90.11.00 101 GESTAO DA SECRETARIA MUNICIPAL DE EDUCAÇÃO 188 2.500,00 
+
+02.04.01.12.361.0036.1070 31.90.04.00 101 GESTAO DO ENSINO FUNDAMENTAL 212 155.000,00 
+
+02.04.01.12.361.0036.1070 31.90.11.00 101 GESTAO DO ENSINO FUNDAMENTAL 213 155.000,00 
+
+02.04.01.12.361.0036.2165 33.90.39.00 100 GESTAO DO ENSINO FUNDAMENTAL 220 37.000,00 
+
+02.04.01.12.361.0036.2166 31.90.04.00 101 GESTAO DO TRANSPORTE ESCOLAR 221 2.000,00 
+
+02.04.01.12.361.0036.2166 31.90.11.00 101 GESTAO DO TRANSPORTE ESCOLAR 222 15.500,00 
+
+02.04.01.12.361.0036.2187 31.90.11.00 101 MANUTENÇÃO CESU 231 35.000,00 
+
+02.04.01.12.365.0036.2169 31.90.04.00 101 GESTAO DO ENSINO INFANTIL 245 88.000,00 
+
+02.04.01.12.365.0036.2169 31.90.11.00 101 GESTAO DO ENSINO INFANTIL 246 122.000,00 
+
+02.04.01.12.366.0036.2170 31.90.11.00 101 GESTAO DO ENSINO DE JOVENS E ADULTOS 255 2.500,00 
+
+TOTAL 614.500,00 
+
+  
+§1º. Fica o Poder Executivo autorizado promover as alterações necessárias para compatibilização ao PPA e LDO, nos termos do art. 16, § 1º, incisos 
+I e II da Lei Complementar nº. 101/00. 
+Art. 3º. Para fazer face à despesa estipulada no artigo 1º, fica o Executivo Municipal autorizado a efetuar a anulação parcial, conforme disposto no 
+inciso III do §1° do art. 43 da Lei Federal n° 4.320/64 das seguintes dotações: 
+ 
+  
+
+
+
+Minas Gerais , 14 de Fevereiro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2695 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              190 
+ 
+
+CÓDIGO ELEMENTO FONTE DESCRIÇÃO DA DESPESA FICHA VALOR 
+
+02.04.01.12.122.0036.2164 33.90.14.00 101 GESTAO DA SECRETARIA MUNICIPAL DE EDUCAÇÃO 193 7.000,00 
+
+02.04.01.12.122.0036.2164 33.90.39.00 101 GESTAO DA SECRETARIA MUNICIPAL DE EDUCAÇÃO 197 9.000,00 
+
+02.04.01.12.361.0036.2165 33.90.39.00 101 GESTAO DO ENSINO FUNDAMENTAL 220 20.000,00 
+
+02.04.01.12.365.0036.2169 33.90.39.00 101 GESTAO DO ENSINO INFANTIL 253 20.000,00 
+
+02.02.01.04.122.0005.2016 33.90.36.00 100 MANUT. ATIV.FUNC.SECRETARIA 94 20.000,00 
+
+02.02.01.04.122.0005.2016 33.90.39.00 100 MANUT. ATIV.FUNC.SECRETARIA 95 50.000,00 
+
+02.02.01.04.122.0005.3006 44.90.52.00 100 EQUIP. P/SEC/ADMINIST. E DEPARTAMENTOS 124 10000,00 
+
+02.02.01.28.846.0004.2020 33.90.47.00 100 CONTR.FORMAÇÃO PATR. SERVIDOR PUBLICO 130 200000,00 
+
+02.11.01.15.452.0025.1039 44.90.51.00 100 ABERT.PAV.AMPL.R.AV.CONS.MEIO FIO CALC 569 278.500,00 
+
+TOTAL 614.500,00 
+
+  
+Art. 4º- Esta Lei entra em vigor na data de sua publicação. 
+  
+ARMANDO JARDIM PAIXÃO 
+Prefeito Municipal 
+
+Publicado por: 
+Marizete Luíz Silva 
+
+Código Identificador:89081E81 
+ 
+
+ESTADO DE MINAS GERAIS

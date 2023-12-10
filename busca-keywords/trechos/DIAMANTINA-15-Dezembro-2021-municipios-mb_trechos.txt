@@ -1,0 +1,2303 @@
+15-Dezembro-2021
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0060 1140.04.0131.0003.2029.100 - SALÁRIOS/ENCARGOS DA ASSESSORIA DE COMUNICAÇÃO 15.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0068 1140.04.0131.0003.2030.100 - MANUTENÇÃO DAS ATIVIDADES DA ASSESSORIA DE COMUNICAÇÃO 20.741,92 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0073 1150.04.0124.0003.2031.100 - SALÁRIOS/ENCARGOS DA CONTROLADORIA GERAL DO MUNICÍPIO 50.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0079 1150.04.0124.0003.2032.100 - MANUTENÇÃO DAS ATIVIDADES DA CGM 176,64 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0082 1150.04.0124.0003.2032.100 - MANUTENÇÃO DAS ATIVIDADES DA CGM 3.968,44 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0083 1150.04.0124.0003.2032.100 - MANUTENÇÃO DAS ATIVIDADES DA CGM 2.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0085 1150.04.0124.0003.2032.100 - MANUTENÇÃO DAS ATIVIDADES DA CGM 1.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0086 1160.02.0092.0004.2236.100 - PAGAMENTOS DE SENTENÇAS JUDICIAIS 43.126,15 
+
+  3.1.90.91.00.00 - Sentenças Judiciais   
+
+0121 1210.04.0122.0003.2037.100 - MANUTENÇÃO DAS ATIVIDADES DA SEPLAG 10.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0125 1210.11.0331.0003.2048.100 - PROTEÇÃO E BENEFÍCIOS AO SERVIDOR 1.000,00 
+
+  3.3.90.46.00.00 - Auxílio-alimentação   
+
+0137 1220.04.0122.0003.2040.100 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE RH 2.500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0140 1220.04.0122.0003.2040.100 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE RH 1.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0146 1220.04.0128.0003.2041.100 - FORMAÇÃO E CAPACITAÇÃO DOS SERVIDORES MUNICIPAIS 1.500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+0147 1220.09.0272.0003.3001.100 - APORTE P/ COBERTURA DE DEFICIT ATUARIAL - RPPS 1.000,00 
+
+  3.3.91.97.00.00 - Aporte para Cobertura do Déficit Atuarial do RPPS   
+
+0149 1230.04.0122.0003.2042.100 - SALÁRIOS/ENCARGOS DO DEPTO DE SERVIÇOS DA SEPLAG 76.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0166 1240.04.0126.0003.1013.100 - AQUISIÇÃO DE EQUIP. E MÓVEIS P/ TI 2.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0176 1240.04.0126.0003.2045.100 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE TI 1.000,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0179 1240.04.0126.0003.2045.100 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE TI 2.500,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0181 1240.04.0126.0003.2045.100 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE TI 1.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0191 1250.26.0782.0003.2047.100 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE FROTAS 1.000,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0192 1250.26.0782.0003.2047.100 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE FROTAS 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0224 1320.04.0129.0003.2051.100 - SALÁRIOS/ENCARGOS DO DEPTO DE TRIBUTOS 30.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0232 1320.04.0129.0003.2052.100 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE TRIBUTOS 4.860,07 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0234 1410.04.0122.0003.1015.100 - AQUISIÇÃO DE IMÓVEIS 130.000,00 
+
+  4.4.90.61.00.00 - Aquisição de Imóveis   
+
+0234 1410.04.0122.0003.1015.100 - AQUISIÇÃO DE IMÓVEIS 43.010,00 
+
+  4.4.90.61.00.00 - Aquisição de Imóveis   
+
+0234 1410.04.0122.0003.1015.100 - AQUISIÇÃO DE IMÓVEIS 35.400,00 
+
+  4.4.90.61.00.00 - Aquisição de Imóveis   
+
+0234 1410.04.0122.0003.1015.100 - AQUISIÇÃO DE IMÓVEIS 165.000,00 
+
+  4.4.90.61.00.00 - Aquisição de Imóveis   
+
+0234 1410.04.0122.0003.1015.100 - AQUISIÇÃO DE IMÓVEIS 2.700,00 
+
+  4.4.90.61.00.00 - Aquisição de Imóveis   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0260 1410.04.0126.0010.2071.100 - MANUTENÇÃO DAS ATIVIDADES DIGITAL DE DTNA 1.000,00 
+
+
+
+Minas Gerais , 15 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3156 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              232 
+ 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0261 1410.04.0126.0010.2071.100 - MANUTENÇÃO DAS ATIVIDADES DIGITAL DE DTNA 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0263 1410.04.0126.0010.2071.100 - MANUTENÇÃO DAS ATIVIDADES DIGITAL DE DTNA 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+0265 1410.04.0422.0010.2070.100 - MANUTENÇÃO DAS ATIVIDADES DE OUVIDORIA 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0266 1410.04.0422.0010.2070.100 - MANUTENÇÃO DAS ATIVIDADES DE OUVIDORIA 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0267 1410.04.0422.0010.2070.100 - MANUTENÇÃO DAS ATIVIDADES DE OUVIDORIA 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+0268 1410.06.0153.0007.2060.100 - MANUTENÇÃO DE CONVÊNIOS COM O TIRO DE GUERRA 664,12 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0268 1410.06.0153.0007.2060.100 - MANUTENÇÃO DE CONVÊNIOS COM O TIRO DE GUERRA 2.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0271 1410.06.0153.0007.2060.100 - MANUTENÇÃO DE CONVÊNIOS COM O TIRO DE GUERRA 2.300,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0272 1410.06.0153.0007.2060.100 - MANUTENÇÃO DE CONVÊNIOS COM O TIRO DE GUERRA 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+0275 1410.06.0181.0007.2058.100 - MANUTENÇÃO DE CONVÊNIOS COM A PMMG 2.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0296 1410.25.0752.0006.2064.100 - MANUTENÇÃO DAS ATIVIDADES DE ILUMINAÇÃO PÚBLICA 7.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0298 1410.26.0781.0007.2062.100 - MANUTENÇÃO DO AEROPORTO MUNICIPAL 710,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0300 1410.26.0781.0007.2062.100 - MANUTENÇÃO DO AEROPORTO MUNICIPAL 2.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0305 1410.26.0782.0003.2237.100 - MANUTENÇÃO DAS ATIVIDADES DE TRÂNSITO NO MUNICÍPIO 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0309 1410.26.0782.0003.2237.100 - MANUTENÇÃO DAS ATIVIDADES DE TRÂNSITO NO MUNICÍPIO 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+0311 1420.02.0062.0003.2067.100 - SALÁRIOS/ENCARGOS DA PROCURADORIA JURÍDICA MUNICIPAL 70.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0317 1420.02.0062.0003.2068.100 - MANUTENÇÃO DAS ATIIDADES DA PROCURADORIA JURÍDICA MUNICIPAL 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0323 1420.02.0062.0003.2068.100 - MANUTENÇÃO DAS ATIIDADES DA PROCURADORIA JURÍDICA MUNICIPAL 1.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0333 1430.06.0181.0007.2066.100 - MANUTENÇÃO DAS ATIVIDADES DA GUARDA CIVIL PATRIMONIAL 2.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0334 1430.06.0181.0007.2066.100 - MANUTENÇÃO DAS ATIVIDADES DA GUARDA CIVIL PATRIMONIAL 2.621,60 
+
+  3.3.90.19.00.00 - Auxílio-fardamento   
+
+0344 1440.04.0122.0066.2229.100 - SALÁRIOS/ENCARGOS DO PROCON 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0362 1440.04.0122.0066.2232.100 - MANUTENÇÃO DAS ATIVIDADES DO CONDECON 1.000,00 
+
+  3.3.90
+15-Dezembro-2021
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0260 1410.04.0126.0010.2071.100 - MANUTENÇÃO DAS ATIVIDADES DIGITAL DE DTNA 1.000,00 
+
+
+
+Minas Gerais , 15 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3156 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              232 
+ 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0261 1410.04.0126.0010.2071.100 - MANUTENÇÃO DAS ATIVIDADES DIGITAL DE DTNA 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0263 1410.04.0126.0010.2071.100 - MANUTENÇÃO DAS ATIVIDADES DIGITAL DE DTNA 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+0265 1410.04.0422.0010.2070.100 - MANUTENÇÃO DAS ATIVIDADES DE OUVIDORIA 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0266 1410.04.0422.0010.2070.100 - MANUTENÇÃO DAS ATIVIDADES DE OUVIDORIA 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0267 1410.04.0422.0010.2070.100 - MANUTENÇÃO DAS ATIVIDADES DE OUVIDORIA 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+0268 1410.06.0153.0007.2060.100 - MANUTENÇÃO DE CONVÊNIOS COM O TIRO DE GUERRA 664,12 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0268 1410.06.0153.0007.2060.100 - MANUTENÇÃO DE CONVÊNIOS COM O TIRO DE GUERRA 2.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0271 1410.06.0153.0007.2060.100 - MANUTENÇÃO DE CONVÊNIOS COM O TIRO DE GUERRA 2.300,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0272 1410.06.0153.0007.2060.100 - MANUTENÇÃO DE CONVÊNIOS COM O TIRO DE GUERRA 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+0275 1410.06.0181.0007.2058.100 - MANUTENÇÃO DE CONVÊNIOS COM A PMMG 2.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0296 1410.25.0752.0006.2064.100 - MANUTENÇÃO DAS ATIVIDADES DE ILUMINAÇÃO PÚBLICA 7.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0298 1410.26.0781.0007.2062.100 - MANUTENÇÃO DO AEROPORTO MUNICIPAL 710,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0300 1410.26.0781.0007.2062.100 - MANUTENÇÃO DO AEROPORTO MUNICIPAL 2.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0305 1410.26.0782.0003.2237.100 - MANUTENÇÃO DAS ATIVIDADES DE TRÂNSITO NO MUNICÍPIO 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0309 1410.26.0782.0003.2237.100 - MANUTENÇÃO DAS ATIVIDADES DE TRÂNSITO NO MUNICÍPIO 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+0311 1420.02.0062.0003.2067.100 - SALÁRIOS/ENCARGOS DA PROCURADORIA JURÍDICA MUNICIPAL 70.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0317 1420.02.0062.0003.2068.100 - MANUTENÇÃO DAS ATIIDADES DA PROCURADORIA JURÍDICA MUNICIPAL 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0323 1420.02.0062.0003.2068.100 - MANUTENÇÃO DAS ATIIDADES DA PROCURADORIA JURÍDICA MUNICIPAL 1.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0333 1430.06.0181.0007.2066.100 - MANUTENÇÃO DAS ATIVIDADES DA GUARDA CIVIL PATRIMONIAL 2.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0334 1430.06.0181.0007.2066.100 - MANUTENÇÃO DAS ATIVIDADES DA GUARDA CIVIL PATRIMONIAL 2.621,60 
+
+  3.3.90.19.00.00 - Auxílio-fardamento   
+
+0344 1440.04.0122.0066.2229.100 - SALÁRIOS/ENCARGOS DO PROCON 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0362 1440.04.0122.0066.2232.100 - MANUTENÇÃO DAS ATIVIDADES DO CONDECON 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0363 1440.04.0122.0066.2232.100 - MANUTENÇÃO DAS ATIVIDADES DO CONDECON 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0364 1440.04.0122.0066.2232.100 - MANUTENÇÃO DAS ATIVIDADES DO CONDECON 1.000,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0365 1440.04.0122.0066.2232.100 - MANUTENÇÃO DAS ATIVIDADES DO CONDECON 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0366 1440.04.0122.0066.2232.100 - MANUTENÇÃO DAS ATIVIDADES DO CONDECON 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0367 1441.04.0122.0066.2233.100 - SALÁRIOS/ENCARGOS DO FMDC 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0368 1441.04.0122.0066.2233.100 - SALÁRIOS/ENCARGOS DO FMDC 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0369 1441.04.0122.0066.2233.100 - SALÁRIOS/ENCARGOS DO FMDC 1.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0370 1441.04.0122.0066.2233.100 - SALÁRIOS/ENCARGOS DO FMDC 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0371 1441.04.0122.0066.2233.100 - SALÁRIOS/ENCARGOS DO FMDC 1.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0372 1441.04.0122.0066.2233.100 - SALÁRIOS/ENCARGOS DO FMDC 1.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0373 1441.04.0122.0066.2234.100 - MANUTENÇÃO DAS ATIVIDADES DO FMDC 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0374 1441.04.0122.0066.2234.100 - MANUTENÇÃO DAS ATIVIDADES DO FMDC 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0375 1441.04.0122.0066.2234.100 - MANUTENÇÃO DAS ATIVIDADES DO FMDC 1.000,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0376 1441.04.0122.0066.2234.100 - MANUTENÇÃO DAS ATIVIDADES DO FMDC 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0377 1441.04.0122.0066.2234.100 - MANUTENÇÃO DAS ATIVIDADES DO FMDC 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0379 1510.12.0122.0011.1021.101 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SEDUC 204.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0400 1510.12.0122.0011.2073.101 - MANUTENÇÃO DAS ATIVIDADES DA SEDUC 5.475,85 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+0403 1510.12.0122.0011.2075.101 - CONTRIBUIÇÃO A UNDIME 2.000,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+0460 1521.12.0361.0011.2083.101 - SALÁRIOS/ENCARGOS DO TRANSPORTE ESCOLAR 3.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+
+
+Minas Gerais , 15 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3156 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              233 
+ 
+
+0460 1521.12.0361.0011.2083.101 - SALÁRIOS/ENCARGOS DO TRANSPORTE ESCOLAR 13.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0460 1521.12.0361.0011.2083.101 - SALÁRIOS/ENCARGOS DO TRANSPORTE ESCOLAR 4.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0462 1521.12.0361.0011.2083.101 - SALÁRIOS/ENCARGOS DO TRANSPORTE ESCOLAR 20.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0473 1521.12.0361.0011.2084.101 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 3.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0478 1521.12.0361.0011.2084.101 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 4.000,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0479 1521.12.0361.0011.2084.101 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 5.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0483 1521.12.0361.0011.2084.101 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 50.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0488 
+15-Dezembro-2021
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0368 1441.04.0122.0066.2233.100 - SALÁRIOS/ENCARGOS DO FMDC 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0369 1441.04.0122.0066.2233.100 - SALÁRIOS/ENCARGOS DO FMDC 1.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0370 1441.04.0122.0066.2233.100 - SALÁRIOS/ENCARGOS DO FMDC 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0371 1441.04.0122.0066.2233.100 - SALÁRIOS/ENCARGOS DO FMDC 1.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0372 1441.04.0122.0066.2233.100 - SALÁRIOS/ENCARGOS DO FMDC 1.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0373 1441.04.0122.0066.2234.100 - MANUTENÇÃO DAS ATIVIDADES DO FMDC 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0374 1441.04.0122.0066.2234.100 - MANUTENÇÃO DAS ATIVIDADES DO FMDC 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0375 1441.04.0122.0066.2234.100 - MANUTENÇÃO DAS ATIVIDADES DO FMDC 1.000,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0376 1441.04.0122.0066.2234.100 - MANUTENÇÃO DAS ATIVIDADES DO FMDC 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0377 1441.04.0122.0066.2234.100 - MANUTENÇÃO DAS ATIVIDADES DO FMDC 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0379 1510.12.0122.0011.1021.101 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SEDUC 204.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0400 1510.12.0122.0011.2073.101 - MANUTENÇÃO DAS ATIVIDADES DA SEDUC 5.475,85 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+0403 1510.12.0122.0011.2075.101 - CONTRIBUIÇÃO A UNDIME 2.000,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+0460 1521.12.0361.0011.2083.101 - SALÁRIOS/ENCARGOS DO TRANSPORTE ESCOLAR 3.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+
+
+Minas Gerais , 15 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3156 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              233 
+ 
+
+0460 1521.12.0361.0011.2083.101 - SALÁRIOS/ENCARGOS DO TRANSPORTE ESCOLAR 13.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0460 1521.12.0361.0011.2083.101 - SALÁRIOS/ENCARGOS DO TRANSPORTE ESCOLAR 4.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0462 1521.12.0361.0011.2083.101 - SALÁRIOS/ENCARGOS DO TRANSPORTE ESCOLAR 20.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0473 1521.12.0361.0011.2084.101 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 3.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0478 1521.12.0361.0011.2084.101 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 4.000,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0479 1521.12.0361.0011.2084.101 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 5.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0483 1521.12.0361.0011.2084.101 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 50.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0488 1521.12.0361.0011.2084.101 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 4.000,00 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+0489 1521.12.0361.0011.2084.101 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 4.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0496 1521.12.0361.0011.2252.101 - MANUTENÇÃO DOS CONTRATOS DE PROGRAMA DO CIMAMS - EDUCAÇÃO 40.000,00 
+
+  3.3.93.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+0585 1523.12.0365.0011.1029.101 - CONSTRUÇÃO/REFORMAS DE PRÉ ESCOLAS 1.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+0624 1523.12.0365.0011.2098.101 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS INFANTIL 180.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 5.776,05 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 2.586,83 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 31.976,86 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 9.745,71 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 9.020,15 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 5.581,81 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 5.261,30 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 3.555,30 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 8.762,90 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 7.582,77 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 3.484,12 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 758,56 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 6.068,65 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 941,12 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 1.891,74 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0820 1621.10.0301.0014.2113.159 - MANUTENÇÃO DAS ATIVIDADES DO BLATB 408,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+0825 1621.10.0301.0014.2113.102 - MANUTENÇÃO DAS ATIVIDADES DO BLATB 19.629,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0843 1621.10.0301.0014.2114.159 - SALÁRIOS/ENCARGOS DO NASF 1.500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0843 1621.10.0301.0014.2114.159 - SALÁRIOS/ENCARGOS DO NASF 7.386,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0922 1622.10.0302.0016.2120.159 - SALÁRIOS/ENCARGOS DA REDE SAÚDE MENTAL 500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0956 1622.10.0302.0016.2124.159 - SALÁRIOS/ENCARGOS DO BLMAC 47.839,68 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1017 1622.10.0302.0016.2238.155 - MANUTENÇÃO DOS CONTRATOS DE PROGRAMA DO CISAJE 800,00 
+
+  3.3.93.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+1241 1710.04.0122.0024.1054.100 - AQUISIÇÃO DE IMÓVEIS P/ SEMDAMA
+15-Dezembro-2021
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 31.976,86 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 9.745,71 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 9.020,15 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 5.581,81 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 5.261,30 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 3.555,30 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 8.762,90 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 7.582,77 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 3.484,12 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 758,56 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 6.068,65 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 941,12 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0692 1610.10.0122.0013.2105.102 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 1.891,74 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0820 1621.10.0301.0014.2113.159 - MANUTENÇÃO DAS ATIVIDADES DO BLATB 408,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+0825 1621.10.0301.0014.2113.102 - MANUTENÇÃO DAS ATIVIDADES DO BLATB 19.629,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0843 1621.10.0301.0014.2114.159 - SALÁRIOS/ENCARGOS DO NASF 1.500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0843 1621.10.0301.0014.2114.159 - SALÁRIOS/ENCARGOS DO NASF 7.386,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0922 1622.10.0302.0016.2120.159 - SALÁRIOS/ENCARGOS DA REDE SAÚDE MENTAL 500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0956 1622.10.0302.0016.2124.159 - SALÁRIOS/ENCARGOS DO BLMAC 47.839,68 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1017 1622.10.0302.0016.2238.155 - MANUTENÇÃO DOS CONTRATOS DE PROGRAMA DO CISAJE 800,00 
+
+  3.3.93.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+1241 1710.04.0122.0024.1054.100 - AQUISIÇÃO DE IMÓVEIS P/ SEMDAMA 1.000,00 
+
+  4.4.90.61.00.00 - Aquisição de Imóveis   
+
+1254 1710.04.0122.0024.2142.100 - MANUTENÇÃO DAS ATIVIDADES DA SEMDAMA 9.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+1268 1710.20.0605.0026.1057.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ AGRICULTURA 13.252,07 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1283 1710.20.0606.0026.1058.100 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DO MATADOURO MUNICIPAL 700,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1283 1710.20.0606.0026.1058.100 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DO MATADOURO MUNICIPAL 870,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1383 1810.15.0122.0003.2167.100 - MANUTENÇÃO DAS ATIVIDADES DA SEDUR 12.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1395 1810.15.0122.0003.2245.100 - MANUTENÇÃO DOS CONTRATOS DE PROGRAMA DO CIIAMAJE - OBRAS 60.000,00 
+
+  3.3.93.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+1396 1810.15.0122.0003.2245.100 - MANUTENÇÃO DOS CONTRATOS DE PROGRAMA DO CIIAMAJE - OBRAS 30.000,00 
+
+
+
+Minas Gerais , 15 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3156 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              234 
+ 
+
+  4.4.93.51.00.00 - Obras e Instalações   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1399 1810.15.0452.0028.1075.100 - PAVIMENTAÇÃO ASFÁLTICA, RECUPERAÇÃO E MANUTENÇÃO DAS VIAS PÚ 15.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1399 1810.15.0452.0028.1075.100 - PAVIMENTAÇÃO ASFÁLTICA, RECUPERAÇÃO E MANUTENÇÃO DAS VIAS PÚ 50.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1406 1810.15.0452.0028.1076.100 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DE PASSARELAS, PASSEIO E MU 75.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1424 1810.26.0782.0027.2168.100 - MANUTENÇÃO DOS EQUIPAMENTOS DA USINA ASFÁLTICA 24.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1461 1910.08.0122.0035.2174.100 - MANUTENÇÃO DAS ATIVIDADES DA SMDS 14.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+1566 1920.08.0244.0036.2246.100 - MANUTENÇÃO DAS ATIVIDADES DOS CONSELHOS MUNICIPAIS 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1570 1920.08.0244.0036.2246.100 - MANUTENÇÃO DAS ATIVIDADES DOS CONSELHOS MUNICIPAIS 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1700 1930.08.0243.0043.2187.100 - CONTRIBUIÇÕES SOCIAS RECURSOS FIA 50.000,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1720 1940.08.0243.0043.2191.100 - MANUTENÇÃO DAS ATIVIDADES DA FUMBEM 126.407,34 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1720 1940.08.0243.0043.2191.100 - MANUTENÇÃO DAS ATIVIDADES DA FUMBEM 17.308,96 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1720 1940.08.0243.0043.2191.100 - MANUTENÇÃO DAS ATIVIDADES DA FUMBEM 18.283,70 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1755 1960.08.0244.0045.2194.100 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1756 1960.08.0244.0045.2194.100 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1758 1960.08.0244.0045.2194.100 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 1.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1759 1960.08.0244.0045.2194.100 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1760 1960.08.0244.0045.2194.100 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1761 1960.08.0244.0045.2194.100 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1762 1960.08.0244.0045.2194.100 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 1.000,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+1770 2010.04.0122.0003.2196.100 - SALÁRIOS/ENCARGOS DA SECTUR 100.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1780 2010.04.0122.0003.2197.100 - MANUTENÇÃO DAS ATIVIDADES DA SECTUR 20.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa 
+15-Dezembro-2021
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1399 1810.15.0452.0028.1075.100 - PAVIMENTAÇÃO ASFÁLTICA, RECUPERAÇÃO E MANUTENÇÃO DAS VIAS PÚ 15.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1399 1810.15.0452.0028.1075.100 - PAVIMENTAÇÃO ASFÁLTICA, RECUPERAÇÃO E MANUTENÇÃO DAS VIAS PÚ 50.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1406 1810.15.0452.0028.1076.100 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DE PASSARELAS, PASSEIO E MU 75.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1424 1810.26.0782.0027.2168.100 - MANUTENÇÃO DOS EQUIPAMENTOS DA USINA ASFÁLTICA 24.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1461 1910.08.0122.0035.2174.100 - MANUTENÇÃO DAS ATIVIDADES DA SMDS 14.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+1566 1920.08.0244.0036.2246.100 - MANUTENÇÃO DAS ATIVIDADES DOS CONSELHOS MUNICIPAIS 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1570 1920.08.0244.0036.2246.100 - MANUTENÇÃO DAS ATIVIDADES DOS CONSELHOS MUNICIPAIS 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1700 1930.08.0243.0043.2187.100 - CONTRIBUIÇÕES SOCIAS RECURSOS FIA 50.000,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1720 1940.08.0243.0043.2191.100 - MANUTENÇÃO DAS ATIVIDADES DA FUMBEM 126.407,34 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1720 1940.08.0243.0043.2191.100 - MANUTENÇÃO DAS ATIVIDADES DA FUMBEM 17.308,96 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1720 1940.08.0243.0043.2191.100 - MANUTENÇÃO DAS ATIVIDADES DA FUMBEM 18.283,70 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1755 1960.08.0244.0045.2194.100 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1756 1960.08.0244.0045.2194.100 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1758 1960.08.0244.0045.2194.100 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 1.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1759 1960.08.0244.0045.2194.100 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1760 1960.08.0244.0045.2194.100 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1761 1960.08.0244.0045.2194.100 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1762 1960.08.0244.0045.2194.100 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 1.000,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+1770 2010.04.0122.0003.2196.100 - SALÁRIOS/ENCARGOS DA SECTUR 100.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1780 2010.04.0122.0003.2197.100 - MANUTENÇÃO DAS ATIVIDADES DA SECTUR 20.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1790 2010.04.0128.0003.2198.100 - CAPACITAÇÃO DOS SERVIDORES DA SECTUR 4.141,98 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1790 2010.04.0128.0003.2198.100 - CAPACITAÇÃO DOS SERVIDORES DA SECTUR 792,86 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1800 2020.23.0695.0047.2199.100 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA BEM RECEBER EM DTNA 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1801 2020.23.0695.0048.2200.100 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA DTNA ADVENTURE 1.210,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1801 2020.23.0695.0048.2200.100 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA DTNA ADVENTURE 1.536,76 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1801 2020.23.0695.0048.2200.100 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA DTNA ADVENTURE 1.140,88 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1801 2020.23.0695.0048.2200.100 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA DTNA ADVENTURE 1.320,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1808 2020.23.0695.0050.2202.100 - MANUTENÇÃO DO PROGRAMA DIAMANTINA P/ O MUNDO 30.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1810 2020.23.0695.0051.2203.100 - MANUTENÇÃO DO PROGRAMA MEMORARTE 5.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1813 2020.23.0695.0051.2203.100 - MANUTENÇÃO DO PROGRAMA MEMORARTE 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1815 2020.23.0695.0052.1139.100 - OBRAS DO PROGRAMA NOVOS CAMINHOS P/ O TURISMO 50.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1817 2020.23.0695.0052.2204.100 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA NOVOS CAMINHOS P/ O TU 7.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1818 2020.23.0695.0052.2204.100 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA NOVOS CAMINHOS P/ O TU 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1819 2020.23.0695.0052.2204.100 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA NOVOS CAMINHOS P/ O TU 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1827 2030.13.0392.0054.1112.100 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DO CINE TEATRO STA IZABEL 5.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1832 2030.13.0392.0054.2208.100 - MANUTENÇÃO DAS ATIVIDADES NO CINE TEATRO STA IZABEL 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1834 2030.13.0392.0054.2208.100 - MANUTENÇÃO DAS ATIVIDADES NO CINE TEATRO STA IZABEL 1.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+1835 2030.13.0392.0054.2208.100 - MANUTENÇÃO DAS ATIVIDADES NO CINE TEATRO STA IZABEL 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+
+
+Minas Gerais , 15 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3156 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              235 
+ 
+
+1838 2030.13.0392.0055.2209.100 - PROMOVER E APOIAR EVENTOS FESTIVOS E CULTURAIS 9.425,38 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1849 2030.13.0392.0056.1114.100 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DO CENTRO CULT. DAVI RIBEIR 1.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1856 2030.13.0392.0056.2210.100 - MANUTENÇÃO DAS ATIVIDADES DO MERCADO VELHO - CENTRO CULT. DA 2.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+1857 2030.13.0392.0056.2210.100 - MANUTENÇÃO DAS ATIVIDADES DO MERCADO VELHO - CENTRO CULT. DA 20.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1858 2030.13.0392.0057.1116.100 - AQUISIÇÃO DE INSTRUMENTOS MUSICAIS 1.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1862 2030.13.0392.0057.2211.100 - MANUTENÇÃO ATIV DAS BANDAS MUSICAIS E ORQUESTRA SINFÔNICA 28.000,00 
+
+  3.3.90.18.00.00 - Auxílio Financeiro a Estudantes   
+
+1863 2030.13.0392.0057.2211.100 - MANUTENÇÃO ATIV DAS BANDAS MUSICAIS E ORQUESTRA SINFÔNICA 10.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1863 2030.13.0392.0057.2211.100 - MANUTENÇÃO ATIV DAS BANDAS MUSICAIS E ORQUESTRA SINFÔNICA 18.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1865 2030.13.0392.0057.2211.100 - MANUTENÇÃO ATIV DAS BANDAS MUSICAIS E ORQUESTRA SINFÔNICA 1.000,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1866 2030.13.0392.0057.2211.100 - MANUTENÇÃO ATIV DAS BANDAS MUSICAIS E ORQUESTRA SINFÔNICA 29.548,44 
+
+  3.3.90.
+15-Dezembro-2021
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1810 2020.23.0695.0051.2203.100 - MANUTENÇÃO DO PROGRAMA MEMORARTE 5.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1813 2020.23.0695.0051.2203.100 - MANUTENÇÃO DO PROGRAMA MEMORARTE 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1815 2020.23.0695.0052.1139.100 - OBRAS DO PROGRAMA NOVOS CAMINHOS P/ O TURISMO 50.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1817 2020.23.0695.0052.2204.100 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA NOVOS CAMINHOS P/ O TU 7.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1818 2020.23.0695.0052.2204.100 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA NOVOS CAMINHOS P/ O TU 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1819 2020.23.0695.0052.2204.100 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA NOVOS CAMINHOS P/ O TU 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1827 2030.13.0392.0054.1112.100 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DO CINE TEATRO STA IZABEL 5.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1832 2030.13.0392.0054.2208.100 - MANUTENÇÃO DAS ATIVIDADES NO CINE TEATRO STA IZABEL 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1834 2030.13.0392.0054.2208.100 - MANUTENÇÃO DAS ATIVIDADES NO CINE TEATRO STA IZABEL 1.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+1835 2030.13.0392.0054.2208.100 - MANUTENÇÃO DAS ATIVIDADES NO CINE TEATRO STA IZABEL 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+
+
+Minas Gerais , 15 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3156 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              235 
+ 
+
+1838 2030.13.0392.0055.2209.100 - PROMOVER E APOIAR EVENTOS FESTIVOS E CULTURAIS 9.425,38 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1849 2030.13.0392.0056.1114.100 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DO CENTRO CULT. DAVI RIBEIR 1.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1856 2030.13.0392.0056.2210.100 - MANUTENÇÃO DAS ATIVIDADES DO MERCADO VELHO - CENTRO CULT. DA 2.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+1857 2030.13.0392.0056.2210.100 - MANUTENÇÃO DAS ATIVIDADES DO MERCADO VELHO - CENTRO CULT. DA 20.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1858 2030.13.0392.0057.1116.100 - AQUISIÇÃO DE INSTRUMENTOS MUSICAIS 1.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1862 2030.13.0392.0057.2211.100 - MANUTENÇÃO ATIV DAS BANDAS MUSICAIS E ORQUESTRA SINFÔNICA 28.000,00 
+
+  3.3.90.18.00.00 - Auxílio Financeiro a Estudantes   
+
+1863 2030.13.0392.0057.2211.100 - MANUTENÇÃO ATIV DAS BANDAS MUSICAIS E ORQUESTRA SINFÔNICA 10.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1863 2030.13.0392.0057.2211.100 - MANUTENÇÃO ATIV DAS BANDAS MUSICAIS E ORQUESTRA SINFÔNICA 18.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1865 2030.13.0392.0057.2211.100 - MANUTENÇÃO ATIV DAS BANDAS MUSICAIS E ORQUESTRA SINFÔNICA 1.000,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1866 2030.13.0392.0057.2211.100 - MANUTENÇÃO ATIV DAS BANDAS MUSICAIS E ORQUESTRA SINFÔNICA 29.548,44 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1868 2030.13.0392.0057.2211.100 - MANUTENÇÃO ATIV DAS BANDAS MUSICAIS E ORQUESTRA SINFÔNICA 3.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+1869 2030.13.0392.0057.2211.100 - MANUTENÇÃO ATIV DAS BANDAS MUSICAIS E ORQUESTRA SINFÔNICA 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1870 2030.13.0392.0057.2211.100 - MANUTENÇÃO ATIV DAS BANDAS MUSICAIS E ORQUESTRA SINFÔNICA 1.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1873 2030.13.0392.0057.2250.100 - SALÁRIOS/ENCARGOS DA ESCOLA DE ARTE E MÚSICA - MAESTRO FRANC 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1874 2030.13.0392.0057.2250.100 - SALÁRIOS/ENCARGOS DA ESCOLA DE ARTE E MÚSICA - MAESTRO FRANC 1.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1875 2030.13.0392.0057.2250.100 - SALÁRIOS/ENCARGOS DA ESCOLA DE ARTE E MÚSICA - MAESTRO FRANC 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1876 2030.13.0392.0057.2250.100 - SALÁRIOS/ENCARGOS DA ESCOLA DE ARTE E MÚSICA - MAESTRO FRANC 1.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1877 2030.13.0392.0057.2250.100 - SALÁRIOS/ENCARGOS DA ESCOLA DE ARTE E MÚSICA - MAESTRO FRANC 1.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1878 2030.13.0392.0057.2251.100 - MANUTENÇÃO DAS ATIVIDADES DA ESCOLA DE ARTE E MÚSICA - MAEST 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1879 2030.13.0392.0057.2251.100 - MANUTENÇÃO DAS ATIVIDADES DA ESCOLA DE ARTE E MÚSICA - MAEST 5.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1880 2030.13.0392.0057.2251.100 - MANUTENÇÃO DAS ATIVIDADES DA ESCOLA DE ARTE E MÚSICA - MAEST 5.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1881 2030.13.0392.0057.2251.100 - MANUTENÇÃO DAS ATIVIDADES DA ESCOLA DE ARTE E MÚSICA - MAEST 14.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1881 2030.13.0392.0057.2251.100 - MANUTENÇÃO DAS ATIVIDADES DA ESCOLA DE ARTE E MÚSICA - MAEST 20,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1882 2030.13.0392.0057.2251.100 - MANUTENÇÃO DAS ATIVIDADES DA ESCOLA DE ARTE E MÚSICA - MAEST 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1882 2030.13.0392.0057.2251.100 - MANUTENÇÃO DAS ATIVIDADES DA ESCOLA DE ARTE E MÚSICA - MAEST 4.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1883 2030.13.0392.0058.1118.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ BIBLIOTECA M 1.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1884 2030.13.0392.0058.2212.100 - MANUTENÇÃO DAS ATIVIDADES DA BIBLIOTECA MUN. DR. JOÃO ANTUNE 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1887 2030.13.0392.0058.2212.100 - MANUTENÇÃO DAS ATIVIDADES DA BIBLIOTECA MUN. DR. JOÃO ANTUNE 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1888 2030.13.0392.0059.2213.100 - MANUTENÇÃO DO PROGRAMA CIRCULADÔ DE CULTURA 441,84 
+
+  3.3.90.18.00.00 - Auxílio Financeiro a Estudantes   
+
+1888 2030.13.0392.0059.2213.100 - MANUTENÇÃO DO PROGRAMA CIRCULADÔ DE CULTURA 970,00 
+
+  3.3.90.18.00.00 - Auxílio Financeiro a Estudantes   
+
+1888 2030.13.0392.0059.2213.100 - MANUTENÇÃO DO PROGRAMA CIRCULADÔ DE CULTURA 2.959,37 
+
+  3.3.90.18.00.00 - Auxílio Financeiro a Estudantes   
+
+1888 2030.13.0392.0059.2213.100 - MANUTENÇÃO DO PROGRAMA CIRCULADÔ DE CULTURA 6.000,00 
+
+  3.3.90.18.00.00 - Auxílio Financeiro a Estudantes   
+
+1888 2030.13.0392.0059.2213.100 - MANUTENÇÃO DO PROGRAMA CIRCULADÔ DE CULTURA 2.604,80 
+
+  3.3.90.18.00.00 - Auxílio Financeiro a Estudantes   
+
+1888 2030.13.0392.0059.2213.100 - MANUTENÇÃO DO PROGRAMA CIRCULADÔ DE CULTURA 750,88 
+
+  3.3.90.18.00.00 - Auxílio Financeiro a Estudantes   
+
+1888 2030.13.0392.0059.2213.100 - MANUTENÇÃO DO PROGRAMA CIRCULADÔ DE CULTURA 1.650,00 
+
+  3.3.90.18.00.00 - Auxílio Financeiro a Estudantes   
+
+1889 2030.13.0392.0059.2213.100 - MANUTENÇÃO DO PROGRAMA CIRCULADÔ DE CULTURA 10.000,00 
+
+  3.3.90.30.00.00 - 
+15-Dezembro-2021
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1878 2030.13.0392.0057.2251.100 - MANUTENÇÃO DAS ATIVIDADES DA ESCOLA DE ARTE E MÚSICA - MAEST 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1879 2030.13.0392.0057.2251.100 - MANUTENÇÃO DAS ATIVIDADES DA ESCOLA DE ARTE E MÚSICA - MAEST 5.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1880 2030.13.0392.0057.2251.100 - MANUTENÇÃO DAS ATIVIDADES DA ESCOLA DE ARTE E MÚSICA - MAEST 5.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1881 2030.13.0392.0057.2251.100 - MANUTENÇÃO DAS ATIVIDADES DA ESCOLA DE ARTE E MÚSICA - MAEST 14.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1881 2030.13.0392.0057.2251.100 - MANUTENÇÃO DAS ATIVIDADES DA ESCOLA DE ARTE E MÚSICA - MAEST 20,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1882 2030.13.0392.0057.2251.100 - MANUTENÇÃO DAS ATIVIDADES DA ESCOLA DE ARTE E MÚSICA - MAEST 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1882 2030.13.0392.0057.2251.100 - MANUTENÇÃO DAS ATIVIDADES DA ESCOLA DE ARTE E MÚSICA - MAEST 4.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1883 2030.13.0392.0058.1118.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ BIBLIOTECA M 1.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1884 2030.13.0392.0058.2212.100 - MANUTENÇÃO DAS ATIVIDADES DA BIBLIOTECA MUN. DR. JOÃO ANTUNE 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1887 2030.13.0392.0058.2212.100 - MANUTENÇÃO DAS ATIVIDADES DA BIBLIOTECA MUN. DR. JOÃO ANTUNE 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1888 2030.13.0392.0059.2213.100 - MANUTENÇÃO DO PROGRAMA CIRCULADÔ DE CULTURA 441,84 
+
+  3.3.90.18.00.00 - Auxílio Financeiro a Estudantes   
+
+1888 2030.13.0392.0059.2213.100 - MANUTENÇÃO DO PROGRAMA CIRCULADÔ DE CULTURA 970,00 
+
+  3.3.90.18.00.00 - Auxílio Financeiro a Estudantes   
+
+1888 2030.13.0392.0059.2213.100 - MANUTENÇÃO DO PROGRAMA CIRCULADÔ DE CULTURA 2.959,37 
+
+  3.3.90.18.00.00 - Auxílio Financeiro a Estudantes   
+
+1888 2030.13.0392.0059.2213.100 - MANUTENÇÃO DO PROGRAMA CIRCULADÔ DE CULTURA 6.000,00 
+
+  3.3.90.18.00.00 - Auxílio Financeiro a Estudantes   
+
+1888 2030.13.0392.0059.2213.100 - MANUTENÇÃO DO PROGRAMA CIRCULADÔ DE CULTURA 2.604,80 
+
+  3.3.90.18.00.00 - Auxílio Financeiro a Estudantes   
+
+1888 2030.13.0392.0059.2213.100 - MANUTENÇÃO DO PROGRAMA CIRCULADÔ DE CULTURA 750,88 
+
+  3.3.90.18.00.00 - Auxílio Financeiro a Estudantes   
+
+1888 2030.13.0392.0059.2213.100 - MANUTENÇÃO DO PROGRAMA CIRCULADÔ DE CULTURA 1.650,00 
+
+  3.3.90.18.00.00 - Auxílio Financeiro a Estudantes   
+
+1889 2030.13.0392.0059.2213.100 - MANUTENÇÃO DO PROGRAMA CIRCULADÔ DE CULTURA 10.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1890 2030.13.0392.0059.2213.100 - MANUTENÇÃO DO PROGRAMA CIRCULADÔ DE CULTURA 0,10 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1899 2040.13.0391.0062.2216.100 - MANUTENÇÃO DO PROGRAMA CIDADE VIVA 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1902 2040.13.0391.0062.2216.100 - MANUTENÇÃO DO PROGRAMA CIDADE VIVA 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1903 2050.13.0391.0062.1140.100 - OBRAS DO PROJETO MONUMENTA 40.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1903 2050.13.0391.0062.1140.100 - OBRAS DO PROJETO MONUMENTA 175,81 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1905 2050.13.0391.0063.1120.100 - REQUALIFICAÇÃO URBANÍSTICA E RESTAURAÇÃO DE MONUMENTOS 139.043,81 
+
+
+
+Minas Gerais , 15 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3156 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              236 
+ 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1905 2050.13.0391.0063.1120.100 - REQUALIFICAÇÃO URBANÍSTICA E RESTAURAÇÃO DE MONUMENTOS 65.360,59 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1905 2050.13.0391.0063.1120.100 - REQUALIFICAÇÃO URBANÍSTICA E RESTAURAÇÃO DE MONUMENTOS 90.464,78 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1905 2050.13.0391.0063.1120.100 - REQUALIFICAÇÃO URBANÍSTICA E RESTAURAÇÃO DE MONUMENTOS 38.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1905 2050.13.0391.0063.1120.100 - REQUALIFICAÇÃO URBANÍSTICA E RESTAURAÇÃO DE MONUMENTOS 52.990,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1905 2050.13.0391.0063.1120.100 - REQUALIFICAÇÃO URBANÍSTICA E RESTAURAÇÃO DE MONUMENTOS 15.647,83 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1905 2050.13.0391.0063.1120.100 - REQUALIFICAÇÃO URBANÍSTICA E RESTAURAÇÃO DE MONUMENTOS 12.431,15 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1907 2050.13.0391.0063.2217.100 - MANUTENÇÃO DO PROJETO MONUMENTA 10.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1908 2050.13.0391.0063.2217.100 - MANUTENÇÃO DO PROJETO MONUMENTA 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1910 2050.13.0391.0063.2217.100 - MANUTENÇÃO DO PROJETO MONUMENTA 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 13.646,82 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 2.466,08 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 560,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 7.133,26 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 9.290,68 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 2.022,75 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 1.209,99 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 321,67 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 1.753,33 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 10.402,83 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 1.283,94 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 2.435,29 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 530,21 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 990,14 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 25.274,09 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 
+15-Dezembro-2021
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1905 2050.13.0391.0063.1120.100 - REQUALIFICAÇÃO URBANÍSTICA E RESTAURAÇÃO DE MONUMENTOS 15.647,83 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1905 2050.13.0391.0063.1120.100 - REQUALIFICAÇÃO URBANÍSTICA E RESTAURAÇÃO DE MONUMENTOS 12.431,15 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1907 2050.13.0391.0063.2217.100 - MANUTENÇÃO DO PROJETO MONUMENTA 10.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1908 2050.13.0391.0063.2217.100 - MANUTENÇÃO DO PROJETO MONUMENTA 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1910 2050.13.0391.0063.2217.100 - MANUTENÇÃO DO PROJETO MONUMENTA 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 13.646,82 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 2.466,08 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 560,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 7.133,26 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 9.290,68 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 2.022,75 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 1.209,99 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 321,67 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 1.753,33 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 10.402,83 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 1.283,94 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 2.435,29 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 530,21 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 990,14 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 25.274,09 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1911 2110.27.0122.0064.1126.100 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SELJ 5.706,10 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1912 2110.27.0122.0065.2218.100 - SALÁRIOS/ENCARGOS DA SELJ 21.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1921 2110.27.0122.0065.2219.100 - MANUTENÇÃO DAS ATIVIDADES DA SELJ 4.000,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1922 2110.27.0122.0065.2219.100 - MANUTENÇÃO DAS ATIVIDADES DA SELJ 1.000,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1926 2110.27.0122.0065.2219.100 - MANUTENÇÃO DAS ATIVIDADES DA SELJ 4.600,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+1928 2110.27.0122.0065.2219.100 - MANUTENÇÃO DAS ATIVIDADES DA SELJ 1.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+1929 2110.27.0128.0065.2226.100 - CAPACITAÇÃO DOS SERVIDORES DA SELJ 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1930 2110.27.0128.0065.2226.100 - CAPACITAÇÃO DOS SERVIDORES DA SELJ 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1931 2110.27.0128.0065.2226.100 - CAPACITAÇÃO DOS SERVIDORES DA SELJ 1.000,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1932 2110.27.0128.0065.2226.100 - CAPACITAÇÃO DOS SERVIDORES DA SELJ 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1933 2110.27.0128.0065.2226.100 - CAPACITAÇÃO DOS SERVIDORES DA SELJ 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1934 2110.27.0128.0065.2226.100 - CAPACITAÇÃO DOS SERVIDORES DA SELJ 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1939 2110.27.0812.0064.1123.124 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DE PRAÇAS DE ESP., ÁREAS LA 54.556,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1943 2110.27.0812.0064.1127.100 - AQUISIÇÃO DE IMÓVEIS PARA SELJ 1.000,00 
+
+  4.4.90.61.00.00 - Aquisição de Imóveis   
+
+
+
+Minas Gerais , 15 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3156 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              237 
+ 
+
+1945 2110.27.0812.0065.2220.100 - MANUTENÇÃO DE CONVÊNIO C/ ÓRGÃOS PÚBLICOS 1.000,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1946 2110.27.0812.0065.2220.100 - MANUTENÇÃO DE CONVÊNIO C/ ÓRGÃOS PÚBLICOS 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1947 2110.27.0812.0065.2220.100 - MANUTENÇÃO DE CONVÊNIO C/ ÓRGÃOS PÚBLICOS 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1948 2110.27.0812.0065.2220.100 - MANUTENÇÃO DE CONVÊNIO C/ ÓRGÃOS PÚBLICOS 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1949 2110.27.0812.0065.2221.100 - MANUTENÇÃO DE APOIO A ATIVIDADES ESPORTIVAS E DE LAZER 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1950 2110.27.0812.0065.2221.100 - MANUTENÇÃO DE APOIO A ATIVIDADES ESPORTIVAS E DE LAZER 1.000,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1951 2110.27.0812.0065.2221.100 - MANUTENÇÃO DE APOIO A ATIVIDADES ESPORTIVAS E DE LAZER 50.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1951 2110.27.0812.0065.2221.100 - MANUTENÇÃO DE APOIO A ATIVIDADES ESPORTIVAS E DE LAZER 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1952 2110.27.0812.0065.2221.100 - MANUTENÇÃO DE APOIO A ATIVIDADES ESPORTIVAS E DE LAZER 7.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1953 2110.27.0812.0065.2221.100 - MANUTENÇÃO DE APOIO A ATIVIDADES ESPORTIVAS E DE LAZER 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1954 2110.27.0812.0065.2222.100 - APOIO A ASSOCIAÇÕES COMUNITÁRIAS 1.000,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1955 2110.27.0812.0065.2222.100 - APOIO A ASSOCIAÇÕES COMUNITÁRIAS 1.000,00 
+
+  3.3.50.43.00.00 - Subvenções Sociais   
+
+1956 2110.27.0812.0065.2223.100 - MANUTENÇÃO DE CONVÊNIOS C/ PESSOAS JURÍDICAS 1.000,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1957 2110.27.0812.0065.2223.100 - MANUTENÇÃO DE CONVÊNIOS C/ PESSOAS JURÍDICAS 1.000,00 
+
+  3.3.50.43.00.00 - Subvenções Sociais   
+
+1958 2110.27.0812.0065.2224.100 - MAUTENÇÃO DO PROJETO DE DESCENTRALIZAÇÃO DO ESPORTE E LAZER 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+196
+15-Dezembro-2021
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1931 2110.27.0128.0065.2226.100 - CAPACITAÇÃO DOS SERVIDORES DA SELJ 1.000,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1932 2110.27.0128.0065.2226.100 - CAPACITAÇÃO DOS SERVIDORES DA SELJ 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1933 2110.27.0128.0065.2226.100 - CAPACITAÇÃO DOS SERVIDORES DA SELJ 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1934 2110.27.0128.0065.2226.100 - CAPACITAÇÃO DOS SERVIDORES DA SELJ 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1939 2110.27.0812.0064.1123.124 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DE PRAÇAS DE ESP., ÁREAS LA 54.556,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1943 2110.27.0812.0064.1127.100 - AQUISIÇÃO DE IMÓVEIS PARA SELJ 1.000,00 
+
+  4.4.90.61.00.00 - Aquisição de Imóveis   
+
+
+
+Minas Gerais , 15 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3156 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              237 
+ 
+
+1945 2110.27.0812.0065.2220.100 - MANUTENÇÃO DE CONVÊNIO C/ ÓRGÃOS PÚBLICOS 1.000,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1946 2110.27.0812.0065.2220.100 - MANUTENÇÃO DE CONVÊNIO C/ ÓRGÃOS PÚBLICOS 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1947 2110.27.0812.0065.2220.100 - MANUTENÇÃO DE CONVÊNIO C/ ÓRGÃOS PÚBLICOS 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1948 2110.27.0812.0065.2220.100 - MANUTENÇÃO DE CONVÊNIO C/ ÓRGÃOS PÚBLICOS 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1949 2110.27.0812.0065.2221.100 - MANUTENÇÃO DE APOIO A ATIVIDADES ESPORTIVAS E DE LAZER 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1950 2110.27.0812.0065.2221.100 - MANUTENÇÃO DE APOIO A ATIVIDADES ESPORTIVAS E DE LAZER 1.000,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1951 2110.27.0812.0065.2221.100 - MANUTENÇÃO DE APOIO A ATIVIDADES ESPORTIVAS E DE LAZER 50.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1951 2110.27.0812.0065.2221.100 - MANUTENÇÃO DE APOIO A ATIVIDADES ESPORTIVAS E DE LAZER 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1952 2110.27.0812.0065.2221.100 - MANUTENÇÃO DE APOIO A ATIVIDADES ESPORTIVAS E DE LAZER 7.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1953 2110.27.0812.0065.2221.100 - MANUTENÇÃO DE APOIO A ATIVIDADES ESPORTIVAS E DE LAZER 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1954 2110.27.0812.0065.2222.100 - APOIO A ASSOCIAÇÕES COMUNITÁRIAS 1.000,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1955 2110.27.0812.0065.2222.100 - APOIO A ASSOCIAÇÕES COMUNITÁRIAS 1.000,00 
+
+  3.3.50.43.00.00 - Subvenções Sociais   
+
+1956 2110.27.0812.0065.2223.100 - MANUTENÇÃO DE CONVÊNIOS C/ PESSOAS JURÍDICAS 1.000,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1957 2110.27.0812.0065.2223.100 - MANUTENÇÃO DE CONVÊNIOS C/ PESSOAS JURÍDICAS 1.000,00 
+
+  3.3.50.43.00.00 - Subvenções Sociais   
+
+1958 2110.27.0812.0065.2224.100 - MAUTENÇÃO DO PROJETO DE DESCENTRALIZAÇÃO DO ESPORTE E LAZER 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1960 2110.27.0812.0065.2224.100 - MAUTENÇÃO DO PROJETO DE DESCENTRALIZAÇÃO DO ESPORTE E LAZER 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1961 2110.27.0812.0065.2224.100 - MAUTENÇÃO DO PROJETO DE DESCENTRALIZAÇÃO DO ESPORTE E LAZER 4.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1963 2110.27.0812.0065.2224.100 - MAUTENÇÃO DO PROJETO DE DESCENTRALIZAÇÃO DO ESPORTE E LAZER 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1964 2120.27.0812.0065.2225.100 - MANUTENÇÃO DO FUNDO MUNICIPAL DE ESPORTES E LAZER 5.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1965 2120.27.0812.0065.2225.100 - MANUTENÇÃO DO FUNDO MUNICIPAL DE ESPORTES E LAZER 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1966 2120.27.0812.0065.2225.100 - MANUTENÇÃO DO FUNDO MUNICIPAL DE ESPORTES E LAZER 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+2177 1521.12.0361.0011.2078.166 - SALÁRIOS/ENCARGOS FUNDEB 60% 25.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+2179 1521.12.0361.0011.2078.166 - SALÁRIOS/ENCARGOS FUNDEB 60% 23.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+2182 1521.12.0361.0011.2078.166 - SALÁRIOS/ENCARGOS FUNDEB 60% 32.473,40 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+2189 1523.12.0365.0011.2094.166 - SALÁRIOS/ENCARGOS PRÉ ESCOLA 60% 25.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+2194 1523.12.0365.0011.2094.166 - SALÁRIOS/ENCARGOS PRÉ ESCOLA 60% 20.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+Total 3.294.417,25 
+
+  
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+Artigo 4º: Revogam-se as disposições em contrário. 
+  
+DIAMANTINA, 3 de Novembro de 2021 
+  
+JUSCELINO BRASILIANO ROQUE 
+Prefeito Municipal 
+
+Publicado por: 
+Nilza de Fátima Alves 
+
+Código Identificador:04C33DFD 
+
+ 
+GABINETE DO PREFEITO 
+
+DECRETO Nº 00520/2021 DE 3 DE NOVEMBRO DE 2021 
+ 
+Decreto Nº 00520/2021 de 3 de Novembro de 2021 
+
+  
+Transferência de Dotações 
+
+  
+O Prefeito Municipal, no uso de suas atribuiçoes legais, com base no artigo 43, da Lei Federal Nº 4.320/64 e da Lei Municipal Nº 4103 de 11 
+de Agosto de 2020 ,considerando a necessidade de realocar créditos orçamentários dentro de uma mesma categoria de programação, 
+decreta: 
+  
+Artigo 1º: Fica transferido o valor na ordem de R$ 1.782.684,42 (Hum milhão, setecentos e oitenta e dois Mil e seiscentos e oitenta e quatro reais e 
+quarenta e dois centavos), às dotações do Orçamento Programa do exercício fluente:  
+
+
+
+Minas Gerais , 15 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3156 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              238 
+ 
+
+Ficha Funcional Programática Valor 
+
+0004 
+1100.04.0122.0003.2021.100 - SALÁRIIOS/ENCARGOS DO GABINETE DO PREFEITO 
+
+920,00 
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+
+0004 
+1100.04.0122.0003.2021.100 - SALÁRIIOS/ENCARGOS DO GABINETE DO PREFEITO 
+
+2.258,08 
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+
+0009 
+1100.04.0122.0003.2022.100 - MANUTENÇÃO DAS ATIVIDADES DO GABINETE DO PREFEITO 
+
+4.000,00 
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+
+0009 
+1100.04.0122.0003.2022.100 - MANUTENÇÃO DAS ATIVIDADES DO GABINETE DO PREFEITO 
+
+500,00 
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+
+0009 
+1100.04.0122.0003.2022.100 - MANUTENÇÃO DAS ATIVIDADES DO GABINETE DO PREFEITO 
+
+500,00 
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+
+0013 
+1100.04.0122.0003.2022.100 - MANUTENÇÃO DAS ATIVIDADES DO GABINETE DO PREFEITO 
+
+3.600,00 
+3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física 
+
+0036 
+1120.04.0122.0003.2025.100 - SALÁRIOS/ENCARGOS DA CHEFIA DE GABINETE 
+
+414,35 
+3.1.91.13.00.00 - Obrigações Patronais 
+
+0036 
+1120.04.0122.0003.2025.100 - SALÁRIOS/ENCARGOS DA CHEFIA DE GABINETE 
+
+171,30 
+3.1.91.13.00.00 - Obrigações Patronais 
+
+0063 
+1140.04.0131.0003.2029.100 - SALÁRIOS/ENCARGOS DA ASSESSORIA DE COMUNICAÇÃO 
+
+166,05 
+3.1.91.13.00.00 - Obrigações Patronais 
+
+0065 
+1140.04.0131.0003.2030.
+15-Dezembro-2021
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+2179 1521.12.0361.0011.2078.166 - SALÁRIOS/ENCARGOS FUNDEB 60% 23.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+2182 1521.12.0361.0011.2078.166 - SALÁRIOS/ENCARGOS FUNDEB 60% 32.473,40 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+2189 1523.12.0365.0011.2094.166 - SALÁRIOS/ENCARGOS PRÉ ESCOLA 60% 25.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+2194 1523.12.0365.0011.2094.166 - SALÁRIOS/ENCARGOS PRÉ ESCOLA 60% 20.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+Total 3.294.417,25 
+
+  
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+Artigo 4º: Revogam-se as disposições em contrário. 
+  
+DIAMANTINA, 3 de Novembro de 2021 
+  
+JUSCELINO BRASILIANO ROQUE 
+Prefeito Municipal 
+
+Publicado por: 
+Nilza de Fátima Alves 
+
+Código Identificador:04C33DFD 
+
+ 
+GABINETE DO PREFEITO 
+
+DECRETO Nº 00520/2021 DE 3 DE NOVEMBRO DE 2021 
+ 
+Decreto Nº 00520/2021 de 3 de Novembro de 2021 
+
+  
+Transferência de Dotações 
+
+  
+O Prefeito Municipal, no uso de suas atribuiçoes legais, com base no artigo 43, da Lei Federal Nº 4.320/64 e da Lei Municipal Nº 4103 de 11 
+de Agosto de 2020 ,considerando a necessidade de realocar créditos orçamentários dentro de uma mesma categoria de programação, 
+decreta: 
+  
+Artigo 1º: Fica transferido o valor na ordem de R$ 1.782.684,42 (Hum milhão, setecentos e oitenta e dois Mil e seiscentos e oitenta e quatro reais e 
+quarenta e dois centavos), às dotações do Orçamento Programa do exercício fluente:  
+
+
+
+Minas Gerais , 15 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3156 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              238 
+ 
+
+Ficha Funcional Programática Valor 
+
+0004 
+1100.04.0122.0003.2021.100 - SALÁRIIOS/ENCARGOS DO GABINETE DO PREFEITO 
+
+920,00 
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+
+0004 
+1100.04.0122.0003.2021.100 - SALÁRIIOS/ENCARGOS DO GABINETE DO PREFEITO 
+
+2.258,08 
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+
+0009 
+1100.04.0122.0003.2022.100 - MANUTENÇÃO DAS ATIVIDADES DO GABINETE DO PREFEITO 
+
+4.000,00 
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+
+0009 
+1100.04.0122.0003.2022.100 - MANUTENÇÃO DAS ATIVIDADES DO GABINETE DO PREFEITO 
+
+500,00 
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+
+0009 
+1100.04.0122.0003.2022.100 - MANUTENÇÃO DAS ATIVIDADES DO GABINETE DO PREFEITO 
+
+500,00 
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+
+0013 
+1100.04.0122.0003.2022.100 - MANUTENÇÃO DAS ATIVIDADES DO GABINETE DO PREFEITO 
+
+3.600,00 
+3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física 
+
+0036 
+1120.04.0122.0003.2025.100 - SALÁRIOS/ENCARGOS DA CHEFIA DE GABINETE 
+
+414,35 
+3.1.91.13.00.00 - Obrigações Patronais 
+
+0036 
+1120.04.0122.0003.2025.100 - SALÁRIOS/ENCARGOS DA CHEFIA DE GABINETE 
+
+171,30 
+3.1.91.13.00.00 - Obrigações Patronais 
+
+0063 
+1140.04.0131.0003.2029.100 - SALÁRIOS/ENCARGOS DA ASSESSORIA DE COMUNICAÇÃO 
+
+166,05 
+3.1.91.13.00.00 - Obrigações Patronais 
+
+0065 
+1140.04.0131.0003.2030.100 - MANUTENÇÃO DAS ATIVIDADES DA ASSESSORIA DE COMUNICAÇÃO 
+
+2.106,00 
+3.3.90.30.00.00 - Material de Consumo 
+
+0087 
+1160.02.0092.0004.2236.100 - PAGAMENTOS DE SENTENÇAS JUDICIAIS 
+
+4.150,00 
+3.3.90.91.00.00 - Sentenças Judiciais 
+
+0104 
+1210.04.0122.0003.2036.100 - SALÁRIOS/ENCARGOS DA SEPLAG 
+
+9.605,20 
+3.1.90.04.00.00 - Contratação por Tempo Determinado 
+
+0113 
+1210.04.0122.0003.2037.100 - MANUTENÇÃO DAS ATIVIDADES DA SEPLAG 
+
+5.000,00 
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+
+0118 
+1210.04.0122.0003.2037.100 - MANUTENÇÃO DAS ATIVIDADES DA SEPLAG 
+
+20.000,00 
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+
+0128 
+1220.04.0122.0003.2039.100 - SALÁRIOS/ENCARGOS DO DEPTO DE RH 
+
+412,44 
+3.1.90.13.00.00 - Obrigações Patronais 
+
+0145 
+1220.04.0128.0003.2041.100 - FORMAÇÃO E CAPACITAÇÃO DOS SERVIDORES MUNICIPAIS 
+
+500,00 
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+
+0198 
+1310.04.0123.0003.2049.100 - SALÁRIOS/ENCARGOS DA SEFAZ 
+
+1.000,00 
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+
+0198 
+1310.04.0123.0003.2049.100 - SALÁRIOS/ENCARGOS DA SEFAZ 
+
+1.000,00 
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+
+0198 
+1310.04.0123.0003.2049.100 - SALÁRIOS/ENCARGOS DA SEFAZ 
+
+7.569,30 
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+
+0198 
+1310.04.0123.0003.2049.100 - SALÁRIOS/ENCARGOS DA SEFAZ 
+
+2.969,06 
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+
+0211 
+1310.04.0123.0003.2050.100 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 
+
+29.344,89 
+3.3.90.47.00.00 - Obrigações Tributárias e Contributivas 
+
+0214 
+1310.04.0123.0003.2050.100 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 
+
+2.045,00 
+3.3.90.93.00.00 - Indenizações e Restituições 
+
+0214 
+1310.04.0123.0003.2050.100 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 
+
+500,00 
+3.3.90.93.00.00 - Indenizações e Restituições 
+
+0214 
+1310.04.0123.0003.2050.100 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 
+
+2.688,84 
+3.3.90.93.00.00 - Indenizações e Restituições 
+
+0214 
+1310.04.0123.0003.2050.100 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 
+
+80,00 
+3.3.90.93.00.00 - Indenizações e Restituições 
+
+0214 
+1310.04.0123.0003.2050.100 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 
+
+1.312,00 
+3.3.90.93.00.00 - Indenizações e Restituições 
+
+  
+Artigo 1º: Fica transferido o valor na ordem de R$ 1.782.684,42 (Hum milhão, setecentos e oitenta e dois Mil e seiscentos e oitenta e quatro reais e 
+quarenta e dois centavos), às dotações do Orçamento Programa do exercício fluente: 
+  
+Ficha Funcional Programática Valor 
+
+0226 
+1320.04.0129.0003.2052.100 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE TRIBUTOS 
+
+1.500,00 
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+
+0226 
+1320.04.0129.0003.2052.100 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE TRIBUTOS 
+
+800,00 
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+
+0226 
+1320.04.0129.0003.2052.100 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE TRIBUTOS 
+
+1.000,00 
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+
+0226 
+1320.04.0129.0003.2052.100 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE TRIBUTOS 
+
+800,00 
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+
+0226 
+1320.04.0129.0003.2052.100 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE TRIBUTOS 
+
+1.000,00 
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+
+0226 
+1320.04.0129.0003.2052.100 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE TRIBUTOS 
+
+1.000,00 
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+
+0240 
+1410.04.0122.0003.2053.100 - SALÁRIOS/ENCARGOS DA SEGOV 
+
+2.821,84 
+3.1.90.13.00.00 - Obrigações Patronais 
+
+0248 
+1410.04.0122.0003.2054.100 - MANUTENÇÃO DAS ATIVIDADES DA SEGOV 
+
+4.500,00 
+3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física 
+
+0248 
+1410.04.0122.0003.2054.100 - MANUTENÇÃO DAS ATIVIDADES DA SEGOV 
+
+5.432,66 
+3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física 
+
+0249 
+1410.04.0122.0003.2054.100 - MANUTENÇÃO DAS ATIVIDADES DA SEGOV 
+
+355,11 
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+
+0270 
+1410.06.0153.0007.2060.100 - MANUTENÇÃO DE CONVÊNIOS COM O TIRO DE GUERRA 
+
+2.685,00 
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+
+0312 
+1420.02.0062.0003.2067.100 - SALÁRIOS/ENCARGOS DA PROCURADORIA JURÍDICA MUNICIPAL 
+
+9.000,00 
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+
+0312 
+1420.02.0062.0003.2067.100 - SALÁRIOS/ENCARGOS DA PROCURADORIA JURÍDICA MUNICIPAL 
+
+1.000,00 
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+
+0312 
+1420.02.0062.0003.2067.100 - SALÁRIOS/ENCARGOS DA PROCURADORIA JURÍDICA MUNICIPAL 
+
+4.480,29 
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+
+0318 1420.02.0062.0003.2068.100 - MANUTENÇÃO DAS ATIIDADES DA PROCURADORIA JURÍDICA MUNICIPAL 617,00 
+
+
+
+Minas Gerais , 15 de Dezembro de 2021   •   Diário Oficial dos 

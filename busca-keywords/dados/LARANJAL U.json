@@ -1,7 +1,72 @@
 [
     {
+        "Data": "22-Agosto-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 44000.0
+    },
+    {
+        "Data": "09-Outubro-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 20000.0
+    },
+    {
         "Data": "20-Outubro-2023",
         "Categoria": "Crédito Suplementar",
         "Soma": 7410.05
+    },
+    {
+        "Data": "28-Setembro-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1973.29
+    },
+    {
+        "Data": "23-Agosto-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 30295.09
+    },
+    {
+        "Data": "06-Setembro-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 166858.31
+    },
+    {
+        "Data": "03-Agosto-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 4000.0
+    },
+    {
+        "Data": "22-Agosto-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 44000.0
+    },
+    {
+        "Data": "09-Outubro-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 20000.0
+    },
+    {
+        "Data": "20-Outubro-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 7410.05
+    },
+    {
+        "Data": "28-Setembro-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1973.29
+    },
+    {
+        "Data": "23-Agosto-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 30295.09
+    },
+    {
+        "Data": "06-Setembro-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 166858.31
+    },
+    {
+        "Data": "03-Agosto-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 4000.0
     }
 ]

@@ -1,0 +1,985 @@
+25-Junho-2018
+VISCONDE DO RIO BRANCO
+to o Crédito Suplementar no valor total de R$ 
+30.142,00 (trinta mil , cento e quarenta e dois reais ), as seguintes 
+dotações orçamentárias: 
+  
+Unid. Orc.: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função....: 24 - COMUNICACOES 
+
+Subfunção.: 722 - TELECOMUNICACOES 
+
+Programa..: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 2.067 - MANUTENÇÃO DOS SERVIÇOS DE TELECOMUNICAÇÕES 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$3.200,00 
+
+Função....: 26 - TRANSPORTE 
+
+Subfunção.: 782 - TRANSPORTE RODOVIARIO 
+
+Programa..: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 2.072 - MANUT.RODOV E ESTRADAS C/ ENCASCALHAMENTO 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$15.142,00 
+
+Unid. Orc.: 02.007.000 - SECRETARIA MUN. AGRICULTURA E MEIO AMBIENTE 
+
+Função....: 18 - GESTAO AMBIENTAL 
+
+Subfunção.: 541 - PRESERVACAO E CONSERVACAO AMBIENTAL 
+
+Programa..: 0009 - PRESERVAÇÃO DO MEIO AMBIENTE 
+
+Proj/Ativ.: 2.090 - MANUTENÇÃO DAS ATIVIDADES DO MEIO AMBIENTE 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$2.500,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.113 - MANUTENÇÃO TRATAMENTO FORA DO DOMICILIO - TFD 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$1.000,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$300,00 
+
+Subfunção.: 362 - ENSINO MEDIO 
+
+Programa..: 0019 - EXPANSÃO DA EDUC. PARA OUTROS NÍVEIS DE ENSIN 
+
+Proj/Ativ.: 2.262 - MANUTENÇÃO DAS ATIVIDADES DO SETOR 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$8.000,00 
+
+  
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo 
+primeiro deste decreto fica anulado o valor de R$ 30.142,00 (trinta mil 
+, cento e quarenta e dois reais ), referente a anulação parcial ou total 
+das dotações abaixo relacionadas. 
+  
+Unid. Orc.: 02.003.000 - PROCURADORIA GERAL DO MUNICIPIO 
+
+Função....: 03 - ESSENCIAL A JUSTICA 
+
+Subfunção.: 092 - REPRESENTACAO JUDICIAL E EXTRAJUDICIAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.007 - MANUT. ATIVID. PROCURADORIA 
+
+Conta.....: 3.3.90.35.00 - SERVIÇOS DE CONSULTORIA 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$3.800,00 
+
+Unid. Orc.: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função....: 15 - URBANISMO 
+
+Subfunção.: 451 - INFRA-ESTRUTURA URBANA 
+
+Programa..: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 1.050 - CONSTRUÇÃO E REFORMA ASSOCIAÇÕES COMUNITÁRIAS 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$15.142,00 
+
+Função....: 24 - COMUNICACOES 
+
+Subfunção.: 722 - TELECOMUNICACOES 
+
+Programa..: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 2.067 - MANUTENÇÃO DOS SERVIÇOS DE TELECOMUNICAÇÕES 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$2.000,00 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.200,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 361 - ENSINO FUNDAMENTAL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 1.149 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA UNIDADE ESCOLAR 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$8.000,00 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto 
+em vigor na data de sua publicação. 
+  
+Prefeitura Municipal de VISCONDE DO RIO BRANCO, 20 de junho 
+de 2018 
+
+Publicado por: 
+Marileia Medeiros 
+
+Código Identificador:D1FC80CB 
+ 
+
+DEPARTAMENTO DE CONTABILIDADE 
+DECRETO Nº 000103/2018 
+
+ 
+D E C R E T O 
+  
+Decreto No. 00103/2018 
+  
+
+DISPÕE SOBRE ALTERAÇÃO DE FONTE DE 
+RECURSO E DA OUTRAS PROVIDÊNCIAS. 
+
+
+
+Minas Gerais , 25 de Junho de 2018   •   Diário Oficial dos Municípios Mineiros   •    ANO X | Nº 2279 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               109 
+ 
+
+O(A) Prefeito(a) Municipal de VISCONDE DO RIO BRANCO, 
+Estado de Minas Gerais, no uso de suas atribuições legais, com base 
+na Lei 1353201728/07/2017 e art. 43 da Lei Federal 4.320/64, decreta: 
+  
+Art. 1o. - Fica aberto o Crédito Alteração de Fonte de Recurso no 
+valor total de R$ 96.516,00 (noventa e seis mil , quinhentos e 
+dezesseis reais ), as seguintes dotações orçamentárias: 
+  
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$8.000,00 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função....: 27 - DESPORTO E LAZER 
+
+Subfunção.: 812 - DESPORTO COMUNITARIO 
+
+Programa..: 0023 - IMPLANTAÇÃO DA POLITICA DE DESPORTO E LAZER 
+
+Proj/Ativ.: 1.226 - CONSTRUÇÃO E REFORMA CENTRO/QUADRA POLIESPORT 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 193 - OUTRAS RECEITAS NÃO PRIMÁRIAS 
+
+Valor.....: R$88.516,00 
+
+  
+Art. 2o. - Como recursos a abertura de Crédito Alteração de Fonte de 
+Recurso no artigo primeiro deste decreto fica anulado o valor de 
+R$96.516,00 (noventa e seis mil , quinhentos e dezesseis reais ), 
+referente a anulação parcial ou total das dotações abaixo relacionadas. 
+  
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE 
+
+Valor.....: R$8.000,00 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função....: 27 - DESPORTO E LAZER 
+
+Subfunção.: 812 - DESPORTO COMUNITARIO 
+
+Programa..: 0023 - IMPLANTAÇÃO DA POLITICA DE DESPORTO E LAZER 
+
+Proj/Ativ.: 1.226 - CONSTRUÇÃO E REFORMA CENTRO/QUADRA POLIESPORT 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 124 - TRANFERENCIAS DE CONVENIOS - OUTROS 
+
+Valor.....: R$88.516,00 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto 
+em vigor na data de sua publicação. 
+  
+Prefeitura Municipal de VISCONDE DO RIO BRANCO, 20 de junho 
+de 2018 
+
+Publicado por: 
+Marileia Medeiros 
+
+Código Identificador:A731C38F 
+ 
+
+DEPARTAMENTO DE CONTABILIDADE 
+DECRETO Nº 000105/2018 
+
+ 
+DECRETO 
+ 
+Decreto No. 00105/2018 
+  
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO 
+SUPLEMENTAR E DA OUTRAS 
+PROVIDÊNCIAS. 
+
+  
+O(A) Prefeito(a) Municipal de VISCONDE DO RIO BRANCO, 
+Estado de Minas Gerais, no uso de suas atribuições legais, com base 
+na Lei 13942017 20/10/2017 e art. 43 da Lei Federal 4.320/64, 
+decreta: 
+Art. 1o. - Fica aberto o Crédito Suplementar no valor total de R$ 
+13.500,00 (treze mil , quinhentos reais), as seguintes dotações 
+orçamentárias: 
+  
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FA
+25-Junho-2018
+VISCONDE DO RIO BRANCO
+a de Crédito Suplementar no artigo 
+primeiro deste decreto fica anulado o valor de R$ 30.142,00 (trinta mil 
+, cento e quarenta e dois reais ), referente a anulação parcial ou total 
+das dotações abaixo relacionadas. 
+  
+Unid. Orc.: 02.003.000 - PROCURADORIA GERAL DO MUNICIPIO 
+
+Função....: 03 - ESSENCIAL A JUSTICA 
+
+Subfunção.: 092 - REPRESENTACAO JUDICIAL E EXTRAJUDICIAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.007 - MANUT. ATIVID. PROCURADORIA 
+
+Conta.....: 3.3.90.35.00 - SERVIÇOS DE CONSULTORIA 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$3.800,00 
+
+Unid. Orc.: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função....: 15 - URBANISMO 
+
+Subfunção.: 451 - INFRA-ESTRUTURA URBANA 
+
+Programa..: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 1.050 - CONSTRUÇÃO E REFORMA ASSOCIAÇÕES COMUNITÁRIAS 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$15.142,00 
+
+Função....: 24 - COMUNICACOES 
+
+Subfunção.: 722 - TELECOMUNICACOES 
+
+Programa..: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 2.067 - MANUTENÇÃO DOS SERVIÇOS DE TELECOMUNICAÇÕES 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$2.000,00 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.200,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 361 - ENSINO FUNDAMENTAL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 1.149 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA UNIDADE ESCOLAR 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$8.000,00 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto 
+em vigor na data de sua publicação. 
+  
+Prefeitura Municipal de VISCONDE DO RIO BRANCO, 20 de junho 
+de 2018 
+
+Publicado por: 
+Marileia Medeiros 
+
+Código Identificador:D1FC80CB 
+ 
+
+DEPARTAMENTO DE CONTABILIDADE 
+DECRETO Nº 000103/2018 
+
+ 
+D E C R E T O 
+  
+Decreto No. 00103/2018 
+  
+
+DISPÕE SOBRE ALTERAÇÃO DE FONTE DE 
+RECURSO E DA OUTRAS PROVIDÊNCIAS. 
+
+
+
+Minas Gerais , 25 de Junho de 2018   •   Diário Oficial dos Municípios Mineiros   •    ANO X | Nº 2279 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               109 
+ 
+
+O(A) Prefeito(a) Municipal de VISCONDE DO RIO BRANCO, 
+Estado de Minas Gerais, no uso de suas atribuições legais, com base 
+na Lei 1353201728/07/2017 e art. 43 da Lei Federal 4.320/64, decreta: 
+  
+Art. 1o. - Fica aberto o Crédito Alteração de Fonte de Recurso no 
+valor total de R$ 96.516,00 (noventa e seis mil , quinhentos e 
+dezesseis reais ), as seguintes dotações orçamentárias: 
+  
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$8.000,00 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função....: 27 - DESPORTO E LAZER 
+
+Subfunção.: 812 - DESPORTO COMUNITARIO 
+
+Programa..: 0023 - IMPLANTAÇÃO DA POLITICA DE DESPORTO E LAZER 
+
+Proj/Ativ.: 1.226 - CONSTRUÇÃO E REFORMA CENTRO/QUADRA POLIESPORT 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 193 - OUTRAS RECEITAS NÃO PRIMÁRIAS 
+
+Valor.....: R$88.516,00 
+
+  
+Art. 2o. - Como recursos a abertura de Crédito Alteração de Fonte de 
+Recurso no artigo primeiro deste decreto fica anulado o valor de 
+R$96.516,00 (noventa e seis mil , quinhentos e dezesseis reais ), 
+referente a anulação parcial ou total das dotações abaixo relacionadas. 
+  
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE 
+
+Valor.....: R$8.000,00 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função....: 27 - DESPORTO E LAZER 
+
+Subfunção.: 812 - DESPORTO COMUNITARIO 
+
+Programa..: 0023 - IMPLANTAÇÃO DA POLITICA DE DESPORTO E LAZER 
+
+Proj/Ativ.: 1.226 - CONSTRUÇÃO E REFORMA CENTRO/QUADRA POLIESPORT 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 124 - TRANFERENCIAS DE CONVENIOS - OUTROS 
+
+Valor.....: R$88.516,00 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto 
+em vigor na data de sua publicação. 
+  
+Prefeitura Municipal de VISCONDE DO RIO BRANCO, 20 de junho 
+de 2018 
+
+Publicado por: 
+Marileia Medeiros 
+
+Código Identificador:A731C38F 
+ 
+
+DEPARTAMENTO DE CONTABILIDADE 
+DECRETO Nº 000105/2018 
+
+ 
+DECRETO 
+ 
+Decreto No. 00105/2018 
+  
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO 
+SUPLEMENTAR E DA OUTRAS 
+PROVIDÊNCIAS. 
+
+  
+O(A) Prefeito(a) Municipal de VISCONDE DO RIO BRANCO, 
+Estado de Minas Gerais, no uso de suas atribuições legais, com base 
+na Lei 13942017 20/10/2017 e art. 43 da Lei Federal 4.320/64, 
+decreta: 
+Art. 1o. - Fica aberto o Crédito Suplementar no valor total de R$ 
+13.500,00 (treze mil , quinhentos reais), as seguintes dotações 
+orçamentárias: 
+  
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$500,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.130 - MANUTENÇÃO DO PESSOAL DA SECRETARIA 
+
+Conta.....: 3.1.90.94.00 - INDENIZAÇÕES RESTITUIÇÕES TRABALHISTAS 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$13.000,00 
+
+  
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo 
+primeiro deste decreto fica anulado o valor de R$ 13.500,00 (treze mil 
+, quinhentos reais ), referente a anulação parcial ou total das dotações 
+abaixo relacionadas. 
+  
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 303 - SUPORTE PROFILATICO E TERAPEUTICO 
+
+Programa..: 0013 - ASSITÊNCIA FARMACEUTICA 
+
+Proj/Ativ.: 2.123 - MANUTENÇÃO DA ASSISTÊNCIA FARMACÊUTICA 
+
+Conta.....: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRAT 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$500,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 362 - ENSINO MEDIO 
+
+Programa..: 0019 - EXPANSÃO DA EDUC. PARA OUTROS NÍVEIS DE ENSIN 
+
+Proj/Ativ.: 2.172 - MANUT. PESSOAL DOCENTE COL. MUN. RIO BRANCO 
+
+Conta.....: 3.1.91.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$13.000,00 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto 
+em vigor na data de sua publicação. 
+  
+Prefeitura Municipal de VISCONDE DO RIO BRANCO, 21 de junho 
+de 2018 
+
+Publicado por: 
+Marileia Medeiros 
+
+Código Identificador:AFAFB3DE 
+ 
+
+DEPARTAMENTO DE CONTABILIDADE 
+DECRETO Nº 000106/2018 
+
+ 
+DECRETO 
+  
+Decreto No. 00106/2018 
+  
+
+DISPÕE SOBRE ALTERAÇÃO DE FONTE DE 
+RECURSO E DA OUTRAS PROVIDÊNCIAS. 
+
+  
+O(A) Prefeito(a) Municipal de VISCONDE DO RIO BRANCO, 
+Estado de Minas Gerais, no uso de suas atribuições legais, com base 
+na Lei 13532017 28/07/2017 e art. 43 da Lei Federal 4.320/64, 
+decreta: 
+  
+Art. 1o. - Fica aberto o Crédito Alteração de Fonte de Recurso no 
+valor total de R$ 120.600,00 (cento e vinte mil , seiscentos reais ), as 
+seguintes dotações orçamentárias: 
+  
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE S
+25-Junho-2018
+VISCONDE DO RIO BRANCO
+to o Crédito Suplementar no valor total de R$ 
+13.500,00 (treze mil , quinhentos reais), as seguintes dotações 
+orçamentárias: 
+  
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$500,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.130 - MANUTENÇÃO DO PESSOAL DA SECRETARIA 
+
+Conta.....: 3.1.90.94.00 - INDENIZAÇÕES RESTITUIÇÕES TRABALHISTAS 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$13.000,00 
+
+  
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo 
+primeiro deste decreto fica anulado o valor de R$ 13.500,00 (treze mil 
+, quinhentos reais ), referente a anulação parcial ou total das dotações 
+abaixo relacionadas. 
+  
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 303 - SUPORTE PROFILATICO E TERAPEUTICO 
+
+Programa..: 0013 - ASSITÊNCIA FARMACEUTICA 
+
+Proj/Ativ.: 2.123 - MANUTENÇÃO DA ASSISTÊNCIA FARMACÊUTICA 
+
+Conta.....: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRAT 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$500,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 362 - ENSINO MEDIO 
+
+Programa..: 0019 - EXPANSÃO DA EDUC. PARA OUTROS NÍVEIS DE ENSIN 
+
+Proj/Ativ.: 2.172 - MANUT. PESSOAL DOCENTE COL. MUN. RIO BRANCO 
+
+Conta.....: 3.1.91.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$13.000,00 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto 
+em vigor na data de sua publicação. 
+  
+Prefeitura Municipal de VISCONDE DO RIO BRANCO, 21 de junho 
+de 2018 
+
+Publicado por: 
+Marileia Medeiros 
+
+Código Identificador:AFAFB3DE 
+ 
+
+DEPARTAMENTO DE CONTABILIDADE 
+DECRETO Nº 000106/2018 
+
+ 
+DECRETO 
+  
+Decreto No. 00106/2018 
+  
+
+DISPÕE SOBRE ALTERAÇÃO DE FONTE DE 
+RECURSO E DA OUTRAS PROVIDÊNCIAS. 
+
+  
+O(A) Prefeito(a) Municipal de VISCONDE DO RIO BRANCO, 
+Estado de Minas Gerais, no uso de suas atribuições legais, com base 
+na Lei 13532017 28/07/2017 e art. 43 da Lei Federal 4.320/64, 
+decreta: 
+  
+Art. 1o. - Fica aberto o Crédito Alteração de Fonte de Recurso no 
+valor total de R$ 120.600,00 (cento e vinte mil , seiscentos reais ), as 
+seguintes dotações orçamentárias: 
+  
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 303 - SUPORTE PROFILATICO E TERAPEUTICO 
+
+Programa..: 0013 - ASSITÊNCIA FARMACEUTICA 
+
+Proj/Ativ.: 2.123 - MANUTENÇÃO DA ASSISTÊNCIA FARMACÊUTICA 
+
+Conta.....: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRAT 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$20.000,00 
+
+Fonte.....: 151 - TRANS. DE RECURSOS DO SUS - FARMACÊUTICA 
+
+Valor.....: R$20.000,00 
+
+Fonte.....: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE 
+
+Valor.....: R$80.600,00 
+
+  
+Art. 2o. - Como recursos a abertura de Crédito Alteração de Fonte de 
+Recurso no artigo primeiro deste decreto fica anulado o valor de R$ 
+120.600,00 (cento e vinte mil, seiscentos reais ), referente a anulação 
+parcial ou total das dotações abaixo relacionadas. 
+  
+
+
+
+Minas Gerais , 25 de Junho de 2018   •   Diário Oficial dos Municípios Mineiros   •    ANO X | Nº 2279 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               110 
+ 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 303 - SUPORTE PROFILATICO E TERAPEUTICO 
+
+Programa..: 0013 - ASSITÊNCIA FARMACEUTICA 
+
+Proj/Ativ.: 2.123 - MANUTENÇÃO DA ASSISTÊNCIA FARMACÊUTICA 
+
+Conta.....: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRAT 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$120.600,00 
+
+  
+Prefeitura Municipal de VISCONDE DO RIO BRANCO, 21 de junho 
+de 2018 
+
+Publicado por: 
+Marileia Medeiros 
+
+Código Identificador:1392F9D8 
+ 
+
+DEPARTAMENTO DE LICITAÇÃO E CONTRATOS 
+EXTRATO DE ACRÉSCIMO DE ITENS 
+
+ 
+TERMO ADITIVO DE ACRÉSCIMO A ATA DE REGISTRO 
+DE PREÇO Nº 199/2017 –PREGÃO Nº 106/2017 - PROCESSO 
+LICITATÓRIO N° 144/2017 CONTRATANTE:
+25-Junho-2018
+VISCONDE DO RIO BRANCO
+a de Crédito Suplementar no artigo 
+primeiro deste decreto fica anulado o valor de R$ 13.500,00 (treze mil 
+, quinhentos reais ), referente a anulação parcial ou total das dotações 
+abaixo relacionadas. 
+  
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 303 - SUPORTE PROFILATICO E TERAPEUTICO 
+
+Programa..: 0013 - ASSITÊNCIA FARMACEUTICA 
+
+Proj/Ativ.: 2.123 - MANUTENÇÃO DA ASSISTÊNCIA FARMACÊUTICA 
+
+Conta.....: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRAT 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$500,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 362 - ENSINO MEDIO 
+
+Programa..: 0019 - EXPANSÃO DA EDUC. PARA OUTROS NÍVEIS DE ENSIN 
+
+Proj/Ativ.: 2.172 - MANUT. PESSOAL DOCENTE COL. MUN. RIO BRANCO 
+
+Conta.....: 3.1.91.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$13.000,00 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto 
+em vigor na data de sua publicação. 
+  
+Prefeitura Municipal de VISCONDE DO RIO BRANCO, 21 de junho 
+de 2018 
+
+Publicado por: 
+Marileia Medeiros 
+
+Código Identificador:AFAFB3DE 
+ 
+
+DEPARTAMENTO DE CONTABILIDADE 
+DECRETO Nº 000106/2018 
+
+ 
+DECRETO 
+  
+Decreto No. 00106/2018 
+  
+
+DISPÕE SOBRE ALTERAÇÃO DE FONTE DE 
+RECURSO E DA OUTRAS PROVIDÊNCIAS. 
+
+  
+O(A) Prefeito(a) Municipal de VISCONDE DO RIO BRANCO, 
+Estado de Minas Gerais, no uso de suas atribuições legais, com base 
+na Lei 13532017 28/07/2017 e art. 43 da Lei Federal 4.320/64, 
+decreta: 
+  
+Art. 1o. - Fica aberto o Crédito Alteração de Fonte de Recurso no 
+valor total de R$ 120.600,00 (cento e vinte mil , seiscentos reais ), as 
+seguintes dotações orçamentárias: 
+  
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 303 - SUPORTE PROFILATICO E TERAPEUTICO 
+
+Programa..: 0013 - ASSITÊNCIA FARMACEUTICA 
+
+Proj/Ativ.: 2.123 - MANUTENÇÃO DA ASSISTÊNCIA FARMACÊUTICA 
+
+Conta.....: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRAT 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$20.000,00 
+
+Fonte.....: 151 - TRANS. DE RECURSOS DO SUS - FARMACÊUTICA 
+
+Valor.....: R$20.000,00 
+
+Fonte.....: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE 
+
+Valor.....: R$80.600,00 
+
+  
+Art. 2o. - Como recursos a abertura de Crédito Alteração de Fonte de 
+Recurso no artigo primeiro deste decreto fica anulado o valor de R$ 
+120.600,00 (cento e vinte mil, seiscentos reais ), referente a anulação 
+parcial ou total das dotações abaixo relacionadas. 
+  
+
+
+
+Minas Gerais , 25 de Junho de 2018   •   Diário Oficial dos Municípios Mineiros   •    ANO X | Nº 2279 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               110 
+ 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 303 - SUPORTE PROFILATICO E TERAPEUTICO 
+
+Programa..: 0013 - ASSITÊNCIA FARMACEUTICA 
+
+Proj/Ativ.: 2.123 - MANUTENÇÃO DA ASSISTÊNCIA FARMACÊUTICA 
+
+Conta.....: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRAT 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$120.600,00 
+
+  
+Prefeitura Municipal de VISCONDE DO RIO BRANCO, 21 de junho 
+de 2018 
+
+Publicado por: 
+Marileia Medeiros 
+
+Código Identificador:1392F9D8 
+ 
+
+DEPARTAMENTO DE LICITAÇÃO E CONTRATOS 
+EXTRATO DE ACRÉSCIMO DE ITENS 
+
+ 
+TERMO ADITIVO DE ACRÉSCIMO A ATA DE REGISTRO 
+DE PREÇO Nº 199/2017 –PREGÃO Nº 106/2017 - PROCESSO 
+LICITATÓRIO N° 144/2017 CONTRATANTE:

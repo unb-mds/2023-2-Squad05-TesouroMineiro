@@ -1,0 +1,4607 @@
+01-Dezembro-2020
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0011 1100.04.0122.0003.2022 - MANUTENÇÃO DAS ATIVIDADES DO GABINETE DO PREFEITO 100,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+0018 1110.04.0122.0003.2023 - SALÁRIOS/ENCARGOS DA ASSESSORIA DE GABINETE 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0021 1110.04.0122.0003.2023 - SALÁRIOS/ENCARGOS DA ASSESSORIA DE GABINETE 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0022 1110.04.0122.0003.2023 - SALÁRIOS/ENCARGOS DA ASSESSORIA DE GABINETE 500,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0024 1110.04.0122.0003.2024 - MANUTENÇÃO DAS ATIVIDADES DA ASSESSORIA DE GABINETE 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0025 1110.04.0122.0003.2024 - MANUTENÇÃO DAS ATIVIDADES DA ASSESSORIA DE GABINETE 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0026 1110.04.0122.0003.2024 - MANUTENÇÃO DAS ATIVIDADES DA ASSESSORIA DE GABINETE 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0027 1110.04.0122.0003.2024 - MANUTENÇÃO DAS ATIVIDADES DA ASSESSORIA DE GABINETE 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0031 1120.04.0122.0003.2025 - SALÁRIOS/ENCARGOS DA CHEFIA DE GABINETE 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0032 1120.04.0122.0003.2025 - SALÁRIOS/ENCARGOS DA CHEFIA DE GABINETE 500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0050 1130.04.0122.0003.2028 - MANUTENÇÃO DAS ATIVIDADES DA ASSESSORIA TÉCNICA 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0059 1140.04.0131.0003.2029 - SALÁRIOS/ENCARGOS DA ASSESSORIA DE COMUNICAÇÃO 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0061 1140.04.0131.0003.2029 - SALÁRIOS/ENCARGOS DA ASSESSORIA DE COMUNICAÇÃO 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0062 1140.04.0131.0003.2029 - SALÁRIOS/ENCARGOS DA ASSESSORIA DE COMUNICAÇÃO 500,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0063 1140.04.0131.0003.2029 - SALÁRIOS/ENCARGOS DA ASSESSORIA DE COMUNICAÇÃO 500,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0064 1140.04.0131.0003.2030 - MANUTENÇÃO DAS ATIVIDADES DA ASSESSORIA DE COMUNICAÇÃO 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0065 1140.04.0131.0003.2030 - MANUTENÇÃO DAS ATIVIDADES DA ASSESSORIA DE COMUNICAÇÃO 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0071 1140.04.0131.0003.2030 - MANUTENÇÃO DAS ATIVIDADES DA ASSESSORIA DE COMUNICAÇÃO 500,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0072 1150.04.0124.0003.2031 - SALÁRIOS/ENCARGOS DA CONTROLADORIA GERAL DO MUNICÍPIO 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0075 1150.04.0124.0003.2031 - SALÁRIOS/ENCARGOS DA CONTROLADORIA GERAL DO MUNICÍPIO 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0076 1150.04.0124.0003.2031 - SALÁRIOS/ENCARGOS DA CONTROLADORIA GERAL DO MUNICÍPIO 500,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0079 1150.04.0124.0003.2032 - MANUTENÇÃO DAS ATIVIDADES DA CGM 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0080 1150.04.0124.0003.2032 - MANUTENÇÃO DAS ATIVIDADES DA CGM 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0081 1150.04.0124.0003.2032 - MANUTENÇÃO DAS ATIVIDADES DA CGM 1.500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0082 1150.04.0124.0003.2032 - MANUTENÇÃO DAS ATIVIDADES DA CGM 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0085 1150.04.0124.0003.2032 - MANUTENÇÃO DAS ATIVIDADES DA CGM 500,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0088 1160.04.0092.0003.2033 - SALÁRIOS/ENCARGOS DA ASSESSORIA JURÍDICA 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0091 1160.04.0092.0003.2033 - SALÁRIOS/ENCARGOS DA ASSESSORIA JURÍDICA 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0093 1160.04.0092.0003.2033 - SALÁRIOS/ENCARGOS DA ASSESSORIA JURÍDICA 500,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0094 1160.04.0092.0003.2033 - SALÁRIOS/ENCARGOS DA ASSESSORIA JURÍDICA 500,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0117 1210.04.0122.0003.2037 - MANUTENÇÃO DAS ATIVIDADES DA SEPLAG 35.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0118 1210.04.0122.0003.2037 - MANUTENÇÃO DAS ATIVIDADES DA SEPLAG 500,00 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+0119 1210.04.0122.0003.2037 - MANUTENÇÃO DAS ATIVIDADES DA SEPLAG 2.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0124 1220.04.0122.0003.2039 - SALÁRIOS/ENCARGOS DO DEPTO DE RH 282,20 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0125 1220.04.0122.0003.2039 - SALÁRIOS/ENCARGOS DO DEPTO DE RH 36.500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0127 1220.04.0122.0003.2039 - SALÁRIOS/ENCARGOS DO DEPTO DE RH 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0130 1220.04.0122.0003.2039 - SALÁRIOS/ENCARGOS DO DEPTO DE RH 500,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 141 
+
+ 
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0134 1220.04.0122.0003.2040 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE RH 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0135 1220.04.0122.0003.2040 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE RH 1.500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0140 1220.04.0128.0003.2041 - FORMAÇÃO E CAPACITAÇÃO DOS SERVIDORES MUNICIPAIS 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0145 1220.09.0272.0003.3001 - APORTE P/ COBERTURA DE DEFICIT ATUARIAL - RPPS 500,00 
+
+  3.3.91.97.00.00 - Aporte para Cobertura do Déficit Atuarial do RPPS   
+
+0161 1230.04.0122.0003.2228 - PARTICIPAÇÃO NO CIIAMAJE 1.578,59 
+
+  3.1.71.70.00.00 - Rateio pela Participação em Consórcio Público   
+
+0163 1230.04.0122.0003.2228 - PARTICIPAÇÃO NO CIIAMAJE 1.157,86 
+
+  4.4.71.70.00.00 - Rateio pela Participação em Consórcio Público   
+
+0165 1240.04.0126.0003.2044 - SALÁRIOS/ENCARGOS DO DEPTO DE TI 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0167 1240.04.0126.0003.2044 - SALÁRIOS/ENCARGOS DO DEPTO DE TI 500,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0171 1240.04.0126.0003.2044 - SALÁRIOS/ENCARGOS DO DEPTO DE TI 299,97 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0172 1240.04.0126.0003.2045 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE TI 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0175 1240.04.0126.0003.2045 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE TI 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0195 1310.04.0123.0003.2049 - SALÁRIOS/ENCARGOS DA SEFAZ 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0199 1310.04.0123.0003.2049 - SALÁRIOS/ENCARGOS DA SEFAZ 500,00 
+
+  3.1.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+0202 1310.04.0123.0003.2050 - MANUTENÇÃO DAS ATIVID
+01-Dezembro-2020
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0032 1120.04.0122.0003.2025 - SALÁRIOS/ENCARGOS DA CHEFIA DE GABINETE 500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0050 1130.04.0122.0003.2028 - MANUTENÇÃO DAS ATIVIDADES DA ASSESSORIA TÉCNICA 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0059 1140.04.0131.0003.2029 - SALÁRIOS/ENCARGOS DA ASSESSORIA DE COMUNICAÇÃO 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0061 1140.04.0131.0003.2029 - SALÁRIOS/ENCARGOS DA ASSESSORIA DE COMUNICAÇÃO 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0062 1140.04.0131.0003.2029 - SALÁRIOS/ENCARGOS DA ASSESSORIA DE COMUNICAÇÃO 500,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0063 1140.04.0131.0003.2029 - SALÁRIOS/ENCARGOS DA ASSESSORIA DE COMUNICAÇÃO 500,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0064 1140.04.0131.0003.2030 - MANUTENÇÃO DAS ATIVIDADES DA ASSESSORIA DE COMUNICAÇÃO 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0065 1140.04.0131.0003.2030 - MANUTENÇÃO DAS ATIVIDADES DA ASSESSORIA DE COMUNICAÇÃO 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0071 1140.04.0131.0003.2030 - MANUTENÇÃO DAS ATIVIDADES DA ASSESSORIA DE COMUNICAÇÃO 500,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0072 1150.04.0124.0003.2031 - SALÁRIOS/ENCARGOS DA CONTROLADORIA GERAL DO MUNICÍPIO 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0075 1150.04.0124.0003.2031 - SALÁRIOS/ENCARGOS DA CONTROLADORIA GERAL DO MUNICÍPIO 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0076 1150.04.0124.0003.2031 - SALÁRIOS/ENCARGOS DA CONTROLADORIA GERAL DO MUNICÍPIO 500,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0079 1150.04.0124.0003.2032 - MANUTENÇÃO DAS ATIVIDADES DA CGM 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0080 1150.04.0124.0003.2032 - MANUTENÇÃO DAS ATIVIDADES DA CGM 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0081 1150.04.0124.0003.2032 - MANUTENÇÃO DAS ATIVIDADES DA CGM 1.500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0082 1150.04.0124.0003.2032 - MANUTENÇÃO DAS ATIVIDADES DA CGM 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0085 1150.04.0124.0003.2032 - MANUTENÇÃO DAS ATIVIDADES DA CGM 500,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0088 1160.04.0092.0003.2033 - SALÁRIOS/ENCARGOS DA ASSESSORIA JURÍDICA 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0091 1160.04.0092.0003.2033 - SALÁRIOS/ENCARGOS DA ASSESSORIA JURÍDICA 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0093 1160.04.0092.0003.2033 - SALÁRIOS/ENCARGOS DA ASSESSORIA JURÍDICA 500,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0094 1160.04.0092.0003.2033 - SALÁRIOS/ENCARGOS DA ASSESSORIA JURÍDICA 500,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0117 1210.04.0122.0003.2037 - MANUTENÇÃO DAS ATIVIDADES DA SEPLAG 35.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0118 1210.04.0122.0003.2037 - MANUTENÇÃO DAS ATIVIDADES DA SEPLAG 500,00 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+0119 1210.04.0122.0003.2037 - MANUTENÇÃO DAS ATIVIDADES DA SEPLAG 2.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0124 1220.04.0122.0003.2039 - SALÁRIOS/ENCARGOS DO DEPTO DE RH 282,20 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0125 1220.04.0122.0003.2039 - SALÁRIOS/ENCARGOS DO DEPTO DE RH 36.500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0127 1220.04.0122.0003.2039 - SALÁRIOS/ENCARGOS DO DEPTO DE RH 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0130 1220.04.0122.0003.2039 - SALÁRIOS/ENCARGOS DO DEPTO DE RH 500,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 141 
+
+ 
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0134 1220.04.0122.0003.2040 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE RH 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0135 1220.04.0122.0003.2040 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE RH 1.500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0140 1220.04.0128.0003.2041 - FORMAÇÃO E CAPACITAÇÃO DOS SERVIDORES MUNICIPAIS 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0145 1220.09.0272.0003.3001 - APORTE P/ COBERTURA DE DEFICIT ATUARIAL - RPPS 500,00 
+
+  3.3.91.97.00.00 - Aporte para Cobertura do Déficit Atuarial do RPPS   
+
+0161 1230.04.0122.0003.2228 - PARTICIPAÇÃO NO CIIAMAJE 1.578,59 
+
+  3.1.71.70.00.00 - Rateio pela Participação em Consórcio Público   
+
+0163 1230.04.0122.0003.2228 - PARTICIPAÇÃO NO CIIAMAJE 1.157,86 
+
+  4.4.71.70.00.00 - Rateio pela Participação em Consórcio Público   
+
+0165 1240.04.0126.0003.2044 - SALÁRIOS/ENCARGOS DO DEPTO DE TI 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0167 1240.04.0126.0003.2044 - SALÁRIOS/ENCARGOS DO DEPTO DE TI 500,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0171 1240.04.0126.0003.2044 - SALÁRIOS/ENCARGOS DO DEPTO DE TI 299,97 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0172 1240.04.0126.0003.2045 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE TI 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0175 1240.04.0126.0003.2045 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE TI 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0195 1310.04.0123.0003.2049 - SALÁRIOS/ENCARGOS DA SEFAZ 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0199 1310.04.0123.0003.2049 - SALÁRIOS/ENCARGOS DA SEFAZ 500,00 
+
+  3.1.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+0202 1310.04.0123.0003.2050 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0203 1310.04.0123.0003.2050 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 1.055,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0204 1310.04.0123.0003.2050 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0205 1310.04.0123.0003.2050 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 500,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+0207 1310.04.0123.0003.2050 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 69.449,54 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0213 1310.28.0843.0005.3002 - AMORTIZAÇÃO DE DÍVIDAS CONTRATADAS 4.000,00 
+
+  3.2.90.21.00.00 - Juros sobre a Dívida por Contrato   
+
+0214 1310.28.0843.0005.3002 - AMORTIZAÇÃO DE DÍVIDAS CONTRATADAS 2.000,00 
+
+  3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato   
+
+0215 1310.28.0843.0005.3002 - AMORTIZAÇÃO DE DÍVIDAS CONTRATADAS 57.261,57 
+
+  4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado   
+
+0231 1410.04.0122.0003.1015 - AQUISIÇÃO DE IMÓVEIS 5.623,70 
+
+  4.4.90.61.00.00 - Aquisição de Imóveis   
+
+0246 1410.04.0122.0003.2054 - MANUTENÇÃO DAS ATIVIDADES DA SEGOV 450,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0264 1410.06.0153.0007.2060 - MANUTENÇÃO DE CONVÊNIOS COM O TIRO DE GUERRA 2.520,66 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0265 1410.06.0153.0007.2060 - MANUTENÇÃO DE CONVÊNIOS COM O TIRO DE GUERRA 2.479,34 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0272 1410.06.0181.0007.2058 -
+01-Dezembro-2020
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0134 1220.04.0122.0003.2040 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE RH 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0135 1220.04.0122.0003.2040 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE RH 1.500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0140 1220.04.0128.0003.2041 - FORMAÇÃO E CAPACITAÇÃO DOS SERVIDORES MUNICIPAIS 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0145 1220.09.0272.0003.3001 - APORTE P/ COBERTURA DE DEFICIT ATUARIAL - RPPS 500,00 
+
+  3.3.91.97.00.00 - Aporte para Cobertura do Déficit Atuarial do RPPS   
+
+0161 1230.04.0122.0003.2228 - PARTICIPAÇÃO NO CIIAMAJE 1.578,59 
+
+  3.1.71.70.00.00 - Rateio pela Participação em Consórcio Público   
+
+0163 1230.04.0122.0003.2228 - PARTICIPAÇÃO NO CIIAMAJE 1.157,86 
+
+  4.4.71.70.00.00 - Rateio pela Participação em Consórcio Público   
+
+0165 1240.04.0126.0003.2044 - SALÁRIOS/ENCARGOS DO DEPTO DE TI 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0167 1240.04.0126.0003.2044 - SALÁRIOS/ENCARGOS DO DEPTO DE TI 500,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0171 1240.04.0126.0003.2044 - SALÁRIOS/ENCARGOS DO DEPTO DE TI 299,97 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0172 1240.04.0126.0003.2045 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE TI 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0175 1240.04.0126.0003.2045 - MANUTENÇÃO DAS ATIVIDADES DO DEPTO DE TI 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0195 1310.04.0123.0003.2049 - SALÁRIOS/ENCARGOS DA SEFAZ 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0199 1310.04.0123.0003.2049 - SALÁRIOS/ENCARGOS DA SEFAZ 500,00 
+
+  3.1.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+0202 1310.04.0123.0003.2050 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0203 1310.04.0123.0003.2050 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 1.055,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0204 1310.04.0123.0003.2050 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0205 1310.04.0123.0003.2050 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 500,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+0207 1310.04.0123.0003.2050 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 69.449,54 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0213 1310.28.0843.0005.3002 - AMORTIZAÇÃO DE DÍVIDAS CONTRATADAS 4.000,00 
+
+  3.2.90.21.00.00 - Juros sobre a Dívida por Contrato   
+
+0214 1310.28.0843.0005.3002 - AMORTIZAÇÃO DE DÍVIDAS CONTRATADAS 2.000,00 
+
+  3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato   
+
+0215 1310.28.0843.0005.3002 - AMORTIZAÇÃO DE DÍVIDAS CONTRATADAS 57.261,57 
+
+  4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado   
+
+0231 1410.04.0122.0003.1015 - AQUISIÇÃO DE IMÓVEIS 5.623,70 
+
+  4.4.90.61.00.00 - Aquisição de Imóveis   
+
+0246 1410.04.0122.0003.2054 - MANUTENÇÃO DAS ATIVIDADES DA SEGOV 450,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0264 1410.06.0153.0007.2060 - MANUTENÇÃO DE CONVÊNIOS COM O TIRO DE GUERRA 2.520,66 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0265 1410.06.0153.0007.2060 - MANUTENÇÃO DE CONVÊNIOS COM O TIRO DE GUERRA 2.479,34 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0272 1410.06.0181.0007.2058 - MANUTENÇÃO DE CONVÊNIOS COM A PMMG 2.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0282 1410.06.0182.0007.2061 - MANUTENÇÃO DE CONVÊNIOS COM CORPO DE BOMBEIROS 1.100,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0296 1410.26.0781.0007.2062 - MANUTENÇÃO DO AEROPORTO MUNICIPAL 16.500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0316 1420.02.0062.0003.2068 - MANUTENÇÃO DAS ATIIDADES DA PROCURADORIA JURÍDICA MUNICIPAL 50,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0336 1430.06.0181.0007.2066 - MANUTENÇÃO DAS ATIVIDADES DA GUARDA CIVIL PATRIMONIAL 1.500,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0375 1510.12.0122.0011.1020 - CONSTRUÇÃO/REFORMA PRÉDIOS DA SEDUC 1.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+0378 1510.12.0122.0011.1022 - AQUISIÇÃO DE IMÓVEIS P/ SEDUC 900,00 
+
+  4.4.90.61.00.00 - Aquisição de Imóveis   
+
+0379 1510.12.0122.0011.2072 - SALÁRIOS/ENCARGOS DA SEDUC 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0381 1510.12.0122.0011.2072 - SALÁRIOS/ENCARGOS DA SEDUC 5.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0385 1510.12.0122.0011.2073 - MANUTENÇÃO DAS ATIVIDADES DA SEDUC 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0388 1510.12.0122.0011.2073 - MANUTENÇÃO DAS ATIVIDADES DA SEDUC 1.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+0389 1510.12.0122.0011.2073 - MANUTENÇÃO DAS ATIVIDADES DA SEDUC 1.000,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0392 1510.12.0122.0011.2073 - MANUTENÇÃO DAS ATIVIDADES DA SEDUC 24.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0398 1510.12.0122.0011.2075 - CONTRIBUIÇÃO A UNDIME 1.000,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 142 
+
+ 
+
+0399 1510.12.0122.0011.2076 - MANUTENÇÃO DAS ATIVIDADES DO PROGEA 5.000,00 
+
+  3.3.50.43.00.00 - Subvenções Sociais   
+
+0400 1510.12.0122.0011.2077 - MANUTENÇÃO DAS ATIVIDADES DO PROERD 6.000,00 
+
+  3.3.50.43.00.00 - Subvenções Sociais   
+
+0401 1510.12.0128.0012.2074 - MANUTENÇÃO NÚCLEO FORMAÇÃO CONTINUADA - SEDUC 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0402 1510.12.0128.0012.2074 - MANUTENÇÃO NÚCLEO FORMAÇÃO CONTINUADA - SEDUC 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0403 1510.12.0128.0012.2074 - MANUTENÇÃO NÚCLEO FORMAÇÃO CONTINUADA - SEDUC 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0404 1510.12.0128.0012.2074 - MANUTENÇÃO NÚCLEO FORMAÇÃO CONTINUADA - SEDUC 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0452 1521.12.0361.0011.2080 - MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL 3.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0453 1521.12.0361.0011.2080 - MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL 29.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0457 1521.12.0361.0011.2080 - MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL 30.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0461 1521.12.0361.0011.2080 - MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL 10.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0468 1521.12.0361.0011.2081 - ALIMENTAÇÃO ESCOLAR - ENSINO FUNDAMENTAL 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0470 1521.12.0361.0011.2081 - ALIMENTAÇÃO ESCOLAR - ENSINO FUNDAMENTAL 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0479 1521.12.0361.0011.2083 - SALÁRIOS/ENCARGOS DO TRANSPORTE ESCOLAR 10.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0484 1521.12.0361.0011.2084 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 3.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0489 1521.12.0361.0011.2084 - M
+01-Dezembro-2020
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0316 1420.02.0062.0003.2068 - MANUTENÇÃO DAS ATIIDADES DA PROCURADORIA JURÍDICA MUNICIPAL 50,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0336 1430.06.0181.0007.2066 - MANUTENÇÃO DAS ATIVIDADES DA GUARDA CIVIL PATRIMONIAL 1.500,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0375 1510.12.0122.0011.1020 - CONSTRUÇÃO/REFORMA PRÉDIOS DA SEDUC 1.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+0378 1510.12.0122.0011.1022 - AQUISIÇÃO DE IMÓVEIS P/ SEDUC 900,00 
+
+  4.4.90.61.00.00 - Aquisição de Imóveis   
+
+0379 1510.12.0122.0011.2072 - SALÁRIOS/ENCARGOS DA SEDUC 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0381 1510.12.0122.0011.2072 - SALÁRIOS/ENCARGOS DA SEDUC 5.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0385 1510.12.0122.0011.2073 - MANUTENÇÃO DAS ATIVIDADES DA SEDUC 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0388 1510.12.0122.0011.2073 - MANUTENÇÃO DAS ATIVIDADES DA SEDUC 1.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+0389 1510.12.0122.0011.2073 - MANUTENÇÃO DAS ATIVIDADES DA SEDUC 1.000,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0392 1510.12.0122.0011.2073 - MANUTENÇÃO DAS ATIVIDADES DA SEDUC 24.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0398 1510.12.0122.0011.2075 - CONTRIBUIÇÃO A UNDIME 1.000,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 142 
+
+ 
+
+0399 1510.12.0122.0011.2076 - MANUTENÇÃO DAS ATIVIDADES DO PROGEA 5.000,00 
+
+  3.3.50.43.00.00 - Subvenções Sociais   
+
+0400 1510.12.0122.0011.2077 - MANUTENÇÃO DAS ATIVIDADES DO PROERD 6.000,00 
+
+  3.3.50.43.00.00 - Subvenções Sociais   
+
+0401 1510.12.0128.0012.2074 - MANUTENÇÃO NÚCLEO FORMAÇÃO CONTINUADA - SEDUC 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0402 1510.12.0128.0012.2074 - MANUTENÇÃO NÚCLEO FORMAÇÃO CONTINUADA - SEDUC 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0403 1510.12.0128.0012.2074 - MANUTENÇÃO NÚCLEO FORMAÇÃO CONTINUADA - SEDUC 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0404 1510.12.0128.0012.2074 - MANUTENÇÃO NÚCLEO FORMAÇÃO CONTINUADA - SEDUC 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0452 1521.12.0361.0011.2080 - MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL 3.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0453 1521.12.0361.0011.2080 - MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL 29.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0457 1521.12.0361.0011.2080 - MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL 30.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0461 1521.12.0361.0011.2080 - MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL 10.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0468 1521.12.0361.0011.2081 - ALIMENTAÇÃO ESCOLAR - ENSINO FUNDAMENTAL 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0470 1521.12.0361.0011.2081 - ALIMENTAÇÃO ESCOLAR - ENSINO FUNDAMENTAL 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0479 1521.12.0361.0011.2083 - SALÁRIOS/ENCARGOS DO TRANSPORTE ESCOLAR 10.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0484 1521.12.0361.0011.2084 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 3.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0489 1521.12.0361.0011.2084 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 4.000,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0490 1521.12.0361.0011.2084 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 6.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0499 1521.12.0361.0011.2084 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 5.000,00 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0500 1521.12.0361.0011.2084 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 5.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0503 1521.12.0361.0011.2088 - ALIMENTAÇÃO ESCOLAR - QUILOMBOLA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0507 1521.12.0361.0011.2252 - MANUTENÇÃO DOS CONTRATOS DE PROGRAMA DO CIMAMS - EDUCAÇÃO 33.500,00 
+
+  3.3.93.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+0510 1521.12.0366.0011.2085 - SALÁRIOS/ENCARGOS DO EJA 4.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0512 1521.12.0366.0011.2085 - SALÁRIOS/ENCARGOS DO EJA 2.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0513 1521.12.0366.0011.2085 - SALÁRIOS/ENCARGOS DO EJA 4.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0515 1521.12.0366.0011.2086 - MANUTENÇÃO DAS ATIVIDADES DO EJA 4.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0522 1521.12.0366.0011.2087 - ALIMENTAÇÃO ESCOLAR - EJA 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0524 1521.12.0366.0011.2087 - ALIMENTAÇÃO ESCOLAR - EJA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0526 1521.12.0366.0011.2087 - ALIMENTAÇÃO ESCOLAR - EJA 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0537 1522.12.0365.0011.1027 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DE QUADRAS POLIESPORTIVAS 3.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+0543 1522.12.0365.0011.2089 - SALÁRIOS/ENCARGOS CRECHE 60% 22.600,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0555 1522.12.0365.0011.2090 - SALÁRIOS/ENCARGOS CRECHE 40% 15.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0563 1522.12.0365.0011.2090 - SALÁRIOS/ENCARGOS CRECHE 40% 10.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0564 1522.12.0365.0011.2090 - SALÁRIOS/ENCARGOS CRECHE 40% 14.490,32 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0568 1522.12.0365.0011.2091 - MANUTENÇÃO DAS ATIVIDADES DA CRECHE 15.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0570 1522.12.0365.0011.2091 - MANUTENÇÃO DAS ATIVIDADES DA CRECHE 6.180,68 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0578 1522.12.0365.0011.2092 - ALIMENTAÇÃO ESCOLAR - CRECHE 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0603 1523.12.0365.0011.2095 - SALÁRIOS/ENCARGOS PRÉ ESCOLA 40% 5.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0605 1523.12.0365.0011.2095 - SALÁRIOS/ENCARGOS PRÉ ESCOLA 40% 63.955,63 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0626 1523.12.0365.0011.2097 - ALIMENTAÇÃO ESCOLAR - PRÉ ESCOLA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0628 1523.12.0365.0011.2097 - ALIMENTAÇÃO ESCOLAR - PRÉ ESCOLA 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0643 1524.12.0362.0011.2100 - MANUTENÇÃO DO TRANSPORTE ENSINO MÉDIO 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0646 1524.12.0362.0011.2100 - MANUTENÇÃO DO TRANSPORTE ENSINO MÉDIO 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0652 1525.12.0364.0011.2101 - MANUTENÇÃO DO TRANSPORTE ENSINO SU
+01-Dezembro-2020
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0500 1521.12.0361.0011.2084 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 5.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0503 1521.12.0361.0011.2088 - ALIMENTAÇÃO ESCOLAR - QUILOMBOLA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0507 1521.12.0361.0011.2252 - MANUTENÇÃO DOS CONTRATOS DE PROGRAMA DO CIMAMS - EDUCAÇÃO 33.500,00 
+
+  3.3.93.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+0510 1521.12.0366.0011.2085 - SALÁRIOS/ENCARGOS DO EJA 4.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0512 1521.12.0366.0011.2085 - SALÁRIOS/ENCARGOS DO EJA 2.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0513 1521.12.0366.0011.2085 - SALÁRIOS/ENCARGOS DO EJA 4.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0515 1521.12.0366.0011.2086 - MANUTENÇÃO DAS ATIVIDADES DO EJA 4.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0522 1521.12.0366.0011.2087 - ALIMENTAÇÃO ESCOLAR - EJA 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0524 1521.12.0366.0011.2087 - ALIMENTAÇÃO ESCOLAR - EJA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0526 1521.12.0366.0011.2087 - ALIMENTAÇÃO ESCOLAR - EJA 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0537 1522.12.0365.0011.1027 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DE QUADRAS POLIESPORTIVAS 3.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+0543 1522.12.0365.0011.2089 - SALÁRIOS/ENCARGOS CRECHE 60% 22.600,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0555 1522.12.0365.0011.2090 - SALÁRIOS/ENCARGOS CRECHE 40% 15.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0563 1522.12.0365.0011.2090 - SALÁRIOS/ENCARGOS CRECHE 40% 10.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0564 1522.12.0365.0011.2090 - SALÁRIOS/ENCARGOS CRECHE 40% 14.490,32 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0568 1522.12.0365.0011.2091 - MANUTENÇÃO DAS ATIVIDADES DA CRECHE 15.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0570 1522.12.0365.0011.2091 - MANUTENÇÃO DAS ATIVIDADES DA CRECHE 6.180,68 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0578 1522.12.0365.0011.2092 - ALIMENTAÇÃO ESCOLAR - CRECHE 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0603 1523.12.0365.0011.2095 - SALÁRIOS/ENCARGOS PRÉ ESCOLA 40% 5.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0605 1523.12.0365.0011.2095 - SALÁRIOS/ENCARGOS PRÉ ESCOLA 40% 63.955,63 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0626 1523.12.0365.0011.2097 - ALIMENTAÇÃO ESCOLAR - PRÉ ESCOLA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0628 1523.12.0365.0011.2097 - ALIMENTAÇÃO ESCOLAR - PRÉ ESCOLA 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0643 1524.12.0362.0011.2100 - MANUTENÇÃO DO TRANSPORTE ENSINO MÉDIO 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0646 1524.12.0362.0011.2100 - MANUTENÇÃO DO TRANSPORTE ENSINO MÉDIO 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0652 1525.12.0364.0011.2101 - MANUTENÇÃO DO TRANSPORTE ENSINO SUPERIOR 500,00 
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 143 
+
+ 
+
+  3.3.50.43.00.00 - Subvenções Sociais   
+
+0653 1525.12.0364.0011.2101 - MANUTENÇÃO DO TRANSPORTE ENSINO SUPERIOR 500,00 
+
+  3.3.90.18.00.00 - Auxílio Financeiro a Estudantes   
+
+0658 1610.10.0122.0013.1034 - AQUISIÇÃO DE IMÓVEIS P/ SMS 50,00 
+
+  4.4.90.61.00.00 - Aquisição de Imóveis   
+
+0662 1610.10.0122.0013.1036 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ NÚCLEO TÉC. 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0664 1610.10.0122.0013.1037 - CONSTRUÇÃO/REFORMA CENTRO PROMOÇÃO SAÚDE E EDUC. PERMANENTE 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+0667 1610.10.0122.0013.2102 - SALÁRIOS/ENCARGOS DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0668 1610.10.0122.0013.2102 - SALÁRIOS/ENCARGOS DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0669 1610.10.0122.0013.2102 - SALÁRIOS/ENCARGOS DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0670 1610.10.0122.0013.2103 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0671 1610.10.0122.0013.2103 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0672 1610.10.0122.0013.2103 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0673 1610.10.0122.0013.2103 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0674 1610.10.0122.0013.2103 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0675 1610.10.0122.0013.2103 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0676 1610.10.0122.0013.2103 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0677 1610.10.0122.0013.2103 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0679 1610.10.0122.0013.2103 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0681 1610.10.0122.0013.2104 - SALÁRIOS/ENCARGOS DA SMS 6.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0682 1610.10.0122.0013.2104 - SALÁRIOS/ENCARGOS DA SMS 9.663,40 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0683 1610.10.0122.0013.2104 - SALÁRIOS/ENCARGOS DA SMS 4.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0684 1610.10.0122.0013.2104 - SALÁRIOS/ENCARGOS DA SMS 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0685 1610.10.0122.0013.2104 - SALÁRIOS/ENCARGOS DA SMS 1.000,00 
+
+  3.1.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+0687 1610.10.0122.0013.2104 - SALÁRIOS/ENCARGOS DA SMS 9.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0688 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 500,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+0689 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 2.166,48 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0690 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 7.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0691 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 4.779,24 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+0694 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 2.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0695 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 1.000,00 
+
+  3.3.90.37.00.00 - Lo
+01-Dezembro-2020
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0664 1610.10.0122.0013.1037 - CONSTRUÇÃO/REFORMA CENTRO PROMOÇÃO SAÚDE E EDUC. PERMANENTE 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+0667 1610.10.0122.0013.2102 - SALÁRIOS/ENCARGOS DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0668 1610.10.0122.0013.2102 - SALÁRIOS/ENCARGOS DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0669 1610.10.0122.0013.2102 - SALÁRIOS/ENCARGOS DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0670 1610.10.0122.0013.2103 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0671 1610.10.0122.0013.2103 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0672 1610.10.0122.0013.2103 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0673 1610.10.0122.0013.2103 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0674 1610.10.0122.0013.2103 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0675 1610.10.0122.0013.2103 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0676 1610.10.0122.0013.2103 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0677 1610.10.0122.0013.2103 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0679 1610.10.0122.0013.2103 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO MUNICIPAL DE SAÚDE 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0681 1610.10.0122.0013.2104 - SALÁRIOS/ENCARGOS DA SMS 6.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0682 1610.10.0122.0013.2104 - SALÁRIOS/ENCARGOS DA SMS 9.663,40 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0683 1610.10.0122.0013.2104 - SALÁRIOS/ENCARGOS DA SMS 4.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0684 1610.10.0122.0013.2104 - SALÁRIOS/ENCARGOS DA SMS 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0685 1610.10.0122.0013.2104 - SALÁRIOS/ENCARGOS DA SMS 1.000,00 
+
+  3.1.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+0687 1610.10.0122.0013.2104 - SALÁRIOS/ENCARGOS DA SMS 9.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0688 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 500,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+0689 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 2.166,48 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0690 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 7.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0691 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 4.779,24 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+0694 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 2.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0695 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 1.000,00 
+
+  3.3.90.37.00.00 - Locação de Mão-de-obra   
+
+0696 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0698 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 1.000,00 
+
+  3.3.90.46.00.00 - Auxílio-alimentação   
+
+0711 1610.10.0122.0013.2107 - MANUTENÇÃO DAS ATIVIDADES DA OUVIDORIA SUS 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0725 1610.10.0122.0013.2110 - SALÁRIOS/ENCARGOS CENTRO PROMOÇÃO SAÚDE EDUC. PERMANENTE 500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0726 1610.10.0122.0013.2110 - SALÁRIOS/ENCARGOS CENTRO PROMOÇÃO SAÚDE EDUC. PERMANENTE 500,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0727 1610.10.0122.0013.2110 - SALÁRIOS/ENCARGOS CENTRO PROMOÇÃO SAÚDE EDUC. PERMANENTE 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0728 1610.10.0122.0013.2110 - SALÁRIOS/ENCARGOS CENTRO PROMOÇÃO SAÚDE EDUC. PERMANENTE 500,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0729 1610.10.0122.0013.2110 - SALÁRIOS/ENCARGOS CENTRO PROMOÇÃO SAÚDE EDUC. PERMANENTE 500,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0730 1610.10.0122.0013.2111 - MANUTENÇÃO DAS ATIVIDADES DO CENTRO PROMOÇÃO SAÚDE EDUC. PER 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0731 1610.10.0122.0013.2111 - MANUTENÇÃO DAS ATIVIDADES DO CENTRO PROMOÇÃO SAÚDE EDUC. PER 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 144 
+
+ 
+
+0732 1610.10.0122.0013.2111 - MANUTENÇÃO DAS ATIVIDADES DO CENTRO PROMOÇÃO SAÚDE EDUC. PER 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0736 1621.10.0301.0014.1039 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ BLATB 5.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0741 1621.10.0301.0014.1040 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DOS PRÉDIOS DO BLATB 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+0742 1621.10.0301.0014.1040 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DOS PRÉDIOS DO BLATB 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+0745 1621.10.0301.0014.2112 - SALÁRIOS/ENCARGOS DO BLATB 193.447,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0749 1621.10.0301.0014.2112 - SALÁRIOS/ENCARGOS DO BLATB 530,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0761 1621.10.0301.0014.2113 - MANUTENÇÃO DAS ATIVIDADES DO BLATB 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0768 1621.10.0301.0014.2113 - MANUTENÇÃO DAS ATIVIDADES DO BLATB 588,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0769 1621.10.0301.0014.2113 - MANUTENÇÃO DAS ATIVIDADES DO BLATB 34.900,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0773 1621.10.0301.0014.2113 - MANUTENÇÃO DAS ATIVIDADES DO BLATB 1.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0776 1621.10.0301.0014.2113 - MANUTENÇÃO DAS ATIVIDADES DO BLATB 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+0783 1621.10.0301.0014.2114 - SALÁRIOS/ENCARGOS DO NASF 15.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0784 1621.10.0301.0014.2114 - SALÁRIOS/ENCARGOS DO NASF 500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0786 1621.10.0301.0014.2114 - SALÁRIOS/ENCARGOS DO NASF 500,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0787 1621.10.0301.0014.2114 - SALÁRIOS/ENCARGOS DO NASF 100,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0788 1621.10.0301.0014.2114 - SALÁRIOS/ENCARGOS DO NASF 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0789 1621.10.0301.0014.2114 - SALÁRIOS/ENCARGOS DO NASF 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pes
+01-Dezembro-2020
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0725 1610.10.0122.0013.2110 - SALÁRIOS/ENCARGOS CENTRO PROMOÇÃO SAÚDE EDUC. PERMANENTE 500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0726 1610.10.0122.0013.2110 - SALÁRIOS/ENCARGOS CENTRO PROMOÇÃO SAÚDE EDUC. PERMANENTE 500,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0727 1610.10.0122.0013.2110 - SALÁRIOS/ENCARGOS CENTRO PROMOÇÃO SAÚDE EDUC. PERMANENTE 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0728 1610.10.0122.0013.2110 - SALÁRIOS/ENCARGOS CENTRO PROMOÇÃO SAÚDE EDUC. PERMANENTE 500,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0729 1610.10.0122.0013.2110 - SALÁRIOS/ENCARGOS CENTRO PROMOÇÃO SAÚDE EDUC. PERMANENTE 500,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0730 1610.10.0122.0013.2111 - MANUTENÇÃO DAS ATIVIDADES DO CENTRO PROMOÇÃO SAÚDE EDUC. PER 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0731 1610.10.0122.0013.2111 - MANUTENÇÃO DAS ATIVIDADES DO CENTRO PROMOÇÃO SAÚDE EDUC. PER 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 144 
+
+ 
+
+0732 1610.10.0122.0013.2111 - MANUTENÇÃO DAS ATIVIDADES DO CENTRO PROMOÇÃO SAÚDE EDUC. PER 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0736 1621.10.0301.0014.1039 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ BLATB 5.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0741 1621.10.0301.0014.1040 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DOS PRÉDIOS DO BLATB 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+0742 1621.10.0301.0014.1040 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DOS PRÉDIOS DO BLATB 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+0745 1621.10.0301.0014.2112 - SALÁRIOS/ENCARGOS DO BLATB 193.447,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0749 1621.10.0301.0014.2112 - SALÁRIOS/ENCARGOS DO BLATB 530,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0761 1621.10.0301.0014.2113 - MANUTENÇÃO DAS ATIVIDADES DO BLATB 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0768 1621.10.0301.0014.2113 - MANUTENÇÃO DAS ATIVIDADES DO BLATB 588,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0769 1621.10.0301.0014.2113 - MANUTENÇÃO DAS ATIVIDADES DO BLATB 34.900,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0773 1621.10.0301.0014.2113 - MANUTENÇÃO DAS ATIVIDADES DO BLATB 1.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+0776 1621.10.0301.0014.2113 - MANUTENÇÃO DAS ATIVIDADES DO BLATB 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+0783 1621.10.0301.0014.2114 - SALÁRIOS/ENCARGOS DO NASF 15.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0784 1621.10.0301.0014.2114 - SALÁRIOS/ENCARGOS DO NASF 500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0786 1621.10.0301.0014.2114 - SALÁRIOS/ENCARGOS DO NASF 500,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0787 1621.10.0301.0014.2114 - SALÁRIOS/ENCARGOS DO NASF 100,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0788 1621.10.0301.0014.2114 - SALÁRIOS/ENCARGOS DO NASF 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0789 1621.10.0301.0014.2114 - SALÁRIOS/ENCARGOS DO NASF 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0792 1621.10.0301.0014.2114 - SALÁRIOS/ENCARGOS DO NASF 500,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0793 1621.10.0301.0014.2114 - SALÁRIOS/ENCARGOS DO NASF 500,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0794 1621.10.0301.0014.2115 - MANUTENÇÃO DAS ATIVIDADES DO NASF 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0796 1621.10.0301.0014.2115 - MANUTENÇÃO DAS ATIVIDADES DO NASF 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0797 1621.10.0301.0014.2115 - MANUTENÇÃO DAS ATIVIDADES DO NASF 3.031,64 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0798 1621.10.0301.0014.2115 - MANUTENÇÃO DAS ATIVIDADES DO NASF 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0799 1621.10.0301.0014.2115 - MANUTENÇÃO DAS ATIVIDADES DO NASF 1.420,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0800 1621.10.0301.0014.2115 - MANUTENÇÃO DAS ATIVIDADES DO NASF 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0804 1621.10.0303.0015.2116 - MANUTENÇÃO DA FARMÁCIA BÁSICA 25.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0808 1621.10.0303.0015.2116 - MANUTENÇÃO DA FARMÁCIA BÁSICA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0809 1621.10.0303.0015.2116 - MANUTENÇÃO DA FARMÁCIA BÁSICA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0812 1621.10.0303.0015.2116 - MANUTENÇÃO DA FARMÁCIA BÁSICA 1.500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0815 1621.10.0303.0015.2116 - MANUTENÇÃO DA FARMÁCIA BÁSICA 1.500,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+0822 1622.10.0302.0016.1042 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DOS PRÉDIOS DO BLMAC 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+0823 1622.10.0302.0016.1042 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DOS PRÉDIOS DO BLMAC 2.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+0828 1622.10.0302.0016.1043 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ O BLMAC 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0829 1622.10.0302.0016.1043 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ O BLMAC 7.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0834 1622.10.0302.0016.1045 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ A SAÚDE MENT 2.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0835 1622.10.0302.0016.1046 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ LAB MUNICIPA 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0837 1622.10.0302.0016.1046 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ LAB MUNICIPA 1.200,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0851 1622.10.0302.0016.2119 - RATEIO DO CONSÓRCIO PÚBLICO - CISNORJE 2.000,00 
+
+  4.4.71.70.00.00 - Rateio pela Participação em Consórcio Público   
+
+0853 1622.10.0302.0016.2119 - RATEIO DO CONSÓRCIO PÚBLICO - CISNORJE 7.100,00 
+
+  4.6.71.70.00.00 - Rateio pela Participação em Consórcio Público   
+
+0867 1622.10.0302.0016.2121 - MANUTENÇÃO DAS ATIVIDADES DA REDE SAÚDE MENTAL 5.000,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+0874 1622.10.0302.0016.2121 - MANUTENÇÃO DAS ATIVIDADES DA REDE SAÚDE MENTAL 11.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0881 1622.10.0302.0016.2122 - MANUTENÇÃO DA URGÊNCIA E EMERGÊNCIA MUNICIPAL 500,00 
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 145 
+
+ 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0883 1622.10.0302.0016.2123 - MANUTENÇÃO DA URGÊNCIA E EMERGÊNCIA UPA 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0885 1622.10.0302.0016.2123 - MANUTENÇÃO DA URGÊNCIA E EMERGÊN
+01-Dezembro-2020
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0797 1621.10.0301.0014.2115 - MANUTENÇÃO DAS ATIVIDADES DO NASF 3.031,64 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0798 1621.10.0301.0014.2115 - MANUTENÇÃO DAS ATIVIDADES DO NASF 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0799 1621.10.0301.0014.2115 - MANUTENÇÃO DAS ATIVIDADES DO NASF 1.420,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0800 1621.10.0301.0014.2115 - MANUTENÇÃO DAS ATIVIDADES DO NASF 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0804 1621.10.0303.0015.2116 - MANUTENÇÃO DA FARMÁCIA BÁSICA 25.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0808 1621.10.0303.0015.2116 - MANUTENÇÃO DA FARMÁCIA BÁSICA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0809 1621.10.0303.0015.2116 - MANUTENÇÃO DA FARMÁCIA BÁSICA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0812 1621.10.0303.0015.2116 - MANUTENÇÃO DA FARMÁCIA BÁSICA 1.500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0815 1621.10.0303.0015.2116 - MANUTENÇÃO DA FARMÁCIA BÁSICA 1.500,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+0822 1622.10.0302.0016.1042 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DOS PRÉDIOS DO BLMAC 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+0823 1622.10.0302.0016.1042 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DOS PRÉDIOS DO BLMAC 2.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+0828 1622.10.0302.0016.1043 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ O BLMAC 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0829 1622.10.0302.0016.1043 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ O BLMAC 7.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0834 1622.10.0302.0016.1045 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ A SAÚDE MENT 2.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0835 1622.10.0302.0016.1046 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ LAB MUNICIPA 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0837 1622.10.0302.0016.1046 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ LAB MUNICIPA 1.200,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0851 1622.10.0302.0016.2119 - RATEIO DO CONSÓRCIO PÚBLICO - CISNORJE 2.000,00 
+
+  4.4.71.70.00.00 - Rateio pela Participação em Consórcio Público   
+
+0853 1622.10.0302.0016.2119 - RATEIO DO CONSÓRCIO PÚBLICO - CISNORJE 7.100,00 
+
+  4.6.71.70.00.00 - Rateio pela Participação em Consórcio Público   
+
+0867 1622.10.0302.0016.2121 - MANUTENÇÃO DAS ATIVIDADES DA REDE SAÚDE MENTAL 5.000,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+0874 1622.10.0302.0016.2121 - MANUTENÇÃO DAS ATIVIDADES DA REDE SAÚDE MENTAL 11.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0881 1622.10.0302.0016.2122 - MANUTENÇÃO DA URGÊNCIA E EMERGÊNCIA MUNICIPAL 500,00 
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 145 
+
+ 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0883 1622.10.0302.0016.2123 - MANUTENÇÃO DA URGÊNCIA E EMERGÊNCIA UPA 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0885 1622.10.0302.0016.2123 - MANUTENÇÃO DA URGÊNCIA E EMERGÊNCIA UPA 7.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0887 1622.10.0302.0016.2124 - SALÁRIOS/ENCARGOS DO BLMAC 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0888 1622.10.0302.0016.2124 - SALÁRIOS/ENCARGOS DO BLMAC 56.819,24 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0892 1622.10.0302.0016.2124 - SALÁRIOS/ENCARGOS DO BLMAC 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0897 1622.10.0302.0016.2124 - SALÁRIOS/ENCARGOS DO BLMAC 5.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0899 1622.10.0302.0016.2124 - SALÁRIOS/ENCARGOS DO BLMAC 2.000,00 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0900 1622.10.0302.0016.2125 - MANUTENÇÃO DAS ATIVIDADES DO BLMAC 1.500,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+0909 1622.10.0302.0016.2125 - MANUTENÇÃO DAS ATIVIDADES DO BLMAC 17.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0910 1622.10.0302.0016.2125 - MANUTENÇÃO DAS ATIVIDADES DO BLMAC 1.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+0911 1622.10.0302.0016.2125 - MANUTENÇÃO DAS ATIVIDADES DO BLMAC 5.000,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+0935 1622.10.0302.0016.2126 - SALÁRIOS/ENCARGOS DO LAB MUNICIPAL 1.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0937 1622.10.0302.0016.2127 - MANUTENÇÃO DAS ATIVIDADES DO LAB MUNICIPAL 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0940 1622.10.0302.0016.2127 - MANUTENÇÃO DAS ATIVIDADES DO LAB MUNICIPAL 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0943 1622.10.0302.0016.2127 - MANUTENÇÃO DAS ATIVIDADES DO LAB MUNICIPAL 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0948 1622.10.0302.0016.2238 - MANUTENÇÃO DOS CONTRATOS DE PROGRAMA DO CISAJE 42.200,00 
+
+  3.3.93.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+0951 1622.10.0302.0016.2239 - MANUTENÇÃO DOS CONTRATOS DE PROGRAMA DO CISNORJE 1.000,00 
+
+  3.3.93.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+0952 1622.10.0302.0016.2239 - MANUTENÇÃO DOS CONTRATOS DE PROGRAMA DO CISNORJE 40.500,00 
+
+  3.3.93.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+0953 1622.10.0302.0016.2239 - MANUTENÇÃO DOS CONTRATOS DE PROGRAMA DO CISNORJE 5.000,00 
+
+  3.3.93.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+0962 1623.10.0304.0017.1047 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ A VIG SANITÁ 1.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0964 1623.10.0304.0017.1047 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ A VIG SANITÁ 3.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0980 1623.10.0304.0017.2129 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0983 1623.10.0304.0017.2129 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 1.000,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+0986 1623.10.0304.0017.2129 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 500,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+0988 1623.10.0304.0017.2129 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0990 1623.10.0304.0017.2129 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0991 1623.10.0304.0017.2129 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0994 1623.10.0304.0017.2129 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 1.000,00 
+
+  3.3.90.95.00.00 - Indenização pela Execução de Trabalho de Campo   
+
+0995 1623.10.0304.0022.2138 - SALÁRIOS/ENCARGOS DA VIG DA SITUAÇÃO DE SAÚDE 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0996 1623.10.0304.0022.2138 - SALÁRIOS/ENCARGOS DA VIG DA SITUAÇÃO DE SAÚDE 1.500,00 
+
+  3.1.90.04.00.00 - 
+01-Dezembro-2020
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+0900 1622.10.0302.0016.2125 - MANUTENÇÃO DAS ATIVIDADES DO BLMAC 1.500,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+0909 1622.10.0302.0016.2125 - MANUTENÇÃO DAS ATIVIDADES DO BLMAC 17.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0910 1622.10.0302.0016.2125 - MANUTENÇÃO DAS ATIVIDADES DO BLMAC 1.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+0911 1622.10.0302.0016.2125 - MANUTENÇÃO DAS ATIVIDADES DO BLMAC 5.000,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+0935 1622.10.0302.0016.2126 - SALÁRIOS/ENCARGOS DO LAB MUNICIPAL 1.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0937 1622.10.0302.0016.2127 - MANUTENÇÃO DAS ATIVIDADES DO LAB MUNICIPAL 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0940 1622.10.0302.0016.2127 - MANUTENÇÃO DAS ATIVIDADES DO LAB MUNICIPAL 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0943 1622.10.0302.0016.2127 - MANUTENÇÃO DAS ATIVIDADES DO LAB MUNICIPAL 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0948 1622.10.0302.0016.2238 - MANUTENÇÃO DOS CONTRATOS DE PROGRAMA DO CISAJE 42.200,00 
+
+  3.3.93.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+0951 1622.10.0302.0016.2239 - MANUTENÇÃO DOS CONTRATOS DE PROGRAMA DO CISNORJE 1.000,00 
+
+  3.3.93.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+0952 1622.10.0302.0016.2239 - MANUTENÇÃO DOS CONTRATOS DE PROGRAMA DO CISNORJE 40.500,00 
+
+  3.3.93.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+0953 1622.10.0302.0016.2239 - MANUTENÇÃO DOS CONTRATOS DE PROGRAMA DO CISNORJE 5.000,00 
+
+  3.3.93.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica   
+
+0962 1623.10.0304.0017.1047 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ A VIG SANITÁ 1.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0964 1623.10.0304.0017.1047 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ A VIG SANITÁ 3.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+0980 1623.10.0304.0017.2129 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0983 1623.10.0304.0017.2129 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 1.000,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+0986 1623.10.0304.0017.2129 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 500,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+0988 1623.10.0304.0017.2129 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0990 1623.10.0304.0017.2129 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0991 1623.10.0304.0017.2129 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0994 1623.10.0304.0017.2129 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 1.000,00 
+
+  3.3.90.95.00.00 - Indenização pela Execução de Trabalho de Campo   
+
+0995 1623.10.0304.0022.2138 - SALÁRIOS/ENCARGOS DA VIG DA SITUAÇÃO DE SAÚDE 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0996 1623.10.0304.0022.2138 - SALÁRIOS/ENCARGOS DA VIG DA SITUAÇÃO DE SAÚDE 1.500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0997 1623.10.0304.0022.2138 - SALÁRIOS/ENCARGOS DA VIG DA SITUAÇÃO DE SAÚDE 2.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0998 1623.10.0304.0022.2138 - SALÁRIOS/ENCARGOS DA VIG DA SITUAÇÃO DE SAÚDE 1.500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0999 1623.10.0304.0022.2138 - SALÁRIOS/ENCARGOS DA VIG DA SITUAÇÃO DE SAÚDE 2.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1000 1623.10.0304.0022.2138 - SALÁRIOS/ENCARGOS DA VIG DA SITUAÇÃO DE SAÚDE 1.500,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1001 1623.10.0304.0022.2138 - SALÁRIOS/ENCARGOS DA VIG DA SITUAÇÃO DE SAÚDE 2.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1002 1623.10.0304.0022.2138 - SALÁRIOS/ENCARGOS DA VIG DA SITUAÇÃO DE SAÚDE 1.500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1003 1623.10.0304.0022.2138 - SALÁRIOS/ENCARGOS DA VIG DA SITUAÇÃO DE SAÚDE 2.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1004 1623.10.0304.0022.2138 - SALÁRIOS/ENCARGOS DA VIG DA SITUAÇÃO DE SAÚDE 1.500,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 146 
+
+ 
+
+1005 1623.10.0304.0022.2138 - SALÁRIOS/ENCARGOS DA VIG DA SITUAÇÃO DE SAÚDE 2.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+1006 1623.10.0304.0022.2138 - SALÁRIOS/ENCARGOS DA VIG DA SITUAÇÃO DE SAÚDE 1.500,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+1007 1623.10.0306.0021.1051 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ AÇÕES DE DES 1.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1008 1623.10.0306.0021.1051 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ AÇÕES DE DES 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1011 1623.10.0306.0021.2136 - SALÁRIOS/ENCARGOS DAS AÇÕES DE DESNUTRIÇÃO 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1013 1623.10.0306.0021.2136 - SALÁRIOS/ENCARGOS DAS AÇÕES DE DESNUTRIÇÃO 500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1014 1623.10.0306.0021.2136 - SALÁRIOS/ENCARGOS DAS AÇÕES DE DESNUTRIÇÃO 2.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1015 1623.10.0306.0021.2136 - SALÁRIOS/ENCARGOS DAS AÇÕES DE DESNUTRIÇÃO 500,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1016 1623.10.0306.0021.2136 - SALÁRIOS/ENCARGOS DAS AÇÕES DE DESNUTRIÇÃO 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1017 1623.10.0306.0021.2136 - SALÁRIOS/ENCARGOS DAS AÇÕES DE DESNUTRIÇÃO 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1018 1623.10.0306.0021.2136 - SALÁRIOS/ENCARGOS DAS AÇÕES DE DESNUTRIÇÃO 1.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1019 1623.10.0306.0021.2136 - SALÁRIOS/ENCARGOS DAS AÇÕES DE DESNUTRIÇÃO 500,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1020 1623.10.0306.0021.2136 - SALÁRIOS/ENCARGOS DAS AÇÕES DE DESNUTRIÇÃO 1.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+1021 1623.10.0306.0021.2136 - SALÁRIOS/ENCARGOS DAS AÇÕES DE DESNUTRIÇÃO 500,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+1022 1623.10.0306.0021.2137 - MANUTENÇÃO DAS ATIVIDADES DAS AÇÕES DE DESNUTRIÇÃO 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1024 1623.10.0306.0021.2137 - MANUTENÇÃO DAS ATIVIDADES DAS AÇÕES DE DESNUTRIÇÃO 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1029 1623.10.0306.0021.2137 - MANUTENÇÃO DAS ATIVIDADES DAS AÇÕES DE DESNUTRIÇÃO 500,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+1030 1623.10.0306.0021.2137 - MANUTENÇÃO DAS ATIVIDADES DAS AÇÕES DE DESNUTRIÇÃO 500,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+1031 1623.10.0306.0021.2137 - MANUTENÇÃO DAS ATIVIDADES DAS AÇÕES DE DESNUTRIÇÃO 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1033 1623.10.0306.0021.2137 - MANUTENÇÃO DAS ATIVI
+01-Dezembro-2020
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1002 1623.10.0304.0022.2138 - SALÁRIOS/ENCARGOS DA VIG DA SITUAÇÃO DE SAÚDE 1.500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1003 1623.10.0304.0022.2138 - SALÁRIOS/ENCARGOS DA VIG DA SITUAÇÃO DE SAÚDE 2.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1004 1623.10.0304.0022.2138 - SALÁRIOS/ENCARGOS DA VIG DA SITUAÇÃO DE SAÚDE 1.500,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 146 
+
+ 
+
+1005 1623.10.0304.0022.2138 - SALÁRIOS/ENCARGOS DA VIG DA SITUAÇÃO DE SAÚDE 2.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+1006 1623.10.0304.0022.2138 - SALÁRIOS/ENCARGOS DA VIG DA SITUAÇÃO DE SAÚDE 1.500,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+1007 1623.10.0306.0021.1051 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ AÇÕES DE DES 1.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1008 1623.10.0306.0021.1051 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ AÇÕES DE DES 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1011 1623.10.0306.0021.2136 - SALÁRIOS/ENCARGOS DAS AÇÕES DE DESNUTRIÇÃO 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1013 1623.10.0306.0021.2136 - SALÁRIOS/ENCARGOS DAS AÇÕES DE DESNUTRIÇÃO 500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1014 1623.10.0306.0021.2136 - SALÁRIOS/ENCARGOS DAS AÇÕES DE DESNUTRIÇÃO 2.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1015 1623.10.0306.0021.2136 - SALÁRIOS/ENCARGOS DAS AÇÕES DE DESNUTRIÇÃO 500,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1016 1623.10.0306.0021.2136 - SALÁRIOS/ENCARGOS DAS AÇÕES DE DESNUTRIÇÃO 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1017 1623.10.0306.0021.2136 - SALÁRIOS/ENCARGOS DAS AÇÕES DE DESNUTRIÇÃO 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1018 1623.10.0306.0021.2136 - SALÁRIOS/ENCARGOS DAS AÇÕES DE DESNUTRIÇÃO 1.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1019 1623.10.0306.0021.2136 - SALÁRIOS/ENCARGOS DAS AÇÕES DE DESNUTRIÇÃO 500,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1020 1623.10.0306.0021.2136 - SALÁRIOS/ENCARGOS DAS AÇÕES DE DESNUTRIÇÃO 1.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+1021 1623.10.0306.0021.2136 - SALÁRIOS/ENCARGOS DAS AÇÕES DE DESNUTRIÇÃO 500,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+1022 1623.10.0306.0021.2137 - MANUTENÇÃO DAS ATIVIDADES DAS AÇÕES DE DESNUTRIÇÃO 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1024 1623.10.0306.0021.2137 - MANUTENÇÃO DAS ATIVIDADES DAS AÇÕES DE DESNUTRIÇÃO 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1029 1623.10.0306.0021.2137 - MANUTENÇÃO DAS ATIVIDADES DAS AÇÕES DE DESNUTRIÇÃO 500,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+1030 1623.10.0306.0021.2137 - MANUTENÇÃO DAS ATIVIDADES DAS AÇÕES DE DESNUTRIÇÃO 500,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+1031 1623.10.0306.0021.2137 - MANUTENÇÃO DAS ATIVIDADES DAS AÇÕES DE DESNUTRIÇÃO 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1033 1623.10.0306.0021.2137 - MANUTENÇÃO DAS ATIVIDADES DAS AÇÕES DE DESNUTRIÇÃO 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1036 1624.10.0305.0018.1048 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ A VIG EPIDEM 1.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1038 1624.10.0305.0018.1048 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ A VIG EPIDEM 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1046 1624.10.0305.0018.2130 - SALÁRIOS/ENCARGOS VIGILÂNCIA EPIDEMIOLÓGICA 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1048 1624.10.0305.0018.2130 - SALÁRIOS/ENCARGOS VIGILÂNCIA EPIDEMIOLÓGICA 1.500,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1050 1624.10.0305.0018.2130 - SALÁRIOS/ENCARGOS VIGILÂNCIA EPIDEMIOLÓGICA 3.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+1055 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1058 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 1.000,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1060 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 500,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1061 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 550,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+1062 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 500,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+1063 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 47.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1064 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1066 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1068 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 1.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+1070 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 1.000,00 
+
+  3.3.90.95.00.00 - Indenização pela Execução de Trabalho de Campo   
+
+1071 1624.10.0305.0019.1049 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SAÚDE DO TRA 1.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1073 1624.10.0305.0019.1049 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SAÚDE DO TRA 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1075 1624.10.0305.0019.2132 - SALÁRIOS/ENCARGOS SAÚDE DO TRABALHADOR 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1077 1624.10.0305.0019.2132 - SALÁRIOS/ENCARGOS SAÚDE DO TRABALHADOR 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1079 1624.10.0305.0019.2132 - SALÁRIOS/ENCARGOS SAÚDE DO TRABALHADOR 1.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1081 1624.10.0305.0019.2132 - SALÁRIOS/ENCARGOS SAÚDE DO TRABALHADOR 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1083 1624.10.0305.0019.2132 - SALÁRIOS/ENCARGOS SAÚDE DO TRABALHADOR 1.000,00 
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 147 
+
+ 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1085 1624.10.0305.0019.2132 - SALÁRIOS/ENCARGOS SAÚDE DO TRABALHADOR 1.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+1087 1624.10.0305.0019.2133 - MANUTENÇÃO DAS ATIVIDADES DA SAÚDE DO TRABALHADOR 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1089 1624.10.0305.0019.2133 - MANUTENÇÃO DAS ATIVIDADES DA SAÚDE DO TRABALHADOR 1.000,
+01-Dezembro-2020
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+1055 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1058 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 1.000,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1060 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 500,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1061 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 550,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+1062 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 500,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+1063 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 47.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1064 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1066 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1068 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 1.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+1070 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 1.000,00 
+
+  3.3.90.95.00.00 - Indenização pela Execução de Trabalho de Campo   
+
+1071 1624.10.0305.0019.1049 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SAÚDE DO TRA 1.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1073 1624.10.0305.0019.1049 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SAÚDE DO TRA 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1075 1624.10.0305.0019.2132 - SALÁRIOS/ENCARGOS SAÚDE DO TRABALHADOR 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1077 1624.10.0305.0019.2132 - SALÁRIOS/ENCARGOS SAÚDE DO TRABALHADOR 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1079 1624.10.0305.0019.2132 - SALÁRIOS/ENCARGOS SAÚDE DO TRABALHADOR 1.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1081 1624.10.0305.0019.2132 - SALÁRIOS/ENCARGOS SAÚDE DO TRABALHADOR 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1083 1624.10.0305.0019.2132 - SALÁRIOS/ENCARGOS SAÚDE DO TRABALHADOR 1.000,00 
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 147 
+
+ 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1085 1624.10.0305.0019.2132 - SALÁRIOS/ENCARGOS SAÚDE DO TRABALHADOR 1.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+1087 1624.10.0305.0019.2133 - MANUTENÇÃO DAS ATIVIDADES DA SAÚDE DO TRABALHADOR 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1089 1624.10.0305.0019.2133 - MANUTENÇÃO DAS ATIVIDADES DA SAÚDE DO TRABALHADOR 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1092 1624.10.0305.0019.2133 - MANUTENÇÃO DAS ATIVIDADES DA SAÚDE DO TRABALHADOR 1.000,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1093 1624.10.0305.0019.2133 - MANUTENÇÃO DAS ATIVIDADES DA SAÚDE DO TRABALHADOR 1.500,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1095 1624.10.0305.0019.2133 - MANUTENÇÃO DAS ATIVIDADES DA SAÚDE DO TRABALHADOR 1.500,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+1097 1624.10.0305.0019.2133 - MANUTENÇÃO DAS ATIVIDADES DA SAÚDE DO TRABALHADOR 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1099 1624.10.0305.0019.2133 - MANUTENÇÃO DAS ATIVIDADES DA SAÚDE DO TRABALHADOR 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1102 1624.10.0305.0019.2133 - MANUTENÇÃO DAS ATIVIDADES DA SAÚDE DO TRABALHADOR 1.000,00 
+
+  3.3.90.95.00.00 - Indenização pela Execução de Trabalho de Campo   
+
+1105 1624.10.0305.0020.1050 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ VIG AMBIENTA 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1107 1624.10.0305.0020.2134 - SALÁRIOS/ENCARGOS DA VIG AMBIENTAL E ZOONOSES 23.917,50 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+1121 1624.10.0305.0020.2135 - MANUTENÇÃO DAS ATIVIDADES DA VIG AMBIENTAL E ZOONOSES 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1124 1624.10.0305.0020.2135 - MANUTENÇÃO DAS ATIVIDADES DA VIG AMBIENTAL E ZOONOSES 1.500,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1126 1624.10.0305.0020.2135 - MANUTENÇÃO DAS ATIVIDADES DA VIG AMBIENTAL E ZOONOSES 1.500,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+1128 1624.10.0305.0020.2135 - MANUTENÇÃO DAS ATIVIDADES DA VIG AMBIENTAL E ZOONOSES 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1130 1624.10.0305.0020.2135 - MANUTENÇÃO DAS ATIVIDADES DA VIG AMBIENTAL E ZOONOSES 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1133 1624.10.0305.0020.2135 - MANUTENÇÃO DAS ATIVIDADES DA VIG AMBIENTAL E ZOONOSES 1.000,00 
+
+  3.3.90.95.00.00 - Indenização pela Execução de Trabalho de Campo   
+
+1134 1624.10.0305.0023.1052 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ IST/AIDS E H 1.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1135 1624.10.0305.0023.1052 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ IST/AIDS E H 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1137 1624.10.0305.0023.2139 - SALÁRIOS/ENCARGOS DA VIG EM IST/AIDS E HEPATITES VIRAIS 2.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1143 1624.10.0305.0023.2139 - SALÁRIOS/ENCARGOS DA VIG EM IST/AIDS E HEPATITES VIRAIS 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1145 1624.10.0305.0023.2139 - SALÁRIOS/ENCARGOS DA VIG EM IST/AIDS E HEPATITES VIRAIS 2.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1149 1624.10.0305.0023.2140 - MANUTENÇÃO DAS ATIVIDADES EM VIG IST/AIDS E HEPATITRES VIRAI 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1151 1624.10.0305.0023.2140 - MANUTENÇÃO DAS ATIVIDADES EM VIG IST/AIDS E HEPATITRES VIRAI 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1152 1624.10.0305.0023.2140 - MANUTENÇÃO DAS ATIVIDADES EM VIG IST/AIDS E HEPATITRES VIRAI 3.500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1154 1624.10.0305.0023.2140 - MANUTENÇÃO DAS ATIVIDADES EM VIG IST/AIDS E HEPATITRES VIRAI 1.000,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1173 1710.04.0122.0024.2142 - MANUTENÇÃO DAS ATIVIDADES DA SEMDAMA 5.020,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1180 1710.04.0122.0024.2227 - CONTRIBUIÇÃO A AMIG - ASSOCIAÇÃO MUN MINERADORES DE MG 1.200,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1185 1710.06.0182.0024.2143 - MANUTENÇÃO DA POLÍTICA MUNICIPAL DE DEFESA CIVIL 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1186 1710.20.0605.0026.1057 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ AGRICULTURA 500,00 
+
+  4.4.90.52.00.00 - Eq
+01-Dezembro-2020
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+1121 1624.10.0305.0020.2135 - MANUTENÇÃO DAS ATIVIDADES DA VIG AMBIENTAL E ZOONOSES 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1124 1624.10.0305.0020.2135 - MANUTENÇÃO DAS ATIVIDADES DA VIG AMBIENTAL E ZOONOSES 1.500,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1126 1624.10.0305.0020.2135 - MANUTENÇÃO DAS ATIVIDADES DA VIG AMBIENTAL E ZOONOSES 1.500,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+1128 1624.10.0305.0020.2135 - MANUTENÇÃO DAS ATIVIDADES DA VIG AMBIENTAL E ZOONOSES 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1130 1624.10.0305.0020.2135 - MANUTENÇÃO DAS ATIVIDADES DA VIG AMBIENTAL E ZOONOSES 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1133 1624.10.0305.0020.2135 - MANUTENÇÃO DAS ATIVIDADES DA VIG AMBIENTAL E ZOONOSES 1.000,00 
+
+  3.3.90.95.00.00 - Indenização pela Execução de Trabalho de Campo   
+
+1134 1624.10.0305.0023.1052 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ IST/AIDS E H 1.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1135 1624.10.0305.0023.1052 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ IST/AIDS E H 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1137 1624.10.0305.0023.2139 - SALÁRIOS/ENCARGOS DA VIG EM IST/AIDS E HEPATITES VIRAIS 2.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1143 1624.10.0305.0023.2139 - SALÁRIOS/ENCARGOS DA VIG EM IST/AIDS E HEPATITES VIRAIS 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1145 1624.10.0305.0023.2139 - SALÁRIOS/ENCARGOS DA VIG EM IST/AIDS E HEPATITES VIRAIS 2.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1149 1624.10.0305.0023.2140 - MANUTENÇÃO DAS ATIVIDADES EM VIG IST/AIDS E HEPATITRES VIRAI 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1151 1624.10.0305.0023.2140 - MANUTENÇÃO DAS ATIVIDADES EM VIG IST/AIDS E HEPATITRES VIRAI 1.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1152 1624.10.0305.0023.2140 - MANUTENÇÃO DAS ATIVIDADES EM VIG IST/AIDS E HEPATITRES VIRAI 3.500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1154 1624.10.0305.0023.2140 - MANUTENÇÃO DAS ATIVIDADES EM VIG IST/AIDS E HEPATITRES VIRAI 1.000,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1173 1710.04.0122.0024.2142 - MANUTENÇÃO DAS ATIVIDADES DA SEMDAMA 5.020,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1180 1710.04.0122.0024.2227 - CONTRIBUIÇÃO A AMIG - ASSOCIAÇÃO MUN MINERADORES DE MG 1.200,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1185 1710.06.0182.0024.2143 - MANUTENÇÃO DA POLÍTICA MUNICIPAL DE DEFESA CIVIL 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1186 1710.20.0605.0026.1057 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ AGRICULTURA 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1204 1710.20.0606.0026.2145 - MANUTENÇÃO DOS MERCADOS E FEIRAS MUNICIPAIS 1.500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1206 1710.20.0606.0026.2145 - MANUTENÇÃO DOS MERCADOS E FEIRAS MUNICIPAIS 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1207 1710.20.0606.0026.2146 - MANUTENÇÃO DO CONVÊNIO COM A EMATER 2.000,00 
+
+  3.3.30.41.00.00 - Contribuições   
+
+1208 1710.20.0606.0026.2147 - MANUTENÇÃO DAS ATIVIDADES DA COORDENADORIA DE AGRICULTURA 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1210 1710.20.0606.0026.2147 - MANUTENÇÃO DAS ATIVIDADES DA COORDENADORIA DE AGRICULTURA 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1216 1720.15.0452.0025.1068 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DE PRAÇAS, PARQUES E JARDIN 348.933,33 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1223 1720.15.0452.0025.2163 - SALÁRIOS/ENCARGOS DO DEPTO DE LIMPEZA PÚBLICA 2.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1228 1720.15.0452.0025.2164 - MANUTENÇÃO DAS ATIVIDADES DE LIMPEZA PÚBLICA 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1229 1720.15.0452.0025.2164 - MANUTENÇÃO DAS ATIVIDADES DE LIMPEZA PÚBLICA 4.445,44 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações:  
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 148 
+
+ 
+
+Ficha Funcional Programática Valor 
+
+1230 1720.15.0452.0025.2164 - MANUTENÇÃO DAS ATIVIDADES DE LIMPEZA PÚBLICA 147.155,55 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1245 1730.17.0511.0024.2152 - MANUTENÇÃO DOS POÇOS ARTESIANOS DOS SERV DE ÁGUA DOS DISTRIT 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1275 1730.18.0542.0024.2162 - MANUTENÇÃO DE CONVÊNIO COM DNPM 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1276 1730.18.0542.0024.2162 - MANUTENÇÃO DE CONVÊNIO COM DNPM 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1277 1730.18.0543.0024.1067 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE VIVEIRO MUNICIPAL 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1290 1810.15.0122.0003.1072 - AQUISIÇÃO DE IMÓVEIS SEDUR 500,00 
+
+  4.4.90.61.00.00 - Aquisição de Imóveis   
+
+1331 1810.15.0452.0032.1090 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DOS CEMITÉRIOS URBANOS E RU 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1336 1810.15.0452.0032.2171 - MANUTENÇÃO DAS ATIVIDADES NOS CEMITÉRIOS URBANOS E RURAIS 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1343 1810.18.0544.0033.1094 - AQUISIÇÃO DE MÁQ. E EQUIP. P/ DISTRIBUIÇÃO DE ÁGUA 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1346 1810.18.0544.0033.2172 - MANUTENÇÃO DA REDE DE DISTRIBUIÇÃO DE ÁGUA 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1349 1810.26.0782.0027.1074 - AQUISIÇÃO DE VEÍCULOS, MÁQUINAS E EQUIP RODOVIÁRIOS 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1363 1820.16.0482.0034.1096 - AQUISIÇÃO DE TERRENO P/ CONSTRUÇÃO DE UNIDADES BÁSICAS HABIT 500,00 
+
+  4.4.90.61.00.00 - Aquisição de Imóveis   
+
+1364 1910.08.0122.0035.1097 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRÉDIO DA SMDS 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1365 1910.08.0122.0035.1098 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SMDS 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1366 1910.08.0122.0035.1099 - AQUISIÇÃO DE IMÓVEL P/ SMDS 500,00 
+
+  4.4.90.61.00.00 - Aquisição de Imóveis   
+
+1370 1910.08.0122.0035.2173 - SALÁRIOS/ENCARGOS DA SMDS 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1371 1910.08.0122.0035.2173 - SALÁRIOS/ENCARGOS DA SMDS 1.000,00 
+
+  3.1.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+1376 1910.08.0122.0035.2174 - MANUTENÇÃO DAS ATIVIDADES DA SMDS 500,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1377 1910.08.0122.0035.2174 - MANUTENÇÃO DAS ATIVIDADES DA SMDS 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1382 1910.08.0122.0035.2174 - MANUTENÇÃO DAS ATIVIDADES DA SMDS 500,00 
+
+  3.3.90.46.00.00 - Auxílio-alimentação   
+
+1388 1910.08.0128.0038.2178 - CAPACITAÇÃO DOS SERVIDORES DA SMDS 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1389 1910.08.0128.0038.2178 - CAPACITAÇÃO DOS SERVI
+01-Dezembro-2020
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações:  
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 148 
+
+ 
+
+Ficha Funcional Programática Valor 
+
+1230 1720.15.0452.0025.2164 - MANUTENÇÃO DAS ATIVIDADES DE LIMPEZA PÚBLICA 147.155,55 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1245 1730.17.0511.0024.2152 - MANUTENÇÃO DOS POÇOS ARTESIANOS DOS SERV DE ÁGUA DOS DISTRIT 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1275 1730.18.0542.0024.2162 - MANUTENÇÃO DE CONVÊNIO COM DNPM 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1276 1730.18.0542.0024.2162 - MANUTENÇÃO DE CONVÊNIO COM DNPM 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1277 1730.18.0543.0024.1067 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE VIVEIRO MUNICIPAL 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1290 1810.15.0122.0003.1072 - AQUISIÇÃO DE IMÓVEIS SEDUR 500,00 
+
+  4.4.90.61.00.00 - Aquisição de Imóveis   
+
+1331 1810.15.0452.0032.1090 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DOS CEMITÉRIOS URBANOS E RU 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1336 1810.15.0452.0032.2171 - MANUTENÇÃO DAS ATIVIDADES NOS CEMITÉRIOS URBANOS E RURAIS 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1343 1810.18.0544.0033.1094 - AQUISIÇÃO DE MÁQ. E EQUIP. P/ DISTRIBUIÇÃO DE ÁGUA 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1346 1810.18.0544.0033.2172 - MANUTENÇÃO DA REDE DE DISTRIBUIÇÃO DE ÁGUA 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1349 1810.26.0782.0027.1074 - AQUISIÇÃO DE VEÍCULOS, MÁQUINAS E EQUIP RODOVIÁRIOS 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1363 1820.16.0482.0034.1096 - AQUISIÇÃO DE TERRENO P/ CONSTRUÇÃO DE UNIDADES BÁSICAS HABIT 500,00 
+
+  4.4.90.61.00.00 - Aquisição de Imóveis   
+
+1364 1910.08.0122.0035.1097 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRÉDIO DA SMDS 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1365 1910.08.0122.0035.1098 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SMDS 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1366 1910.08.0122.0035.1099 - AQUISIÇÃO DE IMÓVEL P/ SMDS 500,00 
+
+  4.4.90.61.00.00 - Aquisição de Imóveis   
+
+1370 1910.08.0122.0035.2173 - SALÁRIOS/ENCARGOS DA SMDS 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1371 1910.08.0122.0035.2173 - SALÁRIOS/ENCARGOS DA SMDS 1.000,00 
+
+  3.1.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+1376 1910.08.0122.0035.2174 - MANUTENÇÃO DAS ATIVIDADES DA SMDS 500,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1377 1910.08.0122.0035.2174 - MANUTENÇÃO DAS ATIVIDADES DA SMDS 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1382 1910.08.0122.0035.2174 - MANUTENÇÃO DAS ATIVIDADES DA SMDS 500,00 
+
+  3.3.90.46.00.00 - Auxílio-alimentação   
+
+1388 1910.08.0128.0038.2178 - CAPACITAÇÃO DOS SERVIDORES DA SMDS 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1389 1910.08.0128.0038.2178 - CAPACITAÇÃO DOS SERVIDORES DA SMDS 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1390 1910.08.0128.0038.2178 - CAPACITAÇÃO DOS SERVIDORES DA SMDS 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1391 1910.08.0128.0038.2178 - CAPACITAÇÃO DOS SERVIDORES DA SMDS 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1392 1920.08.0128.0039.2179 - CAPACITAÇÃO DOS SERVIDORES DO SUAS 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1393 1920.08.0128.0039.2179 - CAPACITAÇÃO DOS SERVIDORES DO SUAS 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1394 1920.08.0128.0039.2179 - CAPACITAÇÃO DOS SERVIDORES DO SUAS 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1395 1920.08.0128.0039.2179 - CAPACITAÇÃO DOS SERVIDORES DO SUAS 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1397 1920.08.0242.0042.2184 - VIABILIZAR ATENDIMENTO A PESSOA COM DEFICIÊNCIA 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1398 1920.08.0242.0042.2184 - VIABILIZAR ATENDIMENTO A PESSOA COM DEFICIÊNCIA 500,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1399 1920.08.0242.0042.2184 - VIABILIZAR ATENDIMENTO A PESSOA COM DEFICIÊNCIA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1400 1920.08.0242.0042.2184 - VIABILIZAR ATENDIMENTO A PESSOA COM DEFICIÊNCIA 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1401 1920.08.0242.0042.2184 - VIABILIZAR ATENDIMENTO A PESSOA COM DEFICIÊNCIA 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1403 1920.08.0244.0036.1100 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRÉDIOS DO CRAS/PAIF 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1405 1920.08.0244.0036.1101 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ CRAS/PAIF 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1408 1920.08.0244.0036.1132 - AQUISIÇÃO DE VEÍCULOS, MÁQ., EQUIP. E MÓVEIS P/ FMAS 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1422 1920.08.0244.0036.2176 - MANUTENÇÃO DAS ATIVIDADES DO CRAS/PAIF 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1424 1920.08.0244.0036.2176 - MANUTENÇÃO DAS ATIVIDADES DO CRAS/PAIF 911,50 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1425 1920.08.0244.0036.2176 - MANUTENÇÃO DAS ATIVIDADES DO CRAS/PAIF 50,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1427 1920.08.0244.0036.2176 - MANUTENÇÃO DAS ATIVIDADES DO CRAS/PAIF 4.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1431 1920.08.0244.0036.2176 - MANUTENÇÃO DAS ATIVIDADES DO CRAS/PAIF 500,00 
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 149 
+
+ 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1433 1920.08.0244.0036.2176 - MANUTENÇÃO DAS ATIVIDADES DO CRAS/PAIF 2.500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1441 1920.08.0244.0036.2176 - MANUTENÇÃO DAS ATIVIDADES DO CRAS/PAIF 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1444 1920.08.0244.0036.2176 - MANUTENÇÃO DAS ATIVIDADES DO CRAS/PAIF 560,40 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+1447 1920.08.0244.0036.2177 - SUBVENÇÕES SOCIAIS A ENTIDADES FILANTRÓPICAS 500,00 
+
+  3.3.50.43.00.00 - Subvenções Sociais   
+
+1449 1920.08.0244.0036.2243 - SALÁRIOS E ENCARGOS DO FMAS 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1453 1920.08.0244.0036.2243 - SALÁRIOS E ENCARGOS DO FMAS 500,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1455 1920.08.0244.0036.2243 - SALÁRIOS E ENCARGOS DO FMAS 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1457 1920.08.0244.0036.2243 - SALÁRIOS E ENCARGOS DO FMAS 500,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1459 1920.08.0244.0036.2243 - SALÁRIOS E ENCARGOS DO FMAS 500,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+1463 1920.08.0244.0036.2244 - MANUTENÇÃO DAS ATIVIDADES DO FMAS 4.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1465 1920.08.0244
+01-Dezembro-2020
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1397 1920.08.0242.0042.2184 - VIABILIZAR ATENDIMENTO A PESSOA COM DEFICIÊNCIA 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1398 1920.08.0242.0042.2184 - VIABILIZAR ATENDIMENTO A PESSOA COM DEFICIÊNCIA 500,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1399 1920.08.0242.0042.2184 - VIABILIZAR ATENDIMENTO A PESSOA COM DEFICIÊNCIA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1400 1920.08.0242.0042.2184 - VIABILIZAR ATENDIMENTO A PESSOA COM DEFICIÊNCIA 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1401 1920.08.0242.0042.2184 - VIABILIZAR ATENDIMENTO A PESSOA COM DEFICIÊNCIA 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1403 1920.08.0244.0036.1100 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRÉDIOS DO CRAS/PAIF 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1405 1920.08.0244.0036.1101 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ CRAS/PAIF 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1408 1920.08.0244.0036.1132 - AQUISIÇÃO DE VEÍCULOS, MÁQ., EQUIP. E MÓVEIS P/ FMAS 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1422 1920.08.0244.0036.2176 - MANUTENÇÃO DAS ATIVIDADES DO CRAS/PAIF 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1424 1920.08.0244.0036.2176 - MANUTENÇÃO DAS ATIVIDADES DO CRAS/PAIF 911,50 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1425 1920.08.0244.0036.2176 - MANUTENÇÃO DAS ATIVIDADES DO CRAS/PAIF 50,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1427 1920.08.0244.0036.2176 - MANUTENÇÃO DAS ATIVIDADES DO CRAS/PAIF 4.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1431 1920.08.0244.0036.2176 - MANUTENÇÃO DAS ATIVIDADES DO CRAS/PAIF 500,00 
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 149 
+
+ 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1433 1920.08.0244.0036.2176 - MANUTENÇÃO DAS ATIVIDADES DO CRAS/PAIF 2.500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1441 1920.08.0244.0036.2176 - MANUTENÇÃO DAS ATIVIDADES DO CRAS/PAIF 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1444 1920.08.0244.0036.2176 - MANUTENÇÃO DAS ATIVIDADES DO CRAS/PAIF 560,40 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+1447 1920.08.0244.0036.2177 - SUBVENÇÕES SOCIAIS A ENTIDADES FILANTRÓPICAS 500,00 
+
+  3.3.50.43.00.00 - Subvenções Sociais   
+
+1449 1920.08.0244.0036.2243 - SALÁRIOS E ENCARGOS DO FMAS 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1453 1920.08.0244.0036.2243 - SALÁRIOS E ENCARGOS DO FMAS 500,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1455 1920.08.0244.0036.2243 - SALÁRIOS E ENCARGOS DO FMAS 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1457 1920.08.0244.0036.2243 - SALÁRIOS E ENCARGOS DO FMAS 500,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1459 1920.08.0244.0036.2243 - SALÁRIOS E ENCARGOS DO FMAS 500,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+1463 1920.08.0244.0036.2244 - MANUTENÇÃO DAS ATIVIDADES DO FMAS 4.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1465 1920.08.0244.0036.2244 - MANUTENÇÃO DAS ATIVIDADES DO FMAS 500,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1466 1920.08.0244.0036.2244 - MANUTENÇÃO DAS ATIVIDADES DO FMAS 37.795,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1469 1920.08.0244.0036.2244 - MANUTENÇÃO DAS ATIVIDADES DO FMAS 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1473 1920.08.0244.0036.2244 - MANUTENÇÃO DAS ATIVIDADES DO FMAS 3.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1476 1920.08.0244.0036.2244 - MANUTENÇÃO DAS ATIVIDADES DO FMAS 1.500,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1478 1920.08.0244.0036.2244 - MANUTENÇÃO DAS ATIVIDADES DO FMAS 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1483 1920.08.0244.0036.2244 - MANUTENÇÃO DAS ATIVIDADES DO FMAS 500,00 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+1484 1920.08.0244.0036.2246 - MANUTENÇÃO DAS ATIVIDADES DOS CONSELHOS MUNICIPAIS 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1485 1920.08.0244.0036.2246 - MANUTENÇÃO DAS ATIVIDADES DOS CONSELHOS MUNICIPAIS 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1486 1920.08.0244.0036.2246 - MANUTENÇÃO DAS ATIVIDADES DOS CONSELHOS MUNICIPAIS 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1488 1920.08.0244.0036.2246 - MANUTENÇÃO DAS ATIVIDADES DOS CONSELHOS MUNICIPAIS 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1489 1920.08.0244.0036.2246 - MANUTENÇÃO DAS ATIVIDADES DOS CONSELHOS MUNICIPAIS 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1494 1920.08.0244.0037.2182 - SALÁRIOS/ENCARGOS DO PBF E CAD ÚNICO 500,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1496 1920.08.0244.0037.2182 - SALÁRIOS/ENCARGOS DO PBF E CAD ÚNICO 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1502 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1504 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1505 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 1.500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1507 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 500,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1508 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 1.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1510 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1511 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 1.000,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1512 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1515 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1519 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1520 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1522 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 500,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+1523 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 1.000,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+1526 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 500,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+1529 1920.08.0244.0040.1103 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ CREAS 5
+01-Dezembro-2020
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1478 1920.08.0244.0036.2244 - MANUTENÇÃO DAS ATIVIDADES DO FMAS 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1483 1920.08.0244.0036.2244 - MANUTENÇÃO DAS ATIVIDADES DO FMAS 500,00 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+1484 1920.08.0244.0036.2246 - MANUTENÇÃO DAS ATIVIDADES DOS CONSELHOS MUNICIPAIS 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1485 1920.08.0244.0036.2246 - MANUTENÇÃO DAS ATIVIDADES DOS CONSELHOS MUNICIPAIS 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1486 1920.08.0244.0036.2246 - MANUTENÇÃO DAS ATIVIDADES DOS CONSELHOS MUNICIPAIS 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1488 1920.08.0244.0036.2246 - MANUTENÇÃO DAS ATIVIDADES DOS CONSELHOS MUNICIPAIS 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1489 1920.08.0244.0036.2246 - MANUTENÇÃO DAS ATIVIDADES DOS CONSELHOS MUNICIPAIS 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1494 1920.08.0244.0037.2182 - SALÁRIOS/ENCARGOS DO PBF E CAD ÚNICO 500,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1496 1920.08.0244.0037.2182 - SALÁRIOS/ENCARGOS DO PBF E CAD ÚNICO 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1502 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1504 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1505 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 1.500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1507 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 500,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1508 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 1.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1510 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1511 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 1.000,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1512 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1515 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1519 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1520 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1522 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 500,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+1523 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 1.000,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+1526 1920.08.0244.0037.2183 - MANUTENÇÃO DAS ATIVIDADES DO PBF E CAD ÚNICO 500,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+1529 1920.08.0244.0040.1103 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ CREAS 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1530 1920.08.0244.0040.1103 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ CREAS 1.000,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1534 1920.08.0244.0040.2180 - SALÁRIOS/ENCARGOS DO CREAS 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 150 
+
+ 
+
+1536 1920.08.0244.0040.2180 - SALÁRIOS/ENCARGOS DO CREAS 1.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1537 1920.08.0244.0040.2180 - SALÁRIOS/ENCARGOS DO CREAS 1.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+  
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1538 1920.08.0244.0040.2180 - SALÁRIOS/ENCARGOS DO CREAS 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1539 1920.08.0244.0040.2180 - SALÁRIOS/ENCARGOS DO CREAS 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1541 1920.08.0244.0040.2180 - SALÁRIOS/ENCARGOS DO CREAS 1.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1544 1920.08.0244.0040.2181 - MANUTENÇÃO DAS ATIVIDADES DO CREAS 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1546 1920.08.0244.0040.2181 - MANUTENÇÃO DAS ATIVIDADES DO CREAS 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1549 1920.08.0244.0040.2181 - MANUTENÇÃO DAS ATIVIDADES DO CREAS 500,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1552 1920.08.0244.0040.2181 - MANUTENÇÃO DAS ATIVIDADES DO CREAS 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1555 1920.08.0244.0040.2181 - MANUTENÇÃO DAS ATIVIDADES DO CREAS 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1557 1920.08.0244.0040.2181 - MANUTENÇÃO DAS ATIVIDADES DO CREAS 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1565 1920.08.0244.0040.2181 - MANUTENÇÃO DAS ATIVIDADES DO CREAS 8.000,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+1568 1920.08.0244.0041.1104 - AQUISIÇÃO MATERIAL DE CONSTRUÇÃO 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1569 1930.08.0243.0043.1105 - AQUISIÇÃO DE VEÍCULOS, MÁQ, EQUIP. E MÓVEIS P/ FMDCA 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1571 1930.08.0243.0043.1106 - AQUISIÇÃO DE VEÍCULOS, MÁQ, EQUIP. E MÓVEIS P/ CONSELHO TUTE 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1573 1930.08.0243.0043.2185 - SALÁRIOS/ENCARGOS DO FMDCA 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1574 1930.08.0243.0043.2185 - SALÁRIOS/ENCARGOS DO FMDCA 4.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1575 1930.08.0243.0043.2185 - SALÁRIOS/ENCARGOS DO FMDCA 500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1576 1930.08.0243.0043.2185 - SALÁRIOS/ENCARGOS DO FMDCA 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1577 1930.08.0243.0043.2185 - SALÁRIOS/ENCARGOS DO FMDCA 500,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1578 1930.08.0243.0043.2185 - SALÁRIOS/ENCARGOS DO FMDCA 1.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1579 1930.08.0243.0043.2185 - SALÁRIOS/ENCARGOS DO FMDCA 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1583 1930.08.0243.0043.2185 - SALÁRIOS/ENCARGOS DO FMDCA 500,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+1584 1930.08.0243.0043.2185 - SALÁRIOS/ENCARGOS DO FMDCA 1.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+1585 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1586 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 2.500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1587 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1588 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 1.500,00 
+
+  3.3.90.30.00.
+01-Dezembro-2020
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1538 1920.08.0244.0040.2180 - SALÁRIOS/ENCARGOS DO CREAS 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1539 1920.08.0244.0040.2180 - SALÁRIOS/ENCARGOS DO CREAS 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1541 1920.08.0244.0040.2180 - SALÁRIOS/ENCARGOS DO CREAS 1.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1544 1920.08.0244.0040.2181 - MANUTENÇÃO DAS ATIVIDADES DO CREAS 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1546 1920.08.0244.0040.2181 - MANUTENÇÃO DAS ATIVIDADES DO CREAS 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1549 1920.08.0244.0040.2181 - MANUTENÇÃO DAS ATIVIDADES DO CREAS 500,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1552 1920.08.0244.0040.2181 - MANUTENÇÃO DAS ATIVIDADES DO CREAS 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1555 1920.08.0244.0040.2181 - MANUTENÇÃO DAS ATIVIDADES DO CREAS 1.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1557 1920.08.0244.0040.2181 - MANUTENÇÃO DAS ATIVIDADES DO CREAS 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1565 1920.08.0244.0040.2181 - MANUTENÇÃO DAS ATIVIDADES DO CREAS 8.000,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+1568 1920.08.0244.0041.1104 - AQUISIÇÃO MATERIAL DE CONSTRUÇÃO 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1569 1930.08.0243.0043.1105 - AQUISIÇÃO DE VEÍCULOS, MÁQ, EQUIP. E MÓVEIS P/ FMDCA 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1571 1930.08.0243.0043.1106 - AQUISIÇÃO DE VEÍCULOS, MÁQ, EQUIP. E MÓVEIS P/ CONSELHO TUTE 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1573 1930.08.0243.0043.2185 - SALÁRIOS/ENCARGOS DO FMDCA 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1574 1930.08.0243.0043.2185 - SALÁRIOS/ENCARGOS DO FMDCA 4.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1575 1930.08.0243.0043.2185 - SALÁRIOS/ENCARGOS DO FMDCA 500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1576 1930.08.0243.0043.2185 - SALÁRIOS/ENCARGOS DO FMDCA 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1577 1930.08.0243.0043.2185 - SALÁRIOS/ENCARGOS DO FMDCA 500,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1578 1930.08.0243.0043.2185 - SALÁRIOS/ENCARGOS DO FMDCA 1.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1579 1930.08.0243.0043.2185 - SALÁRIOS/ENCARGOS DO FMDCA 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1583 1930.08.0243.0043.2185 - SALÁRIOS/ENCARGOS DO FMDCA 500,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+1584 1930.08.0243.0043.2185 - SALÁRIOS/ENCARGOS DO FMDCA 1.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+1585 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1586 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 2.500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1587 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1588 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 1.500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1590 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 500,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1591 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 500,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+  
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1592 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 2.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1594 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1596 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1597 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 1.500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1603 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1604 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1607 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 2.000,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+1609 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 500,00 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+1611 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 500,00 
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 151 
+
+ 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+1612 1930.08.0243.0043.2187 - CONTRIBUIÇÕES SOCIAS RECURSOS FIA 38.300,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1621 1930.08.0243.0043.2189 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO TUTELAR 1.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+1623 1940.08.0243.0043.1107 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRÉDIO DA FUMBEM 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1625 1940.08.0243.0043.2190 - SALÁRIOS/ENCARGOS DA FUMBEM 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1628 1940.08.0243.0043.2190 - SALÁRIOS/ENCARGOS DA FUMBEM 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1631 1940.08.0243.0043.2191 - MANUTENÇÃO DAS ATIVIDADES DA FUMBEM 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1632 1940.08.0243.0043.2191 - MANUTENÇÃO DAS ATIVIDADES DA FUMBEM 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1633 1940.08.0243.0043.2191 - MANUTENÇÃO DAS ATIVIDADES DA FUMBEM 500,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1634 1940.08.0243.0043.2191 - MANUTENÇÃO DAS ATIVIDADES DA FUMBEM 500,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1636 1940.08.0243.0043.2191 - MANUTENÇÃO DAS ATIVIDADES DA FUMBEM 2.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1639 1940.08.0243.0043.2191 - MANUTENÇÃO DAS ATIVIDADES DA FUMBEM 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1640 1940.08.0243.0043.2191 - MANUTENÇÃO DAS ATIVIDADES DA FUMBEM 500,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+1643 1950.08.0241.0044.1109 - AQUISIÇÃO DE VEÍCULOS, MÁQ, EQUIP. E MÓVEIS P/ FMI 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1645 1950.08.0241.0044.2192 - SALÁRIOS/ENCARGOS DO FMI 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1647 1950.08.0241.0044.2192 - SALÁRIOS/ENCARGOS DO FMI 500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1648 1950.08.0241.0044.2192 - SALÁRIOS/ENCARGOS DO FMI 500,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1649 1950.08.0241.0044.2192 - SALÁRIOS/ENCARGOS DO FMI 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1652 1950.08.0241.0044.2193 - MANUTENÇÃO DAS ATIVIDADES DO FMI 500,
+01-Dezembro-2020
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1592 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 2.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1594 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1596 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1597 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 1.500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1603 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1604 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 1.000,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1607 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 2.000,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+1609 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 500,00 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+1611 1930.08.0243.0043.2186 - MANUTENÇÃO DAS ATIVIDADES DO FMDCA 500,00 
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 151 
+
+ 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+1612 1930.08.0243.0043.2187 - CONTRIBUIÇÕES SOCIAS RECURSOS FIA 38.300,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1621 1930.08.0243.0043.2189 - MANUTENÇÃO DAS ATIVIDADES DO CONSELHO TUTELAR 1.000,00 
+
+  3.3.90.40.00.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica   
+
+1623 1940.08.0243.0043.1107 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRÉDIO DA FUMBEM 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1625 1940.08.0243.0043.2190 - SALÁRIOS/ENCARGOS DA FUMBEM 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1628 1940.08.0243.0043.2190 - SALÁRIOS/ENCARGOS DA FUMBEM 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1631 1940.08.0243.0043.2191 - MANUTENÇÃO DAS ATIVIDADES DA FUMBEM 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1632 1940.08.0243.0043.2191 - MANUTENÇÃO DAS ATIVIDADES DA FUMBEM 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1633 1940.08.0243.0043.2191 - MANUTENÇÃO DAS ATIVIDADES DA FUMBEM 500,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1634 1940.08.0243.0043.2191 - MANUTENÇÃO DAS ATIVIDADES DA FUMBEM 500,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1636 1940.08.0243.0043.2191 - MANUTENÇÃO DAS ATIVIDADES DA FUMBEM 2.000,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1639 1940.08.0243.0043.2191 - MANUTENÇÃO DAS ATIVIDADES DA FUMBEM 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1640 1940.08.0243.0043.2191 - MANUTENÇÃO DAS ATIVIDADES DA FUMBEM 500,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+1643 1950.08.0241.0044.1109 - AQUISIÇÃO DE VEÍCULOS, MÁQ, EQUIP. E MÓVEIS P/ FMI 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1645 1950.08.0241.0044.2192 - SALÁRIOS/ENCARGOS DO FMI 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1647 1950.08.0241.0044.2192 - SALÁRIOS/ENCARGOS DO FMI 500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1648 1950.08.0241.0044.2192 - SALÁRIOS/ENCARGOS DO FMI 500,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+1649 1950.08.0241.0044.2192 - SALÁRIOS/ENCARGOS DO FMI 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1652 1950.08.0241.0044.2193 - MANUTENÇÃO DAS ATIVIDADES DO FMI 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1653 1950.08.0241.0044.2193 - MANUTENÇÃO DAS ATIVIDADES DO FMI 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1654 1950.08.0241.0044.2193 - MANUTENÇÃO DAS ATIVIDADES DO FMI 500,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1655 1950.08.0241.0044.2193 - MANUTENÇÃO DAS ATIVIDADES DO FMI 500,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1658 1950.08.0241.0044.2193 - MANUTENÇÃO DAS ATIVIDADES DO FMI 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1659 1950.08.0241.0044.2193 - MANUTENÇÃO DAS ATIVIDADES DO FMI 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1665 1960.08.0244.0045.2194 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1666 1960.08.0244.0045.2194 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1667 1960.08.0244.0045.2194 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 500,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1668 1960.08.0244.0045.2194 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1669 1960.08.0244.0045.2194 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1672 1960.08.0244.0046.2195 - MANUTENÇÃO DO PROGRAMA DE AQUISIÇÃO DE ALIMENTOS - PAA 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1674 1960.08.0244.0046.2195 - MANUTENÇÃO DO PROGRAMA DE AQUISIÇÃO DE ALIMENTOS - PAA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1675 1960.08.0244.0046.2195 - MANUTENÇÃO DO PROGRAMA DE AQUISIÇÃO DE ALIMENTOS - PAA 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1681 2010.04.0122.0003.2196 - SALÁRIOS/ENCARGOS DA SECTUR 25.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1683 2010.04.0122.0003.2196 - SALÁRIOS/ENCARGOS DA SECTUR 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1687 2010.04.0122.0003.2197 - MANUTENÇÃO DAS ATIVIDADES DA SECTUR 500,00 
+
+  3.3.90.18.00.00 - Auxílio Financeiro a Estudantes   
+
+1689 2010.04.0122.0003.2197 - MANUTENÇÃO DAS ATIVIDADES DA SECTUR 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1695 2010.04.0122.0003.2197 - MANUTENÇÃO DAS ATIVIDADES DA SECTUR 500,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+1698 2010.04.0128.0003.2198 - CAPACITAÇÃO DOS SERVIDORES DA SECTUR 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1700 2010.04.0128.0003.2198 - CAPACITAÇÃO DOS SERVIDORES DA SECTUR 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1705 2020.23.0695.0047.2199 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA BEM RECEBER EM DTNA 550,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1707 2020.23.0695.0047.2199 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA BEM RECEBER EM DTNA 500,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1708 2020.23.0695.0047.2199 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA BEM RECEBER EM DTNA 7.227,37 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 152 
+
+ 
+
+1710 2020.23
+01-Dezembro-2020
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1654 1950.08.0241.0044.2193 - MANUTENÇÃO DAS ATIVIDADES DO FMI 500,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1655 1950.08.0241.0044.2193 - MANUTENÇÃO DAS ATIVIDADES DO FMI 500,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1658 1950.08.0241.0044.2193 - MANUTENÇÃO DAS ATIVIDADES DO FMI 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1659 1950.08.0241.0044.2193 - MANUTENÇÃO DAS ATIVIDADES DO FMI 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1665 1960.08.0244.0045.2194 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1666 1960.08.0244.0045.2194 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1667 1960.08.0244.0045.2194 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 500,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1668 1960.08.0244.0045.2194 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1669 1960.08.0244.0045.2194 - MANUTENÇÃO DAS ATIV DE INCLUSÃO PRODUTIVA E ECON POP SOLIDÁR 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1672 1960.08.0244.0046.2195 - MANUTENÇÃO DO PROGRAMA DE AQUISIÇÃO DE ALIMENTOS - PAA 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1674 1960.08.0244.0046.2195 - MANUTENÇÃO DO PROGRAMA DE AQUISIÇÃO DE ALIMENTOS - PAA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1675 1960.08.0244.0046.2195 - MANUTENÇÃO DO PROGRAMA DE AQUISIÇÃO DE ALIMENTOS - PAA 500,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1681 2010.04.0122.0003.2196 - SALÁRIOS/ENCARGOS DA SECTUR 25.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1683 2010.04.0122.0003.2196 - SALÁRIOS/ENCARGOS DA SECTUR 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1687 2010.04.0122.0003.2197 - MANUTENÇÃO DAS ATIVIDADES DA SECTUR 500,00 
+
+  3.3.90.18.00.00 - Auxílio Financeiro a Estudantes   
+
+1689 2010.04.0122.0003.2197 - MANUTENÇÃO DAS ATIVIDADES DA SECTUR 500,00 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+1695 2010.04.0122.0003.2197 - MANUTENÇÃO DAS ATIVIDADES DA SECTUR 500,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+1698 2010.04.0128.0003.2198 - CAPACITAÇÃO DOS SERVIDORES DA SECTUR 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1700 2010.04.0128.0003.2198 - CAPACITAÇÃO DOS SERVIDORES DA SECTUR 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1705 2020.23.0695.0047.2199 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA BEM RECEBER EM DTNA 550,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1707 2020.23.0695.0047.2199 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA BEM RECEBER EM DTNA 500,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1708 2020.23.0695.0047.2199 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA BEM RECEBER EM DTNA 7.227,37 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 152 
+
+ 
+
+1710 2020.23.0695.0047.2199 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA BEM RECEBER EM DTNA 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1712 2020.23.0695.0048.2200 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA DTNA ADVENTURE 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1713 2020.23.0695.0048.2200 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA DTNA ADVENTURE 2.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1714 2020.23.0695.0048.2200 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA DTNA ADVENTURE 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1715 2020.23.0695.0049.2201 - MANUTENÇÃO DO PROGRAMA DTNA CONVENTION & VISITORS BUREAU 500,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+1716 2020.23.0695.0050.2202 - MANUTENÇÃO DO PROGRAMA DIAMANTINA P/ O MUNDO 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1717 2020.23.0695.0050.2202 - MANUTENÇÃO DO PROGRAMA DIAMANTINA P/ O MUNDO 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1719 2020.23.0695.0050.2202 - MANUTENÇÃO DO PROGRAMA DIAMANTINA P/ O MUNDO 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1724 2020.23.0695.0051.2203 - MANUTENÇÃO DO PROGRAMA MEMORARTE 500,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+1729 2020.23.0695.0053.2205 - MANUTENÇÃO DO PROGRAMA TODOS JUNTOS PELO TURISMO 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1731 2020.23.0695.0053.2205 - MANUTENÇÃO DO PROGRAMA TODOS JUNTOS PELO TURISMO 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1732 2020.23.0695.0053.2205 - MANUTENÇÃO DO PROGRAMA TODOS JUNTOS PELO TURISMO 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1733 2030.13.0392.0054.1112 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DO CINE TEATRO STA IZABEL 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1735 2030.13.0392.0054.1113 - AQUISIÇÃO DE VEÍCULOS, MÁQ, EQUIP. E MÓVEIS P/ TEATRO STA IZ 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1739 2030.13.0392.0054.2208 - MANUTENÇÃO DAS ATIVIDADES NO CINE TEATRO STA IZABEL 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1740 2030.13.0392.0054.2208 - MANUTENÇÃO DAS ATIVIDADES NO CINE TEATRO STA IZABEL 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1741 2030.13.0392.0055.2209 - PROMOVER E APOIAR EVENTOS FESTIVOS E CULTURAIS 3.858,17 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1742 2030.13.0392.0055.2209 - PROMOVER E APOIAR EVENTOS FESTIVOS E CULTURAIS 500,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1743 2030.13.0392.0055.2209 - PROMOVER E APOIAR EVENTOS FESTIVOS E CULTURAIS 1.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1752 2030.13.0392.0056.2210 - MANUTENÇÃO DAS ATIVIDADES DO MERCADO VELHO - CENTRO CULT. DA 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1753 2030.13.0392.0056.2210 - MANUTENÇÃO DAS ATIVIDADES DO MERCADO VELHO - CENTRO CULT. DA 6.300,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1754 2030.13.0392.0056.2210 - MANUTENÇÃO DAS ATIVIDADES DO MERCADO VELHO - CENTRO CULT. DA 9.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1756 2030.13.0392.0057.1116 - AQUISIÇÃO DE INSTRUMENTOS MUSICAIS 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1758 2030.13.0392.0057.1133 - AQUISIÇÃO VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ ESC ARTE E MÚS 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1759 2030.13.0392.0057.2211 - MANUTENÇÃO ATIV DAS BANDAS MUSICAIS E ORQUESTRA SINFÔNICA 500,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1762 2030.13.0392.0057.2211 - MANUTENÇÃO ATIV DAS BANDAS MUSICAIS E ORQUESTRA SINFÔNICA 500,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1766 2030.13.0392.0057.2250 - SALÁRIOS/ENCARGOS DA ESCOLA DE ART
+01-Dezembro-2020
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1717 2020.23.0695.0050.2202 - MANUTENÇÃO DO PROGRAMA DIAMANTINA P/ O MUNDO 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1719 2020.23.0695.0050.2202 - MANUTENÇÃO DO PROGRAMA DIAMANTINA P/ O MUNDO 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1724 2020.23.0695.0051.2203 - MANUTENÇÃO DO PROGRAMA MEMORARTE 500,00 
+
+  3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas   
+
+1729 2020.23.0695.0053.2205 - MANUTENÇÃO DO PROGRAMA TODOS JUNTOS PELO TURISMO 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1731 2020.23.0695.0053.2205 - MANUTENÇÃO DO PROGRAMA TODOS JUNTOS PELO TURISMO 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1732 2020.23.0695.0053.2205 - MANUTENÇÃO DO PROGRAMA TODOS JUNTOS PELO TURISMO 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1733 2030.13.0392.0054.1112 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DO CINE TEATRO STA IZABEL 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1735 2030.13.0392.0054.1113 - AQUISIÇÃO DE VEÍCULOS, MÁQ, EQUIP. E MÓVEIS P/ TEATRO STA IZ 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1739 2030.13.0392.0054.2208 - MANUTENÇÃO DAS ATIVIDADES NO CINE TEATRO STA IZABEL 1.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1740 2030.13.0392.0054.2208 - MANUTENÇÃO DAS ATIVIDADES NO CINE TEATRO STA IZABEL 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1741 2030.13.0392.0055.2209 - PROMOVER E APOIAR EVENTOS FESTIVOS E CULTURAIS 3.858,17 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1742 2030.13.0392.0055.2209 - PROMOVER E APOIAR EVENTOS FESTIVOS E CULTURAIS 500,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1743 2030.13.0392.0055.2209 - PROMOVER E APOIAR EVENTOS FESTIVOS E CULTURAIS 1.000,00 
+
+  3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita   
+
+1752 2030.13.0392.0056.2210 - MANUTENÇÃO DAS ATIVIDADES DO MERCADO VELHO - CENTRO CULT. DA 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1753 2030.13.0392.0056.2210 - MANUTENÇÃO DAS ATIVIDADES DO MERCADO VELHO - CENTRO CULT. DA 6.300,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1754 2030.13.0392.0056.2210 - MANUTENÇÃO DAS ATIVIDADES DO MERCADO VELHO - CENTRO CULT. DA 9.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1756 2030.13.0392.0057.1116 - AQUISIÇÃO DE INSTRUMENTOS MUSICAIS 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1758 2030.13.0392.0057.1133 - AQUISIÇÃO VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ ESC ARTE E MÚS 500,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1759 2030.13.0392.0057.2211 - MANUTENÇÃO ATIV DAS BANDAS MUSICAIS E ORQUESTRA SINFÔNICA 500,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1762 2030.13.0392.0057.2211 - MANUTENÇÃO ATIV DAS BANDAS MUSICAIS E ORQUESTRA SINFÔNICA 500,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1766 2030.13.0392.0057.2250 - SALÁRIOS/ENCARGOS DA ESCOLA DE ARTE E MÚSICA - MAESTRO FRANC 500,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+1767 2030.13.0392.0057.2250 - SALÁRIOS/ENCARGOS DA ESCOLA DE ARTE E MÚSICA - MAESTRO FRANC 500,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+1772 2030.13.0392.0057.2251 - MANUTENÇÃO DAS ATIVIDADES DA ESCOLA DE ARTE E MÚSICA - MAEST 500,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1774 2030.13.0392.0057.2251 - MANUTENÇÃO DAS ATIVIDADES DA ESCOLA DE ARTE E MÚSICA - MAEST 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1775 2030.13.0392.0057.2251 - MANUTENÇÃO DAS ATIVIDADES DA ESCOLA DE ARTE E MÚSICA - MAEST 38.674,57 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1780 2030.13.0392.0058.2212 - MANUTENÇÃO DAS ATIVIDADES DA BIBLIOTECA MUN. DR. JOÃO ANTUNE 6.200,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1784 2030.13.0392.0059.2213 - MANUTENÇÃO DO PROGRAMA CIRCULADÔ DE CULTURA 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1785 2030.13.0392.0059.2213 - MANUTENÇÃO DO PROGRAMA CIRCULADÔ DE CULTURA 500,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+  
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1789 2040.13.0391.0061.2215 - MANUTENÇÃO DAS AÇÕES FORMATIVAS DE EDUCAÇÃO PATRIMONIAL 2.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1790 2040.13.0391.0061.2215 - MANUTENÇÃO DAS AÇÕES FORMATIVAS DE EDUCAÇÃO PATRIMONIAL 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1795 2040.13.0391.0062.2216 - MANUTENÇÃO DO PROGRAMA CIDADE VIVA 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1796 2040.13.0391.0062.2216 - MANUTENÇÃO DO PROGRAMA CIDADE VIVA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1801 2050.13.0391.0063.1120 - REQUALIFICAÇÃO URBANÍSTICA E RESTAURAÇÃO DE MONUMENTOS 1.000,00 
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 153 
+
+ 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1802 2050.13.0391.0063.2217 - MANUTENÇÃO DO PROJETO MONUMENTA 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1803 2050.13.0391.0063.2217 - MANUTENÇÃO DO PROJETO MONUMENTA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1804 2050.13.0391.0063.2217 - MANUTENÇÃO DO PROJETO MONUMENTA 5.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1805 2050.13.0391.0063.2217 - MANUTENÇÃO DO PROJETO MONUMENTA 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1811 2110.27.0122.0065.2218 - SALÁRIOS/ENCARGOS DA SELJ 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1813 2110.27.0122.0065.2218 - SALÁRIOS/ENCARGOS DA SELJ 1.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+1814 2110.27.0122.0065.2219 - MANUTENÇÃO DAS ATIVIDADES DA SELJ 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1815 2110.27.0122.0065.2219 - MANUTENÇÃO DAS ATIVIDADES DA SELJ 10.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1816 2110.27.0122.0065.2219 - MANUTENÇÃO DAS ATIVIDADES DA SELJ 500,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1818 2110.27.0122.0065.2219 - MANUTENÇÃO DAS ATIVIDADES DA SELJ 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1825 2110.27.0128.0065.2226 - CAPACITAÇÃO DOS SERVIDORES DA SELJ 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1827 2110.27.0128.0065.2226 - CAPACITAÇÃO DOS SERVIDORES DA SELJ 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1830 2110.27.0812.0064.1121 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DE QUADRAS POLIESPORTIVAS 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1833 2110.27.0812.0064.1122 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DO GINÁSIO POLIESPORTIVO 1.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1849 2110.27.0812.0065.2221 - MANUTENÇÃO DE APOIO A ATIVIDADES ESPORTIVAS E DE LAZER 37.560,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1852 2110.27.0812.0065.2222 - APOIO A ASSOCIAÇÕES COMUNITÁRIAS 500,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1853 2110.27.0812.0065.2222 - APOIO A ASSOCIAÇÕES COMUNITÁRIAS 500,00 
+
+  3.3.50.43.00.00 - Subvençõe
+01-Dezembro-2020
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+Programa vigente, conforme as seguintes discriminações: 
+  
+Ficha Funcional Programática Valor 
+
+1789 2040.13.0391.0061.2215 - MANUTENÇÃO DAS AÇÕES FORMATIVAS DE EDUCAÇÃO PATRIMONIAL 2.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1790 2040.13.0391.0061.2215 - MANUTENÇÃO DAS AÇÕES FORMATIVAS DE EDUCAÇÃO PATRIMONIAL 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1795 2040.13.0391.0062.2216 - MANUTENÇÃO DO PROGRAMA CIDADE VIVA 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1796 2040.13.0391.0062.2216 - MANUTENÇÃO DO PROGRAMA CIDADE VIVA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1801 2050.13.0391.0063.1120 - REQUALIFICAÇÃO URBANÍSTICA E RESTAURAÇÃO DE MONUMENTOS 1.000,00 
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 153 
+
+ 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1802 2050.13.0391.0063.2217 - MANUTENÇÃO DO PROJETO MONUMENTA 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1803 2050.13.0391.0063.2217 - MANUTENÇÃO DO PROJETO MONUMENTA 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1804 2050.13.0391.0063.2217 - MANUTENÇÃO DO PROJETO MONUMENTA 5.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1805 2050.13.0391.0063.2217 - MANUTENÇÃO DO PROJETO MONUMENTA 500,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+1811 2110.27.0122.0065.2218 - SALÁRIOS/ENCARGOS DA SELJ 500,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+1813 2110.27.0122.0065.2218 - SALÁRIOS/ENCARGOS DA SELJ 1.000,00 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+1814 2110.27.0122.0065.2219 - MANUTENÇÃO DAS ATIVIDADES DA SELJ 1.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+1815 2110.27.0122.0065.2219 - MANUTENÇÃO DAS ATIVIDADES DA SELJ 10.000,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1816 2110.27.0122.0065.2219 - MANUTENÇÃO DAS ATIVIDADES DA SELJ 500,00 
+
+  3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras   
+
+1818 2110.27.0122.0065.2219 - MANUTENÇÃO DAS ATIVIDADES DA SELJ 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1825 2110.27.0128.0065.2226 - CAPACITAÇÃO DOS SERVIDORES DA SELJ 500,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1827 2110.27.0128.0065.2226 - CAPACITAÇÃO DOS SERVIDORES DA SELJ 500,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1830 2110.27.0812.0064.1121 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DE QUADRAS POLIESPORTIVAS 500,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1833 2110.27.0812.0064.1122 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DO GINÁSIO POLIESPORTIVO 1.000,00 
+
+  4.4.90.51.00.00 - Obras e Instalações   
+
+1849 2110.27.0812.0065.2221 - MANUTENÇÃO DE APOIO A ATIVIDADES ESPORTIVAS E DE LAZER 37.560,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+1852 2110.27.0812.0065.2222 - APOIO A ASSOCIAÇÕES COMUNITÁRIAS 500,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+1853 2110.27.0812.0065.2222 - APOIO A ASSOCIAÇÕES COMUNITÁRIAS 500,00 
+
+  3.3.50.43.00.00 - Subvenções Sociais   
+
+1864 9901.99.0999.9999.9991 - RESERVA DE CONTINGÊNCIA 160.000,00 
+
+  8.9.99.99.00.00 - Reserva de Contingência ou Reserva do RPPS   
+
+1932 2010.04.0122.0003.2197 - MANUTENÇÃO DAS ATIVIDADES DA SECTUR 14.000,00 
+
+  3.3.50.43.00.00 - Subvenções Sociais   
+
+1933 2010.04.0122.0003.2197 - MANUTENÇÃO DAS ATIVIDADES DA SECTUR 1.000,00 
+
+  3.3.50.41.00.00 - Contribuições   
+
+Total 2.447.238,89 
+
+  
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+  
+Artigo 4º: Revogam-se as disposições em contrário. 
+  
+
+DIAMANTINA, 21 de Outubro de 2020 
+  
+
+JUSCELINO BRASILIANO ROQUE 
+Prefeito Municipal 
+
+Publicado por: 
+Marcela Araújo Almeida 
+
+Código Identificador:BEF04A9E 
+
+ 
+GABINETE DO PREFEITO 
+
+DECRETO Nº 401, DE 21 DE OUTUBRO DE 2020. 
+ 
+
+Decreto Nº 00401/2020 de 21 de Outubro de 2020 
+  
+
+Transferência de Dotações 
+  
+
+O Prefeito Municipal, no uso de suas atribuiçoes legais, com base no artigo 43, da Lei Federal Nº 4.320/64 e da Lei Municipal Nº 4051 de 17 
+
+de Setembro de 2019 ,considerando a necessidade de realocar créditos orçamentários dentro de uma mesma categoria de programação, 
+
+decreta: 
+Artigo 1º: Fica transferido o valor na ordem de R$ 306.349,30 (Trezentos e seis Mil e trezentos e quarenta e nove reais e trinta centavos), às 
+dotações do Orçamento Programa do exercício fluente: 
+  
+Ficha Funcional Programática Valor 
+
+0003 1100.04.0122.0003.2021 - SALÁRIIOS/ENCARGOS DO GABINETE DO PREFEITO 1.830,73 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0008 1100.04.0122.0003.2021 - SALÁRIIOS/ENCARGOS DO GABINETE DO PREFEITO 1.252,08 
+
+  3.1.91.13.00.00 - Obrigações Patronais   
+
+0086 1160.02.0092.0004.2236 - PAGAMENTOS DE SENTENÇAS JUDICIAIS 522,50 
+
+  3.1.90.91.00.00 - Sentenças Judiciais   
+
+0098 1160.04.0092.0003.2034 - MANUTENÇÃO DAS ATIVIDADES DA ASSESSORIA JURÍDICA 40,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0104 1210.04.0122.0003.2036 - SALÁRIOS/ENCARGOS DA SEPLAG 4.587,71 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0219 1320.04.0129.0003.2051 - SALÁRIOS/ENCARGOS DO DEPTO DE TRIBUTOS 1.568,37 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0246 1410.04.0122.0003.2054 - MANUTENÇÃO DAS ATIVIDADES DA SEGOV 200,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+
+
+Minas Gerais , 01 de Dezembro de 2020   •   Diário Oficial dos Municípios Mineiros   •    ANO XII | Nº 2894 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                 154 
+
+ 
+
+0317 1420.02.0062.0003.2068 - MANUTENÇÃO DAS ATIIDADES DA PROCURADORIA JURÍDICA MUNICIPAL 400,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0317 1420.02.0062.0003.2068 - MANUTENÇÃO DAS ATIIDADES DA PROCURADORIA JURÍDICA MUNICIPAL 200,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0318 1420.02.0062.0003.2068 - MANUTENÇÃO DAS ATIIDADES DA PROCURADORIA JURÍDICA MUNICIPAL 230,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0318 1420.02.0062.0003.2068 - MANUTENÇÃO DAS ATIIDADES DA PROCURADORIA JURÍDICA MUNICIPAL 120,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0350 1440.04.0122.0066.2230 - MANUTENÇÃO DAS ATIVIDADES DO PROCON 300,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0350 1440.04.0122.0066.2230 - MANUTENÇÃO DAS ATIVIDADES DO PROCON 300,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0391 1510.12.0122.0011.2073 - MANUTENÇÃO DAS ATIVIDADES DA SEDUC 400,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0429 1521.12.0361.0011.2078 - SALÁRIOS/ENCARGOS FUNDEB 60% 565,87 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0440 1521.12.0361.0011.2079 - SALÁRIOS/ENCARGOS FUNDEB 40% 9.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0440 1521.12.0361.0011.2079 - SALÁRIOS/ENCARGOS FUNDEB 40% 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0440 1521.12.0361.0011.2079 - SALÁRIOS/ENCARGOS FUNDEB 40% 10.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0459 1521.12.0361.0011.2080 - MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL 678,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0472 1521.12.0361.0011.2083 - SALÁRIOS/ENCARGOS DO TRANSPORTE ESCOLAR 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0472 1521.12.0361.0011.2083 - SALÁRIOS/ENCARGOS DO TRANSPORTE ESCOLAR 5.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0553 

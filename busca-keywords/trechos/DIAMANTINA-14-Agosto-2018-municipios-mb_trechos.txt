@@ -1,0 +1,860 @@
+14-Agosto-2018
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0003 1100.04.0122.0003.2021 - SALÁRIIOS/ENCARGOS DO GABINETE DO PREFEITO 5.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0006 1100.04.0122.0003.2021 - SALÁRIIOS/ENCARGOS DO GABINETE DO PREFEITO 5.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0007 1100.04.0122.0003.2021 - SALÁRIIOS/ENCARGOS DO GABINETE DO PREFEITO 5.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0017 1110.04.0122.0003.2023 - SALÁRIOS/ENCARGOS DO GABINETE DO VICE PREFEITO 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0020 1110.04.0122.0003.2023 - SALÁRIOS/ENCARGOS DO GABINETE DO VICE PREFEITO 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0021 1110.04.0122.0003.2023 - SALÁRIOS/ENCARGOS DO GABINETE DO VICE PREFEITO 1.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0030 1120.04.0122.0003.2025 - SALÁRIOS/ENCARGOS DA CHEFIA DE GABINETE 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0033 1120.04.0122.0003.2025 - SALÁRIOS/ENCARGOS DA CHEFIA DE GABINETE 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0034 1120.04.0122.0003.2025 - SALÁRIOS/ENCARGOS DA CHEFIA DE GABINETE 1.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0043 1130.04.0122.0003.2027 - SALÁRIOS/ENCARGOS DA ASSESSORIA TÉCNICA 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+  
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0044 1130.04.0122.0003.2027 - SALÁRIOS/ENCARGOS DA ASSESSORIA TÉCNICA 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0045 1130.04.0122.0003.2027 - SALÁRIOS/ENCARGOS DA ASSESSORIA TÉCNICA 1.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0046 1130.04.0122.0003.2027 - SALÁRIOS/ENCARGOS DA ASSESSORIA TÉCNICA 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0047 1130.04.0122.0003.2027 - SALÁRIOS/ENCARGOS DA ASSESSORIA TÉCNICA 1.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0057 1140.04.0131.0003.2029 - SALÁRIOS/ENCARGOS DA ASSESSORIA DE COMUNICAÇÃO 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0060 1140.04.0131.0003.2029 - SALÁRIOS/ENCARGOS DA ASSESSORIA DE COMUNICAÇÃO 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0061 1140.04.0131.0003.2029 - SALÁRIOS/ENCARGOS DA ASSESSORIA DE COMUNICAÇÃO 1.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0070 1150.04.0124.0003.2031 - SALÁRIOS/ENCARGOS DA CONTROLADORIA GERAL DO MUNICÍPIO 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0073 1150.04.0124.0003.2031 - SALÁRIOS/ENCARGOS DA CONTROLADORIA GERAL DO MUNICÍPIO 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0074 1150.04.0124.0003.2031 - SALÁRIOS/ENCARGOS DA CONTROLADORIA GERAL DO MUNICÍPIO 1.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0083 1160.02.0092.0004.2035 - PAGAMENTO DE PRECATÓRIOS 17.741,97 
+
+  3.1.90.91.00.00 - Sentenças Judiciais   
+
+0107 1210.04.0122.0003.2036 - SALÁRIOS/ENCARGOS DA SEPLAG 20.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0121 1220.04.0122.0003.2039 - SALÁRIOS/ENCARGOS DO DEPTO DE RH 45.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0203 1310.04.0123.0003.2050 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 350.299,79 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0349 1510.12.0122.0011.2072 - SALÁRIOS/ENCARGOS DA SEDUC 153.341,92 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0356 1510.12.0122.0011.2073 - MANUTENÇÃO DAS ATIVIDADES DA SEDUC 63.211,75 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0361 1510.12.0122.0011.2073 - MANUTENÇÃO DAS ATIVIDADES DA SEDUC 150,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0398 1521.12.0361.0011.2078 - SALÁRIOS/ENCARGOS FUNDEB 60% 81.658,08 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0401 1521.12.0361.0011.2078 - SALÁRIOS/ENCARGOS FUNDEB 60% 215.632,90 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0513 1522.12.0365.0011.2089 - SALÁRIOS/ENCARGOS CRECHE 60% 7.786,76 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0605 1524.12.0362.0011.2100 - MANUTENÇÃO DO TRANSPORTE ENSINO MÉDIO 9.994,28 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+
+
+Minas Gerais , 14 de Agosto de 2018   •   Diário Oficial dos Municípios Mineiros   •    ANO X | Nº 2315 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               152 
+
+ 
+
+0631 1610.10.0122.0013.2102 - SALÁRIOS/ENCARGOS DO CONSELHO MUNICIPAL DE SAÚDE 4.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0644 1610.10.0122.0013.2104 - SALÁRIOS/ENCARGOS DA SMS 538.561,89 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0651 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 5.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0654 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 11.674,62 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0661 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 1.351,46 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+0662 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 10.000,00 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+0860 1622.10.0302.0016.2122 - MANUTENÇÃO DA URGÊNCIA E EMERGÊNCIA MUNICIPAL 900,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+  
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0863 1622.10.0302.0016.2123 - MANUTENÇÃO DA URGÊNCIA E EMERGÊNCIA UPA 200.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0866 1622.10.0302.0016.2123 - MANUTENÇÃO DA URGÊNCIA E EMERGÊNCIA UPA 86.370,07 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0912 1622.10.0302.0016.2125 - MANUTENÇÃO DAS ATIVIDADES DO BLMAC 15.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+1029 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 2.000,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+1135 1710.04.0122.0024.2141 - SALÁRIOS/ENCARGOS DA ADMINISTRAÇÃO DA SEMDAMA 1.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1268 1810.15.0122.0003.2167 - MANUTENÇÃO DAS ATIVIDADES DA SEDUR 55.570,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1272 1810.15.0122.0003.2167 - MANUTENÇÃO DAS ATIVIDADES DA SEDUR 300.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1560 2010.04.0122.0003.1110 - AQUISIÇÃO DE VEÍCULOS, MÁQ, EQUIP. E MÓVEIS P/ SECTUR 120,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1561 2010.04.0122.0003.1110 - AQUISIÇÃO DE VEÍCULOS, MÁQ, EQUIP. E MÓVEIS P/ SECTUR 6.656,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1582 2010.04.0128.0003.2198 - CAPACITAÇÃO DOS SERVIDORES DA SECTUR 610,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+Total  2.235.631,49 
+
+  
+
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+
+  
+
+Artigo 4º: Revogam-se as disposições em contrário. 
+
+  
+
+DIAMANTINA, 18 de Junho de 2018 
+
+  
+
+JUSCELINO BRASILIANO ROQUE 
+
+Prefeito Municipal 
+
+Publicado por: 
+
+
+14-Agosto-2018
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0044 1130.04.0122.0003.2027 - SALÁRIOS/ENCARGOS DA ASSESSORIA TÉCNICA 1.000,00 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0045 1130.04.0122.0003.2027 - SALÁRIOS/ENCARGOS DA ASSESSORIA TÉCNICA 1.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0046 1130.04.0122.0003.2027 - SALÁRIOS/ENCARGOS DA ASSESSORIA TÉCNICA 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0047 1130.04.0122.0003.2027 - SALÁRIOS/ENCARGOS DA ASSESSORIA TÉCNICA 1.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0057 1140.04.0131.0003.2029 - SALÁRIOS/ENCARGOS DA ASSESSORIA DE COMUNICAÇÃO 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0060 1140.04.0131.0003.2029 - SALÁRIOS/ENCARGOS DA ASSESSORIA DE COMUNICAÇÃO 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0061 1140.04.0131.0003.2029 - SALÁRIOS/ENCARGOS DA ASSESSORIA DE COMUNICAÇÃO 1.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0070 1150.04.0124.0003.2031 - SALÁRIOS/ENCARGOS DA CONTROLADORIA GERAL DO MUNICÍPIO 1.000,00 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0073 1150.04.0124.0003.2031 - SALÁRIOS/ENCARGOS DA CONTROLADORIA GERAL DO MUNICÍPIO 1.000,00 
+
+  3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil   
+
+0074 1150.04.0124.0003.2031 - SALÁRIOS/ENCARGOS DA CONTROLADORIA GERAL DO MUNICÍPIO 1.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0083 1160.02.0092.0004.2035 - PAGAMENTO DE PRECATÓRIOS 17.741,97 
+
+  3.1.90.91.00.00 - Sentenças Judiciais   
+
+0107 1210.04.0122.0003.2036 - SALÁRIOS/ENCARGOS DA SEPLAG 20.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+0121 1220.04.0122.0003.2039 - SALÁRIOS/ENCARGOS DO DEPTO DE RH 45.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0203 1310.04.0123.0003.2050 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 350.299,79 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+0349 1510.12.0122.0011.2072 - SALÁRIOS/ENCARGOS DA SEDUC 153.341,92 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0356 1510.12.0122.0011.2073 - MANUTENÇÃO DAS ATIVIDADES DA SEDUC 63.211,75 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+0361 1510.12.0122.0011.2073 - MANUTENÇÃO DAS ATIVIDADES DA SEDUC 150,00 
+
+  3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física   
+
+0398 1521.12.0361.0011.2078 - SALÁRIOS/ENCARGOS FUNDEB 60% 81.658,08 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0401 1521.12.0361.0011.2078 - SALÁRIOS/ENCARGOS FUNDEB 60% 215.632,90 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0513 1522.12.0365.0011.2089 - SALÁRIOS/ENCARGOS CRECHE 60% 7.786,76 
+
+  3.1.90.04.00.00 - Contratação por Tempo Determinado   
+
+0605 1524.12.0362.0011.2100 - MANUTENÇÃO DO TRANSPORTE ENSINO MÉDIO 9.994,28 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+
+
+Minas Gerais , 14 de Agosto de 2018   •   Diário Oficial dos Municípios Mineiros   •    ANO X | Nº 2315 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               152 
+
+ 
+
+0631 1610.10.0122.0013.2102 - SALÁRIOS/ENCARGOS DO CONSELHO MUNICIPAL DE SAÚDE 4.000,00 
+
+  3.1.90.13.00.00 - Obrigações Patronais   
+
+0644 1610.10.0122.0013.2104 - SALÁRIOS/ENCARGOS DA SMS 538.561,89 
+
+  3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil   
+
+0651 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 5.000,00 
+
+  3.3.90.14.00.00 - Diárias – Pessoal Civil   
+
+0654 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 11.674,62 
+
+  3.3.90.33.00.00 - Passagens e Despesas com Locomoção   
+
+0661 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 1.351,46 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+0662 1610.10.0122.0013.2105 - GESTÃO E OPERACIONALIZAÇÃO DO SUS NO MUNICÍPIO 10.000,00 
+
+  3.3.90.92.00.00 - Despesas de Exercícios Anteriores   
+
+0860 1622.10.0302.0016.2122 - MANUTENÇÃO DA URGÊNCIA E EMERGÊNCIA MUNICIPAL 900,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+  
+
+Artigo 2º: Para cobertura do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0863 1622.10.0302.0016.2123 - MANUTENÇÃO DA URGÊNCIA E EMERGÊNCIA UPA 200.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0866 1622.10.0302.0016.2123 - MANUTENÇÃO DA URGÊNCIA E EMERGÊNCIA UPA 86.370,07 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0912 1622.10.0302.0016.2125 - MANUTENÇÃO DAS ATIVIDADES DO BLMAC 15.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+1029 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 2.000,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+1135 1710.04.0122.0024.2141 - SALÁRIOS/ENCARGOS DA ADMINISTRAÇÃO DA SEMDAMA 1.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1268 1810.15.0122.0003.2167 - MANUTENÇÃO DAS ATIVIDADES DA SEDUR 55.570,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1272 1810.15.0122.0003.2167 - MANUTENÇÃO DAS ATIVIDADES DA SEDUR 300.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1560 2010.04.0122.0003.1110 - AQUISIÇÃO DE VEÍCULOS, MÁQ, EQUIP. E MÓVEIS P/ SECTUR 120,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1561 2010.04.0122.0003.1110 - AQUISIÇÃO DE VEÍCULOS, MÁQ, EQUIP. E MÓVEIS P/ SECTUR 6.656,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1582 2010.04.0128.0003.2198 - CAPACITAÇÃO DOS SERVIDORES DA SECTUR 610,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+Total  2.235.631,49 
+
+  
+
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+
+  
+
+Artigo 4º: Revogam-se as disposições em contrário. 
+
+  
+
+DIAMANTINA, 18 de Junho de 2018 
+
+  
+
+JUSCELINO BRASILIANO ROQUE 
+
+Prefeito Municipal 
+
+Publicado por: 
+
+Zaqueu Robert dos Santos 
+
+Código Identificador:06AF9491 
+
+ 
+GABINETE DO PREFEITO 
+
+DECRETO Nº. 192/2018, DE 18 DE JUNHO DE 2018. 
+ 
+
+Decreto Nº 00192/2018 de 18 de Junho de 2018 
+
+  
+
+Transferência de Dotações 
+
+  
+
+O Prefeito Municipal, no uso de suas atribuiçoes legais, com base no artigo 43, da Lei Federal Nº 4.320/64 e da Lei Municipal Nº 3979 de 26 
+
+de Dezembro de 2017 ,considerando a necessidade de realocar créditos orçamentários dentro de uma mesma categoria de programação, 
+
+decreta:  
+
+Artigo 1º: Fica transferido o valor na ordem de R$ 622.018,42 (Seiscentos e vinte e dois Mil e dezoito reais e quarenta e dois centavos), às dotações 
+
+do Orçamento Programa do exercício fluente: 
+
+  
+Ficha Funcional Programática Valor 
+
+0084 
+1160.02.0092.0004.2035 - PAGAMENTO DE PRECATÓRIOS 
+
+1.000,00 
+3.3.90.91.00.00 - Sentenças Judiciais 
+
+0395 
+1521.12.0361.0011.1025 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ ENS. FUNDAME 
+
+100.000,00 
+4.4.90.52.00.00 - Equipamentos e Material Permanente 
+
+0395 
+1521.12.0361.0011.1025 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ ENS. FUNDAME 
+
+50.000,00 
+4.4.90.52.00.00 - Equipamentos e Material Permanente 
+
+0397 
+1521.12.0361.0011.2078 - SALÁRIOS/ENCARGOS FUNDEB 60% 
+
+53.260,73 
+3.1.90.04.00.00 - Contratação por Tempo Determinado 
+
+0404 
+1521.12.0361.0011.2078 - SALÁRIOS/ENCARGOS FUNDEB 60% 
+
+1.000,00 
+3.1.90.13.00.00 - Obrigações Patronais 
+
+0428 
+1521.12.0361.0011.2080 - MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL 
+
+6.895,00 
+3.3.90.30.00.00 - Material de Consumo 
+
+0467 
+1521.12.0361.0011.2084 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 
+
+56.658,08 
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+14-Agosto-2018
+DIAMANTINA
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0863 1622.10.0302.0016.2123 - MANUTENÇÃO DA URGÊNCIA E EMERGÊNCIA UPA 200.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0866 1622.10.0302.0016.2123 - MANUTENÇÃO DA URGÊNCIA E EMERGÊNCIA UPA 86.370,07 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+0912 1622.10.0302.0016.2125 - MANUTENÇÃO DAS ATIVIDADES DO BLMAC 15.000,00 
+
+  3.3.90.93.00.00 - Indenizações e Restituições   
+
+1029 1624.10.0305.0018.2131 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA EPIDEMIOLÓGICA 2.000,00 
+
+  3.3.90.35.00.00 - Serviços de Consultoria   
+
+1135 1710.04.0122.0024.2141 - SALÁRIOS/ENCARGOS DA ADMINISTRAÇÃO DA SEMDAMA 1.000,00 
+
+  3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas   
+
+1268 1810.15.0122.0003.2167 - MANUTENÇÃO DAS ATIVIDADES DA SEDUR 55.570,00 
+
+  3.3.90.30.00.00 - Material de Consumo   
+
+1272 1810.15.0122.0003.2167 - MANUTENÇÃO DAS ATIVIDADES DA SEDUR 300.000,00 
+
+  3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica   
+
+1560 2010.04.0122.0003.1110 - AQUISIÇÃO DE VEÍCULOS, MÁQ, EQUIP. E MÓVEIS P/ SECTUR 120,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1561 2010.04.0122.0003.1110 - AQUISIÇÃO DE VEÍCULOS, MÁQ, EQUIP. E MÓVEIS P/ SECTUR 6.656,00 
+
+  4.4.90.52.00.00 - Equipamentos e Material Permanente   
+
+1582 2010.04.0128.0003.2198 - CAPACITAÇÃO DOS SERVIDORES DA SECTUR 610,00 
+
+  3.3.90.47.00.00 - Obrigações Tributárias e Contributivas   
+
+Total  2.235.631,49 
+
+  
+
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+
+  
+
+Artigo 4º: Revogam-se as disposições em contrário. 
+
+  
+
+DIAMANTINA, 18 de Junho de 2018 
+
+  
+
+JUSCELINO BRASILIANO ROQUE 
+
+Prefeito Municipal 
+
+Publicado por: 
+
+Zaqueu Robert dos Santos 
+
+Código Identificador:06AF9491 
+
+ 
+GABINETE DO PREFEITO 
+
+DECRETO Nº. 192/2018, DE 18 DE JUNHO DE 2018. 
+ 
+
+Decreto Nº 00192/2018 de 18 de Junho de 2018 
+
+  
+
+Transferência de Dotações 
+
+  
+
+O Prefeito Municipal, no uso de suas atribuiçoes legais, com base no artigo 43, da Lei Federal Nº 4.320/64 e da Lei Municipal Nº 3979 de 26 
+
+de Dezembro de 2017 ,considerando a necessidade de realocar créditos orçamentários dentro de uma mesma categoria de programação, 
+
+decreta:  
+
+Artigo 1º: Fica transferido o valor na ordem de R$ 622.018,42 (Seiscentos e vinte e dois Mil e dezoito reais e quarenta e dois centavos), às dotações 
+
+do Orçamento Programa do exercício fluente: 
+
+  
+Ficha Funcional Programática Valor 
+
+0084 
+1160.02.0092.0004.2035 - PAGAMENTO DE PRECATÓRIOS 
+
+1.000,00 
+3.3.90.91.00.00 - Sentenças Judiciais 
+
+0395 
+1521.12.0361.0011.1025 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ ENS. FUNDAME 
+
+100.000,00 
+4.4.90.52.00.00 - Equipamentos e Material Permanente 
+
+0395 
+1521.12.0361.0011.1025 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ ENS. FUNDAME 
+
+50.000,00 
+4.4.90.52.00.00 - Equipamentos e Material Permanente 
+
+0397 
+1521.12.0361.0011.2078 - SALÁRIOS/ENCARGOS FUNDEB 60% 
+
+53.260,73 
+3.1.90.04.00.00 - Contratação por Tempo Determinado 
+
+0404 
+1521.12.0361.0011.2078 - SALÁRIOS/ENCARGOS FUNDEB 60% 
+
+1.000,00 
+3.1.90.13.00.00 - Obrigações Patronais 
+
+0428 
+1521.12.0361.0011.2080 - MANUTENÇÃO DAS ATIVIDADES DO ENSINO FUNDAMENTAL 
+
+6.895,00 
+3.3.90.30.00.00 - Material de Consumo 
+
+0467 
+1521.12.0361.0011.2084 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 
+
+56.658,08 
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+
+0468 1521.12.0361.0011.2084 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 6.947,79 
+
+
+
+Minas Gerais , 14 de Agosto de 2018   •   Diário Oficial dos Municípios Mineiros   •    ANO X | Nº 2315 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               153 
+
+ 
+
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+
+0468 
+1521.12.0361.0011.2084 - MANUTENÇÃO DAS ATIVIDADES DO TRANSP ESCOLAR - ENS FUNDAMENTA 
+
+9.376,00 
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+
+0512 
+1522.12.0365.0011.2089 - SALÁRIOS/ENCARGOS CRECHE 60% 
+
+80.950,20 
+3.1.90.04.00.00 - Contratação por Tempo Determinado 
+
+0517 
+1522.12.0365.0011.2089 - SALÁRIOS/ENCARGOS CRECHE 60% 
+
+475,37 
+3.1.90.13.00.00 - Obrigações Patronais 
+
+0617 
+1610.10.0122.0013.1033 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ SMS 
+
+13.981,46 
+4.4.90.52.00.00 - Equipamentos e Material Permanente 
+
+0718 
+1621.10.0301.0014.2112 - SALÁRIOS/ENCARGOS DO BLATB 
+
+65.214,16 
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+
+0783 
+1621.10.0303.0015.2116 - MANUTENÇÃO DA FARMÁCIA BÁSICA 
+
+2.000,00 
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+
+0783 
+1621.10.0303.0015.2116 - MANUTENÇÃO DA FARMÁCIA BÁSICA 
+
+2.000,00 
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+
+0814 
+1622.10.0302.0016.1042 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DOS PRÉDIOS DO BLMAC 
+
+44.837,97 
+4.4.90.51.00.00 - Obras e Instalações 
+
+0867 
+1622.10.0302.0016.2124 - SALÁRIOS/ENCARGOS DO BLMAC 
+
+20.190,54 
+3.1.90.04.00.00 - Contratação por Tempo Determinado 
+
+0887 
+1622.10.0302.0016.2125 - MANUTENÇÃO DAS ATIVIDADES DO BLMAC 
+
+100,00 
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+
+0887 
+1622.10.0302.0016.2125 - MANUTENÇÃO DAS ATIVIDADES DO BLMAC 
+
+2.500,00 
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+
+0940 
+1623.10.0304.0017.2128 - SALÁRIOS/ENCARGOS VIGILÂNCIA SANITÁRIA 
+
+2.483,26 
+3.1.90.04.00.00 - Contratação por Tempo Determinado 
+
+0955 
+1623.10.0304.0017.2129 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 
+
+1.000,00 
+3.3.90.30.00.00 - Material de Consumo 
+
+0955 
+1623.10.0304.0017.2129 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 
+
+6.360,10 
+3.3.90.30.00.00 - Material de Consumo 
+
+0965 
+1623.10.0304.0017.2129 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 
+
+100,00 
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+
+0965 
+1623.10.0304.0017.2129 - MANUTENÇÃO DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 
+
+1.900,00 
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+
+1098 
+1624.10.0305.0020.2135 - MANUTENÇÃO DAS ATIVIDADES DA VIG AMBIENTAL E ZOONOSES 
+
+818,50 
+3.3.90.39.00.00 - Outros Serviços de Terceiros – Pessoa Jurídica 
+
+1375 
+1920.08.0244.0036.2176 - MANUTENÇÃO DAS ATIVIDADES DO CRAS/PAIF 
+
+10.000,00 
+3.3.90.30.00.00 - Material de Consumo 
+
+  
+
+Artigo 1º: Fica transferido o valor na ordem de R$ 622.018,42 (Seiscentos e vinte e dois Mil e dezoito reais e quarenta e dois centavos), às dotações 
+
+do Orçamento Programa do exercício fluente: 
+
+  
+Ficha Funcional Programática Valor 
+
+1629 
+2030.13.0392.0054.1113 - AQUISIÇÃO DE VEÍCULOS, MÁQ, EQUIP. E MÓVEIS P/ TEATRO STA IZ 
+
+920,00 
+4.4.90.52.00.00 - Equipamentos e Material Permanente 
+
+1747 
+1521.12.0361.0011.2081 - ALIMENTAÇÃO ESCOLAR - ENSINO FUNDAMENTAL 
+
+21.795,85 
+3.3.90.30.00.00 - Material de Consumo 
+
+1750 
+1910.08.0122.0035.2174 - MANUTENÇÃO DAS ATIVIDADES DA SMDS 
+
+470,00 
+3.3.90.14.00.00 - Diárias – Pessoal Civil 
+
+1763 
+1522.12.0365.0011.2092 - ALIMENTAÇÃO ESCOLAR - CRECHE 
+
+1.000,00 
+3.3.90.30.00.00 - Material de Consumo 
+
+1763 
+1522.12.0365.0011.2092 - ALIMENTAÇÃO ESCOLAR - CRECHE 
+
+3.475,40 
+3.3.90.30.00.00 - Material de Consumo 
+
+1764 
+1523.12.0365.0011.2097 - ALIMENTAÇÃO ESCOLAR - PRÉ ESCOLA 
+
+20.000,00 
+3.3.90.30.00.00 - Material de Consumo 
+
+1772 
+1810.15.0122.0003.2167 - MANUTENÇÃO DAS ATIVIDADES DA SEDUR 
+
+10.000,00 
+3.3.90.30.00.00 - Material de Consumo 
+
+1777 
+1623.10.0304.0021.2137 - MANUTENÇÃO DAS ATIVIDADES DAS AÇÕES DE DESNUTRIÇÃO 
+
+2.570,00 
+3.3.90.30.00.00 - Material de Consumo 
+
+1778 
+1920.08.0244.0036.1101 - AQUISIÇÃO DE VEÍCULOS, MAQ., EQUIP. E MÓVEIS P/ CRAS/PAIF 
+
+5.999,98 
+4.4.90.52.00.00 - Equipamentos e Material Permanente 
+
+1779 
+1310.04.0123.0003.2050 - MANUTENÇÃO DAS ATIVIDADES DA SEFAZ 
+
+13.302,82 
+3.3.90.92.00.00 - Despesas d
