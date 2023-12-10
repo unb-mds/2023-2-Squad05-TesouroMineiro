@@ -1,0 +1,212 @@
+16-Junho-2021
+MENDES PIMENTEL
+a da Crédito Suplementar ora aberto, serão utilizados recursos provenientes de anulações das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes discriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0016 
+2100.04.0122.0005.2002.100 – EDIÇÃO, PRODUÇÃO E DIVULGAÇÃO DE PUBLICAÇÕES OFICIAIS 
+
+3.3.90.30.00.00 – Material de Consumo 
+1.000,00 
+
+0017 
+2100.04.0122.0005.2002.100 – EDIÇÃO, PRODUÇÃO E DIVULGAÇÃO DE PUBLICAÇÕES OFICIAIS 
+
+3.3.90.36.00.00 – Outros Serviços de Terceiros – Pessoa Física 
+1.000,00 
+
+0018 
+2100.04.0122.0005.2002.100 – EDIÇÃO, PRODUÇÃO E DIVULGAÇÃO DE PUBLICAÇÕES OFICIAIS 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros – Pessoa Física 
+1.000,00 
+
+0019 
+2100.04.0122.0005.2002.100 – EDIÇÃO, PRODUÇÃO E DIVULGAÇÃO DE PUBLICAÇÕES OFICIAIS 
+
+3.3.90.47.00.00 – Obrigações Tributárias e Contributivas 
+1.000,00 
+
+0053 
+2400.04.0123.0009.2007.100 – REMUNERAÇÃO DOS SERVIDORES DA SMF 
+
+3.1.90.11.00.00 – Vencimentos e Vantagens Fixas – Pessoa Civil 
+1.687,00 
+
+0131 
+2610.13.0392.0012.2013.100 – REALIZAÇÃO DE FESTAS CULTURAIS NO MUNICÍPIO 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica 
+5.000,00 
+
+0131 
+2610.13.0392.0012.2013.100 – REALIZAÇÃO DE FESTAS CULTURAIS NO MUNICÍPIO 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica 
+20.000,00 
+
+0131 
+2610.13.0392.0012.2013.100 – REALIZAÇÃO DE FESTAS CULTURAIS NO MUNICÍPIO 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica 
+10.000,00 
+
+0131 
+2610.13.0392.0012.2013.100 – REALIZAÇÃO DE FESTAS CULTURAIS NO MUNICÍPIO 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica 
+4.653,30 
+
+0131 
+2610.13.0392.0012.2013.100 – REALIZAÇÃO DE FESTAS CULTURAIS NO MUNICÍPIO 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica 
+3.059,53 
+
+0382 
+2910.10.0122.0023.1025.102 – AQUISIÇÃO DE IMÓVEIS P/ SMS 
+
+4.4.90.61.00.00 – Aquisição de Imóveis 
+169,00 
+
+0418 
+2.10.0301.0024.2039.102 – REMUNERAÇÃO DOS PROFISSIONAIS ATENÇÃO BÁSICA EM SAÚDE 
+
+3.1.90.04.00.00 – Contratação por Tempo Determinado 
+59,94 
+
+0418 
+2921.10.0301.0024.2039.102 – REMUNERAÇÃO DOS PROFISSIONAIS ATENÇÃO BÁSICA EM SAÚDE 
+
+3.1.90.04.00.00 – Contratação por Tempo Determinado 
+947,22 
+
+0610 
+3020.08.0244.0020.1040.129 – AQUISIÇÃO DE VEÍCULOS, MÁQ., EQUIP. E MÓVEIS P/ CRAS 
+
+4.4.90.52.00.00 – Equipamentos e Material Permanente 
+3.000,00 
+
+0636 
+3020.08.0244.0020.2051.100 – BENEFÍCIO DE PRESTAÇÃO CONTIUADA À COMUNIDADE 
+
+3.1.90.11.00.00 – Vencimentos e Vantagens Fixas – Pessoa Civil 
+1.000,00 
+
+0638 
+3020.08.0244.0020.2051.100 – BENEFÍCIOS DE PRESTAÇÃO CONTINUADA À COMUNIDADE 
+
+3.1.90.13.00.00 – Obrigações Patronais 
+1.000,00 
+
+0640 
+3020.08.0244.0020.2051.100 – BENEFÍCIO DE PRESTAÇÃO CONTINUADA À COMUNIDADE 
+
+3.1.90.16.00.00 – Outras Despesas Variáveis – Pessoa Civil 
+1.000,00 
+
+0642 
+3020.08.0244.0020.2051.100 – BENEFÍCIOS DE PRESTAÇÃO CONTINUADA À COMUNIDADE 
+
+3.1.90.94.00.00 – Indenizações e Restituições Trabalhistas 
+1.000,00 
+
+0646 
+3020.08.0244.0020.2051.100 – BENEFÍCIOS DE PRESTAÇÃO CONTINUADA À COMUNIDADE 
+
+3.3.90.30.00.00 – Material de Consumo 
+1.000,00 
+
+0662 
+3020.08.0244.0020.2051.156 – BENEFÍCIO DE PRESTAÇÃO CONTINUADA À COMUNIDADE 
+
+3.3.90.48.00.00 – Outros Auxílios Financeiros a Pessoas Físicas 
+8.500,00 
+
+0712 
+3100.04.0122.0028.2080.100 – APOIO A POLÍTICA MUNICIPAL DE OBRAS 
+
+3.3.90.47.00.00 – Obrigações Tributárias e Contribuitivas 
+1.000,00 
+
+0713 
+3100.04.0122.0028.2080.100 – APOIO A POLÍTICA MUNICIPAL DE OBRAS 
+
+3.3.90.93.00.00 – Indenizações e Restituições 
+1.000,00 
+
+0726 
+3100.15.0452.0028.1054.100 – AQUISIÇÃO DE VEÍCULOS, MÁQ, EQUIP. E MÓVEIS P/ SEC. OBRAS 
+
+4.4.90.52.00.00 – Equipamentos e Material Permanente 
+1.000,00 
+
+0741 
+3200.04.0122.0018.2057.100 – REMUNERAÇÃO DOS SERVIDORES DA SMAMA 
+
+3.1.90.94.00.00 – Indenizações e Restituições Trabalhistas 
+1.000,00 
+
+0746 
+3200.04.0122.0018.2081.100 – GESTÃO E ADMINISTRAÇÃO DA SEC. DE AGRIC. E MEIO AMBIENTE 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica 
+7.000,00 
+
+0747 
+3200.04.0122.0018.2081.100 – GESTÃO E ADMINISTRAÇÃO DA SEC. DE AGRIC. E MEIO AMBIENTE 
+
+3.3.90.47.00.00 – Obrigações Tribuárias e Contributivas 
+1.000,00 
+
+0750 
+3200.17.0512.0018.1058.124 – AQUISIÇÃO DE VEÍCULO COMPACTADOR DE LIXO 
+
+4.4.90.52.00.00 – Equipamentos e Material Permanente 
+2.914,73 
+
+
+
+Minas Gerais , 16 de Junho de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3030 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              274 
+
+ 
+
+  TOTAL 80.990,72 
+
+  
+
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+
+Artigo 4º: Revogam-se as disposições em contrário. 
+
+  
+
+Mendes Pimentel, 03 de Maio de 2021 
+
+  
+
+PAULO ANTÔNIO DE SOUZA 
+Prefeito Municipal 
+
+  
+
+Certidão: certifico que este Decreto foi registrado no livro nº ____, à (s) folha (s)______, e publicado no Diário Oficial do Município, no site 
+
+http://www.diariomunicipal.com.br/amm-mg/, em _____/_____/2021. 
+
+Publicado por: 
+Aides Soares 
+
+Código Identificador:1D5FC6AC 
+
+ 
+
+ESTADO DE MINAS GERAIS

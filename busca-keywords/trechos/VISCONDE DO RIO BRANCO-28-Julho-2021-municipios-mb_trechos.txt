@@ -1,0 +1,2365 @@
+28-Julho-2021
+VISCONDE DO RIO BRANCO
+A DE CRÉDITO SUPLEMENTAR E DA OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O(A) Prefeito(a) Municipal de , Estado de Minas Gerais, no uso de suas atribuições legais, com base no da Lei Municipal 1539/2020 de 28/12/2020 e 
+
+art. 43 da Lei Federal 4.320/64, decreta: 
+
+  
+
+Art. 1o. - Fica aberto o Crédito Suplementar no valor total de R$ 87.531,84 (oitenta e sete mil , quinhentos e trinta e um reais e oitenta e quatro 
+
+centavos ), nas seguintes dotações orçamentárias: 
+
+  
+Unid. Orc........: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 18.000,00 Ficha: 00071 
+
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA   
+
+Função............: 15 - URBANISMO   
+
+Subfunção.......: 451 - INFRA-ESTRUTURA URBANA   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 2.043 - MANUTENÇÃO DOS SERVIÇOS DE MOBILIDADE URBANA   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 1.000,00 Ficha: 00201 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 2.000,00 Ficha: 00329 
+
+Subfunção.......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 5.400,00 Ficha: 00391 
+
+Subfunção.......: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL   
+
+Programa........: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE   
+
+Proj/Ativ.........: 2.113 - MANUTENÇÃO TRATAMENTO FORA DO DOMICILIO - TFD   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 25.672,84 Ficha: 00399 
+
+Subfunção.......: 305 - VIGILANCIA EPIDEMIOLOGICA   
+
+Programa........: 0014 - VIGILÂNCIA EM SAÚDE   
+
+Proj/Ativ.........: 2.125 - MANUT. ATIVIDADES DA VIGIL. EPIDEMIOLOGICA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 1.441,00 Ficha: 00483 
+
+Unid. Orc........: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção.......: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE   
+
+Programa........: 0016 - ALIMENTAÇÃO ESCOLAR   
+
+Proj/Ativ.........: 2.263 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+
+
+Minas Gerais , 28 de Julho de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3060 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                     264 
+
+ 
+
+Valor...............: R$ 2.000,00 Ficha: 00523 
+
+Unid. Orc........: 02.009.002 - FUNDO NACIONAL DE DESENV. EDUCAÇÃO - FUNDEB   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção.......: 361 - ENSINO FUNDAMENTAL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 2.183 - MANUTENÇÃO DAS ATIVIDADES DO SETOR - FUNDEB   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 119 - TRANSFERENCIAS DO FUNDEB - OUTRAS DESPESAS   
+
+Valor...............: R$ 733,00 Ficha: 00651 
+
+Unid. Orc........: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL   
+
+Função............: 08 - ASSISTENCIA SOCIAL   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.233 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 27.250,00 Ficha: 00786 
+
+Subfunção.......: 244 - ASSISTENCIA COMUNITARIA   
+
+Programa........: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL   
+
+Proj/Ativ.........: 2.247 - MANUTENÇÃO DOS BENEFICIOS EVENTUAIS   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 4.035,00 Ficha: 00861 
+
+  
+
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 87.531,84 (oitenta e sete mil 
+
+, quinhentos e trinta e um reais e oitenta e quatro centavos ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc........: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO   
+
+Função............: 06 - SEGURANCA PUBLICA   
+
+Subfunção......: 181 - POLICIAMENTO   
+
+Programa........: 0003 - POLICIAMENTO URBANO E RURAL   
+
+Proj/Ativ.........: 2.029 - MANUTENÇÃO DO PROGRAMA OLHO VIVO   
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 1.000,00 Ficha: 00129 
+
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 1.260 - CONST/AMPL./REFORMA DE PRÉDIOS PÚBLICOS   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 11.000,00 Ficha: 00193 
+
+Função............: 16 - HABITACAO   
+
+Subfunção......: 482 - HABITACAO URBANA   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 1.057 - CONSTRUÇÃO/REFORMA DE CASAS POPULARES   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 650,00 Ficha: 00218 
+
+Função............: 26 - TRANSPORTE   
+
+Subfunção......: 782 - TRANSPORTE RODOVIARIO   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 1.071 - PAVIMENTAÇÃO DE RODOVIAS E ESTRADAS VICINAIS   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 7.000,00 Ficha: 00243 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 2.101 - MANUTENÇÃO PESSOAL SAÚDE DA FAMÍLIA - PSF   
+
+Conta..............: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 34.513,84 Ficha: 00357 
+
+Unid. Orc........: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor..............: R$ 2.000,00 Ficha: 00505 
+
+Subfunção......: 365 - EDUCACAO INFANTIL   
+
+Programa........: 0017 - EXPANSÃO ME
+28-Julho-2021
+VISCONDE DO RIO BRANCO
+to o Crédito Suplementar no valor total de R$ 87.531,84 (oitenta e sete mil , quinhentos e trinta e um reais e oitenta e quatro 
+
+centavos ), nas seguintes dotações orçamentárias: 
+
+  
+Unid. Orc........: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 18.000,00 Ficha: 00071 
+
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA   
+
+Função............: 15 - URBANISMO   
+
+Subfunção.......: 451 - INFRA-ESTRUTURA URBANA   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 2.043 - MANUTENÇÃO DOS SERVIÇOS DE MOBILIDADE URBANA   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 1.000,00 Ficha: 00201 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 2.000,00 Ficha: 00329 
+
+Subfunção.......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 5.400,00 Ficha: 00391 
+
+Subfunção.......: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL   
+
+Programa........: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE   
+
+Proj/Ativ.........: 2.113 - MANUTENÇÃO TRATAMENTO FORA DO DOMICILIO - TFD   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 25.672,84 Ficha: 00399 
+
+Subfunção.......: 305 - VIGILANCIA EPIDEMIOLOGICA   
+
+Programa........: 0014 - VIGILÂNCIA EM SAÚDE   
+
+Proj/Ativ.........: 2.125 - MANUT. ATIVIDADES DA VIGIL. EPIDEMIOLOGICA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 1.441,00 Ficha: 00483 
+
+Unid. Orc........: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção.......: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE   
+
+Programa........: 0016 - ALIMENTAÇÃO ESCOLAR   
+
+Proj/Ativ.........: 2.263 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+
+
+Minas Gerais , 28 de Julho de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3060 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                     264 
+
+ 
+
+Valor...............: R$ 2.000,00 Ficha: 00523 
+
+Unid. Orc........: 02.009.002 - FUNDO NACIONAL DE DESENV. EDUCAÇÃO - FUNDEB   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção.......: 361 - ENSINO FUNDAMENTAL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 2.183 - MANUTENÇÃO DAS ATIVIDADES DO SETOR - FUNDEB   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 119 - TRANSFERENCIAS DO FUNDEB - OUTRAS DESPESAS   
+
+Valor...............: R$ 733,00 Ficha: 00651 
+
+Unid. Orc........: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL   
+
+Função............: 08 - ASSISTENCIA SOCIAL   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.233 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 27.250,00 Ficha: 00786 
+
+Subfunção.......: 244 - ASSISTENCIA COMUNITARIA   
+
+Programa........: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL   
+
+Proj/Ativ.........: 2.247 - MANUTENÇÃO DOS BENEFICIOS EVENTUAIS   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 4.035,00 Ficha: 00861 
+
+  
+
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 87.531,84 (oitenta e sete mil 
+
+, quinhentos e trinta e um reais e oitenta e quatro centavos ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc........: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO   
+
+Função............: 06 - SEGURANCA PUBLICA   
+
+Subfunção......: 181 - POLICIAMENTO   
+
+Programa........: 0003 - POLICIAMENTO URBANO E RURAL   
+
+Proj/Ativ.........: 2.029 - MANUTENÇÃO DO PROGRAMA OLHO VIVO   
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 1.000,00 Ficha: 00129 
+
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 1.260 - CONST/AMPL./REFORMA DE PRÉDIOS PÚBLICOS   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 11.000,00 Ficha: 00193 
+
+Função............: 16 - HABITACAO   
+
+Subfunção......: 482 - HABITACAO URBANA   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 1.057 - CONSTRUÇÃO/REFORMA DE CASAS POPULARES   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 650,00 Ficha: 00218 
+
+Função............: 26 - TRANSPORTE   
+
+Subfunção......: 782 - TRANSPORTE RODOVIARIO   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 1.071 - PAVIMENTAÇÃO DE RODOVIAS E ESTRADAS VICINAIS   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 7.000,00 Ficha: 00243 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 2.101 - MANUTENÇÃO PESSOAL SAÚDE DA FAMÍLIA - PSF   
+
+Conta..............: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 34.513,84 Ficha: 00357 
+
+Unid. Orc........: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor..............: R$ 2.000,00 Ficha: 00505 
+
+Subfunção......: 365 - EDUCACAO INFANTIL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 2.167 - MANUTENÇÃO DAS SUBVENÇÕES SOCIAIS   
+
+Conta..............: 3.3.50.43.00 - SUBVENÇÕES SOCIAIS   
+
+Fonte..............: 119 - TRANSFERENCIAS DO FUNDEB - OUTRAS DESPESAS   
+
+Valor..............: R$ 733,00 Ficha: 
+28-Julho-2021
+VISCONDE DO RIO BRANCO
+a de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 87.531,84 (oitenta e sete mil 
+
+, quinhentos e trinta e um reais e oitenta e quatro centavos ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc........: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO   
+
+Função............: 06 - SEGURANCA PUBLICA   
+
+Subfunção......: 181 - POLICIAMENTO   
+
+Programa........: 0003 - POLICIAMENTO URBANO E RURAL   
+
+Proj/Ativ.........: 2.029 - MANUTENÇÃO DO PROGRAMA OLHO VIVO   
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 1.000,00 Ficha: 00129 
+
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 1.260 - CONST/AMPL./REFORMA DE PRÉDIOS PÚBLICOS   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 11.000,00 Ficha: 00193 
+
+Função............: 16 - HABITACAO   
+
+Subfunção......: 482 - HABITACAO URBANA   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 1.057 - CONSTRUÇÃO/REFORMA DE CASAS POPULARES   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 650,00 Ficha: 00218 
+
+Função............: 26 - TRANSPORTE   
+
+Subfunção......: 782 - TRANSPORTE RODOVIARIO   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 1.071 - PAVIMENTAÇÃO DE RODOVIAS E ESTRADAS VICINAIS   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 7.000,00 Ficha: 00243 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 2.101 - MANUTENÇÃO PESSOAL SAÚDE DA FAMÍLIA - PSF   
+
+Conta..............: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 34.513,84 Ficha: 00357 
+
+Unid. Orc........: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor..............: R$ 2.000,00 Ficha: 00505 
+
+Subfunção......: 365 - EDUCACAO INFANTIL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 2.167 - MANUTENÇÃO DAS SUBVENÇÕES SOCIAIS   
+
+Conta..............: 3.3.50.43.00 - SUBVENÇÕES SOCIAIS   
+
+Fonte..............: 119 - TRANSFERENCIAS DO FUNDEB - OUTRAS DESPESAS   
+
+Valor..............: R$ 733,00 Ficha: 00620 
+
+Unid. Orc........: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL   
+
+Função............: 08 - ASSISTENCIA SOCIAL   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.233 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 26.600,00 Ficha: 00790 
+
+Unid. Orc........: 02.011.002 - FUNDO MUN. DOS DIREITOS CRIANÇA E ADOLESCENTE   
+
+
+
+Minas Gerais , 28 de Julho de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3060 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                     265 
+
+ 
+
+Função............: 08 - ASSISTENCIA SOCIAL   
+
+Subfunção......: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE   
+
+Programa........: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL   
+
+Proj/Ativ.........: 2.253 - MANUTENÇÃO DE SUBVENÇÕES SOCIAL   
+
+Conta..............: 3.3.50.43.00 - SUBVENÇÕES SOCIAIS   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 4.035,00 Ficha: 00869 
+
+  
+
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+
+  
+
+, 05 DE JULHO DE 2021 
+
+___________ 
+
+Publicado por: 
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:8E2541AA 
+
+ 
+DEPARTAMENTO DE CONTABILIDADE 
+
+DECRETO 92 
+
+ 
+
+DECRETO Nº 00092/2021, DE 08 DE JULHO DE 2021. 
+  
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO SUPLEMENTAR E DA OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O(A) Prefeito(a) Municipal de , Estado de Minas Gerais, no uso de suas atribuições legais, com base no da Lei Municipal 1539/2020 de 28/12/2020 e 
+
+art. 43 da Lei Federal 4.320/64, decreta: 
+
+Art. 1o. - Fica aberto o Crédito Suplementar no valor total de R$ 156.834,00 (cento e cinquenta e seis mil , oitocentos e trinta e quatro reais ), nas 
+
+seguintes dotações orçamentárias: 
+
+  
+Unid. Orc........: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO   
+
+Função............: 06 - SEGURANCA PUBLICA   
+
+Subfunção.......: 181 - POLICIAMENTO   
+
+Programa........: 0003 - POLICIAMENTO URBANO E RURAL   
+
+Proj/Ativ.........: 2.029 - MANUTENÇÃO DO PROGRAMA OLHO VIVO   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 1.000,00 Ficha: 00127 
+
+Unid. Orc........: 02.005.000 - SECRETARIA MUN. FAZENDA E EXECUÇÃO FISCAL.   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.036 - MANUTENÇÃO DO PESSOAL DA SECRETARIA   
+
+Conta..............: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 550,00 Ficha: 00145 
+
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.040 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 8.000,00 Ficha: 00176 
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 20.000,00 Ficha: 00179 
+
+Unid. Orc........: 02.007.000 - SECRETARIA MUN. AGRICULTURA E MEIO AMBIENTE   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.076 - MANUTENÇÃO DO PESSOAL DA SECRETARIA   
+
+Conta..............: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 620,00 Ficha: 00251 
+
+Proj/Ativ.........: 2.077 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 110,00 Ficha: 00264 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.095 - MANUTENÇÃO DO PESSOAL DA SECRETARIA   
+
+Conta..............: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 19.000,00 Ficha: 00316 
+
+
+28-Julho-2021
+VISCONDE DO RIO BRANCO
+A DE CRÉDITO SUPLEMENTAR E DA OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O(A) Prefeito(a) Municipal de , Estado de Minas Gerais, no uso de suas atribuições legais, com base no da Lei Municipal 1539/2020 de 28/12/2020 e 
+
+art. 43 da Lei Federal 4.320/64, decreta: 
+
+Art. 1o. - Fica aberto o Crédito Suplementar no valor total de R$ 156.834,00 (cento e cinquenta e seis mil , oitocentos e trinta e quatro reais ), nas 
+
+seguintes dotações orçamentárias: 
+
+  
+Unid. Orc........: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO   
+
+Função............: 06 - SEGURANCA PUBLICA   
+
+Subfunção.......: 181 - POLICIAMENTO   
+
+Programa........: 0003 - POLICIAMENTO URBANO E RURAL   
+
+Proj/Ativ.........: 2.029 - MANUTENÇÃO DO PROGRAMA OLHO VIVO   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 1.000,00 Ficha: 00127 
+
+Unid. Orc........: 02.005.000 - SECRETARIA MUN. FAZENDA E EXECUÇÃO FISCAL.   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.036 - MANUTENÇÃO DO PESSOAL DA SECRETARIA   
+
+Conta..............: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 550,00 Ficha: 00145 
+
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.040 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 8.000,00 Ficha: 00176 
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 20.000,00 Ficha: 00179 
+
+Unid. Orc........: 02.007.000 - SECRETARIA MUN. AGRICULTURA E MEIO AMBIENTE   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.076 - MANUTENÇÃO DO PESSOAL DA SECRETARIA   
+
+Conta..............: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 620,00 Ficha: 00251 
+
+Proj/Ativ.........: 2.077 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 110,00 Ficha: 00264 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.095 - MANUTENÇÃO DO PESSOAL DA SECRETARIA   
+
+Conta..............: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 19.000,00 Ficha: 00316 
+
+Programa........: 0014 - VIGILÂNCIA EM SAÚDE   
+
+Proj/Ativ.........: 2.280 - AÇOES DE ENFRENTAMENTO AO COVID-19.   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 154 - OUTRAS TRANSFERENCIAS DE RECURSOS DO SUS   
+
+Valor...............: R$ 19.000,00 Ficha: 00351 
+
+Subfunção.......: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL   
+
+Programa........: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE   
+
+Proj/Ativ.........: 2.113 - MANUTENÇÃO TRATAMENTO FORA DO DOMICILIO - TFD   
+
+Conta..............: 3.3.90.14.00 - DIÁRIAS - CIVIL   
+
+
+
+Minas Gerais , 28 de Julho de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3060 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                     266 
+
+ 
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 5.000,00 Ficha: 00398 
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 21.847,00 Ficha: 00399 
+
+Proj/Ativ.........: 2.118 - MANUT. CONSORCIO REG. INTERMUNICIPAL-SIMSAÚDE   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 1.000,00 Ficha: 00431 
+
+Subfunção.......: 304 - VIGILANCIA SANITARIA   
+
+Programa........: 0014 - VIGILÂNCIA EM SAÚDE   
+
+Proj/Ativ.........: 2.124 - MANUT. DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA   
+
+Conta..............: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 1.200,00 Ficha: 00461 
+
+Subfunção.......: 305 - VIGILANCIA EPIDEMIOLOGICA   
+
+Programa........: 0014 - VIGILÂNCIA EM SAÚDE   
+
+Proj/Ativ.........: 2.125 - MANUT. ATIVIDADES DA VIGIL. EPIDEMIOLOGICA   
+
+Conta..............: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 25.000,00 Ficha: 00475 
+
+Unid. Orc........: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.130 - MANUTENÇÃO DO PESSOAL DA SECRETARIA   
+
+Conta..............: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO   
+
+Fonte...............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor...............: R$ 6.000,00 Ficha: 00491 
+
+Subfunção.......: 365 - EDUCACAO INFANTIL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 2.160 - MANUT. ATIV. DA EDUCAÇÃO INFANTI PRÉ-ESCOLA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO   
+
+Valor...............: R$ 11.300,00 Ficha: 00618 
+
+Unid. Orc........: 02.009.002 - FUNDO NACIONAL DE DESENV. EDUCAÇÃO - FUNDEB   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção.......: 361 - ENSINO FUNDAMENTAL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 2.183 - MANUTENÇÃO DAS ATIVIDADES DO SETOR - FUNDEB   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 119 - TRANSFERENCIAS DO FUNDEB - OUTRAS DESPESAS   
+
+Valor...............: R$ 4.900,00 Ficha: 00651 
+
+Unid. Orc........: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER   
+
+Função............: 13 - CULTURA   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.200 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 3.800,00 Ficha: 00693 
+
+Unid. Orc........: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL   
+
+Função............: 08 - ASSISTENCIA SOCIAL   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.233 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.08.00 - OUTROS BENEFÍCIOS ASSISTENCIAIS   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 400,00 Ficha: 00784 
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 4.000,00 Ficha: 00786 
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS   
+
+Valor...............: R$ 1.607,00 Ficha: 00786 
+
+Subfunção.......: 244 - ASSISTENCIA COMUNITARIA   
+
+Programa........: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL   
+
+Proj/At
+28-Julho-2021
+VISCONDE DO RIO BRANCO
+to o Crédito Suplementar no valor total de R$ 156.834,00 (cento e cinquenta e seis mil , oitocentos e trinta e quatro reais ), nas 
+
+seguintes dotações orçamentárias: 
+
+  
+Unid. Orc........: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO   
+
+Função............: 06 - SEGURANCA PUBLICA   
+
+Subfunção.......: 181 - POLICIAMENTO   
+
+Programa........: 0003 - POLICIAMENTO URBANO E RURAL   
+
+Proj/Ativ.........: 2.029 - MANUTENÇÃO DO PROGRAMA OLHO VIVO   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 1.000,00 Ficha: 00127 
+
+Unid. Orc........: 02.005.000 - SECRETARIA MUN. FAZENDA E EXECUÇÃO FISCAL.   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.036 - MANUTENÇÃO DO PESSOAL DA SECRETARIA   
+
+Conta..............: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 550,00 Ficha: 00145 
+
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.040 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 8.000,00 Ficha: 00176 
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 20.000,00 Ficha: 00179 
+
+Unid. Orc........: 02.007.000 - SECRETARIA MUN. AGRICULTURA E MEIO AMBIENTE   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.076 - MANUTENÇÃO DO PESSOAL DA SECRETARIA   
+
+Conta..............: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 620,00 Ficha: 00251 
+
+Proj/Ativ.........: 2.077 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 110,00 Ficha: 00264 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.095 - MANUTENÇÃO DO PESSOAL DA SECRETARIA   
+
+Conta..............: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 19.000,00 Ficha: 00316 
+
+Programa........: 0014 - VIGILÂNCIA EM SAÚDE   
+
+Proj/Ativ.........: 2.280 - AÇOES DE ENFRENTAMENTO AO COVID-19.   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 154 - OUTRAS TRANSFERENCIAS DE RECURSOS DO SUS   
+
+Valor...............: R$ 19.000,00 Ficha: 00351 
+
+Subfunção.......: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL   
+
+Programa........: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE   
+
+Proj/Ativ.........: 2.113 - MANUTENÇÃO TRATAMENTO FORA DO DOMICILIO - TFD   
+
+Conta..............: 3.3.90.14.00 - DIÁRIAS - CIVIL   
+
+
+
+Minas Gerais , 28 de Julho de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3060 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                     266 
+
+ 
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 5.000,00 Ficha: 00398 
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 21.847,00 Ficha: 00399 
+
+Proj/Ativ.........: 2.118 - MANUT. CONSORCIO REG. INTERMUNICIPAL-SIMSAÚDE   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 1.000,00 Ficha: 00431 
+
+Subfunção.......: 304 - VIGILANCIA SANITARIA   
+
+Programa........: 0014 - VIGILÂNCIA EM SAÚDE   
+
+Proj/Ativ.........: 2.124 - MANUT. DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA   
+
+Conta..............: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 1.200,00 Ficha: 00461 
+
+Subfunção.......: 305 - VIGILANCIA EPIDEMIOLOGICA   
+
+Programa........: 0014 - VIGILÂNCIA EM SAÚDE   
+
+Proj/Ativ.........: 2.125 - MANUT. ATIVIDADES DA VIGIL. EPIDEMIOLOGICA   
+
+Conta..............: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 25.000,00 Ficha: 00475 
+
+Unid. Orc........: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.130 - MANUTENÇÃO DO PESSOAL DA SECRETARIA   
+
+Conta..............: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO   
+
+Fonte...............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor...............: R$ 6.000,00 Ficha: 00491 
+
+Subfunção.......: 365 - EDUCACAO INFANTIL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 2.160 - MANUT. ATIV. DA EDUCAÇÃO INFANTI PRÉ-ESCOLA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO   
+
+Valor...............: R$ 11.300,00 Ficha: 00618 
+
+Unid. Orc........: 02.009.002 - FUNDO NACIONAL DE DESENV. EDUCAÇÃO - FUNDEB   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção.......: 361 - ENSINO FUNDAMENTAL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 2.183 - MANUTENÇÃO DAS ATIVIDADES DO SETOR - FUNDEB   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 119 - TRANSFERENCIAS DO FUNDEB - OUTRAS DESPESAS   
+
+Valor...............: R$ 4.900,00 Ficha: 00651 
+
+Unid. Orc........: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER   
+
+Função............: 13 - CULTURA   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.200 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 3.800,00 Ficha: 00693 
+
+Unid. Orc........: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL   
+
+Função............: 08 - ASSISTENCIA SOCIAL   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.233 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.08.00 - OUTROS BENEFÍCIOS ASSISTENCIAIS   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 400,00 Ficha: 00784 
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 4.000,00 Ficha: 00786 
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS   
+
+Valor...............: R$ 1.607,00 Ficha: 00786 
+
+Subfunção.......: 244 - ASSISTENCIA COMUNITARIA   
+
+Programa........: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL   
+
+Proj/Ativ.........: 2.241 - MANUTENÇÃO DO PROGRAMA BOLSA FAMILIA   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS   
+
+Valor...............: R$ 2.500,00 Ficha: 00834 
+
+  
+
+Art. 2o. - Como recursos a 
+28-Julho-2021
+VISCONDE DO RIO BRANCO
+a de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 156.834,00 (cento e 
+
+cinquenta e seis mil , oitocentos e trinta e quatro reais ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc........: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.013 - MANUT. DAS ATIV. DE TECNOLOGIA DA INFORMAÇÃO   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 3.800,00 Ficha: 00082 
+
+Função............: 06 - SEGURANCA PUBLICA   
+
+Subfunção......: 181 - POLICIAMENTO   
+
+Programa........: 0003 - POLICIAMENTO URBANO E RURAL   
+
+Proj/Ativ.........: 2.028 - MANUTENÇÃO DO CONVÊNIO COM A POLÍCIA MILITAR   
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+
+
+Minas Gerais , 28 de Julho de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3060 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                     267 
+
+ 
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 1.170,00 Ficha: 00124 
+
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.042 - MANUTENÇÃO DA FROTA MUNICIPAL   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 400,00 Ficha: 00190 
+
+Função............: 15 - URBANISMO   
+
+Subfunção......: 451 - INFRA-ESTRUTURA URBANA   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 1.048 - AMPLIAÇÃO MELHORAMENTO SISTEMA DE MOBILIDADE   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 20.000,00 Ficha: 00194 
+
+Proj/Ativ.........: 1.256 - AQUISIÇÃO DE IMÓVEL NOVO CEMITÉRIO   
+
+Conta..............: 4.4.90.61.00 - AQUISIÇÃO DE IMÓVEIS   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 13.000,00 Ficha: 00200 
+
+Função............: 26 - TRANSPORTE   
+
+Subfunção......: 782 - TRANSPORTE RODOVIARIO   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 1.071 - PAVIMENTAÇÃO DE RODOVIAS E ESTRADAS VICINAIS   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 110,00 Ficha: 00243 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0014 - VIGILÂNCIA EM SAÚDE   
+
+Proj/Ativ.........: 2.280 - AÇOES DE ENFRENTAMENTO AO COVID-19.   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 154 - OUTRAS TRANSFERENCIAS DE RECURSOS DO SUS   
+
+Valor..............: R$ 19.000,00 Ficha: 00352 
+
+Subfunção......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 2.101 - MANUTENÇÃO PESSOAL SAÚDE DA FAMÍLIA - PSF   
+
+Conta..............: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 27.847,00 Ficha: 00357 
+
+Conta..............: 3.1.91.13.00 - OBRIGAÇÕES PATRONAIS   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 45.200,00 Ficha: 00360 
+
+Unid. Orc........: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.130 - MANUTENÇÃO DO PESSOAL DA SECRETARIA   
+
+Conta..............: 3.1.91.13.00 - OBRIGAÇÕES PATRONAIS   
+
+Fonte..............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor..............: R$ 6.000,00 Ficha: 00497 
+
+Subfunção......: 365 - EDUCACAO INFANTIL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 1.163 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA UNIDADE ESCOLAR   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 119 - TRANSFERENCIAS DO FUNDEB - OUTRAS DESPESAS   
+
+Valor..............: R$ 4.900,00 Ficha: 00593 
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO   
+
+Valor..............: R$ 11.300,00 Ficha: 00593 
+
+Unid. Orc........: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL   
+
+Função............: 08 - ASSISTENCIA SOCIAL   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.233 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS   
+
+Valor..............: R$ 1.607,00 Ficha: 00790 
+
+Subfunção......: 244 - ASSISTENCIA COMUNITARIA   
+
+Programa........: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL   
+
+Proj/Ativ.........: 2.239 - MANUTENÇÃO DAS ATIVIDADES DO CREAS   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS   
+
+Valor..............: R$ 2.500,00 Ficha: 00831 
+
+  
+
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+
+  
+
+, 08 DE JULHO DE 2021 
+
+Publicado por: 
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:C707A342 
+
+ 
+DEPARTAMENTO DE CONTABILIDADE 
+
+DECRETO 94 
+
+
+
+Minas Gerais , 28 de Julho de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3060 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                     268 
+
+ 
+
+DECRETO Nº 00094/2021, DE 12 DE JULHO DE 2021. 
+  
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO SUPLEMENTAR E DA OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O(A) Prefeito(a) Municipal de , Estado de Minas Gerais, no uso de suas atribuições legais, com base no da Lei Municipal 1539/2020 de 28/12/2020 e 
+
+art. 43 da Lei Federal 4.320/64, decreta: 
+
+Art. 1o. - Fica aberto o Crédito Suplementar no valor total de R$ 134.988,00 (cento e trinta e quatro mil , novecentos e oitenta e oito reais ), nas 
+
+seguintes dotações orçamentárias: 
+
+  
+Unid. Orc........: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.40.00 - SERVIÇOS TECNOLOGIA INFOR E COMUNIC - PJ   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 6.600,00 Ficha: 00072 
+
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA   
+
+Função............: 15 - URBANISMO   
+
+Subfunção.......: 451 - INFRA-ESTRUTURA URBANA   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 2.043 - MANUTENÇÃO DOS SERVIÇOS DE MOBILIDADE URBANA   
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 945,00 Ficha: 00203 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.40.00 - SERVIÇOS TECNOLOGIA INFOR E COMUN
+28-Julho-2021
+VISCONDE DO RIO BRANCO
+A DE CRÉDITO SUPLEMENTAR E DA OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O(A) Prefeito(a) Municipal de , Estado de Minas Gerais, no uso de suas atribuições legais, com base no da Lei Municipal 1539/2020 de 28/12/2020 e 
+
+art. 43 da Lei Federal 4.320/64, decreta: 
+
+Art. 1o. - Fica aberto o Crédito Suplementar no valor total de R$ 134.988,00 (cento e trinta e quatro mil , novecentos e oitenta e oito reais ), nas 
+
+seguintes dotações orçamentárias: 
+
+  
+Unid. Orc........: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.40.00 - SERVIÇOS TECNOLOGIA INFOR E COMUNIC - PJ   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 6.600,00 Ficha: 00072 
+
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA   
+
+Função............: 15 - URBANISMO   
+
+Subfunção.......: 451 - INFRA-ESTRUTURA URBANA   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 2.043 - MANUTENÇÃO DOS SERVIÇOS DE MOBILIDADE URBANA   
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 945,00 Ficha: 00203 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.40.00 - SERVIÇOS TECNOLOGIA INFOR E COMUNIC - PJ   
+
+Fonte...............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+Valor...............: R$ 6.000,00 Ficha: 00330 
+
+Subfunção.......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE   
+
+Valor...............: R$ 2.300,00 Ficha: 00391 
+
+Unid. Orc........: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte...............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor...............: R$ 1.000,00 Ficha: 00512 
+
+Subfunção.......: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE   
+
+Programa........: 0016 - ALIMENTAÇÃO ESCOLAR   
+
+Proj/Ativ.........: 2.263 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor...............: R$ 45.000,00 Ficha: 00523 
+
+Subfunção.......: 361 - ENSINO FUNDAMENTAL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 2.150 - MANUT. ATIVIDADES REC. SALARIO EDUC. - QESE   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO   
+
+Valor...............: R$ 2.941,00 Ficha: 00556 
+
+Subfunção.......: 365 - EDUCACAO INFANTIL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 2.160 - MANUT. ATIV. DA EDUCAÇÃO INFANTI PRÉ-ESCOLA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO   
+
+Valor...............: R$ 4.000,00 Ficha: 00618 
+
+Unid. Orc........: 02.009.002 - FUNDO NACIONAL DE DESENV. EDUCAÇÃO - FUNDEB   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção.......: 361 - ENSINO FUNDAMENTAL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 2.183 - MANUTENÇÃO DAS ATIVIDADES DO SETOR - FUNDEB   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 119 - TRANSFERENCIAS DO FUNDEB - OUTRAS DESPESAS   
+
+Valor...............: R$ 57.600,00 Ficha: 00651 
+
+Unid. Orc........: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER   
+
+Função............: 27 - DESPORTO E LAZER   
+
+Subfunção.......: 811 - DESPORTO DE RENDIMENTO   
+
+Programa........: 0022 - INCENTIVO A PRÁTICA ESPORTIVA   
+
+Proj/Ativ.........: 2.212 - MANUT. ATIV. INCENTIVO A PRÁTICA ESPORTIVA   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 7.700,00 Ficha: 00722 
+
+Conta..............: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRATUITA   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 722,00 Ficha: 00724 
+
+Unid. Orc........: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL   
+
+Função............: 08 - ASSISTENCIA SOCIAL   
+
+Subfunção.......: 244 - ASSISTENCIA COMUNITARIA   
+
+
+
+Minas Gerais , 28 de Julho de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3060 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                     269 
+
+ 
+
+Programa........: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL   
+
+Proj/Ativ.........: 2.242 - MANUTENÇÃO DO PROGRAMA FAMILIA ACOLHEDORA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 180,00 Ficha: 00841 
+
+  
+
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 134.988,00 (cento e trinta e 
+
+quatro mil , novecentos e oitenta e oito reais ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA   
+
+Função............: 15 - URBANISMO   
+
+Subfunção......: 451 - INFRA-ESTRUTURA URBANA   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 1.048 - AMPLIAÇÃO MELHORAMENTO SISTEMA DE MOBILIDADE   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 6.600,00 Ficha: 00194 
+
+Função............: 26 - TRANSPORTE   
+
+Subfunção......: 782 - TRANSPORTE RODOVIARIO   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 1.071 - PAVIMENTAÇÃO DE RODOVIAS E ESTRADAS VICINAIS   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 8.825,00 Ficha: 00243 
+
+Unid. Orc........: 02.007.000 - SECRETARIA MUN. AGRICULTURA E MEIO AMBIENTE   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.077 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 722,00 Ficha: 00260 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 2.110 - MANUT. DAS ATIV. CENTRO DE SAÚDE BEIRA RIO   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+Valor..............: R$ 6.000,00 Ficha: 00384 
+
+Subfunção......: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL   
+
+Programa........: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE   
+
+Proj/Ativ.........: 2.230 - REPASSE REDE URGENCIA E EMERG. MACRO SUDESTE   
+
+Conta..............: 3.3.50.41.00 -
+28-Julho-2021
+VISCONDE DO RIO BRANCO
+to o Crédito Suplementar no valor total de R$ 134.988,00 (cento e trinta e quatro mil , novecentos e oitenta e oito reais ), nas 
+
+seguintes dotações orçamentárias: 
+
+  
+Unid. Orc........: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.40.00 - SERVIÇOS TECNOLOGIA INFOR E COMUNIC - PJ   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 6.600,00 Ficha: 00072 
+
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA   
+
+Função............: 15 - URBANISMO   
+
+Subfunção.......: 451 - INFRA-ESTRUTURA URBANA   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 2.043 - MANUTENÇÃO DOS SERVIÇOS DE MOBILIDADE URBANA   
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 945,00 Ficha: 00203 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.40.00 - SERVIÇOS TECNOLOGIA INFOR E COMUNIC - PJ   
+
+Fonte...............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+Valor...............: R$ 6.000,00 Ficha: 00330 
+
+Subfunção.......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE   
+
+Valor...............: R$ 2.300,00 Ficha: 00391 
+
+Unid. Orc........: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte...............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor...............: R$ 1.000,00 Ficha: 00512 
+
+Subfunção.......: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE   
+
+Programa........: 0016 - ALIMENTAÇÃO ESCOLAR   
+
+Proj/Ativ.........: 2.263 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor...............: R$ 45.000,00 Ficha: 00523 
+
+Subfunção.......: 361 - ENSINO FUNDAMENTAL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 2.150 - MANUT. ATIVIDADES REC. SALARIO EDUC. - QESE   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO   
+
+Valor...............: R$ 2.941,00 Ficha: 00556 
+
+Subfunção.......: 365 - EDUCACAO INFANTIL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 2.160 - MANUT. ATIV. DA EDUCAÇÃO INFANTI PRÉ-ESCOLA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO   
+
+Valor...............: R$ 4.000,00 Ficha: 00618 
+
+Unid. Orc........: 02.009.002 - FUNDO NACIONAL DE DESENV. EDUCAÇÃO - FUNDEB   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção.......: 361 - ENSINO FUNDAMENTAL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 2.183 - MANUTENÇÃO DAS ATIVIDADES DO SETOR - FUNDEB   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 119 - TRANSFERENCIAS DO FUNDEB - OUTRAS DESPESAS   
+
+Valor...............: R$ 57.600,00 Ficha: 00651 
+
+Unid. Orc........: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER   
+
+Função............: 27 - DESPORTO E LAZER   
+
+Subfunção.......: 811 - DESPORTO DE RENDIMENTO   
+
+Programa........: 0022 - INCENTIVO A PRÁTICA ESPORTIVA   
+
+Proj/Ativ.........: 2.212 - MANUT. ATIV. INCENTIVO A PRÁTICA ESPORTIVA   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 7.700,00 Ficha: 00722 
+
+Conta..............: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRATUITA   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 722,00 Ficha: 00724 
+
+Unid. Orc........: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL   
+
+Função............: 08 - ASSISTENCIA SOCIAL   
+
+Subfunção.......: 244 - ASSISTENCIA COMUNITARIA   
+
+
+
+Minas Gerais , 28 de Julho de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3060 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                     269 
+
+ 
+
+Programa........: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL   
+
+Proj/Ativ.........: 2.242 - MANUTENÇÃO DO PROGRAMA FAMILIA ACOLHEDORA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 180,00 Ficha: 00841 
+
+  
+
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 134.988,00 (cento e trinta e 
+
+quatro mil , novecentos e oitenta e oito reais ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA   
+
+Função............: 15 - URBANISMO   
+
+Subfunção......: 451 - INFRA-ESTRUTURA URBANA   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 1.048 - AMPLIAÇÃO MELHORAMENTO SISTEMA DE MOBILIDADE   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 6.600,00 Ficha: 00194 
+
+Função............: 26 - TRANSPORTE   
+
+Subfunção......: 782 - TRANSPORTE RODOVIARIO   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 1.071 - PAVIMENTAÇÃO DE RODOVIAS E ESTRADAS VICINAIS   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 8.825,00 Ficha: 00243 
+
+Unid. Orc........: 02.007.000 - SECRETARIA MUN. AGRICULTURA E MEIO AMBIENTE   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.077 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 722,00 Ficha: 00260 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 2.110 - MANUT. DAS ATIV. CENTRO DE SAÚDE BEIRA RIO   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+Valor..............: R$ 6.000,00 Ficha: 00384 
+
+Subfunção......: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL   
+
+Programa........: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE   
+
+Proj/Ativ.........: 2.230 - REPASSE REDE URGENCIA E EMERG. MACRO SUDESTE   
+
+Conta..............: 3.3.50.41.00 - CONTRIBUIÇÕES   
+
+Fonte..............: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE   
+
+Valor..............: R$ 2.300,00 Ficha: 00443 
+
+Unid. Orc........: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção......: 361 - ENSINO FUN
+28-Julho-2021
+VISCONDE DO RIO BRANCO
+a de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 134.988,00 (cento e trinta e 
+
+quatro mil , novecentos e oitenta e oito reais ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA   
+
+Função............: 15 - URBANISMO   
+
+Subfunção......: 451 - INFRA-ESTRUTURA URBANA   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 1.048 - AMPLIAÇÃO MELHORAMENTO SISTEMA DE MOBILIDADE   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 6.600,00 Ficha: 00194 
+
+Função............: 26 - TRANSPORTE   
+
+Subfunção......: 782 - TRANSPORTE RODOVIARIO   
+
+Programa........: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA   
+
+Proj/Ativ.........: 1.071 - PAVIMENTAÇÃO DE RODOVIAS E ESTRADAS VICINAIS   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 8.825,00 Ficha: 00243 
+
+Unid. Orc........: 02.007.000 - SECRETARIA MUN. AGRICULTURA E MEIO AMBIENTE   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.077 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 722,00 Ficha: 00260 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 2.110 - MANUT. DAS ATIV. CENTRO DE SAÚDE BEIRA RIO   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+Valor..............: R$ 6.000,00 Ficha: 00384 
+
+Subfunção......: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL   
+
+Programa........: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE   
+
+Proj/Ativ.........: 2.230 - REPASSE REDE URGENCIA E EMERG. MACRO SUDESTE   
+
+Conta..............: 3.3.50.41.00 - CONTRIBUIÇÕES   
+
+Fonte..............: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE   
+
+Valor..............: R$ 2.300,00 Ficha: 00443 
+
+Unid. Orc........: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção......: 361 - ENSINO FUNDAMENTAL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 1.149 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA UNIDADE ESCOLAR   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO   
+
+Valor..............: R$ 6.941,00 Ficha: 00525 
+
+Proj/Ativ.........: 1.151 - CONSTR/AMPLIAÇÃO/REF. QUADRAS POLIESPORTIVAS   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor..............: R$ 1.000,00 Ficha: 00526 
+
+Proj/Ativ.........: 2.143 - MANUT. DAS ATIVIDADES DO SETOR REC. PROPRIO   
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte..............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor..............: R$ 10.000,00 Ficha: 00546 
+
+Programa........: 0018 - TRANSPORTE ESCOLAR   
+
+Proj/Ativ.........: 2.152 - MANUT. SERVIÇOS TRANSP. ESCOLAR REC. PRÓPRIO   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor..............: R$ 20.000,00 Ficha: 00558 
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor..............: R$ 15.000,00 Ficha: 00559 
+
+Unid. Orc........: 02.009.002 - FUNDO NACIONAL DE DESENV. EDUCAÇÃO - FUNDEB   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção......: 361 - ENSINO FUNDAMENTAL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 2.183 - MANUTENÇÃO DAS ATIVIDADES DO SETOR - FUNDEB 
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 119 - TRANSFERENCIAS DO FUNDEB - OUTRAS DESPESAS   
+
+Valor..............: R$ 57.600,00 Ficha: 00652 
+
+  
+
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigorna data de sua publicação. 
+
+  
+
+, 12 DE JULHO DE 2021 
+
+Publicado por: 
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:C5CD29A0 
+
+ 
+
+
+
+Minas Gerais , 28 de Julho de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3060 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                                                                        270 
+
+ 
+
+ESTADO DE MINAS GERAIS

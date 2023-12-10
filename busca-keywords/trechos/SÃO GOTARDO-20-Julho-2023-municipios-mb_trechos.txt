@@ -1,0 +1,1820 @@
+20-Julho-2023
+SÃO GOTARDO
+A DE CRÉDITO SUPLEMENTAR AO ORÇAMENTO GERAL DO MUNICÍPIO DE SÃO 
+
+GOTARDO, EM FAVOR DA SECRETARIA MUNICIPAL DA SAÚDE E DÁ OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O Povo do Município de São Gotardo, através de seus representantes, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei: 
+
+  
+
+Art. 1o. Fica o Executivo Municipal autorizado a realizar remanejamento e a abrir Crédito Suplementar ao Orçamento Geral do Município no valor 
+
+de R$1.145.940,00 (um milhão, cento e quarenta e cinco mil e novecentos e quarenta reais), em favor da Secretaria Municipal de Saúde, com a 
+
+finalidade de cobrir despesas diversas, conforme disposto nos artigos 40 a 43 da Lei Nº4.320/64. 
+
+  
+
+
+
+Minas Gerais , 20 de Julho de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3562 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              302 
+
+ 
+
+Art. 2º. A natureza da despesa e fonte no valor constante do artigo 1º será incorporada na seguinte dotação orçamentária: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.10.06.10.301.0125.1339 1710 Construção e Aquisição de Equipamentos Unidades Básicas de Saúde 1068 44.90.52.00 250.000,00 
+
+02.10.06.10.302.0125.1347 1710 
+Construção e Aquisição de Equipamentos para o Hospital/ Pronto 
+
+Atendimento 
+1075 44.90.52.00 350.000,00 
+
+02.10.06.10.301.0125.1339 1706 Construção e Aquisição de Equipamentos Unidades Básicas de Saúde 1068 44905200 48.298,00 
+
+02.10.06.10.302.0125.1347 1706 
+Construção e Aquisição de Equipamentos para o Hospital/ Pronto 
+
+Atendimento 
+1075 44905200 497.642,00 
+
+  T O T A L 1.145.940,00 
+
+  
+
+Parágrafo único. Fica o Poder Executivo autorizado promover as alterações necessárias para compatibilização ao PPA e LDO, nos termos do art. 
+
+16, § 1º, incisos I e II da Lei Complementar nº. 101/00. 
+
+  
+
+Art. 3º. Para fazer face às despesas do artigo 2º, fica o Executivo Municipal autorizado a utilizar Superávit Financeiro na fonte 1710 - Transferência 
+
+Especial dos Estados no valor de R$600.000,00 (seiscentos mil reais) e na fonte 1706 Transferência Especial da União no valor de R$444.000,00 
+
+(quatrocentos e quarenta e quatro mil reais), e por Excesso de Arrecadação na fonte 1706 – Transferência Especial da União no valor de 
+
+R$90.000,00 (noventa mil reais), e por Anulação de Dotação no valor de R$11.940,00 (onze mil, novecentos e quarenta mil reais), conforme 
+
+disposto no inciso I, II e III do §1° do art. 43 da Lei Federal n° 4.320/64. 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.10.02.10.302.0112.2562 1706 Ações de Enfretamento ao COVID-19 986 44.90.52.00 11.940,00 
+
+  T O T A L 11.940,00 
+
+  
+
+Art. 4º. Esta Lei entra em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de São Gotardo, 18 de julho de 2023. 
+
+  
+
+DENISE ABADIA PEREIRA OLIVEIRA 
+Prefeita Municipal 
+
+Publicado por: 
+Aline Gabriele Rodrigues 
+
+Código Identificador:9B73CD42 
+
+ 
+SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO, FAZENDA E PLANEJAMENTO 
+
+LEI N° 2669 DE 18 DE JULHO DE 2023 
+
+ 
+
+AUTORIZA A ABERTURA DE CRÉDITO SUPLEMENTAR AO ORÇAMENTO GERAL DO MUNICÍPIO DE SÃO 
+
+GOTARDO, PARA CUSTEIO DAS AÇÕES DE MANUTENÇÃO DE DESPESAS COM FOLHA DE PAGAMENTO E 
+
+OBRIGAÇÕES PATRONAIS DE DIVERSAS SECRETARIAS MUNICIPAL E DÁ OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O Povo do Município de São Gotardo, através de seus representantes, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei: 
+
+  
+
+Art. 1o. Fica o Executivo Municipal autorizado a realizar remanejamento e a abrir Crédito Suplementar ao Orçamento Geral do Município no valor 
+
+de R$11.250.190,00 (onze milhões, duzentos e cinquenta mil, cento e noventa reais), em favor de diversas Secretarias Municipal, com a 
+
+finalidade de cobrir despesas com a folha de pagamento e obrigações patronais, conforme disposto nos artigos 40 a 43 da Lei Nº4.320/64. 
+
+  
+
+Art. 2º. A natureza da despesa e fonte no valor constante do artigo 1º será incorporada na seguinte dotação orçamentária: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.01.01.04.122.0114.2100 1500 Remuneração do Pessoal do Gabinete da Prefeita 2 31.90.13.00 15.000,00 
+
+02.01.02.04.122.0114.2105 
+
+  
+1500 Remuneração do Pessoal da Secretaria Executiva 27 31.90.11.00 30.000,00 
+
+0202.02.04.129.0116.2119 1500 Remuneração do Pessoal da Coordenadoria Tributaria 113 31.90.11.00 95.000,00 
+
+02.02.04.04.122.0114.2123 1500 Remuneração do Pessoal da Coordenadoria de Gestão de Pes 124 31.90.11.00 20.000,00 
+
+02.02.04.09.271.0114.2124 1500 Pagamento de Aposentadorias e Pensões 134 31.90.01.00 87.190,00 
+
+02.02.04.09.271.0114.2124 1500 Pagamento de Aposentadorias e Pensões 135 31.90.03.00 95.000,00 
+
+02.02.06.04.122.0114.2130 1500 Remuneração do Pessoal da Coordenadoria de Contabilidade 147 31.90.11.00 90.000,00 
+
+02.02.07.04.129.0114.2132 1500 Remuneração do pessoal da Coordenadoria de Gestão Financ 155 31.90.11.00 50.000,00 
+
+02.02.07.04.129.0114.2132 1500 Remuneração do pessoal da Coordenadoria de Gestão Financ 156 31.90.13.00 8.000,00 
+
+02.03.01.12.122.0114.2150 1500 Remuneração do Pessoal Administrativo da Educação 204 31.90.01.00 326.000,00 
+
+02.03.01.12.122.0114.2150 1500 Remuneração do Pessoal Administrativo da Educação 206 31.90.04.00 52.000,00 
+
+02.03.02.12.361.0114.2347 1500 Remuneração do Pessoal da Educação Básica 304 31.90.11.00 33.000,00 
+
+02.05.03.15.452.0114.2194 1500 Remuneração do Pessoal de Serviços Urbanos 582 31.90.04.00 534.000,00 
+
+02.05.03.15.452.0114.2194 1500 Remuneração do Pessoal de Serviços Urbanos 584 31.90.13.00 64.000,00 
+
+02.05.04.04.122.0114.2740 1500 Remuneração Pessoal dos Setores de Maquinas, Transporte e 599 31.90.04.00 220.000,00 
+
+02.05.04.04.122.0114.2740 1500 Remuneração Pessoal dos Setores de Maquinas, Transporte e 600 31.90.11.00 20.000,00 
+
+02.05.05.15.452.0114.2203 1500 Remuneração do Pessoal da Limpeza Publica 619 31.90.04.00 580.000,00 
+
+02.06.01.20.122.0114.2207 1500 Remuneração do Pessoal da Secretaria Municipal de Desenv. 642 31.90.11.00 179.000,00 
+
+02.07.01.08.243.0110.2240 1500 Manutenção das Atividades do Conselho Tutelar 725 31.90.04.00 68.000,00 
+
+02.07.01.08.243.0110.2240 1500 Manutenção das Atividades do Conselho Tutelar 726 31.90.13.00 3.000,00 
+
+02.08.01.12.361.0114.2232 1540 Remuneração do Pessoal do FUNDEB - Magistério 756 31.90.04.00 3.268.000,00 
+
+02.08.01.12.365.0114.2721 1540 Remuneração do Pessoal do FUNDEB Creche 780 31.90.04.00 1.074.000,00 
+
+02.08.01.12.365.0114.2721 1540 Remuneração do Pessoal do FUNDEB Creche 782 31.90.13.00 136.000,00 
+
+02.08.01.12.365.0114.2722 1540 Remuneração do Pessoal do FUNDEB Pre Escola 785 31.90.04.00 1.690.000,00 
+
+02.08.01.12.367.0114.2724 1540 Remuneração do Pessoal do FUNDEB AEE 817 31.90.11.00 355.000,00 
+
+02.08.01.12.367.0114.2724 1540 Remuneração do Pessoal do FUNDEB AEE 818 31.90.13.00 77.000,00 
+
+02.10.02.10.302.0112.2252 1500 Manutenção das Atividades de Assistência de Média Especiali 904 31.90.11.00 200.000,00 
+
+02.10.02.10.302.0112.2258 1500 Manutenção das Atividades do Programa de Atendimento ao P 913 31.90.04.00 300.000,00 
+
+02.10.02.10.302.0112.2258 1500 Manutenção das Atividades do Programa de Atendimento ao P 914 31.90.11.00 90.000,00 
+
+02.10.02.10.302.0112.2559 1500 Manutenção do Pronto Atendimento 961 31.90.04.00 440.000,00 
+
+
+
+Minas Gerais , 20 de Julho de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3562 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              303 
+
+ 
+
+02.10.05.10.122.0112.2176 1500 Manutenção das Atividades da Secretaria de Saúde 1042 31.90.04.00 60.000,00 
+
+02.10.05.10.122.0112.2176 1500 Manutenção das Atividades da Secretaria de Saúde 1043 31.90.11.00 310.000,00 
+
+02.12.01.08.122.0114.2220 1500 Remuneração do Pessoal da Secretaria Municipal de Desenvo 1113 31.90.04.00 70.000,00 
+
+02.12.01.08.242.0110.2711 1500 Serviços de Acolhimento Residência Inclusiva 1142 31.90.04.00 80.000,00 
+
+02.12.01.08.242.0110.2711 1500 Serviços de Acolhimento Residência Inclusiva 1143 31.90.11.00 20.000,00 
+
+02.12.01.08.242.0
+20-Julho-2023
+SÃO GOTARDO
+brir Crédito Suplementar ao Orçamento Geral do Município no valor 
+
+de R$1.145.940,00 (um milhão, cento e quarenta e cinco mil e novecentos e quarenta reais), em favor da Secretaria Municipal de Saúde, com a 
+
+finalidade de cobrir despesas diversas, conforme disposto nos artigos 40 a 43 da Lei Nº4.320/64. 
+
+  
+
+
+
+Minas Gerais , 20 de Julho de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3562 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              302 
+
+ 
+
+Art. 2º. A natureza da despesa e fonte no valor constante do artigo 1º será incorporada na seguinte dotação orçamentária: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.10.06.10.301.0125.1339 1710 Construção e Aquisição de Equipamentos Unidades Básicas de Saúde 1068 44.90.52.00 250.000,00 
+
+02.10.06.10.302.0125.1347 1710 
+Construção e Aquisição de Equipamentos para o Hospital/ Pronto 
+
+Atendimento 
+1075 44.90.52.00 350.000,00 
+
+02.10.06.10.301.0125.1339 1706 Construção e Aquisição de Equipamentos Unidades Básicas de Saúde 1068 44905200 48.298,00 
+
+02.10.06.10.302.0125.1347 1706 
+Construção e Aquisição de Equipamentos para o Hospital/ Pronto 
+
+Atendimento 
+1075 44905200 497.642,00 
+
+  T O T A L 1.145.940,00 
+
+  
+
+Parágrafo único. Fica o Poder Executivo autorizado promover as alterações necessárias para compatibilização ao PPA e LDO, nos termos do art. 
+
+16, § 1º, incisos I e II da Lei Complementar nº. 101/00. 
+
+  
+
+Art. 3º. Para fazer face às despesas do artigo 2º, fica o Executivo Municipal autorizado a utilizar Superávit Financeiro na fonte 1710 - Transferência 
+
+Especial dos Estados no valor de R$600.000,00 (seiscentos mil reais) e na fonte 1706 Transferência Especial da União no valor de R$444.000,00 
+
+(quatrocentos e quarenta e quatro mil reais), e por Excesso de Arrecadação na fonte 1706 – Transferência Especial da União no valor de 
+
+R$90.000,00 (noventa mil reais), e por Anulação de Dotação no valor de R$11.940,00 (onze mil, novecentos e quarenta mil reais), conforme 
+
+disposto no inciso I, II e III do §1° do art. 43 da Lei Federal n° 4.320/64. 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.10.02.10.302.0112.2562 1706 Ações de Enfretamento ao COVID-19 986 44.90.52.00 11.940,00 
+
+  T O T A L 11.940,00 
+
+  
+
+Art. 4º. Esta Lei entra em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de São Gotardo, 18 de julho de 2023. 
+
+  
+
+DENISE ABADIA PEREIRA OLIVEIRA 
+Prefeita Municipal 
+
+Publicado por: 
+Aline Gabriele Rodrigues 
+
+Código Identificador:9B73CD42 
+
+ 
+SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO, FAZENDA E PLANEJAMENTO 
+
+LEI N° 2669 DE 18 DE JULHO DE 2023 
+
+ 
+
+AUTORIZA A ABERTURA DE CRÉDITO SUPLEMENTAR AO ORÇAMENTO GERAL DO MUNICÍPIO DE SÃO 
+
+GOTARDO, PARA CUSTEIO DAS AÇÕES DE MANUTENÇÃO DE DESPESAS COM FOLHA DE PAGAMENTO E 
+
+OBRIGAÇÕES PATRONAIS DE DIVERSAS SECRETARIAS MUNICIPAL E DÁ OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O Povo do Município de São Gotardo, através de seus representantes, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei: 
+
+  
+
+Art. 1o. Fica o Executivo Municipal autorizado a realizar remanejamento e a abrir Crédito Suplementar ao Orçamento Geral do Município no valor 
+
+de R$11.250.190,00 (onze milhões, duzentos e cinquenta mil, cento e noventa reais), em favor de diversas Secretarias Municipal, com a 
+
+finalidade de cobrir despesas com a folha de pagamento e obrigações patronais, conforme disposto nos artigos 40 a 43 da Lei Nº4.320/64. 
+
+  
+
+Art. 2º. A natureza da despesa e fonte no valor constante do artigo 1º será incorporada na seguinte dotação orçamentária: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.01.01.04.122.0114.2100 1500 Remuneração do Pessoal do Gabinete da Prefeita 2 31.90.13.00 15.000,00 
+
+02.01.02.04.122.0114.2105 
+
+  
+1500 Remuneração do Pessoal da Secretaria Executiva 27 31.90.11.00 30.000,00 
+
+0202.02.04.129.0116.2119 1500 Remuneração do Pessoal da Coordenadoria Tributaria 113 31.90.11.00 95.000,00 
+
+02.02.04.04.122.0114.2123 1500 Remuneração do Pessoal da Coordenadoria de Gestão de Pes 124 31.90.11.00 20.000,00 
+
+02.02.04.09.271.0114.2124 1500 Pagamento de Aposentadorias e Pensões 134 31.90.01.00 87.190,00 
+
+02.02.04.09.271.0114.2124 1500 Pagamento de Aposentadorias e Pensões 135 31.90.03.00 95.000,00 
+
+02.02.06.04.122.0114.2130 1500 Remuneração do Pessoal da Coordenadoria de Contabilidade 147 31.90.11.00 90.000,00 
+
+02.02.07.04.129.0114.2132 1500 Remuneração do pessoal da Coordenadoria de Gestão Financ 155 31.90.11.00 50.000,00 
+
+02.02.07.04.129.0114.2132 1500 Remuneração do pessoal da Coordenadoria de Gestão Financ 156 31.90.13.00 8.000,00 
+
+02.03.01.12.122.0114.2150 1500 Remuneração do Pessoal Administrativo da Educação 204 31.90.01.00 326.000,00 
+
+02.03.01.12.122.0114.2150 1500 Remuneração do Pessoal Administrativo da Educação 206 31.90.04.00 52.000,00 
+
+02.03.02.12.361.0114.2347 1500 Remuneração do Pessoal da Educação Básica 304 31.90.11.00 33.000,00 
+
+02.05.03.15.452.0114.2194 1500 Remuneração do Pessoal de Serviços Urbanos 582 31.90.04.00 534.000,00 
+
+02.05.03.15.452.0114.2194 1500 Remuneração do Pessoal de Serviços Urbanos 584 31.90.13.00 64.000,00 
+
+02.05.04.04.122.0114.2740 1500 Remuneração Pessoal dos Setores de Maquinas, Transporte e 599 31.90.04.00 220.000,00 
+
+02.05.04.04.122.0114.2740 1500 Remuneração Pessoal dos Setores de Maquinas, Transporte e 600 31.90.11.00 20.000,00 
+
+02.05.05.15.452.0114.2203 1500 Remuneração do Pessoal da Limpeza Publica 619 31.90.04.00 580.000,00 
+
+02.06.01.20.122.0114.2207 1500 Remuneração do Pessoal da Secretaria Municipal de Desenv. 642 31.90.11.00 179.000,00 
+
+02.07.01.08.243.0110.2240 1500 Manutenção das Atividades do Conselho Tutelar 725 31.90.04.00 68.000,00 
+
+02.07.01.08.243.0110.2240 1500 Manutenção das Atividades do Conselho Tutelar 726 31.90.13.00 3.000,00 
+
+02.08.01.12.361.0114.2232 1540 Remuneração do Pessoal do FUNDEB - Magistério 756 31.90.04.00 3.268.000,00 
+
+02.08.01.12.365.0114.2721 1540 Remuneração do Pessoal do FUNDEB Creche 780 31.90.04.00 1.074.000,00 
+
+02.08.01.12.365.0114.2721 1540 Remuneração do Pessoal do FUNDEB Creche 782 31.90.13.00 136.000,00 
+
+02.08.01.12.365.0114.2722 1540 Remuneração do Pessoal do FUNDEB Pre Escola 785 31.90.04.00 1.690.000,00 
+
+02.08.01.12.367.0114.2724 1540 Remuneração do Pessoal do FUNDEB AEE 817 31.90.11.00 355.000,00 
+
+02.08.01.12.367.0114.2724 1540 Remuneração do Pessoal do FUNDEB AEE 818 31.90.13.00 77.000,00 
+
+02.10.02.10.302.0112.2252 1500 Manutenção das Atividades de Assistência de Média Especiali 904 31.90.11.00 200.000,00 
+
+02.10.02.10.302.0112.2258 1500 Manutenção das Atividades do Programa de Atendimento ao P 913 31.90.04.00 300.000,00 
+
+02.10.02.10.302.0112.2258 1500 Manutenção das Atividades do Programa de Atendimento ao P 914 31.90.11.00 90.000,00 
+
+02.10.02.10.302.0112.2559 1500 Manutenção do Pronto Atendimento 961 31.90.04.00 440.000,00 
+
+
+
+Minas Gerais , 20 de Julho de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3562 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              303 
+
+ 
+
+02.10.05.10.122.0112.2176 1500 Manutenção das Atividades da Secretaria de Saúde 1042 31.90.04.00 60.000,00 
+
+02.10.05.10.122.0112.2176 1500 Manutenção das Atividades da Secretaria de Saúde 1043 31.90.11.00 310.000,00 
+
+02.12.01.08.122.0114.2220 1500 Remuneração do Pessoal da Secretaria Municipal de Desenvo 1113 31.90.04.00 70.000,00 
+
+02.12.01.08.242.0110.2711 1500 Serviços de Acolhimento Residência Inclusiva 1142 31.90.04.00 80.000,00 
+
+02.12.01.08.242.0110.2711 1500 Serviços de Acolhimento Residência Inclusiva 1143 31.90.11.00 20.000,00 
+
+02.12.01.08.242.0110.2711 1500 Serviços de Acolhimento Residência Inclusiva 1144 31.90.13.00 20.000,00 
+
+02.12.01.08.243.0110.2393 1500 Serviços de Convivência e Fortalecimento de Vínculos 1152 31.90.11.00 40.000,00 
+
+02.12.01.08.243.0110.2393 1500 Serviços de Convivência e Fortalecimento de Vínculos 1153 31.90.13.00 6.000,00 
+
+02.12.01.08.244.0110.2350 1500 Implantação e M
+20-Julho-2023
+SÃO GOTARDO
+A DE CRÉDITO SUPLEMENTAR AO ORÇAMENTO GERAL DO MUNICÍPIO DE SÃO 
+
+GOTARDO, PARA CUSTEIO DAS AÇÕES DE MANUTENÇÃO DE DESPESAS COM FOLHA DE PAGAMENTO E 
+
+OBRIGAÇÕES PATRONAIS DE DIVERSAS SECRETARIAS MUNICIPAL E DÁ OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O Povo do Município de São Gotardo, através de seus representantes, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei: 
+
+  
+
+Art. 1o. Fica o Executivo Municipal autorizado a realizar remanejamento e a abrir Crédito Suplementar ao Orçamento Geral do Município no valor 
+
+de R$11.250.190,00 (onze milhões, duzentos e cinquenta mil, cento e noventa reais), em favor de diversas Secretarias Municipal, com a 
+
+finalidade de cobrir despesas com a folha de pagamento e obrigações patronais, conforme disposto nos artigos 40 a 43 da Lei Nº4.320/64. 
+
+  
+
+Art. 2º. A natureza da despesa e fonte no valor constante do artigo 1º será incorporada na seguinte dotação orçamentária: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.01.01.04.122.0114.2100 1500 Remuneração do Pessoal do Gabinete da Prefeita 2 31.90.13.00 15.000,00 
+
+02.01.02.04.122.0114.2105 
+
+  
+1500 Remuneração do Pessoal da Secretaria Executiva 27 31.90.11.00 30.000,00 
+
+0202.02.04.129.0116.2119 1500 Remuneração do Pessoal da Coordenadoria Tributaria 113 31.90.11.00 95.000,00 
+
+02.02.04.04.122.0114.2123 1500 Remuneração do Pessoal da Coordenadoria de Gestão de Pes 124 31.90.11.00 20.000,00 
+
+02.02.04.09.271.0114.2124 1500 Pagamento de Aposentadorias e Pensões 134 31.90.01.00 87.190,00 
+
+02.02.04.09.271.0114.2124 1500 Pagamento de Aposentadorias e Pensões 135 31.90.03.00 95.000,00 
+
+02.02.06.04.122.0114.2130 1500 Remuneração do Pessoal da Coordenadoria de Contabilidade 147 31.90.11.00 90.000,00 
+
+02.02.07.04.129.0114.2132 1500 Remuneração do pessoal da Coordenadoria de Gestão Financ 155 31.90.11.00 50.000,00 
+
+02.02.07.04.129.0114.2132 1500 Remuneração do pessoal da Coordenadoria de Gestão Financ 156 31.90.13.00 8.000,00 
+
+02.03.01.12.122.0114.2150 1500 Remuneração do Pessoal Administrativo da Educação 204 31.90.01.00 326.000,00 
+
+02.03.01.12.122.0114.2150 1500 Remuneração do Pessoal Administrativo da Educação 206 31.90.04.00 52.000,00 
+
+02.03.02.12.361.0114.2347 1500 Remuneração do Pessoal da Educação Básica 304 31.90.11.00 33.000,00 
+
+02.05.03.15.452.0114.2194 1500 Remuneração do Pessoal de Serviços Urbanos 582 31.90.04.00 534.000,00 
+
+02.05.03.15.452.0114.2194 1500 Remuneração do Pessoal de Serviços Urbanos 584 31.90.13.00 64.000,00 
+
+02.05.04.04.122.0114.2740 1500 Remuneração Pessoal dos Setores de Maquinas, Transporte e 599 31.90.04.00 220.000,00 
+
+02.05.04.04.122.0114.2740 1500 Remuneração Pessoal dos Setores de Maquinas, Transporte e 600 31.90.11.00 20.000,00 
+
+02.05.05.15.452.0114.2203 1500 Remuneração do Pessoal da Limpeza Publica 619 31.90.04.00 580.000,00 
+
+02.06.01.20.122.0114.2207 1500 Remuneração do Pessoal da Secretaria Municipal de Desenv. 642 31.90.11.00 179.000,00 
+
+02.07.01.08.243.0110.2240 1500 Manutenção das Atividades do Conselho Tutelar 725 31.90.04.00 68.000,00 
+
+02.07.01.08.243.0110.2240 1500 Manutenção das Atividades do Conselho Tutelar 726 31.90.13.00 3.000,00 
+
+02.08.01.12.361.0114.2232 1540 Remuneração do Pessoal do FUNDEB - Magistério 756 31.90.04.00 3.268.000,00 
+
+02.08.01.12.365.0114.2721 1540 Remuneração do Pessoal do FUNDEB Creche 780 31.90.04.00 1.074.000,00 
+
+02.08.01.12.365.0114.2721 1540 Remuneração do Pessoal do FUNDEB Creche 782 31.90.13.00 136.000,00 
+
+02.08.01.12.365.0114.2722 1540 Remuneração do Pessoal do FUNDEB Pre Escola 785 31.90.04.00 1.690.000,00 
+
+02.08.01.12.367.0114.2724 1540 Remuneração do Pessoal do FUNDEB AEE 817 31.90.11.00 355.000,00 
+
+02.08.01.12.367.0114.2724 1540 Remuneração do Pessoal do FUNDEB AEE 818 31.90.13.00 77.000,00 
+
+02.10.02.10.302.0112.2252 1500 Manutenção das Atividades de Assistência de Média Especiali 904 31.90.11.00 200.000,00 
+
+02.10.02.10.302.0112.2258 1500 Manutenção das Atividades do Programa de Atendimento ao P 913 31.90.04.00 300.000,00 
+
+02.10.02.10.302.0112.2258 1500 Manutenção das Atividades do Programa de Atendimento ao P 914 31.90.11.00 90.000,00 
+
+02.10.02.10.302.0112.2559 1500 Manutenção do Pronto Atendimento 961 31.90.04.00 440.000,00 
+
+
+
+Minas Gerais , 20 de Julho de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3562 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              303 
+
+ 
+
+02.10.05.10.122.0112.2176 1500 Manutenção das Atividades da Secretaria de Saúde 1042 31.90.04.00 60.000,00 
+
+02.10.05.10.122.0112.2176 1500 Manutenção das Atividades da Secretaria de Saúde 1043 31.90.11.00 310.000,00 
+
+02.12.01.08.122.0114.2220 1500 Remuneração do Pessoal da Secretaria Municipal de Desenvo 1113 31.90.04.00 70.000,00 
+
+02.12.01.08.242.0110.2711 1500 Serviços de Acolhimento Residência Inclusiva 1142 31.90.04.00 80.000,00 
+
+02.12.01.08.242.0110.2711 1500 Serviços de Acolhimento Residência Inclusiva 1143 31.90.11.00 20.000,00 
+
+02.12.01.08.242.0110.2711 1500 Serviços de Acolhimento Residência Inclusiva 1144 31.90.13.00 20.000,00 
+
+02.12.01.08.243.0110.2393 1500 Serviços de Convivência e Fortalecimento de Vínculos 1152 31.90.11.00 40.000,00 
+
+02.12.01.08.243.0110.2393 1500 Serviços de Convivência e Fortalecimento de Vínculos 1153 31.90.13.00 6.000,00 
+
+02.12.01.08.244.0110.2350 1500 Implantação e Manutenção do CRAS e PAIF 1171 31.90.04.00 161.000,00 
+
+02.12.01.08.244.0110.2350 1500 Implantação e Manutenção do CRAS e PAIF 1172 31.90.11.00 60.000,00 
+
+02.12.01.08.244.0110.2350 1500 Implantação e Manutenção do CRAS e PAIF 1173 31.90.13.00 50.000,00 
+
+02.12.01.08.244.0110.2361 1500 Manutenção do CREAS - PFMC-II 1185 31.90.11.00 90.000,00 
+
+02.12.01.08.244.0110.2361 1500 Manutenção do CREAS - PFMC-II 1186 31.90.13.00 40.000,00 
+
+02.12.01.08.244.0110.2361 1660 Manutenção do CREAS - PFMC-II 1186 31.90.13.00 12.000,00 
+
+02.12.01.08.244.0110.2621 1500 CENTRO DE ACOLHIMENTO: PROTEÇÃO E DIGNIDADE 1210 31.90.13.00 4.000,00 
+
+02.12.01.08.244.0110.2743 1660 Manutenção do IGD PAB Programa Auxilio Brasil 1216 31.90.04.00 17.000,00 
+
+02.12.01.08.244.0110.2743 1660 Manutenção do IGD PAB Programa Auxilio Brasil 1218 31.90.13.00 11.000,00 
+
+  T O T A L 11.250.190,00 
+
+              
+
+  
+
+Parágrafo único. Fica o Poder Executivo autorizado promover as alterações necessárias para compatibilização ao PPA e LDO, nos termos do art. 
+
+16, § 1º, incisos I e II da Lei Complementar nº. 101/00. 
+
+  
+
+Art. 3º. Para fazer face às despesas do artigo 2º, fica o Executivo Municipal autorizado a utilizar anulação, por decreto, conforme disposto no inciso 
+
+III do §1° do art. 43 da Lei Federal n° 4.320/64, no valor de R$11.250.190,00 (onze milhões, duzentos e cinquenta mil, cento e noventa reais) das 
+
+seguintes dotações: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02 01 001 04 122 0114 2100 1500 Remuneração do Pessoal do Gabinete da Prefeita 3 31901600 4.000,00 
+
+02 01 001 04 122 0114 2100 1500 Remuneração do Pessoal do Gabinete da Prefeita 4 31909200 15.190,00 
+
+02 001 001 04 122 0117 2102 1500 Manutenção da Frota do Gabinete da Prefeita 8 44905200 80.000,00 
+
+02 001 001 04 122 0119 1100 1500 Implementação da Eficiência Administrativa 10 44905200 40.000,00 
+
+02 001 001 04 122 0119 2101 1500 Manutenção das Atividades do Gabinete da Prefeita 12 33504300 5.000,00 
+
+02 001 001 04 122 0119 2101 1500 Manutenção das Atividades do Gabinete da Prefeita 16 33903600 3.000,00 
+
+02 001 001 04 122 0119 2101 1500 Manutenção das Atividades do Gabinete da Prefeita 18 33904700 7.000,00 
+
+02 001 001 04 122 0119 2101 1500 Manutenção das Atividades do Gabinete da Prefeita 19 33909100 6.000,00 
+
+02 001 001 04 122 0119 2101 1500 Manutenção das Atividades do Gabinete da Prefeita 20 33909200 7.000,00 
+
+02 001 001 28 845 0121 2104 1500 Contribuições a Entidades Institucionais 26 33504300 5.000,00 
+
+02 001 002 04 122 0114 2105 1500 Remuneração do Pessoal da Secretaria Executiva 29 31901600 4.000,00 
+
+02 001 002 04 122 0119 2106 1500 Manutenção das Atividades da Secretaria Executiva
+20-Julho-2023
+SÃO GOTARDO
+brir Crédito Suplementar ao Orçamento Geral do Município no valor 
+
+de R$11.250.190,00 (onze milhões, duzentos e cinquenta mil, cento e noventa reais), em favor de diversas Secretarias Municipal, com a 
+
+finalidade de cobrir despesas com a folha de pagamento e obrigações patronais, conforme disposto nos artigos 40 a 43 da Lei Nº4.320/64. 
+
+  
+
+Art. 2º. A natureza da despesa e fonte no valor constante do artigo 1º será incorporada na seguinte dotação orçamentária: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.01.01.04.122.0114.2100 1500 Remuneração do Pessoal do Gabinete da Prefeita 2 31.90.13.00 15.000,00 
+
+02.01.02.04.122.0114.2105 
+
+  
+1500 Remuneração do Pessoal da Secretaria Executiva 27 31.90.11.00 30.000,00 
+
+0202.02.04.129.0116.2119 1500 Remuneração do Pessoal da Coordenadoria Tributaria 113 31.90.11.00 95.000,00 
+
+02.02.04.04.122.0114.2123 1500 Remuneração do Pessoal da Coordenadoria de Gestão de Pes 124 31.90.11.00 20.000,00 
+
+02.02.04.09.271.0114.2124 1500 Pagamento de Aposentadorias e Pensões 134 31.90.01.00 87.190,00 
+
+02.02.04.09.271.0114.2124 1500 Pagamento de Aposentadorias e Pensões 135 31.90.03.00 95.000,00 
+
+02.02.06.04.122.0114.2130 1500 Remuneração do Pessoal da Coordenadoria de Contabilidade 147 31.90.11.00 90.000,00 
+
+02.02.07.04.129.0114.2132 1500 Remuneração do pessoal da Coordenadoria de Gestão Financ 155 31.90.11.00 50.000,00 
+
+02.02.07.04.129.0114.2132 1500 Remuneração do pessoal da Coordenadoria de Gestão Financ 156 31.90.13.00 8.000,00 
+
+02.03.01.12.122.0114.2150 1500 Remuneração do Pessoal Administrativo da Educação 204 31.90.01.00 326.000,00 
+
+02.03.01.12.122.0114.2150 1500 Remuneração do Pessoal Administrativo da Educação 206 31.90.04.00 52.000,00 
+
+02.03.02.12.361.0114.2347 1500 Remuneração do Pessoal da Educação Básica 304 31.90.11.00 33.000,00 
+
+02.05.03.15.452.0114.2194 1500 Remuneração do Pessoal de Serviços Urbanos 582 31.90.04.00 534.000,00 
+
+02.05.03.15.452.0114.2194 1500 Remuneração do Pessoal de Serviços Urbanos 584 31.90.13.00 64.000,00 
+
+02.05.04.04.122.0114.2740 1500 Remuneração Pessoal dos Setores de Maquinas, Transporte e 599 31.90.04.00 220.000,00 
+
+02.05.04.04.122.0114.2740 1500 Remuneração Pessoal dos Setores de Maquinas, Transporte e 600 31.90.11.00 20.000,00 
+
+02.05.05.15.452.0114.2203 1500 Remuneração do Pessoal da Limpeza Publica 619 31.90.04.00 580.000,00 
+
+02.06.01.20.122.0114.2207 1500 Remuneração do Pessoal da Secretaria Municipal de Desenv. 642 31.90.11.00 179.000,00 
+
+02.07.01.08.243.0110.2240 1500 Manutenção das Atividades do Conselho Tutelar 725 31.90.04.00 68.000,00 
+
+02.07.01.08.243.0110.2240 1500 Manutenção das Atividades do Conselho Tutelar 726 31.90.13.00 3.000,00 
+
+02.08.01.12.361.0114.2232 1540 Remuneração do Pessoal do FUNDEB - Magistério 756 31.90.04.00 3.268.000,00 
+
+02.08.01.12.365.0114.2721 1540 Remuneração do Pessoal do FUNDEB Creche 780 31.90.04.00 1.074.000,00 
+
+02.08.01.12.365.0114.2721 1540 Remuneração do Pessoal do FUNDEB Creche 782 31.90.13.00 136.000,00 
+
+02.08.01.12.365.0114.2722 1540 Remuneração do Pessoal do FUNDEB Pre Escola 785 31.90.04.00 1.690.000,00 
+
+02.08.01.12.367.0114.2724 1540 Remuneração do Pessoal do FUNDEB AEE 817 31.90.11.00 355.000,00 
+
+02.08.01.12.367.0114.2724 1540 Remuneração do Pessoal do FUNDEB AEE 818 31.90.13.00 77.000,00 
+
+02.10.02.10.302.0112.2252 1500 Manutenção das Atividades de Assistência de Média Especiali 904 31.90.11.00 200.000,00 
+
+02.10.02.10.302.0112.2258 1500 Manutenção das Atividades do Programa de Atendimento ao P 913 31.90.04.00 300.000,00 
+
+02.10.02.10.302.0112.2258 1500 Manutenção das Atividades do Programa de Atendimento ao P 914 31.90.11.00 90.000,00 
+
+02.10.02.10.302.0112.2559 1500 Manutenção do Pronto Atendimento 961 31.90.04.00 440.000,00 
+
+
+
+Minas Gerais , 20 de Julho de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3562 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              303 
+
+ 
+
+02.10.05.10.122.0112.2176 1500 Manutenção das Atividades da Secretaria de Saúde 1042 31.90.04.00 60.000,00 
+
+02.10.05.10.122.0112.2176 1500 Manutenção das Atividades da Secretaria de Saúde 1043 31.90.11.00 310.000,00 
+
+02.12.01.08.122.0114.2220 1500 Remuneração do Pessoal da Secretaria Municipal de Desenvo 1113 31.90.04.00 70.000,00 
+
+02.12.01.08.242.0110.2711 1500 Serviços de Acolhimento Residência Inclusiva 1142 31.90.04.00 80.000,00 
+
+02.12.01.08.242.0110.2711 1500 Serviços de Acolhimento Residência Inclusiva 1143 31.90.11.00 20.000,00 
+
+02.12.01.08.242.0110.2711 1500 Serviços de Acolhimento Residência Inclusiva 1144 31.90.13.00 20.000,00 
+
+02.12.01.08.243.0110.2393 1500 Serviços de Convivência e Fortalecimento de Vínculos 1152 31.90.11.00 40.000,00 
+
+02.12.01.08.243.0110.2393 1500 Serviços de Convivência e Fortalecimento de Vínculos 1153 31.90.13.00 6.000,00 
+
+02.12.01.08.244.0110.2350 1500 Implantação e Manutenção do CRAS e PAIF 1171 31.90.04.00 161.000,00 
+
+02.12.01.08.244.0110.2350 1500 Implantação e Manutenção do CRAS e PAIF 1172 31.90.11.00 60.000,00 
+
+02.12.01.08.244.0110.2350 1500 Implantação e Manutenção do CRAS e PAIF 1173 31.90.13.00 50.000,00 
+
+02.12.01.08.244.0110.2361 1500 Manutenção do CREAS - PFMC-II 1185 31.90.11.00 90.000,00 
+
+02.12.01.08.244.0110.2361 1500 Manutenção do CREAS - PFMC-II 1186 31.90.13.00 40.000,00 
+
+02.12.01.08.244.0110.2361 1660 Manutenção do CREAS - PFMC-II 1186 31.90.13.00 12.000,00 
+
+02.12.01.08.244.0110.2621 1500 CENTRO DE ACOLHIMENTO: PROTEÇÃO E DIGNIDADE 1210 31.90.13.00 4.000,00 
+
+02.12.01.08.244.0110.2743 1660 Manutenção do IGD PAB Programa Auxilio Brasil 1216 31.90.04.00 17.000,00 
+
+02.12.01.08.244.0110.2743 1660 Manutenção do IGD PAB Programa Auxilio Brasil 1218 31.90.13.00 11.000,00 
+
+  T O T A L 11.250.190,00 
+
+              
+
+  
+
+Parágrafo único. Fica o Poder Executivo autorizado promover as alterações necessárias para compatibilização ao PPA e LDO, nos termos do art. 
+
+16, § 1º, incisos I e II da Lei Complementar nº. 101/00. 
+
+  
+
+Art. 3º. Para fazer face às despesas do artigo 2º, fica o Executivo Municipal autorizado a utilizar anulação, por decreto, conforme disposto no inciso 
+
+III do §1° do art. 43 da Lei Federal n° 4.320/64, no valor de R$11.250.190,00 (onze milhões, duzentos e cinquenta mil, cento e noventa reais) das 
+
+seguintes dotações: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02 01 001 04 122 0114 2100 1500 Remuneração do Pessoal do Gabinete da Prefeita 3 31901600 4.000,00 
+
+02 01 001 04 122 0114 2100 1500 Remuneração do Pessoal do Gabinete da Prefeita 4 31909200 15.190,00 
+
+02 001 001 04 122 0117 2102 1500 Manutenção da Frota do Gabinete da Prefeita 8 44905200 80.000,00 
+
+02 001 001 04 122 0119 1100 1500 Implementação da Eficiência Administrativa 10 44905200 40.000,00 
+
+02 001 001 04 122 0119 2101 1500 Manutenção das Atividades do Gabinete da Prefeita 12 33504300 5.000,00 
+
+02 001 001 04 122 0119 2101 1500 Manutenção das Atividades do Gabinete da Prefeita 16 33903600 3.000,00 
+
+02 001 001 04 122 0119 2101 1500 Manutenção das Atividades do Gabinete da Prefeita 18 33904700 7.000,00 
+
+02 001 001 04 122 0119 2101 1500 Manutenção das Atividades do Gabinete da Prefeita 19 33909100 6.000,00 
+
+02 001 001 04 122 0119 2101 1500 Manutenção das Atividades do Gabinete da Prefeita 20 33909200 7.000,00 
+
+02 001 001 28 845 0121 2104 1500 Contribuições a Entidades Institucionais 26 33504300 5.000,00 
+
+02 001 002 04 122 0114 2105 1500 Remuneração do Pessoal da Secretaria Executiva 29 31901600 4.000,00 
+
+02 001 002 04 122 0119 2106 1500 Manutenção das Atividades da Secretaria Executiva 31 33903600 7.000,00 
+
+02 001 003 04 122 0119 2108 1500 Manutenção das Atividades do Controle Interno 37 33903600 5.000,00 
+
+02 001 003 04 122 0119 2108 1500 Manutenção das Atividades do Controle Interno 39 44905200 5.000,00 
+
+02 001 004 02 122 0114 2109 1500 Remuneração do Pessoal da Assessoria Jurídica 49 31901100 7.000,00 
+
+02 001 004 02 122 0114 2109 1500 Remuneração do Pessoal da Assessoria Jurídica 50 31901300 7.000,00 
+
+02 001 004 02 12
+20-Julho-2023
+SÃO GOTARDO
+A DE CRÉDITO SUPLEMENTAR AO ORÇAMENTO GERAL DO MUNICÍPIO DE SÃO 
+
+GOTARDO, EM FAVOR DA SECRETARIA MUNICIPAL DE EDUCAÇÃO E DÁ OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O Povo do Município de São Gotardo, através de seus representantes, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei: 
+
+  
+
+Art. 1o. Fica o Executivo Municipal autorizado a realizar remanejamento e a abrir Crédito Suplementar ao Orçamento Geral do Município no valor 
+
+de R$425.000,00 (quatrocentos e vinte e cinco mil reais), em favor da Secretaria Municipal de Educação, com a finalidade de cobrir despesas 
+
+diversas, conforme disposto nos artigos 40 a 43 da Lei Nº4.320/64. 
+
+  
+
+Art. 2º. A natureza da despesa e fonte no valor constante do artigo 1º será incorporada na seguinte dotação orçamentária: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.03.02.12.361.0108.2165 1500 Manutenção do Ensino da Educação Básica 288 33903900 70.000,00 
+
+02.03.02.12.361.0108.2238 1550 Manutenção das Ações do QESE 294 44905200 82.000,00 
+
+02.03.01 12 122 0117 2158 1500 Manutenção da Frota do Ensino 218 44905200 83.000,00 
+
+02.03.01 12 122 0117 2158 1571 Manutenção da Frota do Ensino 218 44905200 190.000,00 
+
+  T O T A L 425.000,00 
+
+  
+
+Parágrafo único. Fica o Poder Executivo autorizado promover as alterações necessárias para compatibilização ao PPA e LDO, nos termos do art. 
+
+16, § 1º, incisos I e II da Lei Complementar nº. 101/00. 
+
+  
+
+Art. 3º. Para fazer face às despesas do artigo 2º, fica o Executivo Municipal autorizado a utilizar anulação, por decreto, conforme disposto no inciso 
+
+III do §1° do art. 43 da Lei Federal n° 4.320/64, no valor de R$425.000,00 (quatrocentos e vinte e cinco mil reais), das seguintes dotações: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.03.02.12.366.0108.2430 1500 Remuneração do Pessoal do EJA 349 31.90.11.00 58.000,00 
+
+02.03.02.12.366.0108.2737 1500 Manutenção Capacitação Primeiro Socorros Ens EJA 354 33.90.36.00 2.000,00 
+
+02.03.02.12.366.0108.2737 1500 Manutenção Capacitação Primeiro Socorros Ens EJA 355 33.90.39.00 2.000,00 
+
+02.03.02.12.366.0108.2737 1500 Manutenção Capacitação Primeiro Socorros Ens EJA 356 44.90.52.00 2.000,00 
+
+02.03.02.12.367.0108.2738 1500 Manutenção Capacitação Primeiro Socorros Ensino Especial 366 33.90.36.00 2.000,00 
+
+02.03.02.12.367.0108.2738 1500 Manutenção Capacitação Primeiro Socorros Ensino Especial 367 33.90.39.00 2.000,00 
+
+02.03.02.12.367.0108.2738 1500 Manutenção Capacitação Primeiro Socorros Ensino Especial 368 44.90.52.00 2.000,00 
+
+02.03.02.12.361.0108.2238 1550 Manutenção das Ações do QESE 292 33.90.3.900 82.000,00 
+
+02.03.02.12.365.0108.1116 1571 
+Implantar Laboratórios de Informática nas Unidades de Educação 
+
+Infantil 
+313 44905200 100.000,00 
+
+02.03.02.12.365.0108.1506 1571 Implantar Áreas Recreativas e Cultural Unid de Ens Infantil 322 44905200 90.000,00 
+
+02.03.01.12.122.0119.2151 1500 Manutenção das Atividades da Administração da Educação 230 33904700 60.000,00 
+
+02.03.02.12.365.0108.2160 1500 Apoio e Manutenção de Creches 327 33504100 23.000,00 
+
+  T O T A L 425.000,00 
+
+  
+
+Art. 4º. Esta Lei entra em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de São Gotardo, 18 de julho de 2023. 
+
+  
+
+DENISE ABADIA PEREIRA OLIVEIRA 
+Prefeita Municipal 
+
+Publicado por: 
+Aline Gabriele Rodrigues 
+
+Código Identificador:52596248 
+
+ 
+SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO, FAZENDA E PLANEJAMENTO 
+
+LEI N° 2674 DE 18 DE JULHO DE 2023 
+
+ 
+
+AUTORIZA A ABERTURA DE CRÉDITO SUPLEMENTAR AO ORÇAMENTO GERAL DO MUNICÍPIO DE SÃO 
+
+GOTARDO, EM FAVOR DA SECRETARIA MUNICIPAL DE DESENVOLVIMENTO URBANO E DÁ OUTRAS 
+
+PROVIDÊNCIAS. 
+
+  
+
+O Povo do Município de São Gotardo, através de seus representantes, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei: 
+
+  
+
+Art. 1o. Fica o Executivo Municipal autorizado a realizar remanejamento e a abrir Crédito Suplementar ao Orçamento Geral do Município no valor 
+
+de R$1.092.222,84 (um milhão, noventa e dois mil, duzentos e vinte e dois reais e oitenta e quatro centavos), para cobrir despesas da Secretaria 
+
+Municipal de Desenvolvimento Urbano do Município de São Gotardo/MG, conforme disposto nos artigos 40 a 43 da Lei Nº4.320/64. 
+
+  
+
+Art. 2º. A natureza da despesa e fonte no valor constante do artigo 1º será incorporada na seguinte dotação orçamentária: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+
+
+Minas Gerais , 20 de Julho de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3562 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              307 
+
+ 
+
+02.05.02.26.782.0102.1122  1500 Manutenção e Melhoria das Estradas Vicinais e Rurais 560 33.90.39.00 1.092.222,84 
+
+T O T A L 1.092.222,84 
+
+  
+
+Parágrafo único. Fica o Poder Executivo autorizado promover as alterações necessárias para compatibilização ao PPA e LDO, nos termos do art. 
+
+16, § 1º, incisos I e II da Lei Complementar nº. 101/00. 
+
+  
+
+Art. 3º. Para fazer face às despesas do artigo 2º, fica o Executivo Municipal autorizado a utilizar anulação, por decreto, conforme disposto no inciso 
+
+III do §1° do art. 43 da Lei Federal n° 4.320/64, no valor de R$1.092.222,84 (um milhão, noventa e dois mil, duzentos e vinte e dois reais e 
+
+oitenta e quatro centavos), das seguintes dotações: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.05.01.15.451.0103.1156 
+
+  
+1500 
+
+Pavimentação, Estruturação, Vias Públicas existentes e a serem 
+
+construída 
+524 44.90.51.00 200.000,00 
+
+02.05.01.15.451.0103.1163 1500 Construção, Ampliação e Reforma de Praças 533 44.90.51.00 92.222,84 
+
+02.05.01.17.512.0104.1171 1500 Construção de Sistema de Drenagens Pluviais em Vias Urbanas 552 44.90.51.00 350.00,00 
+
+02.05.02.26.782.0102.1122 1500 Manutenção e Melhoria das Estradas Vicinais e Rurais 558 33.90.30.00 450.000,00 
+
+T O T A L 1.092.222,84 
+
+  
+
+Art. 4º. Esta Lei entra em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de São Gotardo, 18 de julho de 2023. 
+
+  
+
+DENISE ABADIA PEREIRA OLIVEIRA 
+
+Prefeita Municipal 
+
+Publicado por: 
+Aline Gabriele Rodrigues 
+
+Código Identificador:28374C8B 
+
+ 
+SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO, FAZENDA E PLANEJAMENTO 
+
+LEI N° 2675 DE 18 DE JULHO DE 2023 
+
+ 
+
+AUTORIZA A ABERTURA DE CRÉDITO SUPLEMENTAR AO ORÇAMENTO GERAL DO MUNICÍPIO DE SÃO 
+
+GOTARDO, EM FAVOR DA SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO SUSTENTÁVEL E DÁ 
+
+OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O Povo do Município de São Gotardo, através de seus representantes, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei: 
+
+  
+
+Art. 1o. Fica o Executivo Municipal autorizado a realizar remanejamento e a abrir Crédito Suplementar ao Orçamento Geral do Município no valor 
+
+de R$218.000,00 (duzentos e dezoito mil reais), para cobrir despesas da Secretaria Municipal de Desenvolvimento Econômico Sustentável do 
+
+município de São Gotardo/MG, conforme disposto nos artigos 40 a 43 da Lei Nº4.320/64. 
+
+  
+
+Art. 2º. A natureza da despesa e fonte no valor constante do artigo 1º será incorporada na seguinte dotação orçamentária: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.06.01.20.122.0119.2209  1500 
+Manutenção das Atividades da Secretaria Municipal de Desen. 
+
+Econômico 
+658 33.90.39.00 42.000,00 
+
+02.06.01.20.122.0119.2209  1708 
+Manutenção das Atividades da Secretaria Municipal de Desen. 
+
+Econômico 
+658 33.90.39.00 176.000,00 
+
+T O T A L 218.000,00 
+
+  
+
+Parágrafo único. Fica o Poder Executivo autorizado promover as alterações necessárias para compatibilização ao PPA e LDO, nos termos do art. 
+
+16, § 1º, incisos I e II da Lei Complementar nº. 101/00. 
+
+  
+
+Art. 3º. Para fazer face às despesas do artigo 2º, fica o Executivo Municipal autorizado a utilizar anulação, por decreto, conforme disposto no inciso 
+
+III do §1° do art. 43 da Lei Federal n° 4.320/64, no valor de R$218.000,00 (duzentos e dezoito mil reais), das seguintes dotações: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.06.01.18.541.0105.2405  1500 Revitalização de Córregos e Rios 633 33.90.39.00 20.000,00 
+
+02.06.01.18.541.0105.2
+20-Julho-2023
+SÃO GOTARDO
+brir Crédito Suplementar ao Orçamento Geral do Município no valor 
+
+de R$425.000,00 (quatrocentos e vinte e cinco mil reais), em favor da Secretaria Municipal de Educação, com a finalidade de cobrir despesas 
+
+diversas, conforme disposto nos artigos 40 a 43 da Lei Nº4.320/64. 
+
+  
+
+Art. 2º. A natureza da despesa e fonte no valor constante do artigo 1º será incorporada na seguinte dotação orçamentária: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.03.02.12.361.0108.2165 1500 Manutenção do Ensino da Educação Básica 288 33903900 70.000,00 
+
+02.03.02.12.361.0108.2238 1550 Manutenção das Ações do QESE 294 44905200 82.000,00 
+
+02.03.01 12 122 0117 2158 1500 Manutenção da Frota do Ensino 218 44905200 83.000,00 
+
+02.03.01 12 122 0117 2158 1571 Manutenção da Frota do Ensino 218 44905200 190.000,00 
+
+  T O T A L 425.000,00 
+
+  
+
+Parágrafo único. Fica o Poder Executivo autorizado promover as alterações necessárias para compatibilização ao PPA e LDO, nos termos do art. 
+
+16, § 1º, incisos I e II da Lei Complementar nº. 101/00. 
+
+  
+
+Art. 3º. Para fazer face às despesas do artigo 2º, fica o Executivo Municipal autorizado a utilizar anulação, por decreto, conforme disposto no inciso 
+
+III do §1° do art. 43 da Lei Federal n° 4.320/64, no valor de R$425.000,00 (quatrocentos e vinte e cinco mil reais), das seguintes dotações: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.03.02.12.366.0108.2430 1500 Remuneração do Pessoal do EJA 349 31.90.11.00 58.000,00 
+
+02.03.02.12.366.0108.2737 1500 Manutenção Capacitação Primeiro Socorros Ens EJA 354 33.90.36.00 2.000,00 
+
+02.03.02.12.366.0108.2737 1500 Manutenção Capacitação Primeiro Socorros Ens EJA 355 33.90.39.00 2.000,00 
+
+02.03.02.12.366.0108.2737 1500 Manutenção Capacitação Primeiro Socorros Ens EJA 356 44.90.52.00 2.000,00 
+
+02.03.02.12.367.0108.2738 1500 Manutenção Capacitação Primeiro Socorros Ensino Especial 366 33.90.36.00 2.000,00 
+
+02.03.02.12.367.0108.2738 1500 Manutenção Capacitação Primeiro Socorros Ensino Especial 367 33.90.39.00 2.000,00 
+
+02.03.02.12.367.0108.2738 1500 Manutenção Capacitação Primeiro Socorros Ensino Especial 368 44.90.52.00 2.000,00 
+
+02.03.02.12.361.0108.2238 1550 Manutenção das Ações do QESE 292 33.90.3.900 82.000,00 
+
+02.03.02.12.365.0108.1116 1571 
+Implantar Laboratórios de Informática nas Unidades de Educação 
+
+Infantil 
+313 44905200 100.000,00 
+
+02.03.02.12.365.0108.1506 1571 Implantar Áreas Recreativas e Cultural Unid de Ens Infantil 322 44905200 90.000,00 
+
+02.03.01.12.122.0119.2151 1500 Manutenção das Atividades da Administração da Educação 230 33904700 60.000,00 
+
+02.03.02.12.365.0108.2160 1500 Apoio e Manutenção de Creches 327 33504100 23.000,00 
+
+  T O T A L 425.000,00 
+
+  
+
+Art. 4º. Esta Lei entra em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de São Gotardo, 18 de julho de 2023. 
+
+  
+
+DENISE ABADIA PEREIRA OLIVEIRA 
+Prefeita Municipal 
+
+Publicado por: 
+Aline Gabriele Rodrigues 
+
+Código Identificador:52596248 
+
+ 
+SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO, FAZENDA E PLANEJAMENTO 
+
+LEI N° 2674 DE 18 DE JULHO DE 2023 
+
+ 
+
+AUTORIZA A ABERTURA DE CRÉDITO SUPLEMENTAR AO ORÇAMENTO GERAL DO MUNICÍPIO DE SÃO 
+
+GOTARDO, EM FAVOR DA SECRETARIA MUNICIPAL DE DESENVOLVIMENTO URBANO E DÁ OUTRAS 
+
+PROVIDÊNCIAS. 
+
+  
+
+O Povo do Município de São Gotardo, através de seus representantes, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei: 
+
+  
+
+Art. 1o. Fica o Executivo Municipal autorizado a realizar remanejamento e a abrir Crédito Suplementar ao Orçamento Geral do Município no valor 
+
+de R$1.092.222,84 (um milhão, noventa e dois mil, duzentos e vinte e dois reais e oitenta e quatro centavos), para cobrir despesas da Secretaria 
+
+Municipal de Desenvolvimento Urbano do Município de São Gotardo/MG, conforme disposto nos artigos 40 a 43 da Lei Nº4.320/64. 
+
+  
+
+Art. 2º. A natureza da despesa e fonte no valor constante do artigo 1º será incorporada na seguinte dotação orçamentária: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+
+
+Minas Gerais , 20 de Julho de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3562 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              307 
+
+ 
+
+02.05.02.26.782.0102.1122  1500 Manutenção e Melhoria das Estradas Vicinais e Rurais 560 33.90.39.00 1.092.222,84 
+
+T O T A L 1.092.222,84 
+
+  
+
+Parágrafo único. Fica o Poder Executivo autorizado promover as alterações necessárias para compatibilização ao PPA e LDO, nos termos do art. 
+
+16, § 1º, incisos I e II da Lei Complementar nº. 101/00. 
+
+  
+
+Art. 3º. Para fazer face às despesas do artigo 2º, fica o Executivo Municipal autorizado a utilizar anulação, por decreto, conforme disposto no inciso 
+
+III do §1° do art. 43 da Lei Federal n° 4.320/64, no valor de R$1.092.222,84 (um milhão, noventa e dois mil, duzentos e vinte e dois reais e 
+
+oitenta e quatro centavos), das seguintes dotações: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.05.01.15.451.0103.1156 
+
+  
+1500 
+
+Pavimentação, Estruturação, Vias Públicas existentes e a serem 
+
+construída 
+524 44.90.51.00 200.000,00 
+
+02.05.01.15.451.0103.1163 1500 Construção, Ampliação e Reforma de Praças 533 44.90.51.00 92.222,84 
+
+02.05.01.17.512.0104.1171 1500 Construção de Sistema de Drenagens Pluviais em Vias Urbanas 552 44.90.51.00 350.00,00 
+
+02.05.02.26.782.0102.1122 1500 Manutenção e Melhoria das Estradas Vicinais e Rurais 558 33.90.30.00 450.000,00 
+
+T O T A L 1.092.222,84 
+
+  
+
+Art. 4º. Esta Lei entra em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de São Gotardo, 18 de julho de 2023. 
+
+  
+
+DENISE ABADIA PEREIRA OLIVEIRA 
+
+Prefeita Municipal 
+
+Publicado por: 
+Aline Gabriele Rodrigues 
+
+Código Identificador:28374C8B 
+
+ 
+SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO, FAZENDA E PLANEJAMENTO 
+
+LEI N° 2675 DE 18 DE JULHO DE 2023 
+
+ 
+
+AUTORIZA A ABERTURA DE CRÉDITO SUPLEMENTAR AO ORÇAMENTO GERAL DO MUNICÍPIO DE SÃO 
+
+GOTARDO, EM FAVOR DA SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO SUSTENTÁVEL E DÁ 
+
+OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O Povo do Município de São Gotardo, através de seus representantes, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei: 
+
+  
+
+Art. 1o. Fica o Executivo Municipal autorizado a realizar remanejamento e a abrir Crédito Suplementar ao Orçamento Geral do Município no valor 
+
+de R$218.000,00 (duzentos e dezoito mil reais), para cobrir despesas da Secretaria Municipal de Desenvolvimento Econômico Sustentável do 
+
+município de São Gotardo/MG, conforme disposto nos artigos 40 a 43 da Lei Nº4.320/64. 
+
+  
+
+Art. 2º. A natureza da despesa e fonte no valor constante do artigo 1º será incorporada na seguinte dotação orçamentária: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.06.01.20.122.0119.2209  1500 
+Manutenção das Atividades da Secretaria Municipal de Desen. 
+
+Econômico 
+658 33.90.39.00 42.000,00 
+
+02.06.01.20.122.0119.2209  1708 
+Manutenção das Atividades da Secretaria Municipal de Desen. 
+
+Econômico 
+658 33.90.39.00 176.000,00 
+
+T O T A L 218.000,00 
+
+  
+
+Parágrafo único. Fica o Poder Executivo autorizado promover as alterações necessárias para compatibilização ao PPA e LDO, nos termos do art. 
+
+16, § 1º, incisos I e II da Lei Complementar nº. 101/00. 
+
+  
+
+Art. 3º. Para fazer face às despesas do artigo 2º, fica o Executivo Municipal autorizado a utilizar anulação, por decreto, conforme disposto no inciso 
+
+III do §1° do art. 43 da Lei Federal n° 4.320/64, no valor de R$218.000,00 (duzentos e dezoito mil reais), das seguintes dotações: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.06.01.18.541.0105.2405  1500 Revitalização de Córregos e Rios 633 33.90.39.00 20.000,00 
+
+02.06.01.18.541.0105.2405 1500 Revitalização de Córregos e Rios 634 44.90.51.00 22.000,00 
+
+02.06.01.18.541.0105.2215 1708 Manutenção e Ampliação do Viveiro e Horta Municipal 630 44.90.51.00 176.000,00 
+
+T O T A L 218.000,00 
+
+  
+
+Art. 4º. Esta Lei entra em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de São Gotardo, 18 de julho de 2023. 
+
+  
+
+DENISE ABADIA PEREIRA O
+20-Julho-2023
+SÃO GOTARDO
+A DE CRÉDITO SUPLEMENTAR AO ORÇAMENTO GERAL DO MUNICÍPIO DE SÃO 
+
+GOTARDO, EM FAVOR DA SECRETARIA MUNICIPAL DE DESENVOLVIMENTO URBANO E DÁ OUTRAS 
+
+PROVIDÊNCIAS. 
+
+  
+
+O Povo do Município de São Gotardo, através de seus representantes, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei: 
+
+  
+
+Art. 1o. Fica o Executivo Municipal autorizado a realizar remanejamento e a abrir Crédito Suplementar ao Orçamento Geral do Município no valor 
+
+de R$1.092.222,84 (um milhão, noventa e dois mil, duzentos e vinte e dois reais e oitenta e quatro centavos), para cobrir despesas da Secretaria 
+
+Municipal de Desenvolvimento Urbano do Município de São Gotardo/MG, conforme disposto nos artigos 40 a 43 da Lei Nº4.320/64. 
+
+  
+
+Art. 2º. A natureza da despesa e fonte no valor constante do artigo 1º será incorporada na seguinte dotação orçamentária: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+
+
+Minas Gerais , 20 de Julho de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3562 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              307 
+
+ 
+
+02.05.02.26.782.0102.1122  1500 Manutenção e Melhoria das Estradas Vicinais e Rurais 560 33.90.39.00 1.092.222,84 
+
+T O T A L 1.092.222,84 
+
+  
+
+Parágrafo único. Fica o Poder Executivo autorizado promover as alterações necessárias para compatibilização ao PPA e LDO, nos termos do art. 
+
+16, § 1º, incisos I e II da Lei Complementar nº. 101/00. 
+
+  
+
+Art. 3º. Para fazer face às despesas do artigo 2º, fica o Executivo Municipal autorizado a utilizar anulação, por decreto, conforme disposto no inciso 
+
+III do §1° do art. 43 da Lei Federal n° 4.320/64, no valor de R$1.092.222,84 (um milhão, noventa e dois mil, duzentos e vinte e dois reais e 
+
+oitenta e quatro centavos), das seguintes dotações: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.05.01.15.451.0103.1156 
+
+  
+1500 
+
+Pavimentação, Estruturação, Vias Públicas existentes e a serem 
+
+construída 
+524 44.90.51.00 200.000,00 
+
+02.05.01.15.451.0103.1163 1500 Construção, Ampliação e Reforma de Praças 533 44.90.51.00 92.222,84 
+
+02.05.01.17.512.0104.1171 1500 Construção de Sistema de Drenagens Pluviais em Vias Urbanas 552 44.90.51.00 350.00,00 
+
+02.05.02.26.782.0102.1122 1500 Manutenção e Melhoria das Estradas Vicinais e Rurais 558 33.90.30.00 450.000,00 
+
+T O T A L 1.092.222,84 
+
+  
+
+Art. 4º. Esta Lei entra em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de São Gotardo, 18 de julho de 2023. 
+
+  
+
+DENISE ABADIA PEREIRA OLIVEIRA 
+
+Prefeita Municipal 
+
+Publicado por: 
+Aline Gabriele Rodrigues 
+
+Código Identificador:28374C8B 
+
+ 
+SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO, FAZENDA E PLANEJAMENTO 
+
+LEI N° 2675 DE 18 DE JULHO DE 2023 
+
+ 
+
+AUTORIZA A ABERTURA DE CRÉDITO SUPLEMENTAR AO ORÇAMENTO GERAL DO MUNICÍPIO DE SÃO 
+
+GOTARDO, EM FAVOR DA SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO SUSTENTÁVEL E DÁ 
+
+OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O Povo do Município de São Gotardo, através de seus representantes, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei: 
+
+  
+
+Art. 1o. Fica o Executivo Municipal autorizado a realizar remanejamento e a abrir Crédito Suplementar ao Orçamento Geral do Município no valor 
+
+de R$218.000,00 (duzentos e dezoito mil reais), para cobrir despesas da Secretaria Municipal de Desenvolvimento Econômico Sustentável do 
+
+município de São Gotardo/MG, conforme disposto nos artigos 40 a 43 da Lei Nº4.320/64. 
+
+  
+
+Art. 2º. A natureza da despesa e fonte no valor constante do artigo 1º será incorporada na seguinte dotação orçamentária: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.06.01.20.122.0119.2209  1500 
+Manutenção das Atividades da Secretaria Municipal de Desen. 
+
+Econômico 
+658 33.90.39.00 42.000,00 
+
+02.06.01.20.122.0119.2209  1708 
+Manutenção das Atividades da Secretaria Municipal de Desen. 
+
+Econômico 
+658 33.90.39.00 176.000,00 
+
+T O T A L 218.000,00 
+
+  
+
+Parágrafo único. Fica o Poder Executivo autorizado promover as alterações necessárias para compatibilização ao PPA e LDO, nos termos do art. 
+
+16, § 1º, incisos I e II da Lei Complementar nº. 101/00. 
+
+  
+
+Art. 3º. Para fazer face às despesas do artigo 2º, fica o Executivo Municipal autorizado a utilizar anulação, por decreto, conforme disposto no inciso 
+
+III do §1° do art. 43 da Lei Federal n° 4.320/64, no valor de R$218.000,00 (duzentos e dezoito mil reais), das seguintes dotações: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.06.01.18.541.0105.2405  1500 Revitalização de Córregos e Rios 633 33.90.39.00 20.000,00 
+
+02.06.01.18.541.0105.2405 1500 Revitalização de Córregos e Rios 634 44.90.51.00 22.000,00 
+
+02.06.01.18.541.0105.2215 1708 Manutenção e Ampliação do Viveiro e Horta Municipal 630 44.90.51.00 176.000,00 
+
+T O T A L 218.000,00 
+
+  
+
+Art. 4º. Esta Lei entra em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de São Gotardo, 18 de julho de 2023. 
+
+  
+
+DENISE ABADIA PEREIRA OLIVEIRA 
+Prefeita Municipal 
+
+Publicado por: 
+Aline Gabriele Rodrigues 
+
+Código Identificador:E87642E9 
+
+ 
+
+ESTADO DE MINAS GERAIS
+20-Julho-2023
+SÃO GOTARDO
+brir Crédito Suplementar ao Orçamento Geral do Município no valor 
+
+de R$1.092.222,84 (um milhão, noventa e dois mil, duzentos e vinte e dois reais e oitenta e quatro centavos), para cobrir despesas da Secretaria 
+
+Municipal de Desenvolvimento Urbano do Município de São Gotardo/MG, conforme disposto nos artigos 40 a 43 da Lei Nº4.320/64. 
+
+  
+
+Art. 2º. A natureza da despesa e fonte no valor constante do artigo 1º será incorporada na seguinte dotação orçamentária: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+
+
+Minas Gerais , 20 de Julho de 2023   •   Diário Oficial dos Municípios Mineiros   •    ANO XV | Nº 3562 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              307 
+
+ 
+
+02.05.02.26.782.0102.1122  1500 Manutenção e Melhoria das Estradas Vicinais e Rurais 560 33.90.39.00 1.092.222,84 
+
+T O T A L 1.092.222,84 
+
+  
+
+Parágrafo único. Fica o Poder Executivo autorizado promover as alterações necessárias para compatibilização ao PPA e LDO, nos termos do art. 
+
+16, § 1º, incisos I e II da Lei Complementar nº. 101/00. 
+
+  
+
+Art. 3º. Para fazer face às despesas do artigo 2º, fica o Executivo Municipal autorizado a utilizar anulação, por decreto, conforme disposto no inciso 
+
+III do §1° do art. 43 da Lei Federal n° 4.320/64, no valor de R$1.092.222,84 (um milhão, noventa e dois mil, duzentos e vinte e dois reais e 
+
+oitenta e quatro centavos), das seguintes dotações: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.05.01.15.451.0103.1156 
+
+  
+1500 
+
+Pavimentação, Estruturação, Vias Públicas existentes e a serem 
+
+construída 
+524 44.90.51.00 200.000,00 
+
+02.05.01.15.451.0103.1163 1500 Construção, Ampliação e Reforma de Praças 533 44.90.51.00 92.222,84 
+
+02.05.01.17.512.0104.1171 1500 Construção de Sistema de Drenagens Pluviais em Vias Urbanas 552 44.90.51.00 350.00,00 
+
+02.05.02.26.782.0102.1122 1500 Manutenção e Melhoria das Estradas Vicinais e Rurais 558 33.90.30.00 450.000,00 
+
+T O T A L 1.092.222,84 
+
+  
+
+Art. 4º. Esta Lei entra em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de São Gotardo, 18 de julho de 2023. 
+
+  
+
+DENISE ABADIA PEREIRA OLIVEIRA 
+
+Prefeita Municipal 
+
+Publicado por: 
+Aline Gabriele Rodrigues 
+
+Código Identificador:28374C8B 
+
+ 
+SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO, FAZENDA E PLANEJAMENTO 
+
+LEI N° 2675 DE 18 DE JULHO DE 2023 
+
+ 
+
+AUTORIZA A ABERTURA DE CRÉDITO SUPLEMENTAR AO ORÇAMENTO GERAL DO MUNICÍPIO DE SÃO 
+
+GOTARDO, EM FAVOR DA SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO SUSTENTÁVEL E DÁ 
+
+OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O Povo do Município de São Gotardo, através de seus representantes, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei: 
+
+  
+
+Art. 1o. Fica o Executivo Municipal autorizado a realizar remanejamento e a abrir Crédito Suplementar ao Orçamento Geral do Município no valor 
+
+de R$218.000,00 (duzentos e dezoito mil reais), para cobrir despesas da Secretaria Municipal de Desenvolvimento Econômico Sustentável do 
+
+município de São Gotardo/MG, conforme disposto nos artigos 40 a 43 da Lei Nº4.320/64. 
+
+  
+
+Art. 2º. A natureza da despesa e fonte no valor constante do artigo 1º será incorporada na seguinte dotação orçamentária: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.06.01.20.122.0119.2209  1500 
+Manutenção das Atividades da Secretaria Municipal de Desen. 
+
+Econômico 
+658 33.90.39.00 42.000,00 
+
+02.06.01.20.122.0119.2209  1708 
+Manutenção das Atividades da Secretaria Municipal de Desen. 
+
+Econômico 
+658 33.90.39.00 176.000,00 
+
+T O T A L 218.000,00 
+
+  
+
+Parágrafo único. Fica o Poder Executivo autorizado promover as alterações necessárias para compatibilização ao PPA e LDO, nos termos do art. 
+
+16, § 1º, incisos I e II da Lei Complementar nº. 101/00. 
+
+  
+
+Art. 3º. Para fazer face às despesas do artigo 2º, fica o Executivo Municipal autorizado a utilizar anulação, por decreto, conforme disposto no inciso 
+
+III do §1° do art. 43 da Lei Federal n° 4.320/64, no valor de R$218.000,00 (duzentos e dezoito mil reais), das seguintes dotações: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.06.01.18.541.0105.2405  1500 Revitalização de Córregos e Rios 633 33.90.39.00 20.000,00 
+
+02.06.01.18.541.0105.2405 1500 Revitalização de Córregos e Rios 634 44.90.51.00 22.000,00 
+
+02.06.01.18.541.0105.2215 1708 Manutenção e Ampliação do Viveiro e Horta Municipal 630 44.90.51.00 176.000,00 
+
+T O T A L 218.000,00 
+
+  
+
+Art. 4º. Esta Lei entra em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de São Gotardo, 18 de julho de 2023. 
+
+  
+
+DENISE ABADIA PEREIRA OLIVEIRA 
+Prefeita Municipal 
+
+Publicado por: 
+Aline Gabriele Rodrigues 
+
+Código Identificador:E87642E9 
+
+ 
+
+ESTADO DE MINAS GERAIS
+20-Julho-2023
+SÃO GOTARDO
+A DE CRÉDITO SUPLEMENTAR AO ORÇAMENTO GERAL DO MUNICÍPIO DE SÃO 
+
+GOTARDO, EM FAVOR DA SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO SUSTENTÁVEL E DÁ 
+
+OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O Povo do Município de São Gotardo, através de seus representantes, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei: 
+
+  
+
+Art. 1o. Fica o Executivo Municipal autorizado a realizar remanejamento e a abrir Crédito Suplementar ao Orçamento Geral do Município no valor 
+
+de R$218.000,00 (duzentos e dezoito mil reais), para cobrir despesas da Secretaria Municipal de Desenvolvimento Econômico Sustentável do 
+
+município de São Gotardo/MG, conforme disposto nos artigos 40 a 43 da Lei Nº4.320/64. 
+
+  
+
+Art. 2º. A natureza da despesa e fonte no valor constante do artigo 1º será incorporada na seguinte dotação orçamentária: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.06.01.20.122.0119.2209  1500 
+Manutenção das Atividades da Secretaria Municipal de Desen. 
+
+Econômico 
+658 33.90.39.00 42.000,00 
+
+02.06.01.20.122.0119.2209  1708 
+Manutenção das Atividades da Secretaria Municipal de Desen. 
+
+Econômico 
+658 33.90.39.00 176.000,00 
+
+T O T A L 218.000,00 
+
+  
+
+Parágrafo único. Fica o Poder Executivo autorizado promover as alterações necessárias para compatibilização ao PPA e LDO, nos termos do art. 
+
+16, § 1º, incisos I e II da Lei Complementar nº. 101/00. 
+
+  
+
+Art. 3º. Para fazer face às despesas do artigo 2º, fica o Executivo Municipal autorizado a utilizar anulação, por decreto, conforme disposto no inciso 
+
+III do §1° do art. 43 da Lei Federal n° 4.320/64, no valor de R$218.000,00 (duzentos e dezoito mil reais), das seguintes dotações: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.06.01.18.541.0105.2405  1500 Revitalização de Córregos e Rios 633 33.90.39.00 20.000,00 
+
+02.06.01.18.541.0105.2405 1500 Revitalização de Córregos e Rios 634 44.90.51.00 22.000,00 
+
+02.06.01.18.541.0105.2215 1708 Manutenção e Ampliação do Viveiro e Horta Municipal 630 44.90.51.00 176.000,00 
+
+T O T A L 218.000,00 
+
+  
+
+Art. 4º. Esta Lei entra em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de São Gotardo, 18 de julho de 2023. 
+
+  
+
+DENISE ABADIA PEREIRA OLIVEIRA 
+Prefeita Municipal 
+
+Publicado por: 
+Aline Gabriele Rodrigues 
+
+Código Identificador:E87642E9 
+
+ 
+
+ESTADO DE MINAS GERAIS
+20-Julho-2023
+SÃO GOTARDO
+brir Crédito Suplementar ao Orçamento Geral do Município no valor 
+
+de R$218.000,00 (duzentos e dezoito mil reais), para cobrir despesas da Secretaria Municipal de Desenvolvimento Econômico Sustentável do 
+
+município de São Gotardo/MG, conforme disposto nos artigos 40 a 43 da Lei Nº4.320/64. 
+
+  
+
+Art. 2º. A natureza da despesa e fonte no valor constante do artigo 1º será incorporada na seguinte dotação orçamentária: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.06.01.20.122.0119.2209  1500 
+Manutenção das Atividades da Secretaria Municipal de Desen. 
+
+Econômico 
+658 33.90.39.00 42.000,00 
+
+02.06.01.20.122.0119.2209  1708 
+Manutenção das Atividades da Secretaria Municipal de Desen. 
+
+Econômico 
+658 33.90.39.00 176.000,00 
+
+T O T A L 218.000,00 
+
+  
+
+Parágrafo único. Fica o Poder Executivo autorizado promover as alterações necessárias para compatibilização ao PPA e LDO, nos termos do art. 
+
+16, § 1º, incisos I e II da Lei Complementar nº. 101/00. 
+
+  
+
+Art. 3º. Para fazer face às despesas do artigo 2º, fica o Executivo Municipal autorizado a utilizar anulação, por decreto, conforme disposto no inciso 
+
+III do §1° do art. 43 da Lei Federal n° 4.320/64, no valor de R$218.000,00 (duzentos e dezoito mil reais), das seguintes dotações: 
+
+  
+CÓDIGO FONTE PROGRAMAÇÃO FICHA NAT. VALOR 
+
+02.06.01.18.541.0105.2405  1500 Revitalização de Córregos e Rios 633 33.90.39.00 20.000,00 
+
+02.06.01.18.541.0105.2405 1500 Revitalização de Córregos e Rios 634 44.90.51.00 22.000,00 
+
+02.06.01.18.541.0105.2215 1708 Manutenção e Ampliação do Viveiro e Horta Municipal 630 44.90.51.00 176.000,00 
+
+T O T A L 218.000,00 
+
+  
+
+Art. 4º. Esta Lei entra em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de São Gotardo, 18 de julho de 2023. 
+
+  
+
+DENISE ABADIA PEREIRA OLIVEIRA 
+Prefeita Municipal 
+
+Publicado por: 
+Aline Gabriele Rodrigues 
+
+Código Identificador:E87642E9 
+
+ 
+
+ESTADO DE MINAS GERAIS

@@ -1,0 +1,291 @@
+06-Agosto-2018
+VISCONDE DO RIO
+to o Crédito Suplementar no valor total de R$ 
+10.553,00 (dez mil , quinhentos e cinquenta e três reais ), as seguintes 
+dotações orçamentárias: 
+  
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função....: 04 - ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$5.000,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$300,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.113 - MANUTENÇÃO TRATAMENTO FORA DO DOMICILIO - TFD 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$500,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa ..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$1.100,00 
+
+Subfunção.: 361 - ENSINO FUNDAMENTAL 
+
+Programa..: 0018 - TRANSPORTE ESCOLAR 
+
+Proj/Ativ.: 2.152 - MANUT. SERVIÇOS TRANSP. ESCOLAR REC. PRÓPRIO 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$3.653,00 
+
+  
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo 
+primeiro deste decreto fica anulado o valor de R$ 10.553,00 (dez mil , 
+quinhentos e cinquenta e três reais ), referente a anulação parcial ou 
+total das dotações abaixo relacionadas. 
+  
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função....: 04 - ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.93.00 - INDENIZAÇÕES E RESTITUIÇÕES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$5.000,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.93.00 - INDENIZAÇÕES E RESTITUIÇÕES 
+
+Fonte.....: 123 - TRANSFERENCIAS DE CONVENIOS - SAÚDE 
+
+Valor.....: R$300,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.113 - MANUTENÇÃO TRATAMENTO FORA DO DOMICILIO - TFD 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$500,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.92.00 - DESPESAS DE EXERCÍCIOS ANTERIORES 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$4.753,00 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto 
+em vigor na data de sua publicação. 
+  
+Prefeitura Municipal de VISCONDE DO RIO BRANCO, 31 de julho 
+de 2018 
+
+Publicado por: 
+Marileia Medeiros 
+
+Código Identificador:CE638B1B 
+ 
+
+DEPARTAMENTO DE LICITAÇÃO E CONTRATOS 
+AVISO DE RETIFICAÇÃO 
+
+ 
+AVISO DE RETIFICAÇÃO DE LICITAÇÃO – PREGÃO Nº 
+058/2018 – PROCESSO LICITATÓRIO Nº 093/2018 – A 
+Administração Municipal de Visconde do Rio Branco, através da sua 
+Pregoeira, torna público o edital de retificação do pregão presencial 
+em epígrafe, que tem por objeto a seleção de empresa(s) 
+especializada(s) no ramo para aquisição de material de consumo 
+destinado à manutenção das atividades do Laboratório Municipal. 
+(Ver maiores especificações no Edital de retificação) – Entrega de 
+propostas, documentações e credenciais até o dia 16 de agosto de 
+2018, ás 09:00, para a realização do certame, quando será dado início 
+aos trabalhos. Cópia do edital de retificação já se encontra disponível 
+para os interessados, à Praça 28 de Setembro, Centro, ou pelo site: 
+www.viscondedoriobranco.mg.gov.br. Informações pelo Tel: (32) 
+3559-1911. (Ass.) Flaviana Lima Teixeira – Pregoeira Oficial 
+ 
+
+Publicado por: 
+Flaviana Lima Teixeira 
+
+Código Identificador:0F62935A 
+ 
+
+ESTADO DE MINAS GERAIS
+06-Agosto-2018
+VISCONDE DO RIO
+a de Crédito Suplementar no artigo 
+primeiro deste decreto fica anulado o valor de R$ 10.553,00 (dez mil , 
+quinhentos e cinquenta e três reais ), referente a anulação parcial ou 
+total das dotações abaixo relacionadas. 
+  
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função....: 04 - ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.93.00 - INDENIZAÇÕES E RESTITUIÇÕES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$5.000,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.93.00 - INDENIZAÇÕES E RESTITUIÇÕES 
+
+Fonte.....: 123 - TRANSFERENCIAS DE CONVENIOS - SAÚDE 
+
+Valor.....: R$300,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.113 - MANUTENÇÃO TRATAMENTO FORA DO DOMICILIO - TFD 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$500,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.92.00 - DESPESAS DE EXERCÍCIOS ANTERIORES 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$4.753,00 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto 
+em vigor na data de sua publicação. 
+  
+Prefeitura Municipal de VISCONDE DO RIO BRANCO, 31 de julho 
+de 2018 
+
+Publicado por: 
+Marileia Medeiros 
+
+Código Identificador:CE638B1B 
+ 
+
+DEPARTAMENTO DE LICITAÇÃO E CONTRATOS 
+AVISO DE RETIFICAÇÃO 
+
+ 
+AVISO DE RETIFICAÇÃO DE LICITAÇÃO – PREGÃO Nº 
+058/2018 – PROCESSO LICITATÓRIO Nº 093/2018 – A 
+Administração Municipal de Visconde do Rio Branco, através da sua 
+Pregoeira, torna público o edital de retificação do pregão presencial 
+em epígrafe, que tem por objeto a seleção de empresa(s) 
+especializada(s) no ramo para aquisição de material de consumo 
+destinado à manutenção das atividades do Laboratório Municipal. 
+(Ver maiores especificações no Edital de retificação) – Entrega de 
+propostas, documentações e credenciais até o dia 16 de agosto de 
+2018, ás 09:00, para a realização do certame, quando será dado início 
+aos trabalhos. Cópia do edital de retificação já se encontra disponível 
+para os interessados, à Praça 28 de Setembro, Centro, ou pelo site: 
+www.viscondedoriobranco.mg.gov.br. Informações pelo Tel: (32) 
+3559-1911. (Ass.) Flaviana Lima Teixeira – Pregoeira Oficial 
+ 
+
+Publicado por: 
+Flaviana Lima Teixeira 
+
+Código Identificador:0F62935A 
+ 
+
+ESTADO DE MINAS GERAIS

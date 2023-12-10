@@ -1,0 +1,452 @@
+12-Agosto-2022
+JOÃO MONLEVADE
+ABRE CRÉDITO SUPLEMENTAR ÁS 
+
+DOTAÇÕES DO ORÇAMENTO VIGENTE DO 
+
+DEPARTAMENTO DE ÁGUAS E ESGOTO – 
+
+DAE. 
+
+  
+
+O Prefeito Municipal de JOÃO MONLEVADE, no uso das suas 
+
+atribuições legais, conferidas pelo art. 52, inciso VI, da Lei Orgânica 
+
+Municipal; Lei Municipal nº 0002431/2021, e art. 43º, § 1º, inciso III, 
+
+da Lei 4.320/1.964; 
+
+  
+
+DECRETA: 
+  
+
+Art. 1ºFica suplementado no orçamento da despesa prevista para o 
+
+exercício de 2022 a importância de R$ 465.521,19 (quatrocentos e 
+
+sessenta e cinco mil quinhentos e vinte e um reais e dezenove 
+
+centavos ), nas seguintes dotações: 
+
+  
+
+Ficha 0000007 
+
+Dotação 03001001.1712217012.116.33903600000 
+
+Órgão 03001 - DEPTO MUNICIPAL DE AGUAS E ESGOTOS 
+
+Unidade 001 - DIRETORIA 
+
+Função 17 - Saneamento 
+
+Subfunção 122 - Administração Geral 
+
+Programa 1701 - APOIO ADMINISTRATIVO - DAE 
+
+Projeto 2.116 - MANUTENÇÃO DAS ATIVIDADES 
+
+ADMINISTRATIVAS DA DIRETORIA 
+
+Elemento 33903600000 - Outros Serviços de Terceiros -Pessoa Física 
+
+Fonte 170 - Outros Recursos Não Vinculados 
+
+Valor 1.000,00 
+
+  
+
+Ficha 0000027 
+
+Dotação 03001002.1712217012.117.33909300000 
+
+Órgão 03001 - DEPTO MUNICIPAL DE AGUAS E ESGOTOS 
+
+Unidade 002 - DIVISAO ADMINISTRATIVA 
+
+Função 17 - Saneamento 
+
+Subfunção 122 - Administração Geral 
+
+Programa 1701 - APOIO ADMINISTRATIVO - DAE 
+
+Projeto 2.117 - MANUTENÇÃO DAS ATIVIDADES DA DIVISÃO 
+
+ADMINISTRATIVA 
+
+Elemento 33909300000 - Indenizações e Restituições 
+
+Fonte 170 - Outros Recursos Não Vinculados 
+
+Valor 87.471,00 
+
+  
+
+Ficha 0000041 
+
+Dotação 03001003.1712217012.119.33903900000 
+
+Órgão 03001 - DEPTO MUNICIPAL DE AGUAS E ESGOTOS 
+
+Unidade 003 - DIVISAO DE OPERAÇAO 
+
+Função 17 - Saneamento 
+
+Subfunção 122 - Administração Geral 
+
+Programa 1701 - APOIO ADMINISTRATIVO - DAE 
+
+Projeto 2.119 - MANUTENÇÃO DAS ATIVIDADES DA DIVISÃO 
+
+DE OPERAÇÃO 
+
+Elemento 33903900000 - Outros Serviços de Terceiros -Pessoa 
+
+Jurídica 
+
+Fonte 170 - Outros Recursos Não Vinculados 
+
+Valor 33.213,00 
+
+  
+
+Ficha 0000058 
+
+Dotação 03001003.1751217021.029.44903000000 
+
+Órgão 03001 - DEPTO MUNICIPAL DE AGUAS E ESGOTOS 
+
+Unidade 003 - DIVISAO DE OPERAÇAO 
+
+Função 17 - Saneamento 
+
+Subfunção 512 - Saneamento Básico Urbano 
+
+Programa 1702 - SANEAMENTO AMBIENTAL DE QUALIDADE 
+
+Projeto 1.029 - EXTENSÃO DE REDE COLETORA DE ESGOTOS 
+
+Elemento 44903000000 - Material de Consumo 
+
+Fonte 170 - Outros Recursos Não Vinculados 
+
+Valor 12.500,00 
+
+  
+
+Ficha 0000070 
+
+Dotação 03001003.1751217022.120.33903900000 
+
+Órgão 03001 - DEPTO MUNICIPAL DE AGUAS E ESGOTOS 
+
+Unidade 003 - DIVISAO DE OPERAÇAO 
+
+Função 17 - Saneamento 
+
+Subfunção 512 - Saneamento Básico Urbano 
+
+Programa 1702 - SANEAMENTO AMBIENTAL DE QUALIDADE 
+
+Projeto 2.120 - MANUTENÇÃO DO SISTEMA DE 
+
+ABASTECIMENTO DE ÁGUA (EAB-EAT - REDES - 
+
+RESERVATÓRIOS E RECALQUES) 
+
+Elemento 33903900000 - Outros Serviços de Terceiros -Pessoa 
+
+Jurídica 
+
+Fonte 170 - Outros Recursos Não Vinculados 
+
+Valor 6.081,00 
+
+  
+
+Ficha 0000071 
+
+Dotação 03001003.1751217022.120.44905200000 
+
+Órgão 03001 - DEPTO MUNICIPAL DE AGUAS E ESGOTOS 
+
+Unidade 003 - DIVISAO DE OPERAÇAO 
+
+Função 17 - Saneamento 
+
+Subfunção 512 - Saneamento Básico Urbano 
+
+Programa 1702 - SANEAMENTO AMBIENTAL DE QUALIDADE 
+
+Projeto 2.120 - MANUTENÇÃO DO SISTEMA DE 
+
+ABASTECIMENTO DE ÁGUA (EAB-EAT - REDES - 
+
+RESERVATÓRIOS E RECALQUES) 
+
+Elemento 44905200000 - Equipamentos e Material Permanente 
+
+Fonte 170 - Outros Recursos Não Vinculados 
+
+Valor 293.489,61 
+
+  
+
+Ficha 0000079 
+
+Dotação 03001003.1751217022.122.31909400000 
+
+Órgão 03001 - DEPTO MUNICIPAL DE AGUAS E ESGOTOS 
+
+Unidade 003 - DIVISAO DE OPERAÇAO 
+
+Função 17 - Saneamento 
+
+Subfunção 512 - Saneamento Básico Urbano 
+
+Programa 1702 - SANEAMENTO AMBIENTAL DE QUALIDADE 
+
+Projeto 2.122 - MANUTENÇÃO DO SISTEMA DE 
+
+ESGOTAMENTO SANITÁRIO ( REDE COLETORA - FOSSAS E 
+
+ETE's) 
+
+
+
+Minas Gerais , 12 de Agosto de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIV | Nº 3326 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              114 
+
+ 
+
+Elemento 31909400000 - Indenizações e Restituições Trabalhistas 
+
+Fonte 170 - Outros Recursos Não Vinculados 
+
+Valor 31.766,58 
+
+  
+
+Art. 2º Para a cobertura das suplementações relacionadas no artigo 
+
+anterior, serão utilizados os seguintes 
+
+recursos:Suplementação/Anulação Dotação: R$ 465.521,19 
+
+(quatrocentos e sessenta e cinco mil quinhentos e vinte e um reais e 
+
+dezenove centavos). 
+
+  
+
+Ficha 0000004 
+
+Dotação 03001001.1712217012.116.33901400000 
+
+Órgão 03001 - DEPTO MUNICIPAL DE AGUAS E ESGOTOS 
+
+Unidade 001 - DIRETORIA 
+
+Função 17 - Saneamento 
+
+Subfunção 122 - Administração Geral 
+
+Programa 1701 - APOIO ADMINISTRATIVO - DAE 
+
+Projeto 2.116 - MANUTENÇÃO DAS ATIVIDADES 
+
+ADMINISTRATIVAS DA DIRETORIA 
+
+Elemento 33901400000 - Diárias -Pessoal Civil 
+
+Fonte 170 - Outros Recursos Não Vinculados 
+
+Valor 1.000,00 
+
+  
+
+Ficha 0000013 
+
+Dotação 03001002.1712217012.117.31909100000 
+
+Órgão 03001 - DEPTO MUNICIPAL DE AGUAS E ESGOTOS 
+
+Unidade 002 - DIVISAO ADMINISTRATIVA 
+
+Função 17 - Saneamento 
+
+Subfunção 122 - Administração Geral 
+
+Programa 1701 - APOIO ADMINISTRATIVO - DAE 
+
+Projeto 2.117 - MANUTENÇÃO DAS ATIVIDADES DA DIVISÃO 
+
+ADMINISTRATIVA 
+
+Elemento 31909100000 - Sentenças Judiciais 
+
+Fonte 170 - Outros Recursos Não Vinculados 
+
+Valor 20.000,00 
+
+  
+
+Ficha 0000016 
+
+Dotação 03001002.1712217012.117.33903000000 
+
+Órgão 03001 - DEPTO MUNICIPAL DE AGUAS E ESGOTOS 
+
+Unidade 002 - DIVISAO ADMINISTRATIVA 
+
+Função 17 - Saneamento 
+
+Subfunção 122 - Administração Geral 
+
+Programa 1701 - APOIO ADMINISTRATIVO - DAE 
+
+Projeto 2.117 - MANUTENÇÃO DAS ATIVIDADES DA DIVISÃO 
+
+ADMINISTRATIVA 
+
+Elemento 33903000000 - Material de Consumo 
+
+Fonte 170 - Outros Recursos Não Vinculados 
+
+Valor 31.971,00 
+
+  
+
+Ficha 0000020 
+
+Dotação 03001002.1712217012.117.33903600000 
+
+Órgão 03001 - DEPTO MUNICIPAL DE AGUAS E ESGOTOS 
+
+Unidade 002 - DIVISAO ADMINISTRATIVA 
+
+Função 17 - Saneamento 
+
+Subfunção 122 - Administração Geral 
+
+Programa 1701 - APOIO ADMINISTRATIVO - DAE 
+
+Projeto 2.117 - MANUTENÇÃO DAS ATIVIDADES DA DIVISÃO 
+
+ADMINISTRATIVA 
+
+Elemento 33903600000 - Outros Serviços de Terceiros -Pessoa Física 
+
+Fonte 170 - Outros Recursos Não Vinculados 
+
+Valor 5.314,61 
+
+  
+
+Ficha 0000021 
+
+Dotação 03001002.1712217012.117.33903900000 
+
+Órgão 03001 - DEPTO MUNICIPAL DE AGUAS E ESGOTOS 
+
+Unidade 002 - DIVISAO ADMINISTRATIVA 
+
+Função 17 - Saneamento 
+
+Subfunção 122 - Administração Geral 
+
+Programa 1701 - APOIO ADMINISTRATIVO - DAE 
+
+Projeto 2.117 - MANUTENÇÃO DAS ATIVIDADES DA DIVISÃO 
+
+ADMINISTRATIVA 
+
+Elemento 33903900000 - Outros Serviços de Terceiros -Pessoa 
+
+Jurídica 
+
+Fonte 170 - Outros Recursos Não Vinculados 
+
+Valor 14.641,00 
+
+  
+
+Ficha 0000023 
+
+Dotação 03001002.1712217012.117.33904700000 
+
+Órgão 03001 - DEPTO MUNICIPAL DE AGUAS E ESGOTOS 
+
+Unidade 002 - DIVISAO ADMINISTRATIVA 
+
+Função 17 - Saneamento 
+
+Subfunção 122 - Administração Geral 
+
+Programa 1701 - APOIO ADMINISTRATIVO - DAE 
+
+Projeto 2.117 - MANUTENÇÃO DAS ATIVIDADES DA DIVISÃO 
+
+ADMINISTRATIVA 
+
+Elemento 33904700000 - Obrigações Tributárias e Contributivas 
+
+Fonte 170 - Outros Recursos Não Vinculados 
+
+Valor 10.000,00 
+
+  
+
+Ficha 0000036 
+
+Dotação 03001003.1712217012.119.33903000000 
+
+Órgão 03001 - DEPTO MUNICIPAL DE AGUAS E ESGOTOS 
+
+Unidade 003 - DIVISAO DE OPERAÇAO 
+
+Função 17 - Saneamento 
+
+Subfunção 122 - Administração Geral 
+
+Programa 1701 - APOIO ADMINISTRATIVO - DAE 
+
+Projeto 2.119 - MANUTENÇÃO DAS ATIVIDADES DA DIVISÃO 
+
+DE OPERAÇÃO 
+
+Elemento 33903000000 - Material de Consumo 
+
+Fonte 170 - Outros Recursos Não Vinculados 
+
+Valor 99.088,00 
+
+  
+
+Ficha 0000060 
+
+Dotação 03001003.1751217021.029.44905100000 
+
+Órgão 03001 - DEPTO MUNICIPAL DE AGUAS E ESGOTOS 
+
+Unidade 003 - DIVISAO DE OPERAÇAO 
+
+Função 17 - Saneamento 
+
+Subfunção 512 - Saneamento Básico Urbano 
+
+Programa 1702 - SANEAMENTO AMBIENTAL DE QUALIDADE 
+
+Projeto 1.029 - EXTENSÃO DE REDE COLETORA DE ESGOTOS 
+
+Elemento 44905100000 - Obras e Instalações 
+
+Fonte 170 - Outros Recursos Não Vinculados 
+
+

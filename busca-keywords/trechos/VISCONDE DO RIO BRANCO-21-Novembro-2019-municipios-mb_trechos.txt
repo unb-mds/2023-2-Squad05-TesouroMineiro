@@ -1,0 +1,667 @@
+21-Novembro-2019
+VISCONDE DO RIO BRANCO
+A DE CRÉDITO SUPLEMENTAR E DA OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O(A) Prefeito(a) Municipal de , Estado de Minas Gerais, no uso de suas atribuições legais, com base na Lei 14672018 12/12/2018 e art. 43 da Lei 
+
+Federal 4.320/64, decreta: 
+
+  
+
+Art. 1o. - Fica aberto o Crédito Suplementar no valor total de R$ 334.339,80 (trezentos e trinta e quatro mil , trezentos e trinta e nove reais e oitenta 
+
+centavos ), as seguintes dotações orçamentárias: 
+
+  
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.91.97.00 - APORTE P/ COBERTURA DÉFICIT ATUARIAL DO R 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$196.000,00 
+
+Unid. Orc.: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função....: 15- URBANISMO 
+
+Subfunção.: 451 - INFRA-ESTRUTURA URBANA 
+
+Programa..: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 2.043 - MANUTENÇÃO DOS SERVIÇOS DE MOBILIDADE URBANA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$11.000,00 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 157 - MULTAS DE TRANSITO 
+
+Valor.....: R$151,00 
+
+Proj/Ativ.: 2.044 - MANUTENÇÃO DOS SERVIÇOS DE LIMPEZA PÚBLICA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$2.400,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10- SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.107 - MANUTENÇÃO DAS ATIVIDADES NASF 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$4.000,00 
+
+Proj/Ativ.: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE 
+
+Valor.....: R$300,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.115 - MANUT. CENTRO DE ATENÇÃO PSICOSSOCIAL - CAPS 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$2.450,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12- EDUCACAO 
+
+Subfunção.: 361 - ENSINO FUNDAMENTAL 
+
+Programa..: 0018 - TRANSPORTE ESCOLAR 
+
+Proj/Ativ.: 2.153 - MANUT. SERVIÇOS TRANSP. ESCOLAR REC. VINCULAD 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 122 - TRANSFERENCIAS DE CONVENIOS - EDUCAÇÃO 
+
+
+
+Minas Gerais , 21 de Novembro de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2636 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              173 
+
+ 
+
+Valor.....: R$43.493,00 
+
+Subfunção.: 365 - EDUCACAO INFANTIL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 2.159 - MANUT. ATIV. EDUC.INFANTIL - CRECHE 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$2.000,00 
+
+Programa..: 0018 - TRANSPORTE ESCOLAR 
+
+Proj/Ativ.: 2.166 - MANUT. SERVIÇOS TRANSPORTE ESCOLAR REC. VINC. 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor.....: R$66.545,80 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função....: 27- DESPORTO E LAZER 
+
+Subfunção.: 813 - LAZER 
+
+Programa..: 0023 - IMPLANTAÇÃO DA POLITICA DE DESPORTO E LAZER 
+
+Proj/Ativ.: 2.220 - MANUT. COMEMORAÇÃO FESTAS CIVICAS E TRADICION 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$6.000,00 
+
+  
+
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 334.339,80 (trezentos e trinta 
+
+e quatro mil , trezentos e trinta e nove reais e oitenta centavos), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc.: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função....: 15- URBANISMO 
+
+Subfunção.: 451 - INFRA-ESTRUTURA URBANA 
+
+Programa..: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 1.052 - CONSTRUÇÃO E REFORMA DE PRAÇAS E JARDINS 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$219.850,00 
+
+Proj/Ativ.: 2.043 - MANUTENÇÃO DOS SERVIÇOS DE MOBILIDADE URBANA 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 157 - MULTAS DE TRANSITO 
+
+Valor.....: R$151,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10- SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$4.000,00 
+
+Fonte.....: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE 
+
+Valor.....: R$300,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12- EDUCACAO 
+
+Subfunção.: 361 - ENSINO FUNDAMENTAL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 1.149 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA UNIDADE ESCOLAR 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 122 - TRANSFERENCIAS DE CONVENIOS - EDUCAÇÃO 
+
+Valor.....: R$43.493,00 
+
+Fonte.....: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor.....: R$18.545,80 
+
+Proj/Ativ.: 2.150 - MANUT. ATIVIDADES REC. SALARIO EDUC. - QESE 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor.....: R$22.000,00 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor.....: R$15.000,00 
+
+Subfunção.: 365 - EDUCACAO INFANTIL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 1.163 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA UNIDADE ESCOLAR 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor.....: R$11.000,00 
+
+  
+
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de , 04 de novembro de 2019 
+
+Publicado por: 
+
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:6281A482 
+
+ 
+ 
+
+
+		2019-11-20T18:06:59-0300
+	VOX SOLUCOES TECNOLOGICAS LTDA:00684621000131
+21-Novembro-2019
+VISCONDE DO RIO BRANCO
+to o Crédito Suplementar no valor total de R$ 334.339,80 (trezentos e trinta e quatro mil , trezentos e trinta e nove reais e oitenta 
+
+centavos ), as seguintes dotações orçamentárias: 
+
+  
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.91.97.00 - APORTE P/ COBERTURA DÉFICIT ATUARIAL DO R 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$196.000,00 
+
+Unid. Orc.: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função....: 15- URBANISMO 
+
+Subfunção.: 451 - INFRA-ESTRUTURA URBANA 
+
+Programa..: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 2.043 - MANUTENÇÃO DOS SERVIÇOS DE MOBILIDADE URBANA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$11.000,00 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 157 - MULTAS DE TRANSITO 
+
+Valor.....: R$151,00 
+
+Proj/Ativ.: 2.044 - MANUTENÇÃO DOS SERVIÇOS DE LIMPEZA PÚBLICA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$2.400,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10- SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.107 - MANUTENÇÃO DAS ATIVIDADES NASF 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$4.000,00 
+
+Proj/Ativ.: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE 
+
+Valor.....: R$300,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.115 - MANUT. CENTRO DE ATENÇÃO PSICOSSOCIAL - CAPS 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$2.450,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12- EDUCACAO 
+
+Subfunção.: 361 - ENSINO FUNDAMENTAL 
+
+Programa..: 0018 - TRANSPORTE ESCOLAR 
+
+Proj/Ativ.: 2.153 - MANUT. SERVIÇOS TRANSP. ESCOLAR REC. VINCULAD 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 122 - TRANSFERENCIAS DE CONVENIOS - EDUCAÇÃO 
+
+
+
+Minas Gerais , 21 de Novembro de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2636 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              173 
+
+ 
+
+Valor.....: R$43.493,00 
+
+Subfunção.: 365 - EDUCACAO INFANTIL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 2.159 - MANUT. ATIV. EDUC.INFANTIL - CRECHE 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$2.000,00 
+
+Programa..: 0018 - TRANSPORTE ESCOLAR 
+
+Proj/Ativ.: 2.166 - MANUT. SERVIÇOS TRANSPORTE ESCOLAR REC. VINC. 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor.....: R$66.545,80 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função....: 27- DESPORTO E LAZER 
+
+Subfunção.: 813 - LAZER 
+
+Programa..: 0023 - IMPLANTAÇÃO DA POLITICA DE DESPORTO E LAZER 
+
+Proj/Ativ.: 2.220 - MANUT. COMEMORAÇÃO FESTAS CIVICAS E TRADICION 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$6.000,00 
+
+  
+
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 334.339,80 (trezentos e trinta 
+
+e quatro mil , trezentos e trinta e nove reais e oitenta centavos), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc.: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função....: 15- URBANISMO 
+
+Subfunção.: 451 - INFRA-ESTRUTURA URBANA 
+
+Programa..: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 1.052 - CONSTRUÇÃO E REFORMA DE PRAÇAS E JARDINS 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$219.850,00 
+
+Proj/Ativ.: 2.043 - MANUTENÇÃO DOS SERVIÇOS DE MOBILIDADE URBANA 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 157 - MULTAS DE TRANSITO 
+
+Valor.....: R$151,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10- SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$4.000,00 
+
+Fonte.....: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE 
+
+Valor.....: R$300,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12- EDUCACAO 
+
+Subfunção.: 361 - ENSINO FUNDAMENTAL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 1.149 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA UNIDADE ESCOLAR 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 122 - TRANSFERENCIAS DE CONVENIOS - EDUCAÇÃO 
+
+Valor.....: R$43.493,00 
+
+Fonte.....: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor.....: R$18.545,80 
+
+Proj/Ativ.: 2.150 - MANUT. ATIVIDADES REC. SALARIO EDUC. - QESE 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor.....: R$22.000,00 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor.....: R$15.000,00 
+
+Subfunção.: 365 - EDUCACAO INFANTIL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 1.163 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA UNIDADE ESCOLAR 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor.....: R$11.000,00 
+
+  
+
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de , 04 de novembro de 2019 
+
+Publicado por: 
+
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:6281A482 
+
+ 
+ 
+
+
+		2019-11-20T18:06:59-0300
+	VOX SOLUCOES TECNOLOGICAS LTDA:00684621000131
+21-Novembro-2019
+VISCONDE DO RIO BRANCO
+a de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 334.339,80 (trezentos e trinta 
+
+e quatro mil , trezentos e trinta e nove reais e oitenta centavos), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc.: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função....: 15- URBANISMO 
+
+Subfunção.: 451 - INFRA-ESTRUTURA URBANA 
+
+Programa..: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 1.052 - CONSTRUÇÃO E REFORMA DE PRAÇAS E JARDINS 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$219.850,00 
+
+Proj/Ativ.: 2.043 - MANUTENÇÃO DOS SERVIÇOS DE MOBILIDADE URBANA 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 157 - MULTAS DE TRANSITO 
+
+Valor.....: R$151,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10- SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$4.000,00 
+
+Fonte.....: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE 
+
+Valor.....: R$300,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12- EDUCACAO 
+
+Subfunção.: 361 - ENSINO FUNDAMENTAL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 1.149 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA UNIDADE ESCOLAR 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 122 - TRANSFERENCIAS DE CONVENIOS - EDUCAÇÃO 
+
+Valor.....: R$43.493,00 
+
+Fonte.....: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor.....: R$18.545,80 
+
+Proj/Ativ.: 2.150 - MANUT. ATIVIDADES REC. SALARIO EDUC. - QESE 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor.....: R$22.000,00 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor.....: R$15.000,00 
+
+Subfunção.: 365 - EDUCACAO INFANTIL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 1.163 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA UNIDADE ESCOLAR 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor.....: R$11.000,00 
+
+  
+
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de , 04 de novembro de 2019 
+
+Publicado por: 
+
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:6281A482 
+
+ 
+ 
+
+
+		2019-11-20T18:06:59-0300
+	VOX SOLUCOES TECNOLOGICAS LTDA:00684621000131

@@ -1,0 +1,2567 @@
+06-Junho-2019
+VISCONDE DO RIO BRANCO
+to o Crédito Suplementar no valor total de R$ 
+
+46.158,67 (quarenta e seis mil , cento e cinquenta e oito reais e 
+
+sessenta e sete centavos ), as seguintes dotações orçamentárias: 
+
+  
+Unid. Orc.: 02.005.000 - SECRETARIA MUN. FAZENDA E EXECUÇÃO FISCAL. 
+
+Função....: 04 - ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.037 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$180,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.113 - MANUTENÇÃO TRATAMENTO FORA DO DOMICILIO - TFD 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$1.358,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.08.00 - OUTROS BENEFÍCIOS ASSISTENCIAIS 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$1.000,00 
+
+Subfunção.: 361 - ENSINO FUNDAMENTAL 
+
+Programa..: 0018 - TRANSPORTE ESCOLAR 
+
+Proj/Ativ.: 2.153 - MANUT. SERVIÇOS TRANSP. ESCOLAR REC. VINCULAD 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 122 - TRANSFERENCIAS DE CONVENIOS - EDUCAÇÃO 
+
+Valor.....: R$700,00 
+
+Subfunção.: 365 - EDUCACAO INFANTIL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 2.167 - MANUTENÇÃO DAS SUBVENÇÕES SOCIAIS 
+
+Conta.....: 3.3.50.43.00 - SUBVENÇÕES SOCIAIS 
+
+Fonte.....: 119 - TRANSFERENCIAS DO FUNDEB - OUTRAS DESPESA 
+
+Valor.....: R$35.145,94 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função....: 08 - ASSISTENCIA SOCIAL 
+
+Subfunção.: 244 - ASSISTENCIA COMUNITARIA 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.242 - MANUTENÇÃO DO PROGRAMA FAMILIA ACOLHEDORA 
+
+Conta.....: 3.3.90.48.00 - OUTROS AUXÍLIOS FINANCEIROS PESSSOAS FÍSI 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$7.774,73 
+
+  
+
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo 
+
+primeiro deste decreto fica anulado o valor de R$ 46.158,67 (quarenta 
+
+e seis mil , cento e cinquenta e oito reais e sessenta e sete centavos ), 
+
+referente a anulação parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc.: 02.003.000 - PROCURADORIA GERAL DO MUNICIPIO 
+
+Função....: 03 - ESSENCIAL A JUSTICA 
+
+Subfunção.: 092 - REPRESENTACAO JUDICIAL E EXTRAJUDICIAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.007 - MANUT. ATIVID. PROCURADORIA 
+
+Conta.....: 3.3.90.35.00 - SERVIÇOS DE CONSULTORIA 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$7.954,73 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$1.358,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$1.000,00 
+
+Subfunção.: 361 - ENSINO FUNDAMENTAL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 2.146 - MANUTENÇÃO DAS SUBVENÇÕES SOCIAIS 
+
+Conta.....: 3.3.50.43.00 - SUBVENÇÕES SOCIAIS 
+
+Fonte.....: 119 - TRANSFERENCIAS DO FUNDEB - OUTRAS DESPESA 
+
+Valor.....: R$35.145,94 
+
+Programa..: 0018 - TRANSPORTE ESCOLAR 
+
+Proj/Ativ.: 2.153 - MANUT. SERVIÇOS TRANSP. ESCOLAR REC. VINCULAD 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 122 - TRANSFERENCIAS DE CONVENIOS - EDUCAÇÃO 
+
+Valor.....: R$700,00 
+
+  
+
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto 
+
+em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de , 27 de maio de 2019 
+
+______________ 
+
+Publicado por: 
+
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:8DB8E7B6 
+
+ 
+DEPARTAMENTO DE LICITAÇÃO E CONTRATOS 
+
+EXTRATO DE RETIFICAÇÃO DE AVISO DE LICITAÇÃO 
+
+ 
+
+AVISO DE RETIFICAÇÃO DE LICITAÇÃO – PREGÃO Nº 
+
+023/2019 – PROCESSO LICITATÓRIO Nº 032/2019 – A 
+
+Administração Municipal de Visconde do Rio Branco, através da 
+
+Pregoeira Oficial, torna público a retificação da Proposta de Preço e 
+
+data da Licitação, que tem por objeto à seleção de empresa(s) 
+
+especializada(s) no ramo, composição do Quadro Geral de Registro de 
+
+Preços visando à aquisição de medicamentos necessários para cumprir 
+
+sentenças judiciais, dando continuidade às atividades assistenciais da 
+
+Secretaria Municipal de Saúde. (Ver maiores especificações no Edital 
+
+de retificação) – Entrega de propostas, documentações e credenciais 
+
+até o dia 19/06/2019 às 09h, para a realização do certame, quando 
+
+será dado início aos trabalhos. Cópia do edital de retificação já se 
+
+encontra disponível para os interessados, à Praça 28 de Setembro, 
+
+Centro, ou pelo site: www.viscondedoriobranco.mg.gov.br. 
+
+Informações pelo Tel: (32) 3551-8150. (Ass.) Flaviana Lima Teixeira 
+
+– Pregoeira Oficial.  
+
+Publicado por: 
+
+Luziane Aparecida Vieira 
+
+Código Identificador:965C413B 
+
+ 
+DEPARTAMENTO DE RECURSOS HUMANOS ADM. 
+
+DISPÕE SOBRE RETIFICAÇÃO DE PORTARIA 
+
+ 
+
+Dispõe sobre retificação de Portaria 
+
+  
+
+O Prefeito Municipal Iran Silva Couri, no uso de suas atribuições, 
+
+previstas nos artigos, 73 e 98 da L.O.M. (Lei Orgânica Municipal) 
+
+  
+
+RESOLVE: 
+
+  
+
+Art. 1 º - RETIFICAR o NOME, da servidora LUCIA HELENA 
+
+CARDOSO SILVA, expressa através da PORTARIA SAP / DP N° 
+
+227/2017, de 08 de fevereiro de 2017, onde se lê “LUCIA HELENA 
+
+CARDOSO”, leia-se “LUCIA HELENA CARDOSO SILVA”. 
+
+Art. 2 ° - Esta portaria entra em vigor a partir desta data. 
+
+  
+
+Visconde do Rio Branco, 05 de junho de 2019. 
+
+  
+
+IRAN SILVA COURI 
+
+Prefeito Municipal  
+
+Publicado por: 
+
+Monique Amaral Rodrigues 
+
+Código Identificador:6FD56B31 
+
+ 
+
+ESTADO DE MINAS GERAIS 
+
+SAAE - SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO DE 
+
+PIRAPORA 
+
+ 
+
+SAAE PIRAPORA-MG 
+
+PREGÃO PRESENCIAL 22/2019 
+
+ 
+
+Errata: Na publicação realizada em 05 de junho de 2019, página 178, 
+
+no título da publicação, onde se lê: “Pregão Presencial 2/2019”; leia-
+
+se: “Pregão Presencial 22/2019”.  
+
+  
+
+ALESSANDRA BARBOSA ROCHA VELOSO  
+
+Pregoeira Oficial. 
+
+
+
+Minas Gerais , 06 de Junho de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2518 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              175 
+
+ 
+
+Publicado por: 
+
+Alessandra Barbosa Rocha Veloso 
+
+Código Identificador:2724C9E4 
+
+ 
+
+ESTADO DE MINAS GERAIS 
+
+SAAE - SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO DO 
+
+MUNICÍPIO DE LAMBARI 
+
+ 
+
+SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO DE LAMBARI 
+
+EXTRATO DE TERMO ADITIVO 
+
+ 
+
+SAAE DE LAMBARI-MG. EXTRATO DO 4º TERMO ADITIVO ao 
+
+contrato 013/2017, nos termos da Lei 8.666/93, com suas posteriores 
+
+alterações. Contratante: Serviço Autônomo de Água e Esgoto de 
+
+Lambari - MG. Contratada: ACADEMIA DE GESTÃO PUBLICA 
+
+S/A. Objeto: Integração do software de execução contábil e financeira 
+
+da empresa contratada pelo SAAE, Academia da Gestão Pública S.A. 
+
+- AGPSA, e a empresa contratada pela Prefeitura Municipal de 
+
+Lambari, E&L Produções de Software Ltda, para disponibilização de 
+
+arquivos em layout comum a fim de consolidação dos dados e 
+
+prestação de contas. Valor: R$ 3.000,00 (três mil Reais). Forma de 
+
+pagamento: Parcela única. Dotação orçamentária: 
+
+03.01.01.
+06-Junho-2019
+VISCONDE DO RIO BRANCO
+a de Crédito Suplementar no artigo 
+
+primeiro deste decreto fica anulado o valor de R$ 46.158,67 (quarenta 
+
+e seis mil , cento e cinquenta e oito reais e sessenta e sete centavos ), 
+
+referente a anulação parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc.: 02.003.000 - PROCURADORIA GERAL DO MUNICIPIO 
+
+Função....: 03 - ESSENCIAL A JUSTICA 
+
+Subfunção.: 092 - REPRESENTACAO JUDICIAL E EXTRAJUDICIAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.007 - MANUT. ATIVID. PROCURADORIA 
+
+Conta.....: 3.3.90.35.00 - SERVIÇOS DE CONSULTORIA 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$7.954,73 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$1.358,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor.....: R$1.000,00 
+
+Subfunção.: 361 - ENSINO FUNDAMENTAL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 2.146 - MANUTENÇÃO DAS SUBVENÇÕES SOCIAIS 
+
+Conta.....: 3.3.50.43.00 - SUBVENÇÕES SOCIAIS 
+
+Fonte.....: 119 - TRANSFERENCIAS DO FUNDEB - OUTRAS DESPESA 
+
+Valor.....: R$35.145,94 
+
+Programa..: 0018 - TRANSPORTE ESCOLAR 
+
+Proj/Ativ.: 2.153 - MANUT. SERVIÇOS TRANSP. ESCOLAR REC. VINCULAD 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 122 - TRANSFERENCIAS DE CONVENIOS - EDUCAÇÃO 
+
+Valor.....: R$700,00 
+
+  
+
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto 
+
+em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de , 27 de maio de 2019 
+
+______________ 
+
+Publicado por: 
+
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:8DB8E7B6 
+
+ 
+DEPARTAMENTO DE LICITAÇÃO E CONTRATOS 
+
+EXTRATO DE RETIFICAÇÃO DE AVISO DE LICITAÇÃO 
+
+ 
+
+AVISO DE RETIFICAÇÃO DE LICITAÇÃO – PREGÃO Nº 
+
+023/2019 – PROCESSO LICITATÓRIO Nº 032/2019 – A 
+
+Administração Municipal de Visconde do Rio Branco, através da 
+
+Pregoeira Oficial, torna público a retificação da Proposta de Preço e 
+
+data da Licitação, que tem por objeto à seleção de empresa(s) 
+
+especializada(s) no ramo, composição do Quadro Geral de Registro de 
+
+Preços visando à aquisição de medicamentos necessários para cumprir 
+
+sentenças judiciais, dando continuidade às atividades assistenciais da 
+
+Secretaria Municipal de Saúde. (Ver maiores especificações no Edital 
+
+de retificação) – Entrega de propostas, documentações e credenciais 
+
+até o dia 19/06/2019 às 09h, para a realização do certame, quando 
+
+será dado início aos trabalhos. Cópia do edital de retificação já se 
+
+encontra disponível para os interessados, à Praça 28 de Setembro, 
+
+Centro, ou pelo site: www.viscondedoriobranco.mg.gov.br. 
+
+Informações pelo Tel: (32) 3551-8150. (Ass.) Flaviana Lima Teixeira 
+
+– Pregoeira Oficial.  
+
+Publicado por: 
+
+Luziane Aparecida Vieira 
+
+Código Identificador:965C413B 
+
+ 
+DEPARTAMENTO DE RECURSOS HUMANOS ADM. 
+
+DISPÕE SOBRE RETIFICAÇÃO DE PORTARIA 
+
+ 
+
+Dispõe sobre retificação de Portaria 
+
+  
+
+O Prefeito Municipal Iran Silva Couri, no uso de suas atribuições, 
+
+previstas nos artigos, 73 e 98 da L.O.M. (Lei Orgânica Municipal) 
+
+  
+
+RESOLVE: 
+
+  
+
+Art. 1 º - RETIFICAR o NOME, da servidora LUCIA HELENA 
+
+CARDOSO SILVA, expressa através da PORTARIA SAP / DP N° 
+
+227/2017, de 08 de fevereiro de 2017, onde se lê “LUCIA HELENA 
+
+CARDOSO”, leia-se “LUCIA HELENA CARDOSO SILVA”. 
+
+Art. 2 ° - Esta portaria entra em vigor a partir desta data. 
+
+  
+
+Visconde do Rio Branco, 05 de junho de 2019. 
+
+  
+
+IRAN SILVA COURI 
+
+Prefeito Municipal  
+
+Publicado por: 
+
+Monique Amaral Rodrigues 
+
+Código Identificador:6FD56B31 
+
+ 
+
+ESTADO DE MINAS GERAIS 
+
+SAAE - SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO DE 
+
+PIRAPORA 
+
+ 
+
+SAAE PIRAPORA-MG 
+
+PREGÃO PRESENCIAL 22/2019 
+
+ 
+
+Errata: Na publicação realizada em 05 de junho de 2019, página 178, 
+
+no título da publicação, onde se lê: “Pregão Presencial 2/2019”; leia-
+
+se: “Pregão Presencial 22/2019”.  
+
+  
+
+ALESSANDRA BARBOSA ROCHA VELOSO  
+
+Pregoeira Oficial. 
+
+
+
+Minas Gerais , 06 de Junho de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2518 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              175 
+
+ 
+
+Publicado por: 
+
+Alessandra Barbosa Rocha Veloso 
+
+Código Identificador:2724C9E4 
+
+ 
+
+ESTADO DE MINAS GERAIS 
+
+SAAE - SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO DO 
+
+MUNICÍPIO DE LAMBARI 
+
+ 
+
+SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO DE LAMBARI 
+
+EXTRATO DE TERMO ADITIVO 
+
+ 
+
+SAAE DE LAMBARI-MG. EXTRATO DO 4º TERMO ADITIVO ao 
+
+contrato 013/2017, nos termos da Lei 8.666/93, com suas posteriores 
+
+alterações. Contratante: Serviço Autônomo de Água e Esgoto de 
+
+Lambari - MG. Contratada: ACADEMIA DE GESTÃO PUBLICA 
+
+S/A. Objeto: Integração do software de execução contábil e financeira 
+
+da empresa contratada pelo SAAE, Academia da Gestão Pública S.A. 
+
+- AGPSA, e a empresa contratada pela Prefeitura Municipal de 
+
+Lambari, E&L Produções de Software Ltda, para disponibilização de 
+
+arquivos em layout comum a fim de consolidação dos dados e 
+
+prestação de contas. Valor: R$ 3.000,00 (três mil Reais). Forma de 
+
+pagamento: Parcela única. Dotação orçamentária: 
+
+03.01.01.17.122.0031.2096.3.3.90.39. Assinatura do Termo Aditivo: 
+
+30/05/2019. 
+
+  
+
+JOÃO RODRIGO DOS REIS 
+
+Diretor  
+
+Publicado por: 
+
+Adalberto Luiz da Silva 
+
+Código Identificador:66A13864 
+
+ 
+
+ESTADO DE MINAS GERAIS
+06-Junho-2019
+VISCONDE DO RIO BRANCO
+A DE CRÉDITO SUPLEMENTAR E DA OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O(A) Prefeito(a) Municipal de , Estado de Minas Gerais, no uso de suas atribuições legais, com base na Lei 14672018 12/12/2018 e art. 43 da Lei 
+
+Federal 4.320/64, decreta: 
+
+  
+
+Art. 1o. - Fica aberto o Crédito Suplementar no valor total de R$ 23.549,60 (vinte e três mil , quinhentos e quarenta e nove reais e sessenta centavos 
+
+), as seguintes dotações orçamentárias: 
+
+  
+Unid. Orc.: 02.001.000 - GABINETE DO PREFEITO 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.003 - MANUT. ATIVIDADES GABINETE 
+
+Conta.....: 3.3.90.33.00 - PASSAGENS E DESPESAS COM LOCOMOÇÃO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$500,00 
+
+Unid. Orc.: 02.005.000 - SECRETARIA MUN. FAZENDA E EXECUÇÃO FISCAL. 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.037 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.113,60 
+
+Conta.....: 3.3.90.93.00 - INDENIZAÇÕES E RESTITUIÇÕES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.600,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10- SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.102 - MANUTENÇÃO PESSOAL AGENTE COMUNIT. SAÚDE-ACS 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$6.121,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+
+
+Minas Gerais , 06 de Junho de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2518 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              250 
+
+ 
+
+Proj/Ativ.: 2.114 - MANUT. CENTRO MUN. DE REABIL. - FISIOTERAPIA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$650,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12- EDUCACAO 
+
+Subfunção.: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE 
+
+Programa..: 0016 - ALIMENTAÇÃO ESCOLAR 
+
+Proj/Ativ.: 2.135 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR - PNAEP 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 144 - TRANS. DE RECURSOS DO FNDE AO PNAE 
+
+Valor.....: R$2.210,00 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função....: 13- CULTURA 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.200 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$800,00 
+
+Função....: 27- DESPORTO E LAZER 
+
+Subfunção.: 812 - DESPORTO COMUNITARIO 
+
+Programa..: 0023 - IMPLANTAÇÃO DA POLITICA DE DESPORTO E LAZER 
+
+Proj/Ativ.: 1.226 - CONSTRUÇÃO E REFORMA CENTRO/QUADRA POLIESPORT 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$9.755,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função....: 08- ASSISTENCIA SOCIAL 
+
+Subfunção.: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.251 - MANUTENÇÃO ATIVIDADES DO CONSELHO TUTELAR 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor.....: R$800,00 
+
+  
+
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 23.549,60 (vinte e três mil , 
+
+quinhentos e quarenta e nove reais e sessenta centavos ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc.: 02.003.000 - PROCURADORIA GERAL DO MUNICIPIO 
+
+Função....: 03- ESSENCIAL A JUSTICA 
+
+Subfunção.: 092 - REPRESENTACAO JUDICIAL E EXTRAJUDICIAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.007 - MANUT. ATIVID. PROCURADORIA 
+
+Conta.....: 3.3.90.35.00 - SERVIÇOS DE CONSULTORIA 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$2.750,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10- SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.095 - MANUTENÇÃO DO PESSOAL DA SECRETARIA 
+
+Conta.....: 3.1.91.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$6.121,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12- EDUCACAO 
+
+Subfunção.: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE 
+
+Programa..: 0016 - ALIMENTAÇÃO ESCOLAR 
+
+Proj/Ativ.: 2.133 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR - PNAEF 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 144 - TRANS. DE RECURSOS DO FNDE AO PNAE 
+
+Valor.....: R$2.210,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função....: 08- ASSISTENCIA SOCIAL 
+
+Subfunção.: 244 - ASSISTENCIA COMUNITARIA 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 1.238 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA DO CRAS 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$350,00 
+
+Proj/Ativ.: 2.235 - MANUTENÇÃO DAS ATIVIDADES DO SETOR 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$3.468,00 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$2.700,00 
+
+Proj/Ativ.: 2.243 - MANUT. PROG SERV. CONVIV. FORT. VINC. - SCFV 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor.....: R$800,00 
+
+Proj/Ativ.: 2.247 - MANUTENÇÃO DOS BENEFICIOS EVENTUAIS 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$3.237,00 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+
+
+Minas Gerais , 06 de Junho de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2518 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              251 
+
+ 
+
+Valor.....: R$1.113,60 
+
+Unid. Orc.: 02.011.002 - FUNDO MUN. DOS DIREITOS CRIANÇA E ADOLESCENTE 
+
+Função....: 08- ASSISTENCIA SOCIAL 
+
+Subfunção.: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.252 - MANUT. ATIV. DO FUNDO DA CRIANÇA E ADOLESCENT 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$800,00 
+
+  
+
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de , 07 de maio de 2019 
+
+____________ 
+
+Publicado por: 
+
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:D20265C8 
+
+ 
+DEPARTAMENTO DE CONTABILIDADE 
+
+DECRETO 78 
+
+ 
+
+DECRETO 
+
+Decreto No. 00078/2019 
+
+  
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO SUPLEMENTAR E DA OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O(A) Prefeito(a) Municipal de , Estado de Minas Gerais, no uso de suas atribuições legais, com base na Lei 14672018 12/12/2018 e art. 43 da Lei 
+
+Federal 4.320/64, decreta: 
+
+Art. 1o. - Fica aberto o Crédito Suplementar no valor total de R$ 110.235,00 (cento e dez mil , duzentos e trinta e cinco reais ), as seguintes dotações 
+
+orçamentárias: 
+
+  
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.
+06-Junho-2019
+VISCONDE DO RIO BRANCO
+to o Crédito Suplementar no valor total de R$ 23.549,60 (vinte e três mil , quinhentos e quarenta e nove reais e sessenta centavos 
+
+), as seguintes dotações orçamentárias: 
+
+  
+Unid. Orc.: 02.001.000 - GABINETE DO PREFEITO 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.003 - MANUT. ATIVIDADES GABINETE 
+
+Conta.....: 3.3.90.33.00 - PASSAGENS E DESPESAS COM LOCOMOÇÃO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$500,00 
+
+Unid. Orc.: 02.005.000 - SECRETARIA MUN. FAZENDA E EXECUÇÃO FISCAL. 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.037 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.113,60 
+
+Conta.....: 3.3.90.93.00 - INDENIZAÇÕES E RESTITUIÇÕES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.600,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10- SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.102 - MANUTENÇÃO PESSOAL AGENTE COMUNIT. SAÚDE-ACS 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$6.121,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+
+
+Minas Gerais , 06 de Junho de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2518 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              250 
+
+ 
+
+Proj/Ativ.: 2.114 - MANUT. CENTRO MUN. DE REABIL. - FISIOTERAPIA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$650,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12- EDUCACAO 
+
+Subfunção.: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE 
+
+Programa..: 0016 - ALIMENTAÇÃO ESCOLAR 
+
+Proj/Ativ.: 2.135 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR - PNAEP 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 144 - TRANS. DE RECURSOS DO FNDE AO PNAE 
+
+Valor.....: R$2.210,00 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função....: 13- CULTURA 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.200 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$800,00 
+
+Função....: 27- DESPORTO E LAZER 
+
+Subfunção.: 812 - DESPORTO COMUNITARIO 
+
+Programa..: 0023 - IMPLANTAÇÃO DA POLITICA DE DESPORTO E LAZER 
+
+Proj/Ativ.: 1.226 - CONSTRUÇÃO E REFORMA CENTRO/QUADRA POLIESPORT 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$9.755,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função....: 08- ASSISTENCIA SOCIAL 
+
+Subfunção.: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.251 - MANUTENÇÃO ATIVIDADES DO CONSELHO TUTELAR 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor.....: R$800,00 
+
+  
+
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 23.549,60 (vinte e três mil , 
+
+quinhentos e quarenta e nove reais e sessenta centavos ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc.: 02.003.000 - PROCURADORIA GERAL DO MUNICIPIO 
+
+Função....: 03- ESSENCIAL A JUSTICA 
+
+Subfunção.: 092 - REPRESENTACAO JUDICIAL E EXTRAJUDICIAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.007 - MANUT. ATIVID. PROCURADORIA 
+
+Conta.....: 3.3.90.35.00 - SERVIÇOS DE CONSULTORIA 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$2.750,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10- SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.095 - MANUTENÇÃO DO PESSOAL DA SECRETARIA 
+
+Conta.....: 3.1.91.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$6.121,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12- EDUCACAO 
+
+Subfunção.: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE 
+
+Programa..: 0016 - ALIMENTAÇÃO ESCOLAR 
+
+Proj/Ativ.: 2.133 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR - PNAEF 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 144 - TRANS. DE RECURSOS DO FNDE AO PNAE 
+
+Valor.....: R$2.210,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função....: 08- ASSISTENCIA SOCIAL 
+
+Subfunção.: 244 - ASSISTENCIA COMUNITARIA 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 1.238 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA DO CRAS 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$350,00 
+
+Proj/Ativ.: 2.235 - MANUTENÇÃO DAS ATIVIDADES DO SETOR 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$3.468,00 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$2.700,00 
+
+Proj/Ativ.: 2.243 - MANUT. PROG SERV. CONVIV. FORT. VINC. - SCFV 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor.....: R$800,00 
+
+Proj/Ativ.: 2.247 - MANUTENÇÃO DOS BENEFICIOS EVENTUAIS 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$3.237,00 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+
+
+Minas Gerais , 06 de Junho de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2518 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              251 
+
+ 
+
+Valor.....: R$1.113,60 
+
+Unid. Orc.: 02.011.002 - FUNDO MUN. DOS DIREITOS CRIANÇA E ADOLESCENTE 
+
+Função....: 08- ASSISTENCIA SOCIAL 
+
+Subfunção.: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.252 - MANUT. ATIV. DO FUNDO DA CRIANÇA E ADOLESCENT 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$800,00 
+
+  
+
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de , 07 de maio de 2019 
+
+____________ 
+
+Publicado por: 
+
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:D20265C8 
+
+ 
+DEPARTAMENTO DE CONTABILIDADE 
+
+DECRETO 78 
+
+ 
+
+DECRETO 
+
+Decreto No. 00078/2019 
+
+  
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO SUPLEMENTAR E DA OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O(A) Prefeito(a) Municipal de , Estado de Minas Gerais, no uso de suas atribuições legais, com base na Lei 14672018 12/12/2018 e art. 43 da Lei 
+
+Federal 4.320/64, decreta: 
+
+Art. 1o. - Fica aberto o Crédito Suplementar no valor total de R$ 110.235,00 (cento e dez mil , duzentos e trinta e cinco reais ), as seguintes dotações 
+
+orçamentárias: 
+
+  
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.760,00 
+
+Unid. Orc.: 02.005.000 - SECRETARIA MUN. FAZENDA E EXECUÇÃO FISCAL. 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 
+06-Junho-2019
+VISCONDE DO RIO BRANCO
+a de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 23.549,60 (vinte e três mil , 
+
+quinhentos e quarenta e nove reais e sessenta centavos ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc.: 02.003.000 - PROCURADORIA GERAL DO MUNICIPIO 
+
+Função....: 03- ESSENCIAL A JUSTICA 
+
+Subfunção.: 092 - REPRESENTACAO JUDICIAL E EXTRAJUDICIAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.007 - MANUT. ATIVID. PROCURADORIA 
+
+Conta.....: 3.3.90.35.00 - SERVIÇOS DE CONSULTORIA 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$2.750,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10- SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.095 - MANUTENÇÃO DO PESSOAL DA SECRETARIA 
+
+Conta.....: 3.1.91.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$6.121,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12- EDUCACAO 
+
+Subfunção.: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE 
+
+Programa..: 0016 - ALIMENTAÇÃO ESCOLAR 
+
+Proj/Ativ.: 2.133 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR - PNAEF 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 144 - TRANS. DE RECURSOS DO FNDE AO PNAE 
+
+Valor.....: R$2.210,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função....: 08- ASSISTENCIA SOCIAL 
+
+Subfunção.: 244 - ASSISTENCIA COMUNITARIA 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 1.238 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA DO CRAS 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$350,00 
+
+Proj/Ativ.: 2.235 - MANUTENÇÃO DAS ATIVIDADES DO SETOR 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$3.468,00 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$2.700,00 
+
+Proj/Ativ.: 2.243 - MANUT. PROG SERV. CONVIV. FORT. VINC. - SCFV 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor.....: R$800,00 
+
+Proj/Ativ.: 2.247 - MANUTENÇÃO DOS BENEFICIOS EVENTUAIS 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$3.237,00 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+
+
+Minas Gerais , 06 de Junho de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2518 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              251 
+
+ 
+
+Valor.....: R$1.113,60 
+
+Unid. Orc.: 02.011.002 - FUNDO MUN. DOS DIREITOS CRIANÇA E ADOLESCENTE 
+
+Função....: 08- ASSISTENCIA SOCIAL 
+
+Subfunção.: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.252 - MANUT. ATIV. DO FUNDO DA CRIANÇA E ADOLESCENT 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$800,00 
+
+  
+
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de , 07 de maio de 2019 
+
+____________ 
+
+Publicado por: 
+
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:D20265C8 
+
+ 
+DEPARTAMENTO DE CONTABILIDADE 
+
+DECRETO 78 
+
+ 
+
+DECRETO 
+
+Decreto No. 00078/2019 
+
+  
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO SUPLEMENTAR E DA OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O(A) Prefeito(a) Municipal de , Estado de Minas Gerais, no uso de suas atribuições legais, com base na Lei 14672018 12/12/2018 e art. 43 da Lei 
+
+Federal 4.320/64, decreta: 
+
+Art. 1o. - Fica aberto o Crédito Suplementar no valor total de R$ 110.235,00 (cento e dez mil , duzentos e trinta e cinco reais ), as seguintes dotações 
+
+orçamentárias: 
+
+  
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.760,00 
+
+Unid. Orc.: 02.005.000 - SECRETARIA MUN. FAZENDA E EXECUÇÃO FISCAL. 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.037 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$131,00 
+
+Conta.....: 3.3.90.93.00 - INDENIZAÇÕES E RESTITUIÇÕES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$4.000,00 
+
+Unid. Orc.: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.040 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.08.00 - OUTROS BENEFÍCIOS ASSISTENCIAIS 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.000,00 
+
+Conta.....: 3.3.90.92.00 - DESPESAS DE EXERCÍCIOS ANTERIORES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$28.473,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10- SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRAT 
+
+Fonte.....: 112 - SERVIÇOS DE SAÚDE 
+
+Valor.....: R$17.190,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.113 - MANUTENÇÃO TRATAMENTO FORA DO DOMICILIO - TFD 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$594,00 
+
+Proj/Ativ.: 2.115 - MANUT. CENTRO DE ATENÇÃO PSICOSSOCIAL - CAPS 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$298,00 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$2.805,00 
+
+Proj/Ativ.: 2.118 - MANUT. CONSORCIO REG. INTERMUNICIPAL-SIMSAÚDE 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 112 - SERVIÇOS DE SAÚDE 
+
+
+
+Minas Gerais , 06 de Junho de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2518 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              252 
+
+ 
+
+Valor.....: R$10.333,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12- EDUCACAO 
+
+Subfunção.: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE 
+
+Programa..: 0016 - ALIMENTAÇÃO ESCOLAR 
+
+Proj/Ativ.: 2.134 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR - PNAEC 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 144 - TRANS. DE RECURSOS DO FNDE AO PNAE 
+
+Valor.....: R$9.300,00 
+
+Proj/Ativ.: 2.135 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR - PNAEP 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 144 - TRANS. DE RECURSOS DO FNDE AO PNAE 
+
+Valor.....: R$23.800,00 
+
+Proj/Ativ.: 2.136 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR - PNAEM 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 144 - TRANS. DE RECURSOS DO FNDE AO PNAE 
+
+Valor.....: R$7.191,00 
+
+Subfunção.: 365 - EDUCACAO INFANTIL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 2.159 - MANUT. ATIV. EDUC.INFANTIL - CRECHE 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$2.620,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função....: 08- ASSISTENCIA SOCIAL 
+
+Subfunção.: 241 - ASSISTENCIA AO IDOSO 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.250 - MANUTENÇÃO ATIVIDAD
+06-Junho-2019
+VISCONDE DO RIO BRANCO
+A DE CRÉDITO SUPLEMENTAR E DA OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O(A) Prefeito(a) Municipal de , Estado de Minas Gerais, no uso de suas atribuições legais, com base na Lei 14672018 12/12/2018 e art. 43 da Lei 
+
+Federal 4.320/64, decreta: 
+
+Art. 1o. - Fica aberto o Crédito Suplementar no valor total de R$ 110.235,00 (cento e dez mil , duzentos e trinta e cinco reais ), as seguintes dotações 
+
+orçamentárias: 
+
+  
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.760,00 
+
+Unid. Orc.: 02.005.000 - SECRETARIA MUN. FAZENDA E EXECUÇÃO FISCAL. 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.037 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$131,00 
+
+Conta.....: 3.3.90.93.00 - INDENIZAÇÕES E RESTITUIÇÕES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$4.000,00 
+
+Unid. Orc.: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.040 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.08.00 - OUTROS BENEFÍCIOS ASSISTENCIAIS 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.000,00 
+
+Conta.....: 3.3.90.92.00 - DESPESAS DE EXERCÍCIOS ANTERIORES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$28.473,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10- SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRAT 
+
+Fonte.....: 112 - SERVIÇOS DE SAÚDE 
+
+Valor.....: R$17.190,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.113 - MANUTENÇÃO TRATAMENTO FORA DO DOMICILIO - TFD 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$594,00 
+
+Proj/Ativ.: 2.115 - MANUT. CENTRO DE ATENÇÃO PSICOSSOCIAL - CAPS 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$298,00 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$2.805,00 
+
+Proj/Ativ.: 2.118 - MANUT. CONSORCIO REG. INTERMUNICIPAL-SIMSAÚDE 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 112 - SERVIÇOS DE SAÚDE 
+
+
+
+Minas Gerais , 06 de Junho de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2518 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              252 
+
+ 
+
+Valor.....: R$10.333,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12- EDUCACAO 
+
+Subfunção.: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE 
+
+Programa..: 0016 - ALIMENTAÇÃO ESCOLAR 
+
+Proj/Ativ.: 2.134 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR - PNAEC 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 144 - TRANS. DE RECURSOS DO FNDE AO PNAE 
+
+Valor.....: R$9.300,00 
+
+Proj/Ativ.: 2.135 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR - PNAEP 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 144 - TRANS. DE RECURSOS DO FNDE AO PNAE 
+
+Valor.....: R$23.800,00 
+
+Proj/Ativ.: 2.136 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR - PNAEM 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 144 - TRANS. DE RECURSOS DO FNDE AO PNAE 
+
+Valor.....: R$7.191,00 
+
+Subfunção.: 365 - EDUCACAO INFANTIL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 2.159 - MANUT. ATIV. EDUC.INFANTIL - CRECHE 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$2.620,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função....: 08- ASSISTENCIA SOCIAL 
+
+Subfunção.: 241 - ASSISTENCIA AO IDOSO 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.250 - MANUTENÇÃO ATIVIDADES ASSISTENCIA AO IDOSO 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$740,00 
+
+  
+
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 110.235,00 (cento e dez mil , 
+
+duzentos e trinta e cinco reais ), referente a anulação Parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc.: 02.003.000 - PROCURADORIA GERAL DO MUNICIPIO 
+
+Função....:  03- ESSENCIAL A JUSTICA 
+
+Subfunção.: 092 - REPRESENTACAO JUDICIAL E EXTRAJUDICIAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.007 - MANUT. ATIVID. PROCURADORIA 
+
+Conta.....: 3.3.90.35.00 - SERVIÇOS DE CONSULTORIA 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$5.891,00 
+
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 128 - FORMACAO DE RECURSOS HUMANOS 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.026 - CAPACITAÇÃO E TREINAMENTO 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.110,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10- SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$892,00 
+
+Fonte.....: 112 - SERVIÇOS DE SAÚDE 
+
+Valor.....: R$7.974,00 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$1.500,00 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.110 - MANUT. DAS ATIV. CENTRO DE SAÚDE BEIRA RIO 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 112 - SERVIÇOS DE SAÚDE 
+
+Valor.....: R$4.000,00 
+
+Proj/Ativ.: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 112 - SERVIÇOS DE SAÚDE 
+
+Valor.....: R$15.549,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.115 - MANUT. CENTRO DE ATENÇÃO PSICOSSOCIAL - CAPS 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$1.305,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12- EDUCACAO 
+
+Subfunção.: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE 
+
+Programa..: 0016 - ALIMENTAÇÃO ESCOLAR 
+
+Proj/Ativ.: 2.133 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR - PNAEF 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 144 - TRANS. DE RECURSOS DO FNDE AO PNAE 
+
+Valor.....: R$19.791,00 
+
+Proj/Ativ.: 2.137 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR - PNAEJA 
+
+
+
+Minas Gerais , 06 de Junho de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2518 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              253 
+
+ 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 144 - TRANS. DE RECURSOS DO FNDE AO PNAE 
+
+Valor.....: R$20.500,00 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função....: 27- DESPORTO E LAZER 
+
+Subfunção.: 813 - LAZER 
+
+Programa..: 0023 - IMPLANTAÇÃO DA POLITICA DE DESPORTO E LAZER 
+
+Proj/Ativ.: 2.221 - MANUTENÇÃO ATIVIDADES DO CARNAVAL 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 
+06-Junho-2019
+VISCONDE DO RIO BRANCO
+to o Crédito Suplementar no valor total de R$ 110.235,00 (cento e dez mil , duzentos e trinta e cinco reais ), as seguintes dotações 
+
+orçamentárias: 
+
+  
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.760,00 
+
+Unid. Orc.: 02.005.000 - SECRETARIA MUN. FAZENDA E EXECUÇÃO FISCAL. 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.037 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$131,00 
+
+Conta.....: 3.3.90.93.00 - INDENIZAÇÕES E RESTITUIÇÕES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$4.000,00 
+
+Unid. Orc.: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.040 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.08.00 - OUTROS BENEFÍCIOS ASSISTENCIAIS 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.000,00 
+
+Conta.....: 3.3.90.92.00 - DESPESAS DE EXERCÍCIOS ANTERIORES 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$28.473,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10- SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRAT 
+
+Fonte.....: 112 - SERVIÇOS DE SAÚDE 
+
+Valor.....: R$17.190,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.113 - MANUTENÇÃO TRATAMENTO FORA DO DOMICILIO - TFD 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$594,00 
+
+Proj/Ativ.: 2.115 - MANUT. CENTRO DE ATENÇÃO PSICOSSOCIAL - CAPS 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$298,00 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$2.805,00 
+
+Proj/Ativ.: 2.118 - MANUT. CONSORCIO REG. INTERMUNICIPAL-SIMSAÚDE 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 112 - SERVIÇOS DE SAÚDE 
+
+
+
+Minas Gerais , 06 de Junho de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2518 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              252 
+
+ 
+
+Valor.....: R$10.333,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12- EDUCACAO 
+
+Subfunção.: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE 
+
+Programa..: 0016 - ALIMENTAÇÃO ESCOLAR 
+
+Proj/Ativ.: 2.134 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR - PNAEC 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 144 - TRANS. DE RECURSOS DO FNDE AO PNAE 
+
+Valor.....: R$9.300,00 
+
+Proj/Ativ.: 2.135 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR - PNAEP 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 144 - TRANS. DE RECURSOS DO FNDE AO PNAE 
+
+Valor.....: R$23.800,00 
+
+Proj/Ativ.: 2.136 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR - PNAEM 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 144 - TRANS. DE RECURSOS DO FNDE AO PNAE 
+
+Valor.....: R$7.191,00 
+
+Subfunção.: 365 - EDUCACAO INFANTIL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 2.159 - MANUT. ATIV. EDUC.INFANTIL - CRECHE 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$2.620,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função....: 08- ASSISTENCIA SOCIAL 
+
+Subfunção.: 241 - ASSISTENCIA AO IDOSO 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.250 - MANUTENÇÃO ATIVIDADES ASSISTENCIA AO IDOSO 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$740,00 
+
+  
+
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 110.235,00 (cento e dez mil , 
+
+duzentos e trinta e cinco reais ), referente a anulação Parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc.: 02.003.000 - PROCURADORIA GERAL DO MUNICIPIO 
+
+Função....:  03- ESSENCIAL A JUSTICA 
+
+Subfunção.: 092 - REPRESENTACAO JUDICIAL E EXTRAJUDICIAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.007 - MANUT. ATIVID. PROCURADORIA 
+
+Conta.....: 3.3.90.35.00 - SERVIÇOS DE CONSULTORIA 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$5.891,00 
+
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 128 - FORMACAO DE RECURSOS HUMANOS 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.026 - CAPACITAÇÃO E TREINAMENTO 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.110,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10- SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$892,00 
+
+Fonte.....: 112 - SERVIÇOS DE SAÚDE 
+
+Valor.....: R$7.974,00 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$1.500,00 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.110 - MANUT. DAS ATIV. CENTRO DE SAÚDE BEIRA RIO 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 112 - SERVIÇOS DE SAÚDE 
+
+Valor.....: R$4.000,00 
+
+Proj/Ativ.: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 112 - SERVIÇOS DE SAÚDE 
+
+Valor.....: R$15.549,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.115 - MANUT. CENTRO DE ATENÇÃO PSICOSSOCIAL - CAPS 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$1.305,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12- EDUCACAO 
+
+Subfunção.: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE 
+
+Programa..: 0016 - ALIMENTAÇÃO ESCOLAR 
+
+Proj/Ativ.: 2.133 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR - PNAEF 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 144 - TRANS. DE RECURSOS DO FNDE AO PNAE 
+
+Valor.....: R$19.791,00 
+
+Proj/Ativ.: 2.137 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR - PNAEJA 
+
+
+
+Minas Gerais , 06 de Junho de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2518 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              253 
+
+ 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 144 - TRANS. DE RECURSOS DO FNDE AO PNAE 
+
+Valor.....: R$20.500,00 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função....: 27- DESPORTO E LAZER 
+
+Subfunção.: 813 - LAZER 
+
+Programa..: 0023 - IMPLANTAÇÃO DA POLITICA DE DESPORTO E LAZER 
+
+Proj/Ativ.: 2.221 - MANUTENÇÃO ATIVIDADES DO CARNAVAL 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$28.473,00 
+
+Unid. Orc.: 02.010.002 - FUNDO MUN. PROTEÇÃO DO PATRIMÔNIO CULTURAL 
+
+Função....: 13- CULTURA 
+
+Subfunção.: 391 - PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGIC 
+
+Programa..: 0021 - PATRIMÔNIO HISTÓRICO,
+06-Junho-2019
+VISCONDE DO RIO BRANCO
+a de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 110.235,00 (cento e dez mil , 
+
+duzentos e trinta e cinco reais ), referente a anulação Parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc.: 02.003.000 - PROCURADORIA GERAL DO MUNICIPIO 
+
+Função....:  03- ESSENCIAL A JUSTICA 
+
+Subfunção.: 092 - REPRESENTACAO JUDICIAL E EXTRAJUDICIAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.007 - MANUT. ATIVID. PROCURADORIA 
+
+Conta.....: 3.3.90.35.00 - SERVIÇOS DE CONSULTORIA 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$5.891,00 
+
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função....: 04- ADMINISTRACAO 
+
+Subfunção.: 128 - FORMACAO DE RECURSOS HUMANOS 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.026 - CAPACITAÇÃO E TREINAMENTO 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$1.110,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10- SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$892,00 
+
+Fonte.....: 112 - SERVIÇOS DE SAÚDE 
+
+Valor.....: R$7.974,00 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$1.500,00 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.110 - MANUT. DAS ATIV. CENTRO DE SAÚDE BEIRA RIO 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 112 - SERVIÇOS DE SAÚDE 
+
+Valor.....: R$4.000,00 
+
+Proj/Ativ.: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 112 - SERVIÇOS DE SAÚDE 
+
+Valor.....: R$15.549,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.115 - MANUT. CENTRO DE ATENÇÃO PSICOSSOCIAL - CAPS 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$1.305,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12- EDUCACAO 
+
+Subfunção.: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE 
+
+Programa..: 0016 - ALIMENTAÇÃO ESCOLAR 
+
+Proj/Ativ.: 2.133 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR - PNAEF 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 144 - TRANS. DE RECURSOS DO FNDE AO PNAE 
+
+Valor.....: R$19.791,00 
+
+Proj/Ativ.: 2.137 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR - PNAEJA 
+
+
+
+Minas Gerais , 06 de Junho de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2518 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              253 
+
+ 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 144 - TRANS. DE RECURSOS DO FNDE AO PNAE 
+
+Valor.....: R$20.500,00 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função....: 27- DESPORTO E LAZER 
+
+Subfunção.: 813 - LAZER 
+
+Programa..: 0023 - IMPLANTAÇÃO DA POLITICA DE DESPORTO E LAZER 
+
+Proj/Ativ.: 2.221 - MANUTENÇÃO ATIVIDADES DO CARNAVAL 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$28.473,00 
+
+Unid. Orc.: 02.010.002 - FUNDO MUN. PROTEÇÃO DO PATRIMÔNIO CULTURAL 
+
+Função....: 13- CULTURA 
+
+Subfunção.: 391 - PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGIC 
+
+Programa..: 0021 - PATRIMÔNIO HISTÓRICO, ARTÍSTICO, CULTURAL E A 
+
+Proj/Ativ.: 2.207 - MANUT. BENS MATERIAIS E IMATERIAIS PROT. PATR 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$2.510,00 
+
+Unid. Orc.: 02.011.002 - FUNDO MUN. DOS DIREITOS CRIANÇA E ADOLESCENTE 
+
+Função....: 08- ASSISTENCIA SOCIAL 
+
+Subfunção.: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.252 - MANUT. ATIV. DO FUNDO DA CRIANÇA E ADOLESCENT 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$740,00 
+
+  
+
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de , 17 de maio de 2019 
+
+Publicado por: 
+
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:88DBCE76 
+
+ 
+
+ 
+
+
+		2019-06-05T17:53:36-0300
+	VOX SOLUCOES TECNOLOGICAS LTDA ME:00684621000131

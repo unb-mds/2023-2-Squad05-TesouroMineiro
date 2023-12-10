@@ -1,0 +1,1017 @@
+18-Setembro-2018
+VISCONDE DO RIO BRANCO
+A DE CRÉDITO SUPLEMENTAR E DA OUTRAS PROVIDÊNCIAS. 
+  
+O(A) Prefeito(a) Municipal de VISCONDE DO RIO BRANCO, Estado de Minas Gerais, no uso de suas atribuições legais, com base na Lei 
+Municipal 1394/2017 de 20/10/2017 e art. 43 da Lei Federal 4.320/64, decreta: Art. 1o. - Fica aberto o Crédito Suplementar no valor total de R$ 
+321.760,00 (trezentos e vinte e um mil , setecentos e sessenta reais ), as seguintes dotações orçamentárias: 
+  
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função: 04 - ADMINISTRACAO 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 7.653,00 
+
+Função: 06 - SEGURANCA PUBLICA 
+
+Subfunção: 181 - POLICIAMENTO 
+
+Programa: 0003 - POLICIAMENTO URBANO E RURAL 
+
+Proj/Ativ.: 2.027 - MANUTENÇÃO DO CONVÊNIO COM A POLÍCIA CIVIL 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 800,00 
+
+Proj/Ativ.: 2.028 - MANUTENÇÃO DO CONVÊNIO COM A POLÍCIA MILITAR 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 2.500,00 
+
+Unid. Orc.: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função: 15 - URBANISMO 
+
+Subfunção: 451 - INFRA-ESTRUTURA URBANA 
+
+Programa: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 2.047 - MANUTENÇÃO DE PRAÇAS PARQUES E JARDINS 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 685,00 
+
+Função: 24 - COMUNICACOES 
+
+Subfunção: 722 - TELECOMUNICACOES 
+
+Programa: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 2.067 - MANUTENÇÃO DOS SERVIÇOS DE TELECOMUNICAÇÕES 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 890,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função: 10 - SAUDE 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 580,00 
+
+Conta: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRATUITA 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 16.818,00 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 200,00 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 112 - SERVIÇOS DE SAÚDE 
+
+Valor: R$ 8.331,00 
+
+Subfunção: 301 - ATENCAO BASICA 
+
+Programa: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.110 - MANUT. DAS ATIV. CENTRO DE SAÚDE BEIRA RIO 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁSICA 
+
+Valor: R$ 552,00 
+
+Proj/Ativ.: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+
+
+Minas Gerais , 18 de Setembro de 2018   •   Diário Oficial dos Municípios Mineiros   •    ANO X | Nº 2339 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               149 
+ 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 6.000,00 
+
+Subfunção: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.113 - MANUTENÇÃO TRATAMENTO FORA DO DOMICILIO - TFD 
+
+Conta: 3.3.90.14.00 - DIÁRIAS - CIVIL 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 2.000,00 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 28.420,00 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 185,00 
+
+Proj/Ativ.: 2.115 - MANUT. CENTRO DE ATENÇÃO PSICOSSOCIAL - CAPS 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE 
+
+Valor: R$ 140,00 
+
+Subfunção: 303 - SUPORTE PROFILATICO E TERAPEUTICO 
+
+Programa: 0013 - ASSITÊNCIA FARMACEUTICA 
+
+Proj/Ativ.: 2.123 - MANUTENÇÃO DA ASSISTÊNCIA FARMACÊUTICA 
+
+Conta: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRATUITA 
+
+Fonte: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE 
+
+Valor: R$ 28.426,00 
+
+Subfunção: 305 - VIGILANCIA EPIDEMIOLOGICA 
+
+Programa: 0014 - VIGILÂNCIA EM SAÚDE 
+
+Proj/Ativ.: 2.125 - MANUT. ATIVIDADES DA VIGIL. EPIDEMIOLOGICA 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 4.300,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função: 12 - EDUCACAO 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta: 3.3.90.14.00 - DIÁRIAS - CIVIL 
+
+Fonte: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor: R$ 1.000,00 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 2.930,00 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 3.120,00 
+
+Subfunção: 361 - ENSINO FUNDAMENTAL 
+
+Programa: 0018 - TRANSPORTE ESCOLAR 
+
+Proj/Ativ.: 2.153 - MANUT. SERVIÇOS TRANSP. ESCOLAR REC. VINCULAD 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 122 - TRANSFERENCIAS DE CONVENIOS - EDUCAÇÃO 
+
+Valor: R$ 99.000,00 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor: R$ 57.200,00 
+
+Subfunção: 362 - ENSINO MEDIO 
+
+Programa: 0019 - EXPANSÃO DA EDUC. PARA OUTROS NÍVEIS DE ENSIN 
+
+Proj/Ativ.: 2.262 - MANUTENÇÃO DAS ATIVIDADES DO SETOR 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor: R$ 5.100,00 
+
+Subfunção: 365 - EDUCACAO INFANTIL 
+
+Programa: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 2.159 - MANUT. ATIV. EDUC.INFANTIL - CRECHE 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor: R$ 5.000,00 
+
+Subfunção: 367 - EDUCACAO ESPECIAL 
+
+Programa: 0018 - TRANSPORTE ESCOLAR 
+
+Proj/Ativ.: 2.171 - MANUT. SERVIÇOS TRANSPORTE ESCOLAR REC. VINC. 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor: R$ 16.560,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função: 08 - ASSISTENCIA SOCIAL 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.233 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 13.420,00 
+
+Subfunção: 244 - ASSISTENCIA COMUNITARIA 
+
+Programa: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.241 - MANUTENÇÃO DO PROGRAMA BOLSA FAMILIA 
+
+Conta: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor: R$ 9.950,00 
+
+  
+
+
+
+Minas Gerais , 18 de Setembro de 2018   •   Diário Oficial dos Municípios Mineiros   •    ANO X | Nº 2339 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               150 
+ 
+
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 321.760,00 (trezentos e vinte 
+e um mil , setecentos e sessenta reais ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+  
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função: 04 - ADMINISTRACAO 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.018 - MANUT. CONVÊNIO DELEGACIA REGIONAL TRABALHO 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 253,00 
+
+Proj/Ativ.: 2.019 - MANUTENÇÃ
+18-Setembro-2018
+VISCONDE DO RIO BRANCO
+to o Crédito Suplementar no valor total de R$ 
+321.760,00 (trezentos e vinte e um mil , setecentos e sessenta reais ), as seguintes dotações orçamentárias: 
+  
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função: 04 - ADMINISTRACAO 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 7.653,00 
+
+Função: 06 - SEGURANCA PUBLICA 
+
+Subfunção: 181 - POLICIAMENTO 
+
+Programa: 0003 - POLICIAMENTO URBANO E RURAL 
+
+Proj/Ativ.: 2.027 - MANUTENÇÃO DO CONVÊNIO COM A POLÍCIA CIVIL 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 800,00 
+
+Proj/Ativ.: 2.028 - MANUTENÇÃO DO CONVÊNIO COM A POLÍCIA MILITAR 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 2.500,00 
+
+Unid. Orc.: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função: 15 - URBANISMO 
+
+Subfunção: 451 - INFRA-ESTRUTURA URBANA 
+
+Programa: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 2.047 - MANUTENÇÃO DE PRAÇAS PARQUES E JARDINS 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 685,00 
+
+Função: 24 - COMUNICACOES 
+
+Subfunção: 722 - TELECOMUNICACOES 
+
+Programa: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 2.067 - MANUTENÇÃO DOS SERVIÇOS DE TELECOMUNICAÇÕES 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 890,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função: 10 - SAUDE 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 580,00 
+
+Conta: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRATUITA 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 16.818,00 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 200,00 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 112 - SERVIÇOS DE SAÚDE 
+
+Valor: R$ 8.331,00 
+
+Subfunção: 301 - ATENCAO BASICA 
+
+Programa: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.110 - MANUT. DAS ATIV. CENTRO DE SAÚDE BEIRA RIO 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁSICA 
+
+Valor: R$ 552,00 
+
+Proj/Ativ.: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+
+
+Minas Gerais , 18 de Setembro de 2018   •   Diário Oficial dos Municípios Mineiros   •    ANO X | Nº 2339 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               149 
+ 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 6.000,00 
+
+Subfunção: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.113 - MANUTENÇÃO TRATAMENTO FORA DO DOMICILIO - TFD 
+
+Conta: 3.3.90.14.00 - DIÁRIAS - CIVIL 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 2.000,00 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 28.420,00 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 185,00 
+
+Proj/Ativ.: 2.115 - MANUT. CENTRO DE ATENÇÃO PSICOSSOCIAL - CAPS 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE 
+
+Valor: R$ 140,00 
+
+Subfunção: 303 - SUPORTE PROFILATICO E TERAPEUTICO 
+
+Programa: 0013 - ASSITÊNCIA FARMACEUTICA 
+
+Proj/Ativ.: 2.123 - MANUTENÇÃO DA ASSISTÊNCIA FARMACÊUTICA 
+
+Conta: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRATUITA 
+
+Fonte: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE 
+
+Valor: R$ 28.426,00 
+
+Subfunção: 305 - VIGILANCIA EPIDEMIOLOGICA 
+
+Programa: 0014 - VIGILÂNCIA EM SAÚDE 
+
+Proj/Ativ.: 2.125 - MANUT. ATIVIDADES DA VIGIL. EPIDEMIOLOGICA 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 4.300,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função: 12 - EDUCACAO 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta: 3.3.90.14.00 - DIÁRIAS - CIVIL 
+
+Fonte: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor: R$ 1.000,00 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 2.930,00 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 3.120,00 
+
+Subfunção: 361 - ENSINO FUNDAMENTAL 
+
+Programa: 0018 - TRANSPORTE ESCOLAR 
+
+Proj/Ativ.: 2.153 - MANUT. SERVIÇOS TRANSP. ESCOLAR REC. VINCULAD 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 122 - TRANSFERENCIAS DE CONVENIOS - EDUCAÇÃO 
+
+Valor: R$ 99.000,00 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor: R$ 57.200,00 
+
+Subfunção: 362 - ENSINO MEDIO 
+
+Programa: 0019 - EXPANSÃO DA EDUC. PARA OUTROS NÍVEIS DE ENSIN 
+
+Proj/Ativ.: 2.262 - MANUTENÇÃO DAS ATIVIDADES DO SETOR 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor: R$ 5.100,00 
+
+Subfunção: 365 - EDUCACAO INFANTIL 
+
+Programa: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 2.159 - MANUT. ATIV. EDUC.INFANTIL - CRECHE 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor: R$ 5.000,00 
+
+Subfunção: 367 - EDUCACAO ESPECIAL 
+
+Programa: 0018 - TRANSPORTE ESCOLAR 
+
+Proj/Ativ.: 2.171 - MANUT. SERVIÇOS TRANSPORTE ESCOLAR REC. VINC. 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor: R$ 16.560,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função: 08 - ASSISTENCIA SOCIAL 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.233 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 13.420,00 
+
+Subfunção: 244 - ASSISTENCIA COMUNITARIA 
+
+Programa: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.241 - MANUTENÇÃO DO PROGRAMA BOLSA FAMILIA 
+
+Conta: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor: R$ 9.950,00 
+
+  
+
+
+
+Minas Gerais , 18 de Setembro de 2018   •   Diário Oficial dos Municípios Mineiros   •    ANO X | Nº 2339 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               150 
+ 
+
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 321.760,00 (trezentos e vinte 
+e um mil , setecentos e sessenta reais ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+  
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função: 04 - ADMINISTRACAO 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.018 - MANUT. CONVÊNIO DELEGACIA REGIONAL TRABALHO 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 253,00 
+
+Proj/Ativ.: 2.019 - MANUTENÇÃO CONVÊNIO MINISTÉRIO DO EXÉRCITO 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 890,00 
+
+Função: 06 - SEGURANCA PUBLICA 
+
+Subfunção: 181 - POLICIAMENTO 
+
+Programa: 0003 - POLICIAMENTO URBANO E RURAL 
+
+Proj/Ativ.:
+18-Setembro-2018
+VISCONDE DO RIO BRANCO
+a de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 321.760,00 (trezentos e vinte 
+e um mil , setecentos e sessenta reais ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+  
+Unid. Orc.: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO 
+
+Função: 04 - ADMINISTRACAO 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.018 - MANUT. CONVÊNIO DELEGACIA REGIONAL TRABALHO 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 253,00 
+
+Proj/Ativ.: 2.019 - MANUTENÇÃO CONVÊNIO MINISTÉRIO DO EXÉRCITO 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 890,00 
+
+Função: 06 - SEGURANCA PUBLICA 
+
+Subfunção: 181 - POLICIAMENTO 
+
+Programa: 0003 - POLICIAMENTO URBANO E RURAL 
+
+Proj/Ativ.: 2.029 - MANUTENÇÃO DO PROGRAMA OLHO VIVO 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 19.000,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função: 10 - SAUDE 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.098 - MANUTENÇÃO DE SUBVENÇÃO SOCIAL 
+
+Conta: 3.3.50.43.00 - SUBVENÇÕES SOCIAIS 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 39.485,00 
+
+Subfunção: 301 - ATENCAO BASICA 
+
+Programa: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.111 - MANUTENÇÃO DAS ACADEMIAS DE SAÚDE 
+
+Conta: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁSICA 
+
+Valor: R$ 552,00 
+
+Proj/Ativ.: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 112 - SERVIÇOS DE SAÚDE 
+
+Valor: R$ 8.331,00 
+
+Conta: 3.3.90.33.00 - PASSAGENS E DESPESAS COM LOCOMOÇÃO 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 200,00 
+
+Subfunção: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.121 - REPASSE REDE URGENCIA E EMERGENCIA LEITO- UTI 
+
+Conta: 3.3.50.41.00 - CONTRIBUIÇÕES 
+
+Fonte: 155 - TRANS. FUNDO ESTADUAL DE SAÚDE 
+
+Valor: R$ 28.566,00 
+
+Subfunção: 304 - VIGILANCIA SANITARIA 
+
+Programa: 0014 - VIGILÂNCIA EM SAÚDE 
+
+Proj/Ativ.: 2.124 - MANUT. DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor: R$ 2.000,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função: 12 - EDUCACAO 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.132 - MANUTENÇÃO DE ESTAGIÁRIOS COM BOLSA DE ESTUDO 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO 
+
+Valor: R$ 10.100,00 
+
+Subfunção: 361 - ENSINO FUNDAMENTAL 
+
+Programa: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 1.149 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA UNIDADE ESCOLAR 
+
+Conta: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte: 122 - TRANSFERENCIAS DE CONVENIOS - EDUCAÇÃO 
+
+Valor: R$ 99.000,00 
+
+Conta: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor: R$ 73.760,00 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função: 27 - DESPORTO E LAZER 
+
+Subfunção: 813 - LAZER 
+
+Programa: 0023 - IMPLANTAÇÃO DA POLITICA DE DESPORTO E LAZER 
+
+Proj/Ativ.: 2.219 - MANUTENÇÃO DE SHOWS E EVENTOS CULTURAIS 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 17.818,00 
+
+Unid. Orc.: 02.010.002 - FUNDO MUN. PROTEÇÃO DO PATRIMÔNIO CULTURAL 
+
+Função: 13 - CULTURA 
+
+Subfunção: 391 - PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGIC 
+
+Programa: 0021 - PATRIMÔNIO HISTÓRICO, ARTÍSTICO, CULTURAL E A 
+
+Proj/Ativ.: 2.206 - MANUT. PROGRAMAS DE MANIFESTAÇÕES CULTURAIS 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 3.120,00 
+
+
+
+Minas Gerais , 18 de Setembro de 2018   •   Diário Oficial dos Municípios Mineiros   •    ANO X | Nº 2339 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               151 
+ 
+
+Proj/Ativ.: 2.211 - MANUTENÇÃO DAS SUBVENÇÕES SOCIAIS 
+
+Conta: 3.3.50.43.00 - SUBVENÇÕES SOCIAIS 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 2.930,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função: 08 - ASSISTENCIA SOCIAL 
+
+Subfunção: 122 - ADMINISTRACAO GERAL 
+
+Programa: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.233 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta: 3.3.90.33.00 - PASSAGENS E DESPESAS COM LOCOMOÇÃO 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 1.420,00 
+
+Conta: 3.3.90.49.00 - AUXÍLIO-TRANSPORTE 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 1.000,00 
+
+Subfunção: 244 - ASSISTENCIA COMUNITARIA 
+
+Programa: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.235 - MANUTENÇÃO DAS ATIVIDADES DO SETOR 
+
+Conta: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 1.500,00 
+
+Proj/Ativ.: 2.245 - MANUTENÇÃO DO PROGRAMA ACESSUAS TRABALHO 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor: R$ 9.950,00 
+
+Proj/Ativ.: 2.247 - MANUTENÇÃO DOS BENEFICIOS EVENTUAIS 
+
+Conta: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 400,00 
+
+Conta: 3.3.90.36.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 800,00 
+
+Unid. Orc.: 02.011.002 - FUNDO MUN. DOS DIREITOS CRIANÇA E ADOLESCENTE 
+
+Função: 08 - ASSISTENCIA SOCIAL 
+
+Subfunção: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE 
+
+Programa: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.254 - MANUT. CONS. FUNDO DO DIR. DA CRIAN. ADOLESCE 
+
+Conta: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC 
+
+Fonte: 100 - RECURSOS ORDINARIOS 
+
+Valor: R$ 685,00 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+  
+VISCONDE DO RIO BRANCO, 11 DE SETEMBRO DE 2018 
+  
+IRAN SILVA COURI 
+Prefeito 
+
+Publicado por: 
+Marileia Medeiros 
+
+Código Identificador:5C76256F 
+ 
+
+DEPARTAMENTO DE RECURSOS HUMANOS ADM. 
+DISPÕE SOBRE CONCESSÃO DE LICENÇA PARA TRATAMENTO DE SAÚDE 
+
+ 
+PORTARIA SAP / DP N° 604/2018 
+  
+CONCEDER aos Servidores abaixo identificadosLICENÇA PARA TRATAMENTO DE SAÚDEno mês de AGOSTO, conforme atestados 
+médicos e Guias de Inspeção Médica em anexo. 
+  
+Esta Portaria entra em vigor a partir desta data, retroagindo seus retroagindo seus efeitos a agosto de 2018. 
+  
+Aglaê Marques 05 dias – 27 a 31/08/2018 
+
+Alaide Pires Braz 15 dias – 23/08 a 06/09/2018 
+
+Alberto Carlos 04 dias – 07 a 10/08/2018 
+
+Alessandra Vilas Boas 02 dias – 14 e 15/08/2018 
+
+Aloisio Pereira da Silva 02 dias – 09 e 10/08/2018 
+
+Amarilda dos Santos Toledo (pessoa da família) 07 dias – 02 a 08/08/2017 
+
+Amarilda dos Santos Toledo 15 dias – 09 a 23/08/2018 
+
+Ana Lucia Lopes de Faria 15 dias – 27/08 a 10/09/2018 
+
+Ana Paula da Silva Sousa 15 dias – 16 a 30/08/2018 
+
+Andreia Fiorillo da Rocha 15 dias – 06 a 20/08/2018 
+
+Antonio Ernesto da Silva 03 dias – 08 a 10/08/2018 
+
+Bruno Ribeiro Tartaglia 02 dias – 20 e 21/08/2018 
+
+Carlos de Souza Campos 15 dias – 01 a 15/08/2018 
+
+Celina Siqueira Campos 03 dias – 29 a 31/08/2018 
+
+Cleverson Barbosa de Souza Oliveira 01 dia – 30/08/2018 
+
+Cleverson Barbosa de Souza Oliveira 02 dias – 31/08 a 01/09/2018 
+
+Daniela Cristina Lopes Andriolo 15 dias – 10 a 24/08/2018 
+
+Dyunia Fernandes da Silva 07 dias – 09 a 15/08/2018 
+
+Edivani Maria Cardoso Pereira 02 dias – 27 e 28/08/2018 
+
+Edneia Gomes Porcher (pessoa da família) 02 dias – 27 e 28/08/2018 
+
+Eduardo Alves Rodrigues 07 dias – 08 a 14/08/2018 
+
+Efigenia Maria Reis 15 dias – 21/08 a 04/09/2018 
+
+Elaine Balbino da Costa Sla

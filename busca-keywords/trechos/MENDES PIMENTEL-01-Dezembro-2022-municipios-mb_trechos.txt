@@ -1,0 +1,421 @@
+01-Dezembro-2022
+MENDES PIMENTEL
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes descriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0042 
+2200.02.0062.0007.2071.100 – GESTÃO E ADMINISTRAÇÃO DO PROGRAMA JURÍDICO MUNICIPAL 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica 
+300,00 
+
+0045 
+200.02.0062.0007.3001.100 – PAGAMENTO DE PRECATORIO OU dívida ajuizadas 
+
+3.3.90.91.00.00 – Sentenças Judiciais 
+1.330,47 
+
+0058 
+2400.04.0123.0009.2007.100 – REMUNERAÇÃO DOS SERVIDORES DA SMF 
+
+3.1.90.11.00.00 – Vencimentos e Vantagens Fixas – Pessoal Civil 
+1.793,44 
+
+0058 
+2400.04.0123.0009.2007.100 – REMUNERAÇÃO DOS SERVIDORES DA SMF 
+
+3.1.90.11.00.00 – Vencimentos e Vantagens Fixas – Pessoal Civil 
+17.821,44 
+
+0083 
+2400.28.0843.0009.3003.100 – AMORTIZAÇÃO DÍVIDA FUNDADA – JUNTO AO INSS 
+
+4.60.90.71.00.00 – Principal Dívida Contratual Resgatado 
+137,50 
+
+0101 
+2500.04.0122.0010.2074.100 – GESTÃO E ADMINISTRAÇÃO DAS ATIVIDADES DA SMA E DE PESSOAL 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica 
+5.000,00 
+
+0101 
+2500.04.0122.0010.2074.100 – GESTÃO E ADMINISTRAÇÃO DAS ATIVIDADES DA SMA E DE PESSOAL 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica 
+2.000,00 
+
+0101 
+2500.04.0122.0010.2074.100 – GESTÃO E ADMINISTRAÇÃO DAS ATIVIDADES DA SMA E DE PESSOAL 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica 
+5.000,00 
+
+0102 
+2500.04.0122.0010.2074.100 – GESTÃO E ADMINISTRAÇÃO DAS ATIVIDADES DA SMA E DE PESSOAL 
+
+3.3.90.40.00.00 – Serviços de Tecnologia da Informação e Comunicação – Pessoa Jurídica 
+200,00 
+
+0112 
+2500.09.0272.0010.3006.100 – PAGTO DE APOSENTADORIAS E PENSÕES A SERVIDORES MUNICIPAIS 
+
+3.1.90.01.00.00 – Aposentadoria do RPPS, Reserva Remunerada e Reformas dos Militares 
+1.460,46 
+
+0112 
+2500.09.0272.0010.3006.100 – PAGTO DE APOSENTADORIAS E PENSÕES A SERVIDORES MUNICIPAIS 
+
+3.1.90.01.00.00 – Aposentadoria do RPPS, Reserva Remunerada e Reformas dos Militares 
+13.048,61 
+
+0127 
+2600.04.0122.0011.2075.100 – GESTÃO E ADMINISTRAÇÃO DA SEC. MUNICIPAL DE CULTURA 
+
+3.3.90.36.00.00 – Outros Serviços de Terceiros – Pessoa Física 
+1.000,00 
+
+0127 
+2600.04.0122.0011.2075.100 – GESTÃO E ADMINISTRAÇÃO DA SEC. MUNICIPAL DE CULTURA 
+
+3.3.90.36.00.00 – Outros Serviços de Terceiros – Pessoa Física 
+1.500,00 
+
+0127 
+2600.04.0122.0011.2075.100 – GESTÃO E ADMINISTRAÇÃO DA SEC. MUNICIPAL DE CULTURA 
+
+3.3.90.36.00.00 – Outros Serviços de Terceiros – Pessoa Física 
+500,00 
+
+0128 
+2600.04.0122.0011.2075.100 – GESTÃO E ADMINISTRAÇÃO DA SEC. MUNICIPAL DE CULTURA 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica 
+2.200,00 
+
+0165 
+2700.27.0812.0015.2017.100 – REALIZAÇÃO DE CAMPEONATOS MUNICIPAIS E REGIONAIS 
+
+3.3.90.30.00.00 – Material de Consumo 
+1.000,00 
+
+0206 
+2821.12.0361.0022.1015.147 – AQUISIÇÃO DE VEÍCULOS, MÁQ., EQUIP. E MÓVEIS P/ ENS. FUNDAME 
+
+4.4.90.52.00.00 – Equipamentos e Material Permanente 
+7.250,00 
+
+0212 
+2821.12.0361.0022.1017.147 – REFORMA, AMPL., CONST. E /OU MANUT. ESCOLAS ENS. FUND. 
+
+4.4.90.51.00.00 – Obras e Instalações 
+8.989,75 
+
+0220 
+2821.12.0361.0022.2022.101 – REMUNERAÇÃO DOS PROFESSORES ENSINO FUNDAMENTAL 
+
+3.1.90.04.00.00 – Contratação por Tempo Determinado 
+5.870,52 
+
+0220 
+2821.12.0361.0022.2022.101 – REMUNERAÇÃO DOS PROFESSORES ENSINO FUNDAMENTAL 
+
+3.1.90.04.00.00 – Contratação por Tempo Determinado 
+4.381,38 
+
+0220 
+2821.12.0361.0022.2022.101 – REMUNERAÇÃO DOS PROFESSORES ENSINO FUNDAMENTAL 
+
+3.1.90.04.00.00 – Contratação por Tempo Determinado 
+9.476,78 
+
+0220 
+2821.12.0361.0022.2022.101 – REMUNERAÇÃO DOS PROFESSORES ENSINO FUNDAMENTAL 
+
+3.1.90.04.00.00 – Contratação por Tempo Determinado 
+1.942,74 
+
+0252 
+2821.12.0361.0022.2024.147 – MANUTENÇÃO ATIV. DO TRANSP. ESC. – ENSINO FUNDAMENTAL 
+
+3.3.90.30.00.00 – Material de Consumo 
+156,37 
+
+0260 
+2821.12.0361.0022.2024.147 – MANUTENÇÃO ATIV. DO TRANSP. ESC. – ENSINO FUNDAMENTAL 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica 
+1.000,00 
+
+0265 
+2821.12.0361.0022.2025.119 – REMUNERAÇÃO DOS DEMAIS PROFISSIONAIS ENSINO FUNDAMENTAL 
+
+3.1.90.11.00.00 – Vencimentos e Vantagens Fixas – Pessoal Civil 
+15.000,00 
+
+0267 
+2821.12.0361.0022.2025.119 – REMUNERAÇÃO DOS DEMAIS PROFISSIONAIS ENSINO FUNDAMENTAL 
+
+3.1.90.13.00.00 – Obrigações Patronais 
+5.000,00 
+
+0267 
+2821.12.0361.0022.2025.119 – REMUNERAÇÃO DOS DEMAIS PROFISSIONAIS ENSINO FUNDAMENTAL 
+
+3.1.90.13.00.00 – Obrigações Patronais 
+7.499,28 
+
+0284 
+2822.12.0128.0022.2086.101 – CAPACITAÇÃO/FORMAÇÃO SERVIDORES ENS. INFANTIL – CRECHE 
+
+3.3.90.33.00.00 – Passagens e Despesas com locomoção 
+1.000,00 
+
+0286 2822.12.0128.0022.2086.101 – CAPACITAÇÃO/FORMAÇÃO SERVIDORES ENS. INFANTIL – CRECHE 1.000,00 
+
+
+
+Minas Gerais , 01 de Dezembro de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIV | Nº 3401 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              235 
+
+ 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica 
+
+0287 
+2822.12.0128.0022.2086.101 – CAPACITAÇÃO/FORMAÇÃO SERVIDORES ENS. INFANTIL – CRECHE 
+
+3.3.90.47.00.00 – Obrigações Tributárias e Contributivas 
+1.000,00 
+
+0299 
+2822.12.0365.0022.2026.101 – REMUNERAÇÃO DOS PROFESSORES ENSINO INFANTIL – CRECHE 
+
+3.1.90.04.00.00 – Contratação por Tempo Determinado 
+6.594,45 
+
+0302 
+2822.12.0365.0022.2026.118 – REMUNERAÇÃO DOS PROFESSORES ENSINO INFANTIL – CRECHE 
+
+3.1.90.11.00.00 – Vencimentos e Vantagens Fixas – Pessoal Civil 
+10.996,64 
+
+0304 
+2822.12.0365.0022.2026.118 – REMUNERAÇÃO DOS PROFESSORES ENSINO INFANTIL – CRECHE 
+
+3.1.90.13.00.00 – Obrigações Patronais 
+4.000,00 
+
+0311 
+2822.12.0365.0022.2027.147 – MANUTENÇÃO DAS ATIVIDADES EM CRECHES ESCOLARES 
+
+3.3.90.30.00.00 – Material de Consumo 
+14,00 
+
+0351 
+2823.12.0365.0022.2030.101 – REMUNERAÇÃO DOS PROFESSORES ENSINO INFANTIL – PRÉ- ESCOLA 
+
+3.1.90.04.00.00 – Contratação por Tempo Determinado 
+48.318,97 
+
+0392 
+2910.10.0122.0023.1026.102 – REFORMA, AMPL., CONST. E/OU MANUT. NOS PRÉDIOS DA SMS 
+
+4.4.90.51.00.00 – Obras e Instalações 
+1.000,00 
+
+0413 
+2910.10.0128.0023.2036.102 – CAPACITAÇÃO/FORMAÇÃO SERIDORES DA SMS 
+
+3.3.90.14.00.00 – Diárias – Pessoal Civil 
+1.000,00 
+
+0424 
+2921.10.0301.0024.1029.102 – REFORMA, AMPL., CONST. E/OU MANUT. DOS PRÉDIOS DO BLATB 
+
+4.4.90.51.00.00 – Obras e Instalações 
+2.000,00 
+
+0424 
+2921.10.0301.0024.1029.102 – REFORMA, AMPL., CONST. E/OU MANUT. DOS PRÉDIOS DO BLATB 
+
+4.4.90.51.00.00 – Obras e Instalações 
+2.000,00 
+
+0429 
+2921.10.301.0024.2039.102 – REMUNERAÇÃO DOS PROFISSIONAIS atenção básica em saúde 
+
+3.1.90.11.00.00 – Vencimentos e Vantagens Fixas – Pessoal Civil 
+45.335,46 
+
+0431 
+2921.10.301.0024.2039.102 – REMUNERAÇÃO DOS PROFISSIONAIS atenção básica em saúde 
+
+3.1.90.13.00.00 – Obrigações Patronais 
+2.366,43 
+
+0431 
+2921.10.301.0024.2039.102 – REMUNERAÇÃO DOS PROFISSIONAIS atenção básica em saúde 
+
+3.1.90.13.00.00 – Obrigações Patronais 
+654,48 
+
+0431 
+2921.10.301.0024.2039.102 – REMUNERAÇÃO DOS PROFISSIONAIS atenção básica em saúde 
+
+3.1.90.13.00.00 – Obrigações Patronais 
+5.836,61 
+
+0522 
+2923.10.304.0026.2045.159 – REMUNERAÇÃO DOS SERVIDORES DA VIGILÂNCIA SANITÁRIA 
+
+3.1.90.11.00.00 – Vencimentos e Vantagens Fixas – Pessoal Civil 
+2.121,26 
+
+0558 
+2924.10.0305.0027.2066.102 – SISTEMA MUNICIPAL VIG.EPIDEMIOLÓGICA E CONT. DE DOENÇAS 
+
+3.3.90.36.00.00 – Outros Serviços de Terceiros – Pessoa Física 
+3.0000,00 
+
+0654 
+3020.08.0244.0020.2051.100 – BENEFÍCIO DE PRESTAÇÃO CONTINUADA À COMUNIDADE 
+
+3.3.90.32.00.00 – Material, Bem ou Serviço para Distribuição Gratuita 
+1.000,00 
+
+  TOTAL 260.099,04 
+
+  
+
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+
+Artigo 4º: Revogam-se as disposições em contrário. 
+
+  
+
+Mendes Pimentel, 03 de outubro de 2022 
+
+  
+
+PAULO ANTÔNIO DE SOUZA 
+Prefeito Municipal 
+
+  
+
+Certidão: certifico que este Decreto foi registrado no livro nº ____, à (s) folha (s)______, e publicado no Diário Oficial do Município, no site 
+
+http://www.diari
+01-Dezembro-2022
+MENDES PIMENTEL
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes descriminações: 
+
+  
+Ficha Funcional Programática Valor 
+
+0003 
+2100.04.0122.0004.2001.100 - REMUNERAÇÃO DOS SERVIDORES DO GABINETE 
+
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+3.282,42 
+
+0112 
+2500.09.0272.0010.3006.100 - PAGTO DE APOSENTADORIAS E PENSÕES A SERVIDORES MUNICIPAIS 
+
+3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares 
+5.890,56 
+
+0174 
+2810.12.0122.0022.2018.101 - REMUNERAÇÃO DOS SERVIDORES DA SME 
+
+3.1.90.04.00.00 - Contratação por Tempo Determinado 
+13.820,55 
+
+0174 
+2810.12.0122.0022.2018.101 - REMUNERAÇÃO DOS SERVIDORES DA SME 
+
+3.1.90.04.00.00 - Contratação por Tempo Determinado 
+2.833,21 
+
+0266 
+2821.12.0361.0022.2025.101 - REMUNERAÇÃO DOS DEMAIS PROFISSIONAIS ENSINO FUNDAMENTAL 
+
+3.1.90.13.00.00 - Obrigações Patronais 
+16.143,84 
+
+0395 
+2910.10.0122.0023.2035.102 - REMUNERAÇÃO DOS SERVIDORES DA ADMIN. DA SMS 
+
+3.1.90.13.00.00 - Obrigações Patronais 
+452,94 
+
+0430 
+2921.10.0301.0024.2039.159 - REMUNERAÇÃO DOS PROFISSIONAIS ATENÇÃO BÁSICA EM SAÚDE 
+
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+606,55 
+
+0430 
+2921.10.0301.0024.2039.159 - REMUNERAÇÃO DOS PROFISSIONAIS ATENÇÃO BÁSICA EM SAÚDE 
+
+3.1.90.11.00.00 - Vencimentos e Vantagens Fixas – Pessoal Civil 
+1.117,32 
+
+0448 
+2921.10.0301.0024.2040.159 - MANUTENÇÃO DAS ATIVIDADES DO PROGRAMA SAÚDE DA FAMÍLIA 
+
+3.3.90.36.00.00 - Outros Serviços de Terceiros – Pessoa Física 
+432,78 
+
+0477 
+2921.10.0301.0024.2064.159 - REMUNERAÇÃO DOS AGENTES COMUN. DE SAÚDE - ACS 
+
+3.1.90.04.00.00 - Contratação por Tempo Determinado 
+434,87 
+
+0480 
+2921.10.0301.0024.2064.102 - REMUNERAÇÃO DOS AGENTES COMUN. DE SAÚDE - ACS 
+
+3.1.90.13.00.00 - Obrigações Patronais 
+1.527,12 
+
+  TOTAL 46.542,16 
+
+  
+
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+
+Artigo 4º: Revogam-se as disposições em contrário. 
+
+  
+
+Mendes Pimentel, 03 de outubro de 2022 
+
+  
+
+PAULO ANTÔNIO DE SOUZA 
+Prefeito Municipal 
+
+  
+
+Certidão: certifico que este Decreto foi registrado no livro nº ____, à (s) folha (s)______, e publicado no Diário Oficial do Município, no site 
+
+http://www.diariomunicipal.com.br/amm-mg/, em _____/_____/2022. 
+
+Publicado por: 
+Soraia Elena de Oliveira Almeida Botelho 
+
+Código Identificador:47529569 
+
+ 
+
+ESTADO DE MINAS GERAIS

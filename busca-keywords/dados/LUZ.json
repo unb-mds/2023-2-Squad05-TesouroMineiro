@@ -1,7 +1,642 @@
 [
     {
+        "Data": "28-Novembro-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 6327200.0
+    },
+    {
+        "Data": "12-Janeiro-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 67579819.21
+    },
+    {
+        "Data": "07-Fevereiro-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1274892.31
+    },
+    {
+        "Data": "16-Dezembro-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1376047.16
+    },
+    {
+        "Data": "09-Outubro-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 645796.0
+    },
+    {
+        "Data": "24-Maio-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 707002.12
+    },
+    {
+        "Data": "14-Junho-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 467347.17
+    },
+    {
+        "Data": "28-Fevereiro-2019",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 565409.3
+    },
+    {
+        "Data": "25-Setembro-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 474600.0
+    },
+    {
+        "Data": "25-Abril-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 7401.86
+    },
+    {
+        "Data": "25-Agosto-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 7993634.28
+    },
+    {
+        "Data": "11-Novembro-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 120000.0
+    },
+    {
+        "Data": "04-Abril-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 897755.0
+    },
+    {
+        "Data": "23-Outubro-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 289903.42
+    },
+    {
+        "Data": "14-Dezembro-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 17000.0
+    },
+    {
+        "Data": "06-Dezembro-2018",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 618094.59
+    },
+    {
+        "Data": "21-Novembro-2018",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 33000.0
+    },
+    {
+        "Data": "18-Novembro-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 572722.41
+    },
+    {
+        "Data": "14-Dezembro-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 911601.21
+    },
+    {
+        "Data": "23-Julho-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1495225.31
+    },
+    {
+        "Data": "04-Julho-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 852703.24
+    },
+    {
+        "Data": "03-Abril-2019",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 383485.52
+    },
+    {
+        "Data": "05-Junho-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1088373.32
+    },
+    {
+        "Data": "22-Dezembro-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 648.31
+    },
+    {
+        "Data": "09-Setembro-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 3429920.5
+    },
+    {
+        "Data": "28-Dezembro-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1250200.0
+    },
+    {
+        "Data": "20-Setembro-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 3154132.96
+    },
+    {
+        "Data": "11-Outubro-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 445077.37
+    },
+    {
+        "Data": "21-Maio-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 575674.12
+    },
+    {
+        "Data": "14-Maio-2018",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1030360.95
+    },
+    {
+        "Data": "19-Novembro-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1250125.7
+    },
+    {
+        "Data": "11-Fevereiro-2019",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 52180.0
+    },
+    {
+        "Data": "05-Julho-2018",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 127600.0
+    },
+    {
+        "Data": "02-Dezembro-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 2465139.84
+    },
+    {
+        "Data": "30-Maio-2018",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 504375.56
+    },
+    {
+        "Data": "03-Abril-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 277956.49
+    },
+    {
+        "Data": "04-Novembro-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 2884076.26
+    },
+    {
+        "Data": "11-Novembro-2019",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 2625913.87
+    },
+    {
+        "Data": "02-Setembro-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1930220.94
+    },
+    {
+        "Data": "18-Novembro-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 7623000.0
+    },
+    {
+        "Data": "03-Fevereiro-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 3326412.18
+    },
+    {
+        "Data": "11-Outubro-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 2208100.0
+    },
+    {
+        "Data": "15-Dezembro-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 668218.0
+    },
+    {
+        "Data": "23-Setembro-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 467169.72
+    },
+    {
+        "Data": "30-Novembro-2018",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1010133.66
+    },
+    {
+        "Data": "23-Julho-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 339971.73
+    },
+    {
+        "Data": "04-Fevereiro-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1421593.76
+    },
+    {
+        "Data": "13-Setembro-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 3605795.85
+    },
+    {
+        "Data": "03-Maio-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 110000.0
+    },
+    {
+        "Data": "08-Fevereiro-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 641080.35
+    },
+    {
+        "Data": "21-Outubro-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1107336.14
+    },
+    {
         "Data": "25-Outubro-2023",
         "Categoria": "Crédito Suplementar",
         "Soma": 332655.0
+    },
+    {
+        "Data": "28-Julho-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1892527.2
+    },
+    {
+        "Data": "19-Agosto-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 912713.16
+    },
+    {
+        "Data": "21-Junho-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 955070.19
+    },
+    {
+        "Data": "07-Janeiro-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 2441442.53
+    },
+    {
+        "Data": "04-Outubro-2018",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 2909299.22
+    },
+    {
+        "Data": "19-Abril-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 179480.0
+    },
+    {
+        "Data": "10-Outubro-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 759493.29
+    },
+    {
+        "Data": "26-Julho-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1441405.5
+    },
+    {
+        "Data": "11-Setembro-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 333038.58
+    },
+    {
+        "Data": "27-Julho-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 247842.27
+    },
+    {
+        "Data": "18-Julho-2018",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1466670.61
+    },
+    {
+        "Data": "18-Agosto-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 542953.31
+    },
+    {
+        "Data": "28-Novembro-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 6327200.0
+    },
+    {
+        "Data": "12-Janeiro-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 67579819.21
+    },
+    {
+        "Data": "07-Fevereiro-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1274892.31
+    },
+    {
+        "Data": "16-Dezembro-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1376047.16
+    },
+    {
+        "Data": "09-Outubro-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 645796.0
+    },
+    {
+        "Data": "24-Maio-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 707002.12
+    },
+    {
+        "Data": "14-Junho-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 467347.17
+    },
+    {
+        "Data": "28-Fevereiro-2019",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 565409.3
+    },
+    {
+        "Data": "25-Setembro-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 474600.0
+    },
+    {
+        "Data": "25-Abril-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 7401.86
+    },
+    {
+        "Data": "25-Agosto-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 7993634.28
+    },
+    {
+        "Data": "11-Novembro-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 120000.0
+    },
+    {
+        "Data": "04-Abril-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 897755.0
+    },
+    {
+        "Data": "23-Outubro-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 289903.42
+    },
+    {
+        "Data": "14-Dezembro-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 17000.0
+    },
+    {
+        "Data": "06-Dezembro-2018",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 618094.59
+    },
+    {
+        "Data": "21-Novembro-2018",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 33000.0
+    },
+    {
+        "Data": "18-Novembro-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 572722.41
+    },
+    {
+        "Data": "14-Dezembro-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 911601.21
+    },
+    {
+        "Data": "23-Julho-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1495225.31
+    },
+    {
+        "Data": "04-Julho-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 852703.24
+    },
+    {
+        "Data": "03-Abril-2019",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 383485.52
+    },
+    {
+        "Data": "05-Junho-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1088373.32
+    },
+    {
+        "Data": "22-Dezembro-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 648.31
+    },
+    {
+        "Data": "09-Setembro-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 3429920.5
+    },
+    {
+        "Data": "28-Dezembro-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1250200.0
+    },
+    {
+        "Data": "20-Setembro-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 3154132.96
+    },
+    {
+        "Data": "11-Outubro-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 445077.37
+    },
+    {
+        "Data": "21-Maio-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 575674.12
+    },
+    {
+        "Data": "14-Maio-2018",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1030360.95
+    },
+    {
+        "Data": "19-Novembro-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1250125.7
+    },
+    {
+        "Data": "11-Fevereiro-2019",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 52180.0
+    },
+    {
+        "Data": "05-Julho-2018",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 127600.0
+    },
+    {
+        "Data": "02-Dezembro-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 2465139.84
+    },
+    {
+        "Data": "30-Maio-2018",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 504375.56
+    },
+    {
+        "Data": "03-Abril-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 277956.49
+    },
+    {
+        "Data": "04-Novembro-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 2884076.26
+    },
+    {
+        "Data": "11-Novembro-2019",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 2625913.87
+    },
+    {
+        "Data": "02-Setembro-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1930220.94
+    },
+    {
+        "Data": "18-Novembro-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 7623000.0
+    },
+    {
+        "Data": "03-Fevereiro-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 3326412.18
+    },
+    {
+        "Data": "11-Outubro-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 2208100.0
+    },
+    {
+        "Data": "15-Dezembro-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 668218.0
+    },
+    {
+        "Data": "23-Setembro-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 467169.72
+    },
+    {
+        "Data": "30-Novembro-2018",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1010133.66
+    },
+    {
+        "Data": "23-Julho-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 339971.73
+    },
+    {
+        "Data": "04-Fevereiro-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1421593.76
+    },
+    {
+        "Data": "13-Setembro-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 3605795.85
+    },
+    {
+        "Data": "03-Maio-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 110000.0
+    },
+    {
+        "Data": "08-Fevereiro-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 641080.35
+    },
+    {
+        "Data": "21-Outubro-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1107336.14
+    },
+    {
+        "Data": "25-Outubro-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 332655.0
+    },
+    {
+        "Data": "28-Julho-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1892527.2
+    },
+    {
+        "Data": "19-Agosto-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 912713.16
+    },
+    {
+        "Data": "21-Junho-2022",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 955070.19
+    },
+    {
+        "Data": "07-Janeiro-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 2441442.53
+    },
+    {
+        "Data": "04-Outubro-2018",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 2909299.22
+    },
+    {
+        "Data": "19-Abril-2021",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 179480.0
+    },
+    {
+        "Data": "10-Outubro-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 759493.29
+    },
+    {
+        "Data": "26-Julho-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1441405.5
+    },
+    {
+        "Data": "11-Setembro-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 333038.58
+    },
+    {
+        "Data": "27-Julho-2023",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 247842.27
+    },
+    {
+        "Data": "18-Julho-2018",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 1466670.61
+    },
+    {
+        "Data": "18-Agosto-2020",
+        "Categoria": "Crédito Suplementar",
+        "Soma": 542953.31
     }
 ]

@@ -1,0 +1,748 @@
+12-Maio-2021
+VISCONDE DO RIO BRANCO
+A DE CRÉDITO SUPLEMENTAR E DA OUTRAS PROVIDÊNCIAS. 
+  
+O(A) Prefeito(a) Municipal de , Estado de Minas Gerais, no uso de suas atribuições legais, com base no da Lei Municipal 1539/2020 de 28/12/2020 e 
+art. 43 da Lei Federal 4.320/64, decreta: 
+ 
+Art. 1o. - Fica aberto o Crédito Suplementar no valor total de R$ 435.610,00 (quatrocentos e trinta e cinco mil , seiscentos e dez reais ), nas seguintes 
+dotações orçamentárias: 
+  
+Unid. Orc........: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.08.00 - OUTROS BENEFÍCIOS ASSISTENCIAIS   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 160,00 Ficha: 00065 
+
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.040 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.36.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 6.000,00 Ficha: 00178 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção.......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 2.101 - MANUTENÇÃO PESSOAL SAÚDE DA FAMÍLIA - PSF   
+
+Conta..............: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO   
+
+
+
+Minas Gerais , 12 de Maio de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3006 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              220 
+ 
+
+Fonte...............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+Valor...............: R$ 118.000,00 Ficha: 00355 
+
+Conta..............: 3.1.90.13.00 - OBRIGAÇÕES PATRONAIS   
+
+Fonte...............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+Valor...............: R$ 3.900,00 Ficha: 00358 
+
+Subfunção.......: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL   
+
+Programa........: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE   
+
+Proj/Ativ.........: 2.120 - MANUT. PESSOAL CENTRO ESPECIAL. ODONT. CEO   
+
+Conta..............: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL   
+
+Fonte...............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+Valor...............: R$ 30.000,00 Ficha: 00439 
+
+Subfunção.......: 305 - VIGILANCIA EPIDEMIOLOGICA   
+
+Programa........: 0014 - VIGILÂNCIA EM SAÚDE   
+
+Proj/Ativ.........: 2.125 - MANUT. ATIVIDADES DA VIGIL. EPIDEMIOLOGICA   
+
+Conta..............: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 47.800,00 Ficha: 00475 
+
+Conta..............: 3.1.90.16.00 - OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 3.800,00 Ficha: 00477 
+
+Conta..............: 3.1.91.13.00 - OBRIGAÇÕES PATRONAIS   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 9.000,00 Ficha: 00478 
+
+Unid. Orc........: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.130 - MANUTENÇÃO DO PESSOAL DA SECRETARIA   
+
+Conta..............: 3.1.90.94.00 - INDENIZAÇÕES RESTITUIÇÕES TRABALHISTAS   
+
+Fonte...............: 118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO   
+
+Valor...............: R$ 10.000,00 Ficha: 00496 
+
+Proj/Ativ.........: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.08.00 - OUTROS BENEFÍCIOS ASSISTENCIAIS   
+
+Fonte...............: 118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO   
+
+Valor...............: R$ 400,00 Ficha: 00498 
+
+Subfunção.......: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE   
+
+Programa........: 0016 - ALIMENTAÇÃO ESCOLAR   
+
+Proj/Ativ.........: 2.263 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor...............: R$ 189.600,00 Ficha: 00523 
+
+Unid. Orc........: 02.009.002 - FUNDO NACIONAL DE DESENV. EDUCAÇÃO - FUNDEB   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção.......: 361 - ENSINO FUNDAMENTAL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 2.183 - MANUTENÇÃO DAS ATIVIDADES DO SETOR - FUNDEB   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 119 - TRANSFERENCIAS DO FUNDEB - OUTRAS DESPESAS   
+
+Valor...............: R$ 16.000,00 Ficha: 00651 
+
+Unid. Orc........: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER   
+
+Função............: 13 - CULTURA   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.199 - MANUTENÇÃO DO PESSOAL DA SECRETARIA   
+
+Conta..............: 3.1.90.16.00 - OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 600,00 Ficha: 00688 
+
+Unid. Orc........: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL   
+
+Função............: 08 - ASSISTENCIA SOCIAL   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.232 - MANUTENÇÃO DO PESSOAL DA SECRETARIA   
+
+Conta..............: 3.1.90.13.00 - OBRIGAÇÕES PATRONAIS   
+
+Fonte...............: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS   
+
+Valor...............: R$ 350,00 Ficha: 00780 
+
+  
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 435.610,00 (quatrocentos e 
+trinta e cinco mil , seiscentos e dez reais ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+  
+Unid. Orc........: 02.005.000 - SECRETARIA MUN. FAZENDA E EXECUÇÃO FISCAL.   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.037 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 760,00 Ficha: 00157 
+
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.042 - MANUTENÇÃO DA FROTA MUNICIPAL   
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 6.000,00 Ficha: 00192 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção......: 301 - ATENCAO BASICA   
+
+
+
+Minas Gerais , 12 de Maio de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3006 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              221 
+ 
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 2.104 - MANUTENÇÃO PESSOAL SAÚDE BUCAL   
+
+Conta..............: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL   
+
+Fonte..............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+Valor..............: R$ 148.000,00 Ficha: 00369 
+
+Proj/Ativ.........: 2.105 - MANUTENÇÃO DAS ATIVIDADES SAÚDE BUCAL   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+
+12-Maio-2021
+VISCONDE DO RIO BRANCO
+to o Crédito Suplementar no valor total de R$ 435.610,00 (quatrocentos e trinta e cinco mil , seiscentos e dez reais ), nas seguintes 
+dotações orçamentárias: 
+  
+Unid. Orc........: 02.004.000 - SECRETARIA MUN. ADM. PLANEJAMENTO E GESTÃO   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.012 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.08.00 - OUTROS BENEFÍCIOS ASSISTENCIAIS   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 160,00 Ficha: 00065 
+
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.040 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.36.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 6.000,00 Ficha: 00178 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção.......: 301 - ATENCAO BASICA   
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 2.101 - MANUTENÇÃO PESSOAL SAÚDE DA FAMÍLIA - PSF   
+
+Conta..............: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO   
+
+
+
+Minas Gerais , 12 de Maio de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3006 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              220 
+ 
+
+Fonte...............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+Valor...............: R$ 118.000,00 Ficha: 00355 
+
+Conta..............: 3.1.90.13.00 - OBRIGAÇÕES PATRONAIS   
+
+Fonte...............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+Valor...............: R$ 3.900,00 Ficha: 00358 
+
+Subfunção.......: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL   
+
+Programa........: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE   
+
+Proj/Ativ.........: 2.120 - MANUT. PESSOAL CENTRO ESPECIAL. ODONT. CEO   
+
+Conta..............: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL   
+
+Fonte...............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+Valor...............: R$ 30.000,00 Ficha: 00439 
+
+Subfunção.......: 305 - VIGILANCIA EPIDEMIOLOGICA   
+
+Programa........: 0014 - VIGILÂNCIA EM SAÚDE   
+
+Proj/Ativ.........: 2.125 - MANUT. ATIVIDADES DA VIGIL. EPIDEMIOLOGICA   
+
+Conta..............: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 47.800,00 Ficha: 00475 
+
+Conta..............: 3.1.90.16.00 - OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 3.800,00 Ficha: 00477 
+
+Conta..............: 3.1.91.13.00 - OBRIGAÇÕES PATRONAIS   
+
+Fonte...............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor...............: R$ 9.000,00 Ficha: 00478 
+
+Unid. Orc........: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.130 - MANUTENÇÃO DO PESSOAL DA SECRETARIA   
+
+Conta..............: 3.1.90.94.00 - INDENIZAÇÕES RESTITUIÇÕES TRABALHISTAS   
+
+Fonte...............: 118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO   
+
+Valor...............: R$ 10.000,00 Ficha: 00496 
+
+Proj/Ativ.........: 2.131 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.08.00 - OUTROS BENEFÍCIOS ASSISTENCIAIS   
+
+Fonte...............: 118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO   
+
+Valor...............: R$ 400,00 Ficha: 00498 
+
+Subfunção.......: 243 - ASSISTENCIA A CRIANCA E AO ADOLESCENTE   
+
+Programa........: 0016 - ALIMENTAÇÃO ESCOLAR   
+
+Proj/Ativ.........: 2.263 - MANUT. PROGRAMA ALIMENTAÇÃO ESCOLAR   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor...............: R$ 189.600,00 Ficha: 00523 
+
+Unid. Orc........: 02.009.002 - FUNDO NACIONAL DE DESENV. EDUCAÇÃO - FUNDEB   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção.......: 361 - ENSINO FUNDAMENTAL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 2.183 - MANUTENÇÃO DAS ATIVIDADES DO SETOR - FUNDEB   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte...............: 119 - TRANSFERENCIAS DO FUNDEB - OUTRAS DESPESAS   
+
+Valor...............: R$ 16.000,00 Ficha: 00651 
+
+Unid. Orc........: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER   
+
+Função............: 13 - CULTURA   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.199 - MANUTENÇÃO DO PESSOAL DA SECRETARIA   
+
+Conta..............: 3.1.90.16.00 - OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL   
+
+Fonte...............: 100 - RECURSOS ORDINARIOS   
+
+Valor...............: R$ 600,00 Ficha: 00688 
+
+Unid. Orc........: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL   
+
+Função............: 08 - ASSISTENCIA SOCIAL   
+
+Subfunção.......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.232 - MANUTENÇÃO DO PESSOAL DA SECRETARIA   
+
+Conta..............: 3.1.90.13.00 - OBRIGAÇÕES PATRONAIS   
+
+Fonte...............: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS   
+
+Valor...............: R$ 350,00 Ficha: 00780 
+
+  
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 435.610,00 (quatrocentos e 
+trinta e cinco mil , seiscentos e dez reais ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+  
+Unid. Orc........: 02.005.000 - SECRETARIA MUN. FAZENDA E EXECUÇÃO FISCAL.   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.037 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 760,00 Ficha: 00157 
+
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.042 - MANUTENÇÃO DA FROTA MUNICIPAL   
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 6.000,00 Ficha: 00192 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção......: 301 - ATENCAO BASICA   
+
+
+
+Minas Gerais , 12 de Maio de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3006 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              221 
+ 
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 2.104 - MANUTENÇÃO PESSOAL SAÚDE BUCAL   
+
+Conta..............: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL   
+
+Fonte..............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+Valor..............: R$ 148.000,00 Ficha: 00369 
+
+Proj/Ativ.........: 2.105 - MANUTENÇÃO DAS ATIVIDADES SAÚDE BUCAL   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+Valor..............: R$ 3.900,00 Ficha: 00373 
+
+Proj/Ativ.........: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA- PSF   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$
+12-Maio-2021
+VISCONDE DO RIO BRANCO
+a de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 435.610,00 (quatrocentos e 
+trinta e cinco mil , seiscentos e dez reais ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+  
+Unid. Orc........: 02.005.000 - SECRETARIA MUN. FAZENDA E EXECUÇÃO FISCAL.   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.037 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 760,00 Ficha: 00157 
+
+Unid. Orc........: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA   
+
+Função............: 04 - ADMINISTRACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.042 - MANUTENÇÃO DA FROTA MUNICIPAL   
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte..............: 100 - RECURSOS ORDINARIOS   
+
+Valor..............: R$ 6.000,00 Ficha: 00192 
+
+Unid. Orc........: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE   
+
+Função............: 10 - SAUDE   
+
+Subfunção......: 301 - ATENCAO BASICA   
+
+
+
+Minas Gerais , 12 de Maio de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3006 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              221 
+ 
+
+Programa........: 0011 - ATENÇÃO BÁSICA   
+
+Proj/Ativ.........: 2.104 - MANUTENÇÃO PESSOAL SAÚDE BUCAL   
+
+Conta..............: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL   
+
+Fonte..............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+Valor..............: R$ 148.000,00 Ficha: 00369 
+
+Proj/Ativ.........: 2.105 - MANUTENÇÃO DAS ATIVIDADES SAÚDE BUCAL   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 159 - TRANS. DO SUS-BLOCO CUSTEIO ACOES/SERV SAUDE   
+
+Valor..............: R$ 3.900,00 Ficha: 00373 
+
+Proj/Ativ.........: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA- PSF   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 102 - RECEITAS DE IMPOSTOS - SAÚDE   
+
+Valor..............: R$ 60.600,00 Ficha: 00391 
+
+Unid. Orc........: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção......: 122 - ADMINISTRACAO GERAL   
+
+Programa........: 0001 - GESTÃO ADMINISTRATIVA   
+
+Proj/Ativ.........: 2.132 - MANUTENÇÃO DE ESTAGIÁRIOS COM BOLSA DE ESTUDO   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor..............: R$ 20.000,00 Ficha: 00513 
+
+Subfunção......: 361 - ENSINO FUNDAMENTAL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 1.149 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA UNIDADE ESCOLAR   
+
+Conta..............: 4.4.90.51.00 - OBRAS E INSTALAÇÕES   
+
+Fonte..............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor..............: R$ 44.600,00 Ficha: 00525 
+
+Proj/Ativ.........: 2.143 - MANUT. DAS ATIVIDADES DO SETOR REC. PROPRIO   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor..............: R$ 30.000,00 Ficha: 00542 
+
+Programa........: 0018 - TRANSPORTE ESCOLAR   
+
+Proj/Ativ.........: 2.152 - MANUT. SERVIÇOS TRANSP. ESCOLAR REC. PRÓPRIO   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor..............: R$ 20.000,00 Ficha: 00558 
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor..............: R$ 30.000,00 Ficha: 00559 
+
+Subfunção......: 365 - EDUCACAO INFANTIL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 2.159 - MANUT. ATIV. EDUC.INFANTIL - CRECHE   
+
+Conta..............: 3.3.90.30.00 - MATERIAL DE CONSUMO   
+
+Fonte..............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor..............: R$ 20.000,00 Ficha: 00605 
+
+Conta..............: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE   
+
+Fonte..............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor..............: R$ 5.000,00 Ficha: 00608 
+
+Proj/Ativ.........: 2.167 - MANUTENÇÃO DAS SUBVENÇÕES SOCIAIS   
+
+Conta..............: 3.3.50.43.00 - SUBVENÇÕES SOCIAIS   
+
+Fonte..............: 101 - RECEITAS DE IMPOSTOS - EDUCAÇÃO   
+
+Valor..............: R$ 20.000,00 Ficha: 00620 
+
+Unid. Orc........: 02.009.002 - FUNDO NACIONAL DE DESENV. EDUCAÇÃO - FUNDEB   
+
+Função............: 12 - EDUCACAO   
+
+Subfunção......: 361 - ENSINO FUNDAMENTAL   
+
+Programa........: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA   
+
+Proj/Ativ.........: 2.180 - MANUTENÇÃO DO PESSOAL DOCENTE - FUNDEB   
+
+Conta..............: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO   
+
+Fonte..............: 118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO   
+
+Valor..............: R$ 10.400,00 Ficha: 00634 
+
+Subfunção......: 365 - EDUCACAO INFANTIL   
+
+Programa........: 0018 - TRANSPORTE ESCOLAR   
+
+Proj/Ativ.........: 2.197 - MANUT. SERVIÇOS TRANSPORTE ESCOLAR - FUNDEB   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 119 - TRANSFERENCIAS DO FUNDEB - OUTRAS DESPESAS   
+
+Valor..............: R$ 16.000,00 Ficha: 00680 
+
+Unid. Orc........: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL   
+
+Função............: 08 - ASSISTENCIA SOCIAL   
+
+Subfunção......: 244 - ASSISTENCIA COMUNITARIA   
+
+Programa........: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL   
+
+Proj/Ativ.........: 2.243 - MANUT. PROG SERV. CONVIV. FORT. VINC. - SCFV   
+
+Conta..............: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDIC   
+
+Fonte..............: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS   
+
+Valor..............: R$ 350,00 Ficha: 00846 
+
+  
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+  
+, 27 DE ABRIL DE 2021 
+ 
+
+Publicado por: 
+Paula Alinne de Oliveira Nascimento 
+
+Código Identificador:08096D00 
+
+ 
+
+
+
+Minas Gerais , 12 de Maio de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3006 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                                                                        222 
+ 
+
+ESTADO DE MINAS GERAIS

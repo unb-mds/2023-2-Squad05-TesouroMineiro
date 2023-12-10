@@ -1,0 +1,822 @@
+15-Abril-2019
+VISCONDE DO RIO BRANCO
+A DE CRÉDITO SUPLEMENTAR E DA OUTRAS PROVIDÊNCIAS. 
+
+  
+
+O(A) Prefeito(a) Municipal de , Estado de Minas Gerais, no uso de suas atribuições legais, com base na Lei 14672018 12/12/2018 e art. 43 da Lei 
+
+Federal 4.320/64, decreta: 
+
+Art. 1o. - Fica aberto o Crédito Suplementar no valor total de R$ 314.695,30 (trezentos e quatorze mil , seiscentos e noventa e cinco reais e trinta 
+
+centavos ), as seguintes dotações orçamentárias: 
+
+  
+Unid. Orc.: 02.005.000 - SECRETARIA MUN. FAZENDA E EXECUÇÃO FISCAL. 
+
+Função....: 04 - ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.036 - MANUTENÇÃO DO PESSOAL DA SECRETARIA 
+
+Conta.....: 3.1.90.16.00 - OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$150,00 
+
+Unid. Orc.: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função....: 15 - URBANISMO 
+
+Subfunção.: 451 - INFRA-ESTRUTURA URBANA 
+
+Programa..: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 2.043 - MANUTENÇÃO DOS SERVIÇOS DE MOBILIDADE URBANA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$120.160,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRAT 
+
+Fonte.....: 112 - SERVIÇOS DE SAÚDE 
+
+Valor.....: R$17.614,00 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.102 - MANUTENÇÃO PESSOAL AGENTE COMUNIT. SAÚDE-ACS 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$17.560,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.116 - MANUT. PESSOAL CENTRO DE ATENÇÃO PSIC. - CAPS 
+
+Conta.....: 3.1.90.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$2.900,00 
+
+Subfunção.: 305 - VIGILANCIA EPIDEMIOLOGICA 
+
+Programa..: 0014 - VIGILÂNCIA EM SAÚDE 
+
+Proj/Ativ.: 2.125 - MANUT. ATIVIDADES DA VIGIL. EPIDEMIOLOGICA 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$10.270,00 
+
+Conta.....: 3.1.90.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$2.310,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 361 - ENSINO FUNDAMENTAL 
+
+
+
+Minas Gerais , 15 de Abril de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2482 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              215 
+
+ 
+
+Programa..: 0018 - TRANSPORTE ESCOLAR 
+
+Proj/Ativ.: 2.153 - MANUT. SERVIÇOS TRANSP. ESCOLAR REC. VINCULAD 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor.....: R$125.756,30 
+
+Unid. Orc.: 02.009.002 - FUNDO NACIONAL DE DESENV. EDUCAÇÃO - FUNDEB 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 365 - EDUCACAO INFANTIL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 2.190 - MANUT. PESSOAL DOCENTE REC. FUNDEB PRE-ESCOLA 
+
+Conta.....: 3.1.90.16.00 - OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL 
+
+Fonte.....: 118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 
+
+Valor.....: R$7.600,00 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função....: 13 - CULTURA 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.199 - MANUTENÇÃO DO PESSOAL DA SECRETARIA 
+
+Conta.....: 3.1.90.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$350,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função....: 08 - ASSISTENCIA SOCIAL 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.231 - MANUTENÇÃO DA REMUNERAÇÃO DO SECRETÁRIO 
+
+Conta.....: 3.1.91.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$8.900,00 
+
+Proj/Ativ.: 2.232 - MANUTENÇÃO DO PESSOAL DA SECRETARIA 
+
+Conta.....: 3.1.90.05.00 - OUTROS BENEFÍCIOS PREVIDENCIÁRIOS 
+
+Fonte.....: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor.....: R$25,00 
+
+Proj/Ativ.: 2.233 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.46.00 - AUXÍLIO-ALIMENTAÇÃO 
+
+Fonte.....: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor.....: R$1.100,00 
+
+  
+
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 314.695,30 (trezentos e 
+
+quatorze mil , seiscentos e noventa e cinco reais e trinta centavos ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.101 - MANUTENÇÃO PESSOAL SAÚDE DA FAMÍLIA - PSF 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$17.560,00 
+
+Proj/Ativ.: 2.111 - MANUTENÇÃO DAS ACADEMIAS DE SAÚDE 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$10.270,00 
+
+Proj/Ativ.: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 112 - SERVIÇOS DE SAÚDE 
+
+Valor.....: R$17.614,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.120 - MANUT. PESSOAL CENTRO ESPECIAL. ODONT. CEO 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$2.900,00 
+
+Subfunção.: 304 - VIGILANCIA SANITARIA 
+
+Programa..: 0014 - VIGILÂNCIA EM SAÚDE 
+
+Proj/Ativ.: 2.124 - MANUT. DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 
+
+Conta.....: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL C 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$2.310,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 365 - EDUCACAO INFANTIL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 1.163 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA UNIDADE ESCOLAR 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor.....: R$125.756,30 
+
+Unid. Orc.: 02.009.002 - FUNDO NACIONAL DE DESENV. EDUCAÇÃO - FUNDEB 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 365 - EDUCACAO INFANTIL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 2.191 - MANUT. PESSOAL DOCENTE REC. FUNDEB - CRECHE 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 
+
+Valor.....: R$7.600,00 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função....: 27 - DESPORTO E LAZER 
+
+Subfunção.: 813 - LAZER 
+
+
+
+Minas Gerais , 15 de Abril de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2482 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              216 
+
+ 
+
+Programa..: 0023 - IMPLANTAÇÃO DA POLITICA DE DESPORTO E LAZER 
+
+Proj/Ativ.: 2.221 - MANUTENÇÃO ATIVIDADES DO CARNAVAL 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$120.160,00 
+
+Unid. Orc.: 02.010.002 - FUNDO MUN. PROTEÇÃO DO PATRIMÔNIO CULTURAL 
+
+Função....: 13 - CULTURA 
+
+Subfunção.: 391 - PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGIC 
+
+Programa..: 0021 - PATRIMÔNIO HISTÓRICO, ARTÍSTICO
+15-Abril-2019
+VISCONDE DO RIO BRANCO
+to o Crédito Suplementar no valor total de R$ 314.695,30 (trezentos e quatorze mil , seiscentos e noventa e cinco reais e trinta 
+
+centavos ), as seguintes dotações orçamentárias: 
+
+  
+Unid. Orc.: 02.005.000 - SECRETARIA MUN. FAZENDA E EXECUÇÃO FISCAL. 
+
+Função....: 04 - ADMINISTRACAO 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.036 - MANUTENÇÃO DO PESSOAL DA SECRETARIA 
+
+Conta.....: 3.1.90.16.00 - OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$150,00 
+
+Unid. Orc.: 02.006.000 - SECRETARIA MUN. OBRAS E MOBILIDADE URBANA 
+
+Função....: 15 - URBANISMO 
+
+Subfunção.: 451 - INFRA-ESTRUTURA URBANA 
+
+Programa..: 0007 - PLANEJAMENTO E EXECUÇÃO DE OBRAS E MELHORIA 
+
+Proj/Ativ.: 2.043 - MANUTENÇÃO DOS SERVIÇOS DE MOBILIDADE URBANA 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$120.160,00 
+
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.096 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.32.00 - MATERIAL BEM OU SERVIÇO. P/ DISTRIB. GRAT 
+
+Fonte.....: 112 - SERVIÇOS DE SAÚDE 
+
+Valor.....: R$17.614,00 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.102 - MANUTENÇÃO PESSOAL AGENTE COMUNIT. SAÚDE-ACS 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$17.560,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.116 - MANUT. PESSOAL CENTRO DE ATENÇÃO PSIC. - CAPS 
+
+Conta.....: 3.1.90.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$2.900,00 
+
+Subfunção.: 305 - VIGILANCIA EPIDEMIOLOGICA 
+
+Programa..: 0014 - VIGILÂNCIA EM SAÚDE 
+
+Proj/Ativ.: 2.125 - MANUT. ATIVIDADES DA VIGIL. EPIDEMIOLOGICA 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$10.270,00 
+
+Conta.....: 3.1.90.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$2.310,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 361 - ENSINO FUNDAMENTAL 
+
+
+
+Minas Gerais , 15 de Abril de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2482 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              215 
+
+ 
+
+Programa..: 0018 - TRANSPORTE ESCOLAR 
+
+Proj/Ativ.: 2.153 - MANUT. SERVIÇOS TRANSP. ESCOLAR REC. VINCULAD 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor.....: R$125.756,30 
+
+Unid. Orc.: 02.009.002 - FUNDO NACIONAL DE DESENV. EDUCAÇÃO - FUNDEB 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 365 - EDUCACAO INFANTIL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 2.190 - MANUT. PESSOAL DOCENTE REC. FUNDEB PRE-ESCOLA 
+
+Conta.....: 3.1.90.16.00 - OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL 
+
+Fonte.....: 118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 
+
+Valor.....: R$7.600,00 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função....: 13 - CULTURA 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.199 - MANUTENÇÃO DO PESSOAL DA SECRETARIA 
+
+Conta.....: 3.1.90.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$350,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função....: 08 - ASSISTENCIA SOCIAL 
+
+Subfunção.: 122 - ADMINISTRACAO GERAL 
+
+Programa..: 0001 - GESTÃO ADMINISTRATIVA 
+
+Proj/Ativ.: 2.231 - MANUTENÇÃO DA REMUNERAÇÃO DO SECRETÁRIO 
+
+Conta.....: 3.1.91.13.00 - OBRIGAÇÕES PATRONAIS 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$8.900,00 
+
+Proj/Ativ.: 2.232 - MANUTENÇÃO DO PESSOAL DA SECRETARIA 
+
+Conta.....: 3.1.90.05.00 - OUTROS BENEFÍCIOS PREVIDENCIÁRIOS 
+
+Fonte.....: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor.....: R$25,00 
+
+Proj/Ativ.: 2.233 - MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA 
+
+Conta.....: 3.3.90.46.00 - AUXÍLIO-ALIMENTAÇÃO 
+
+Fonte.....: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor.....: R$1.100,00 
+
+  
+
+Art. 2o. - Como recursos a abertura de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 314.695,30 (trezentos e 
+
+quatorze mil , seiscentos e noventa e cinco reais e trinta centavos ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.101 - MANUTENÇÃO PESSOAL SAÚDE DA FAMÍLIA - PSF 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$17.560,00 
+
+Proj/Ativ.: 2.111 - MANUTENÇÃO DAS ACADEMIAS DE SAÚDE 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$10.270,00 
+
+Proj/Ativ.: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 112 - SERVIÇOS DE SAÚDE 
+
+Valor.....: R$17.614,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.120 - MANUT. PESSOAL CENTRO ESPECIAL. ODONT. CEO 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$2.900,00 
+
+Subfunção.: 304 - VIGILANCIA SANITARIA 
+
+Programa..: 0014 - VIGILÂNCIA EM SAÚDE 
+
+Proj/Ativ.: 2.124 - MANUT. DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 
+
+Conta.....: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL C 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$2.310,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 365 - EDUCACAO INFANTIL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 1.163 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA UNIDADE ESCOLAR 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor.....: R$125.756,30 
+
+Unid. Orc.: 02.009.002 - FUNDO NACIONAL DE DESENV. EDUCAÇÃO - FUNDEB 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 365 - EDUCACAO INFANTIL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 2.191 - MANUT. PESSOAL DOCENTE REC. FUNDEB - CRECHE 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 
+
+Valor.....: R$7.600,00 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função....: 27 - DESPORTO E LAZER 
+
+Subfunção.: 813 - LAZER 
+
+
+
+Minas Gerais , 15 de Abril de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2482 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              216 
+
+ 
+
+Programa..: 0023 - IMPLANTAÇÃO DA POLITICA DE DESPORTO E LAZER 
+
+Proj/Ativ.: 2.221 - MANUTENÇÃO ATIVIDADES DO CARNAVAL 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$120.160,00 
+
+Unid. Orc.: 02.010.002 - FUNDO MUN. PROTEÇÃO DO PATRIMÔNIO CULTURAL 
+
+Função....: 13 - CULTURA 
+
+Subfunção.: 391 - PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGIC 
+
+Programa..: 0021 - PATRIMÔNIO HISTÓRICO, ARTÍSTICO, CULTURAL E A 
+
+Proj/Ativ.: 2.211 - MANUTENÇÃO DAS SUBVENÇÕES SOCIAIS 
+
+Conta.....: 3.3.50.43.00 - SUBVENÇÕES SOCIAIS 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$9.400,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL
+15-Abril-2019
+VISCONDE DO RIO BRANCO
+a de Crédito Suplementar no artigo primeiro deste decreto fica anulado o valor de R$ 314.695,30 (trezentos e 
+
+quatorze mil , seiscentos e noventa e cinco reais e trinta centavos ), referente a anulação parcial ou total das dotações abaixo relacionadas. 
+
+  
+Unid. Orc.: 02.008.001 - FUNDO MUNICIPAL DE SAÚDE 
+
+Função....: 10 - SAUDE 
+
+Subfunção.: 301 - ATENCAO BASICA 
+
+Programa..: 0011 - ATENÇÃO BÁSICA 
+
+Proj/Ativ.: 2.101 - MANUTENÇÃO PESSOAL SAÚDE DA FAMÍLIA - PSF 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 148 - TRANS. DE RECURSOS DO SUS PARA ATENÇÃO BÁ 
+
+Valor.....: R$17.560,00 
+
+Proj/Ativ.: 2.111 - MANUTENÇÃO DAS ACADEMIAS DE SAÚDE 
+
+Conta.....: 4.4.90.52.00 - EQUIPAMENTO E MATERIAL PERMANENTE 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$10.270,00 
+
+Proj/Ativ.: 2.228 - MANUT. DAS ATIVIDADES SAÚDE DA FAMÍLIA - PSF 
+
+Conta.....: 3.3.90.30.00 - MATERIAL DE CONSUMO 
+
+Fonte.....: 112 - SERVIÇOS DE SAÚDE 
+
+Valor.....: R$17.614,00 
+
+Subfunção.: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL 
+
+Programa..: 0012 - ATENÇÃO MÉDIA E ALTA COMPLEXIDADE 
+
+Proj/Ativ.: 2.120 - MANUT. PESSOAL CENTRO ESPECIAL. ODONT. CEO 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 149 - TRANS. DE RECURSOS DO SUS - AMBULATORIAL 
+
+Valor.....: R$2.900,00 
+
+Subfunção.: 304 - VIGILANCIA SANITARIA 
+
+Programa..: 0014 - VIGILÂNCIA EM SAÚDE 
+
+Proj/Ativ.: 2.124 - MANUT. DAS ATIVIDADES DA VIGILÂNCIA SANITÁRIA 
+
+Conta.....: 3.1.90.11.00 - VENCIMENTOS E VANTAGENS FIXAS - PESSOAL C 
+
+Fonte.....: 102 - RECEITAS DE IMPOSTOS - SAÚDE 
+
+Valor.....: R$2.310,00 
+
+Unid. Orc.: 02.009.001 - SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 365 - EDUCACAO INFANTIL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 1.163 - CONSTRUÇÃO/AMPLIAÇÃO/REFORMA UNIDADE ESCOLAR 
+
+Conta.....: 4.4.90.51.00 - OBRAS E INSTALAÇÕES 
+
+Fonte.....: 147 - TRANSFERENCIAS DO SALARIO-EDUCAÇÃO 
+
+Valor.....: R$125.756,30 
+
+Unid. Orc.: 02.009.002 - FUNDO NACIONAL DE DESENV. EDUCAÇÃO - FUNDEB 
+
+Função....: 12 - EDUCACAO 
+
+Subfunção.: 365 - EDUCACAO INFANTIL 
+
+Programa..: 0017 - EXPANSÃO MELHORIA CONTÍNUA DA EDUC. BÁSICA 
+
+Proj/Ativ.: 2.191 - MANUT. PESSOAL DOCENTE REC. FUNDEB - CRECHE 
+
+Conta.....: 3.1.90.04.00 - CONTRATAÇÃO POR TEMPO DETERMINADO 
+
+Fonte.....: 118 - TRANSFERENCIAS DO FUNDEB - MAGISTÉRIO 
+
+Valor.....: R$7.600,00 
+
+Unid. Orc.: 02.010.001 - SEC. MUN. CULTURA, TURISMO, ESPORTE E LAZER 
+
+Função....: 27 - DESPORTO E LAZER 
+
+Subfunção.: 813 - LAZER 
+
+
+
+Minas Gerais , 15 de Abril de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2482 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              216 
+
+ 
+
+Programa..: 0023 - IMPLANTAÇÃO DA POLITICA DE DESPORTO E LAZER 
+
+Proj/Ativ.: 2.221 - MANUTENÇÃO ATIVIDADES DO CARNAVAL 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$120.160,00 
+
+Unid. Orc.: 02.010.002 - FUNDO MUN. PROTEÇÃO DO PATRIMÔNIO CULTURAL 
+
+Função....: 13 - CULTURA 
+
+Subfunção.: 391 - PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGIC 
+
+Programa..: 0021 - PATRIMÔNIO HISTÓRICO, ARTÍSTICO, CULTURAL E A 
+
+Proj/Ativ.: 2.211 - MANUTENÇÃO DAS SUBVENÇÕES SOCIAIS 
+
+Conta.....: 3.3.50.43.00 - SUBVENÇÕES SOCIAIS 
+
+Fonte.....: 100 - RECURSOS ORDINARIOS 
+
+Valor.....: R$9.400,00 
+
+Unid. Orc.: 02.011.001 - SECRETARIA MUN. DE DESENVOLVIMENTO SOCIAL 
+
+Função....: 08 - ASSISTENCIA SOCIAL 
+
+Subfunção.: 244 - ASSISTENCIA COMUNITARIA 
+
+Programa..: 0024 - GESTÃO E EXECUÇÃO POLÍTICAS DE ASSIST. SOCIAL 
+
+Proj/Ativ.: 2.243 - MANUT. PROG SERV. CONVIV. FORT. VINC. - SCFV 
+
+Conta.....: 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JUR 
+
+Fonte.....: 129 - TRANSFERENCIAS DE RECURSOS DO FNAS 
+
+Valor.....: R$1.125,00 
+
+  
+
+Art. 3o. - Revogadas as disposições em contrário, entra este decreto em vigor na data de sua publicação. 
+
+  
+
+Prefeitura Municipal de , 29 de março de 2019 
+
+Publicado por: 
+
+Marileia Medeiros 
+
+Código Identificador:F81D984B 
+
+ 
+
+ 
+
+
+		2019-04-12T18:31:51-0300
+	VOX SOLUCOES TECNOLOGICAS LTDA ME:00684621000131

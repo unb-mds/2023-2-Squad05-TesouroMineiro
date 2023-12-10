@@ -1,0 +1,3884 @@
+22-Dezembro-2021
+CATAS ALTAS
+a de Crédito Suplementar 
+
+  
+
+O Prefeito Municipal de Catas Altas/MG, no uso de suas atribuições e com base no Art. 2º da Lei Orçamentária Anual nº 698/2020 e em 
+
+conformidade com o Art. 176 da Consituição Federal, e Lei Federal 4320/64. 
+
+D E C R E T A: 
+
+  
+
+Art. 1º - Fica aberto o Crédito Suplementar no Orçamento vigente do Poder Executivo Municipal, no montante de R$ 10.800,00, conforme 
+
+discriminações: 
+
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+1 1         
+
+1.01 GOVERNANÇA PÚBLICA - GABINETE DO PREFEITO         
+
+01.0031.0001.2.001.000 MANUTENCAO DO CORPO LEGISLATIVO         
+
+  Diárias - Pessoal Civil 3.3.90.14.00 754 100 400,00 
+
+  
+
+01.0031.0001.2.002.000 
+
+  
+
+MANUTENCAO DAS ATIVIDADES DA CAMARA 
+        
+
+  Diárias - Pessoal Civil 3.3.90.14.00 760 100 600,00 
+
+  
+
+01.0031.0001.2.003.000 
+
+  
+
+MANUTENCAO ATIVIDADES DA CAMARA 
+        
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 766 100 8.953,80 
+
+  
+
+01.0031.0001.1.002.000 
+
+  
+
+AQUISICAO EQUIPAMENTO E MATERIAL PERMANENTE 
+        
+
+  Equipamentos e Material Permanente 4.4.90.52.00 751 100 846,20 
+
+    Total Órgão 1 10.800,00 
+
+  
+
+Total dos Créditos..................................................... 10.800,00 
+
+Art. 2º - Os recursos utilizados serão os constantes do quadro abaixo: 
+
+  
+
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+1 1 
+
+  
+
+3.3.90.36.00 
+
+  
+
+765 
+
+  
+
+100 
+
+  
+
+10.800,00 
+
+1.01 GOVERNANÇA PÚBLICA - GABINETE DO PREFEITO 
+
+01.0031.0001.2.003.000 MANUTENCAO ATIVIDADES DA CAMARA 
+
+  Outros Serviços de Terceiros - Pessoa Física 
+
+    Total 1 10.800,00 
+
+  
+
+Total da (s) Redução (ôes)........................................................................... 10.800,00  
+  
+
+Art. 3º - Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos para 14/12/2021, revogadas as disposições em contrário. 
+
+  
+
+Catas Altas, 14 de dezembro de 2021. 
+
+  
+
+SAULO MORAIS DE CASTRO 
+Prefeito Municipal 
+
+Publicado por: 
+Ludimili Aparecida Guerra 
+
+Código Identificador:5AA4626C 
+
+ 
+PROCURADORIA JURÍDICA 
+
+DECRETO Nº 380/2021 
+
+ 
+
+DECRETO Nº380/2021 
+
+  
+
+―Regulamenta as disposições do Imposto Sobre Serviços de Qualquer Natureza – ISSQN, quanto a geração da Nota Fiscal de 
+
+Serviços Eletrônica (NFS-e) e Declaração Eletrônica do ISSQN, e dá outras providências”. 
+
+  
+
+O Prefeito Municipal de Catas Altas, Estado de Minas Gerais, usando as atribuições que lhe são conferidas pela Lei Orgânica do Município, 
+
+considerando a lei complementar 186 de 25 de outubro de 2005, que dispõe sobre o código tributário municipal, em observação à Legislação 
+
+Nacional e Municipal, bem como em consonância com o artigo 4º da Lei 8.078, de 11 de setembro de 1.990, conhecida como Código de Defesa do 
+
+Consumidor (CDC), 
+
+  
+
+DECRETA: 
+  
+
+Art. 1o - Fica, por este decreto, regulamentada a geração da Nota Fiscal de Serviços Eletrônica (NFS-e) e a Declaração Eletrônica do ISSQN, de 
+
+existência exclusivamente digital, que deverá ser gerado, armazenado e apresentado eletronicamente à Administração Tributária, por meio do uso da 
+
+Tecnologia da Informação, tendo como objetivo registrar as operações relativas à prestação e contratação de serviços. 
+
+§1º - A geração da NFS-e e a Declaração Eletrônica do ISS somente se dará através dos serviços informatizados disponibilizados pelo município de 
+
+Catas Altas na Internet no endereço HTTP://www.catasaltas.mg.gov.br, sendo vedada a utilização de outro meio não previsto neste decreto. 
+
+TÍTULO I 
+
+Da Nota Fiscal de Serviços Eletrônica 
+
+CAPÍTULO 1 
+
+Dos Contribuintes Obrigados 
+
+Art. 2º As pessoas físicas e jurídicas, prestadoras de serviços, contribuintes do ISSQN, ainda que optante pelo regime previsto na lei complementar 
+
+123 de 14 de dezembro de 2006, denominado Simples Nacional, independente da incidência do ISS sobre os serviços executados, inscritas no 
+
+Cadastro de Contribuintes, do município de Catas Altas, emitirão a Nota Fiscal de Serviços Eletrônica (NFS-e), utilizando-se da Tecnologia da 
+
+Informação e de Certificado Digital, quando necessário, obtido através de Autoridade Certificadora da ICP-Brasil. 
+
+
+
+Minas Gerais , 22 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3161 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               299 
+
+ 
+
+§1º - Os contribuintes referidos no caput do artigo são aqueles enquadrados nos subitens da lista de serviços, tributáveis pelo Imposto sobre Serviços 
+
+de Qualquer Natureza (ISSQN), constantes no anexo I da lei complementar 186 de 25 de outubro de 2005. 
+
+§2º - A legislação e os manuais poderão ser obtidos através de Download no portal do Município na Internet. 
+
+  
+
+Art. 3º - Os prestadores de serviços especificados no artigo 2º, poderão optar pela geração da NFS-e de forma espontânea, independentemente de 
+
+qualquer notificação fiscal emitida pela Prefeitura de Catas Altas. 
+
+  
+
+CAPÍTULO 2 
+
+Dos Contribuintes Dispensados da Obrigação 
+
+  
+
+Art. 4º - Ficam dispensados da geração da NFS-e, os contribuintes: 
+
+I – Cujo lançamento do ISSQN é efetuado de ofício pela Autoridade Administrativa; 
+
+II – Cujos serviços são executados sob a forma de trabalho pessoal do próprio contribuinte, mediante remuneração, sem deferi-los a terceiros; 
+
+III – Cujos serviços sejam prestados por sociedades de profissionais com trabalho pessoal do próprio contribuinte; 
+
+IV – Que estejam enquadrados em Regime Especial de Tributação; 
+
+V – As instituições financeiras, bancos comerciais e cooperativas de crédito, ficando, porém, obrigadas a prestar as informações requeridas em 
+
+módulo específico do programa eletrônico, declarando a receita bruta e detalhando-a por conta analítica, nos moldes do Capítulo 4 do Título II deste 
+
+Decreto; 
+
+VI – Os cartórios notariais e de registro, ficando, porém, obrigados a declarar todos os atos praticados informando código e valor; 
+
+VII – Os contribuintes em regime de estimativa que ficam obrigados a declarar os serviços prestados. 
+
+§1º - A dispensa a que se refere o caput não se aplica aos contribuintes que já emitem nota fiscal de serviços podendo o contribuinte requerer a 
+
+dispensa que ficará sujeita à análise e posterior decisão do município. 
+
+§2º - As disposições contidas neste artigo não excluem a obrigatoriedade dos contribuintes citados no caput de fornecerem a NFS-e aos tomadores 
+
+dos seus serviços que a solicitarem expressamente. 
+
+  
+
+CAPÍTULO 3 
+
+Dos Demais Contribuintes 
+
+  
+
+Art. 5º - Os prestadores de serviços que não estão obrigados à emissão de Nota Fiscal de Serviços Eletrônica (NFS-e), deverão continuar emitindo os 
+
+documentos fiscais e os escriturando em conformidade com a legislação tributária municipal. 
+
+CAPÍTULO 4 
+
+Do Método para o Ingresso 
+
+  
+
+Art. 6º - Para o ingresso na metodologia de geração de Nota Fiscal de Serviços Eletrônica (NFS-e), os contribuintes especificados no Capítulo 1, 
+
+devem exercer a atividade econômica descritas na no Anexo I da lei complementar 186 de 25 de outubro de 2005 e alterações. 
+
+§1º - Ficam excluídas da utilização da NFS-e as Pessoas Jurídicas de Direito Público e Privado que exerçam as atividades vetadas contidas no anexo 
+
+I da lei complementar 186 de 25 de outubro de 2005 e suas alterações. 
+
+§2º - Os contribuintes não obrigados ou dispensados e que fizerem opção, espontaneamente, pela geração da NFS-e, deverão executar os 
+
+procedimentos administrativos necessários para o ingresso na forma da legislação tributária municipal. 
+
+§3º - O ingresso na nova metodologia, ainda que por opção do contribuinte, estará sujeita a análise e autorização da Autoridade Administrativa nos 
+
+termos da legislação tributária municipal. 
+
+  
+
+Seção 1 
+
+Da Solicitação de Acesso ao Sistema e dos Documentos Necessários para Análise 
+
+  
+
+Art. 7º - O acesso ao sistema de Nota Fiscal de Serviços Eletrônica (NFS-e), para geração de NFS-e, deve ser requerida mediante o preenchimento da 
+
+solicitação de acesso ao sistema, dispo
+22-Dezembro-2021
+CATAS ALTAS
+to o Crédito Suplementar no Orçamento vigente do Poder Executivo Municipal, no montante de R$ 10.800,00, conforme 
+
+discriminações: 
+
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+1 1         
+
+1.01 GOVERNANÇA PÚBLICA - GABINETE DO PREFEITO         
+
+01.0031.0001.2.001.000 MANUTENCAO DO CORPO LEGISLATIVO         
+
+  Diárias - Pessoal Civil 3.3.90.14.00 754 100 400,00 
+
+  
+
+01.0031.0001.2.002.000 
+
+  
+
+MANUTENCAO DAS ATIVIDADES DA CAMARA 
+        
+
+  Diárias - Pessoal Civil 3.3.90.14.00 760 100 600,00 
+
+  
+
+01.0031.0001.2.003.000 
+
+  
+
+MANUTENCAO ATIVIDADES DA CAMARA 
+        
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 766 100 8.953,80 
+
+  
+
+01.0031.0001.1.002.000 
+
+  
+
+AQUISICAO EQUIPAMENTO E MATERIAL PERMANENTE 
+        
+
+  Equipamentos e Material Permanente 4.4.90.52.00 751 100 846,20 
+
+    Total Órgão 1 10.800,00 
+
+  
+
+Total dos Créditos..................................................... 10.800,00 
+
+Art. 2º - Os recursos utilizados serão os constantes do quadro abaixo: 
+
+  
+
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+1 1 
+
+  
+
+3.3.90.36.00 
+
+  
+
+765 
+
+  
+
+100 
+
+  
+
+10.800,00 
+
+1.01 GOVERNANÇA PÚBLICA - GABINETE DO PREFEITO 
+
+01.0031.0001.2.003.000 MANUTENCAO ATIVIDADES DA CAMARA 
+
+  Outros Serviços de Terceiros - Pessoa Física 
+
+    Total 1 10.800,00 
+
+  
+
+Total da (s) Redução (ôes)........................................................................... 10.800,00  
+  
+
+Art. 3º - Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos para 14/12/2021, revogadas as disposições em contrário. 
+
+  
+
+Catas Altas, 14 de dezembro de 2021. 
+
+  
+
+SAULO MORAIS DE CASTRO 
+Prefeito Municipal 
+
+Publicado por: 
+Ludimili Aparecida Guerra 
+
+Código Identificador:5AA4626C 
+
+ 
+PROCURADORIA JURÍDICA 
+
+DECRETO Nº 380/2021 
+
+ 
+
+DECRETO Nº380/2021 
+
+  
+
+―Regulamenta as disposições do Imposto Sobre Serviços de Qualquer Natureza – ISSQN, quanto a geração da Nota Fiscal de 
+
+Serviços Eletrônica (NFS-e) e Declaração Eletrônica do ISSQN, e dá outras providências”. 
+
+  
+
+O Prefeito Municipal de Catas Altas, Estado de Minas Gerais, usando as atribuições que lhe são conferidas pela Lei Orgânica do Município, 
+
+considerando a lei complementar 186 de 25 de outubro de 2005, que dispõe sobre o código tributário municipal, em observação à Legislação 
+
+Nacional e Municipal, bem como em consonância com o artigo 4º da Lei 8.078, de 11 de setembro de 1.990, conhecida como Código de Defesa do 
+
+Consumidor (CDC), 
+
+  
+
+DECRETA: 
+  
+
+Art. 1o - Fica, por este decreto, regulamentada a geração da Nota Fiscal de Serviços Eletrônica (NFS-e) e a Declaração Eletrônica do ISSQN, de 
+
+existência exclusivamente digital, que deverá ser gerado, armazenado e apresentado eletronicamente à Administração Tributária, por meio do uso da 
+
+Tecnologia da Informação, tendo como objetivo registrar as operações relativas à prestação e contratação de serviços. 
+
+§1º - A geração da NFS-e e a Declaração Eletrônica do ISS somente se dará através dos serviços informatizados disponibilizados pelo município de 
+
+Catas Altas na Internet no endereço HTTP://www.catasaltas.mg.gov.br, sendo vedada a utilização de outro meio não previsto neste decreto. 
+
+TÍTULO I 
+
+Da Nota Fiscal de Serviços Eletrônica 
+
+CAPÍTULO 1 
+
+Dos Contribuintes Obrigados 
+
+Art. 2º As pessoas físicas e jurídicas, prestadoras de serviços, contribuintes do ISSQN, ainda que optante pelo regime previsto na lei complementar 
+
+123 de 14 de dezembro de 2006, denominado Simples Nacional, independente da incidência do ISS sobre os serviços executados, inscritas no 
+
+Cadastro de Contribuintes, do município de Catas Altas, emitirão a Nota Fiscal de Serviços Eletrônica (NFS-e), utilizando-se da Tecnologia da 
+
+Informação e de Certificado Digital, quando necessário, obtido através de Autoridade Certificadora da ICP-Brasil. 
+
+
+
+Minas Gerais , 22 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3161 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               299 
+
+ 
+
+§1º - Os contribuintes referidos no caput do artigo são aqueles enquadrados nos subitens da lista de serviços, tributáveis pelo Imposto sobre Serviços 
+
+de Qualquer Natureza (ISSQN), constantes no anexo I da lei complementar 186 de 25 de outubro de 2005. 
+
+§2º - A legislação e os manuais poderão ser obtidos através de Download no portal do Município na Internet. 
+
+  
+
+Art. 3º - Os prestadores de serviços especificados no artigo 2º, poderão optar pela geração da NFS-e de forma espontânea, independentemente de 
+
+qualquer notificação fiscal emitida pela Prefeitura de Catas Altas. 
+
+  
+
+CAPÍTULO 2 
+
+Dos Contribuintes Dispensados da Obrigação 
+
+  
+
+Art. 4º - Ficam dispensados da geração da NFS-e, os contribuintes: 
+
+I – Cujo lançamento do ISSQN é efetuado de ofício pela Autoridade Administrativa; 
+
+II – Cujos serviços são executados sob a forma de trabalho pessoal do próprio contribuinte, mediante remuneração, sem deferi-los a terceiros; 
+
+III – Cujos serviços sejam prestados por sociedades de profissionais com trabalho pessoal do próprio contribuinte; 
+
+IV – Que estejam enquadrados em Regime Especial de Tributação; 
+
+V – As instituições financeiras, bancos comerciais e cooperativas de crédito, ficando, porém, obrigadas a prestar as informações requeridas em 
+
+módulo específico do programa eletrônico, declarando a receita bruta e detalhando-a por conta analítica, nos moldes do Capítulo 4 do Título II deste 
+
+Decreto; 
+
+VI – Os cartórios notariais e de registro, ficando, porém, obrigados a declarar todos os atos praticados informando código e valor; 
+
+VII – Os contribuintes em regime de estimativa que ficam obrigados a declarar os serviços prestados. 
+
+§1º - A dispensa a que se refere o caput não se aplica aos contribuintes que já emitem nota fiscal de serviços podendo o contribuinte requerer a 
+
+dispensa que ficará sujeita à análise e posterior decisão do município. 
+
+§2º - As disposições contidas neste artigo não excluem a obrigatoriedade dos contribuintes citados no caput de fornecerem a NFS-e aos tomadores 
+
+dos seus serviços que a solicitarem expressamente. 
+
+  
+
+CAPÍTULO 3 
+
+Dos Demais Contribuintes 
+
+  
+
+Art. 5º - Os prestadores de serviços que não estão obrigados à emissão de Nota Fiscal de Serviços Eletrônica (NFS-e), deverão continuar emitindo os 
+
+documentos fiscais e os escriturando em conformidade com a legislação tributária municipal. 
+
+CAPÍTULO 4 
+
+Do Método para o Ingresso 
+
+  
+
+Art. 6º - Para o ingresso na metodologia de geração de Nota Fiscal de Serviços Eletrônica (NFS-e), os contribuintes especificados no Capítulo 1, 
+
+devem exercer a atividade econômica descritas na no Anexo I da lei complementar 186 de 25 de outubro de 2005 e alterações. 
+
+§1º - Ficam excluídas da utilização da NFS-e as Pessoas Jurídicas de Direito Público e Privado que exerçam as atividades vetadas contidas no anexo 
+
+I da lei complementar 186 de 25 de outubro de 2005 e suas alterações. 
+
+§2º - Os contribuintes não obrigados ou dispensados e que fizerem opção, espontaneamente, pela geração da NFS-e, deverão executar os 
+
+procedimentos administrativos necessários para o ingresso na forma da legislação tributária municipal. 
+
+§3º - O ingresso na nova metodologia, ainda que por opção do contribuinte, estará sujeita a análise e autorização da Autoridade Administrativa nos 
+
+termos da legislação tributária municipal. 
+
+  
+
+Seção 1 
+
+Da Solicitação de Acesso ao Sistema e dos Documentos Necessários para Análise 
+
+  
+
+Art. 7º - O acesso ao sistema de Nota Fiscal de Serviços Eletrônica (NFS-e), para geração de NFS-e, deve ser requerida mediante o preenchimento da 
+
+solicitação de acesso ao sistema, disponível na internet, no endereço HTTP://www.catasaltas.mg.gov.br. 
+
+  
+
+Art. 8º - Após o preenchimento, deverão ser anexados os seguintes documentos: 
+
+I – Cópia do contrato social atualizado, quando for o caso; 
+
+II – Cópia do cartão CNPJ atualizado, quando for o caso; 
+
+III – Cópia
+22-Dezembro-2021
+CATAS ALTAS
+Abre Crédito Suplementar - Anulação de Dotação 
+
+  
+
+O Prefeito Municipal de Catas Altas/MG, no uso de suas atribuições e com base no Art. 2º da Lei Orçamentária Anual nº 698/2020 e em 
+
+conformidade com o Art. 176 da Consituição Federal, D E C R E T A: 
+
+  
+
+Art. 1º - Fica aberto o Crédito Suplementar no Orçamento vigente do Poder Executivo Municipal, no montante de R$ 393.924,00, conforme 
+
+discriminações: 
+
+  
+
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 
+
+PODER EXECUTIVO 
+
+PROCURADORIA JURÍDICA MUNICIPAL 
+
+APOIO AO TRANSPORTE DO ENSINO FUNDAMENTAL 
+  
+
+Contratação por Tempo Determinado 
+
+  
+
+GESTAO DO ENSINO BASICO 
+  
+
+Vencimentos e Vantagens Fixas - Pessoal Civil Obrigações Patronais 
+
+  
+
+MANUT. DAS ATIVIDADES COM O PRE-ESCOLAR 
+  
+
+Vencimentos e Vantagens Fixas - Pessoal Civil Obrigações Patronais 
+
+  
+
+PODER EXECUTIVO 
+
+SECRET. MUNIC. DE GOVERNO, ESPORTES E ORDEM PÚBLICA GESTAO DA 
+
+SECRETARIA DE AGRICUL. E MEIO AMBIENTE 
+Contratação por Tempo Determinado Vencimentos e Vantagens Fixas - Pessoal Civil 
+
+Obrigações Patronais 
+
+Outras Despesas Variáveis - Pessoal Civil 
+
+  
+
+MANUT. DO TRATAMENTO E DISTRIBUICAO DA AGUA 
+
+  
+
+Vencimentos e Vantagens Fixas - Pessoal Civil Outras Despesas Variáveis - Pessoal Civil 
+
+  
+
+COLETA, RECICLAGEM E DEST. FINAL DE RESIDUOS SOL 
+
+  
+
+Outras Despesas Variáveis - Pessoal Civil 
+
+  
+
+PODER EXECUTIVO 
+
+SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO GESTAO DA 
+
+VIGILANCIA EPIDEMIOLOGICA 
+
+Contratação por Tempo Determinado 
+
+  
+
+GESTAO DO ATENDIMENTO DA ATENCAO BASICA 
+
+  
+
+Vencimentos e Vantagens Fixas - Pessoal Civil Obrigações Patronais 
+
+Outras Despesas Variáveis - Pessoal Civil 
+
+        
+
+2.03         
+
+12.0361.3003.2.030.000         
+
+  3.1.90.04.00 90 101 4.200,00 
+
+  
+
+12.0361.3001.2.069.000 
+        
+
+  3.1.90.11.00 73 101 8.000,00 
+
+  3.1.90.13.00 74 101 22.000,00 
+
+  
+
+12.0365.3008.2.057.000 
+        
+
+  3.1.90.11.00 101 101 50.000,00 
+
+  3.1.90.13.00 102 101 13.000,00 
+
+  
+
+2 
+        
+
+2.04         
+
+20.0122.4001.2.101.000         
+
+  3.1.90.04.00 251 100 7.300,00 
+
+  3.1.90.11.00 252 100 20.000,00 
+
+  3.1.90.13.00 253 100 5.500,00 
+
+  3.1.90.16.00 254 100 1.400,00 
+
+  
+
+17.0512.4005.2.129.000 
+        
+
+  3.1.90.11.00 212 100 8.300,00 
+
+  3.1.90.16.00 214 100 400,00 
+
+  
+
+17.0512.6002.2.132.000 
+        
+
+  3.1.90.16.00 239 100 4.100,00 
+
+  
+
+2 
+        
+
+2.05         
+
+10.0305.5004.2.020.000         
+
+  3.1.90.04.00 425 102 15.523,00 
+
+  
+
+10.0301.5002.2.018.000 
+        
+
+  3.1.90.11.00 319 102 54.401,00 
+
+  3.1.90.13.00 320 102 26.600,00 
+
+  3.1.90.16.00 321 102 3.100,00 
+
+  
+10.0301.5002.2.141.000 MANUT. ATIV. DO PSF- PROGRAMA SAUDE DA FAMILIA         
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 342 159 39.000,00 
+
+  
+
+10.0303.5005.2.015.000 
+
+  
+
+GESTAO DA FARMACIA DE MINAS 
+        
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 397 102 15.000,00 
+
+  Obrigações Patronais 3.1.90.13.00 399 102 3.200,00 
+
+  
+
+10.0122.5001.2.007.000 
+
+  
+
+GESTAO DA SAUDE MUNICIPAL DE SAUDE 
+        
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 292 102 100,00 
+
+  
+
+2 
+
+  
+
+PODER EXECUTIVO 
+        
+
+2.06 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO PÚBLICA         
+
+04.0122.6005.2.078.000 MANUTENCAO DAS ATIV. DA SECRETARIA DE OBRAS         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 456 100 5.800,00 
+
+  
+
+2 
+
+  
+
+PODER EXECUTIVO 
+        
+
+
+
+Minas Gerais , 22 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3161 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               311 
+
+ 
+
+2.07 SECRETARIA MUNICIPAL DE EDUCAÇÃO         
+
+13.0122.7001.2.028.000 GESTAO DA SECRETARIA DE TURISMO         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 545 100 2.800,00 
+
+  
+
+13.0391.7004.3.015.000 
+
+  
+
+REVITALIZACAO DOS BENS TOMBADOS 
+        
+
+  Material de Consumo 3.3.90.30.00 551 100 6.000,00 
+
+  
+
+2 
+
+  
+
+PODER EXECUTIVO 
+        
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+27.0122.8001.2.045.000 GESTAO DA SECRETARIA DE ESPORTE E LAZER         
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 581 100 29.100,00 
+
+  Obrigações Patronais 3.1.90.13.00 582 100 7.500,00 
+
+  
+
+27.0812.8004.2.053.000 
+
+  
+
+MANUTENCAO DE EQUIPAMENTOS ESPORTIVOS 
+        
+
+  Material de Consumo 3.3.90.30.00 599 100 33.500,00 
+
+  
+
+2 
+
+  
+
+PODER EXECUTIVO 
+        
+
+2.09 SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E         
+
+  DESENVOLVIMENTO SUSTENTÁVEL         
+
+08.0243.9007.2.125.000 APOIO AO CONSELHO TUTELAR         
+
+  Outros Serviços de Terceiros - Pessoa Física 3.3.90.36.00 712 100 8.100,00 
+
+    Total Órgão PODER EXECUTIVO 393.924,00 
+
+  
+
+Total dos Créditos.......................................................................................... 393.924,00 
+
+  
+
+Art. 2º - Os recursos utilizados serão os constantes do quadro abaixo: 
+
+  
+
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 PODER EXECUTIVO       
+
+  2.02 GABINETE DO VICE-PREFEITO       
+
+06.0181.1103.2.157.000 MANUT. DAS ATIV. COM A GUARDA MUNICIPAL       
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 61 100 100.300,00 
+
+    Total PODER EXECUTIVO 100.300,00 
+
+  
+2 PODER EXECUTIVO       
+
+  2.03 PROCURADORIA JURÍDICA MUNICIPAL       
+
+12.0361.3001.2.069.000 GESTAO DO ENSINO BASICO       
+
+  Material de Consumo 3.3.90.30.00 77 101 20.000,00 
+
+  Material de Consumo 3.3.90.30.00 95 101 15.000,00 
+
+  Material de Consumo 3.3.90.30.00 112 101 5.000,00 
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 79 101 13.000,00 
+
+  Obras e Instalações 4.4.90.51.00 116 101 4.200,00 
+
+  Obras e Instalações 4.4.90.51.00 99 101 10.000,00 
+
+  Equipamentos e Material Permanente 4.4.90.52.00 82 101 30.000,00 
+
+    Total PODER EXECUTIVO 97.200,00 
+
+2 
+
+2.05 
+10.0301.5002.2.018.000 
+
+PODER EXECUTIVO 
+
+SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO 
+GESTAO DO ATENDIMENTO DA ATENCAO BASICA 
+
+  
+
+3.1.90.04.00 
+
+3.3.90.30.00 
+
+3.3.90.30.00 
+
+3.3.90.30.00 
+
+  
+
+318 
+
+323 
+
+325 
+
+295 
+
+  
+
+102 
+
+159 
+
+102 
+
+102 
+
+  
+
+  
+Contratação por Tempo Determinado Material de Consumo 
+
+Material de Consumo Material de Consumo 
+
+114.724,00 
+
+39.000,00 
+
+3.100,00 
+
+100,00 
+
+Total PODER EXECUTIVO 156.924,00 
+
+2 PODER EXECUTIVO       
+
+  2.07 SECRETARIA MUNICIPAL DE EDUCAÇÃO       
+
+13.0122.7001.2.028.000 GESTAO DA SECRETARIA DE TURISMO       
+
+  Equipamentos e Material Permanente 4.4.90.52.00 550 100 39.500,00 
+
+    Total PODER EXECUTIVO 39.500,00 
+
+  
+
+Total da (s) Redução (ôes)................................................................................................... .............. 393.924,00 
+
+  
+
+Art. 3º - Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos para 25/11/2021, revogadas as disposições em contrário. 
+
+  
+
+Catas Altas, 25/11/2021. 
+
+  
+
+SAULO MORAIS DE CASTRO 
+Prefeito Municipal 
+
+Publicado por: 
+Ludimili Aparecida Guerra 
+
+Código Identificador:7CE2CB54 
+
+ 
+PROCURADORIA JURÍDICA 
+
+DECRETO Nº 382/2021 
+
+ 
+
+DECRETO N.º 382/2021 
+  
+
+Nomeia, em caráter efetivo, e realiza a 33ª convocação de candidatos aprovados e classificados no Concurso Público regido pelo 
+
+Edital 01/2019. 
+
+  
+
+O PREFEITO DE CATAS ALTAS, no uso de suas atribuições legais, e 
+
+  
+
+
+
+Minas Gerais , 22 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3161 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               312 
+
+ 
+
+CONSIDERANDO o resultado final do concurso público de provas e títulos regido pelo Edital n.º 001/2019, devidamente homologado em 05 de 
+
+outubro de 2020; 
+
+  
+
+CONSIDERANDO a necessidade de nomear os aprovados no concurso público e de convocá-los para tomarem posse; 
+
+  
+
+CONSIDERANDO que a Lei Complementar n.º 173/2020 autoriza a nomeação de concursados aprovados, apenas para substituir ao cargo vago, 
+
+conforme disposto no art. 8º, IV; 
+
+  
+
+DECRETA: 
+
+  
+
+Art. 1º. Fica nomeado, em carát
+22-Dezembro-2021
+CATAS ALTAS
+to o Crédito Suplementar no Orçamento vigente do Poder Executivo Municipal, no montante de R$ 393.924,00, conforme 
+
+discriminações: 
+
+  
+
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 
+
+PODER EXECUTIVO 
+
+PROCURADORIA JURÍDICA MUNICIPAL 
+
+APOIO AO TRANSPORTE DO ENSINO FUNDAMENTAL 
+  
+
+Contratação por Tempo Determinado 
+
+  
+
+GESTAO DO ENSINO BASICO 
+  
+
+Vencimentos e Vantagens Fixas - Pessoal Civil Obrigações Patronais 
+
+  
+
+MANUT. DAS ATIVIDADES COM O PRE-ESCOLAR 
+  
+
+Vencimentos e Vantagens Fixas - Pessoal Civil Obrigações Patronais 
+
+  
+
+PODER EXECUTIVO 
+
+SECRET. MUNIC. DE GOVERNO, ESPORTES E ORDEM PÚBLICA GESTAO DA 
+
+SECRETARIA DE AGRICUL. E MEIO AMBIENTE 
+Contratação por Tempo Determinado Vencimentos e Vantagens Fixas - Pessoal Civil 
+
+Obrigações Patronais 
+
+Outras Despesas Variáveis - Pessoal Civil 
+
+  
+
+MANUT. DO TRATAMENTO E DISTRIBUICAO DA AGUA 
+
+  
+
+Vencimentos e Vantagens Fixas - Pessoal Civil Outras Despesas Variáveis - Pessoal Civil 
+
+  
+
+COLETA, RECICLAGEM E DEST. FINAL DE RESIDUOS SOL 
+
+  
+
+Outras Despesas Variáveis - Pessoal Civil 
+
+  
+
+PODER EXECUTIVO 
+
+SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO GESTAO DA 
+
+VIGILANCIA EPIDEMIOLOGICA 
+
+Contratação por Tempo Determinado 
+
+  
+
+GESTAO DO ATENDIMENTO DA ATENCAO BASICA 
+
+  
+
+Vencimentos e Vantagens Fixas - Pessoal Civil Obrigações Patronais 
+
+Outras Despesas Variáveis - Pessoal Civil 
+
+        
+
+2.03         
+
+12.0361.3003.2.030.000         
+
+  3.1.90.04.00 90 101 4.200,00 
+
+  
+
+12.0361.3001.2.069.000 
+        
+
+  3.1.90.11.00 73 101 8.000,00 
+
+  3.1.90.13.00 74 101 22.000,00 
+
+  
+
+12.0365.3008.2.057.000 
+        
+
+  3.1.90.11.00 101 101 50.000,00 
+
+  3.1.90.13.00 102 101 13.000,00 
+
+  
+
+2 
+        
+
+2.04         
+
+20.0122.4001.2.101.000         
+
+  3.1.90.04.00 251 100 7.300,00 
+
+  3.1.90.11.00 252 100 20.000,00 
+
+  3.1.90.13.00 253 100 5.500,00 
+
+  3.1.90.16.00 254 100 1.400,00 
+
+  
+
+17.0512.4005.2.129.000 
+        
+
+  3.1.90.11.00 212 100 8.300,00 
+
+  3.1.90.16.00 214 100 400,00 
+
+  
+
+17.0512.6002.2.132.000 
+        
+
+  3.1.90.16.00 239 100 4.100,00 
+
+  
+
+2 
+        
+
+2.05         
+
+10.0305.5004.2.020.000         
+
+  3.1.90.04.00 425 102 15.523,00 
+
+  
+
+10.0301.5002.2.018.000 
+        
+
+  3.1.90.11.00 319 102 54.401,00 
+
+  3.1.90.13.00 320 102 26.600,00 
+
+  3.1.90.16.00 321 102 3.100,00 
+
+  
+10.0301.5002.2.141.000 MANUT. ATIV. DO PSF- PROGRAMA SAUDE DA FAMILIA         
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 342 159 39.000,00 
+
+  
+
+10.0303.5005.2.015.000 
+
+  
+
+GESTAO DA FARMACIA DE MINAS 
+        
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 397 102 15.000,00 
+
+  Obrigações Patronais 3.1.90.13.00 399 102 3.200,00 
+
+  
+
+10.0122.5001.2.007.000 
+
+  
+
+GESTAO DA SAUDE MUNICIPAL DE SAUDE 
+        
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 292 102 100,00 
+
+  
+
+2 
+
+  
+
+PODER EXECUTIVO 
+        
+
+2.06 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO PÚBLICA         
+
+04.0122.6005.2.078.000 MANUTENCAO DAS ATIV. DA SECRETARIA DE OBRAS         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 456 100 5.800,00 
+
+  
+
+2 
+
+  
+
+PODER EXECUTIVO 
+        
+
+
+
+Minas Gerais , 22 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3161 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               311 
+
+ 
+
+2.07 SECRETARIA MUNICIPAL DE EDUCAÇÃO         
+
+13.0122.7001.2.028.000 GESTAO DA SECRETARIA DE TURISMO         
+
+  Outras Despesas Variáveis - Pessoal Civil 3.1.90.16.00 545 100 2.800,00 
+
+  
+
+13.0391.7004.3.015.000 
+
+  
+
+REVITALIZACAO DOS BENS TOMBADOS 
+        
+
+  Material de Consumo 3.3.90.30.00 551 100 6.000,00 
+
+  
+
+2 
+
+  
+
+PODER EXECUTIVO 
+        
+
+2.08 SECRET. MUNIC. DE INFRAESTRUTURA E URBANISMO         
+
+27.0122.8001.2.045.000 GESTAO DA SECRETARIA DE ESPORTE E LAZER         
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 581 100 29.100,00 
+
+  Obrigações Patronais 3.1.90.13.00 582 100 7.500,00 
+
+  
+
+27.0812.8004.2.053.000 
+
+  
+
+MANUTENCAO DE EQUIPAMENTOS ESPORTIVOS 
+        
+
+  Material de Consumo 3.3.90.30.00 599 100 33.500,00 
+
+  
+
+2 
+
+  
+
+PODER EXECUTIVO 
+        
+
+2.09 SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E         
+
+  DESENVOLVIMENTO SUSTENTÁVEL         
+
+08.0243.9007.2.125.000 APOIO AO CONSELHO TUTELAR         
+
+  Outros Serviços de Terceiros - Pessoa Física 3.3.90.36.00 712 100 8.100,00 
+
+    Total Órgão PODER EXECUTIVO 393.924,00 
+
+  
+
+Total dos Créditos.......................................................................................... 393.924,00 
+
+  
+
+Art. 2º - Os recursos utilizados serão os constantes do quadro abaixo: 
+
+  
+
+R$ 1,00 
+  
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 PODER EXECUTIVO       
+
+  2.02 GABINETE DO VICE-PREFEITO       
+
+06.0181.1103.2.157.000 MANUT. DAS ATIV. COM A GUARDA MUNICIPAL       
+
+  Vencimentos e Vantagens Fixas - Pessoal Civil 3.1.90.11.00 61 100 100.300,00 
+
+    Total PODER EXECUTIVO 100.300,00 
+
+  
+2 PODER EXECUTIVO       
+
+  2.03 PROCURADORIA JURÍDICA MUNICIPAL       
+
+12.0361.3001.2.069.000 GESTAO DO ENSINO BASICO       
+
+  Material de Consumo 3.3.90.30.00 77 101 20.000,00 
+
+  Material de Consumo 3.3.90.30.00 95 101 15.000,00 
+
+  Material de Consumo 3.3.90.30.00 112 101 5.000,00 
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 79 101 13.000,00 
+
+  Obras e Instalações 4.4.90.51.00 116 101 4.200,00 
+
+  Obras e Instalações 4.4.90.51.00 99 101 10.000,00 
+
+  Equipamentos e Material Permanente 4.4.90.52.00 82 101 30.000,00 
+
+    Total PODER EXECUTIVO 97.200,00 
+
+2 
+
+2.05 
+10.0301.5002.2.018.000 
+
+PODER EXECUTIVO 
+
+SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO 
+GESTAO DO ATENDIMENTO DA ATENCAO BASICA 
+
+  
+
+3.1.90.04.00 
+
+3.3.90.30.00 
+
+3.3.90.30.00 
+
+3.3.90.30.00 
+
+  
+
+318 
+
+323 
+
+325 
+
+295 
+
+  
+
+102 
+
+159 
+
+102 
+
+102 
+
+  
+
+  
+Contratação por Tempo Determinado Material de Consumo 
+
+Material de Consumo Material de Consumo 
+
+114.724,00 
+
+39.000,00 
+
+3.100,00 
+
+100,00 
+
+Total PODER EXECUTIVO 156.924,00 
+
+2 PODER EXECUTIVO       
+
+  2.07 SECRETARIA MUNICIPAL DE EDUCAÇÃO       
+
+13.0122.7001.2.028.000 GESTAO DA SECRETARIA DE TURISMO       
+
+  Equipamentos e Material Permanente 4.4.90.52.00 550 100 39.500,00 
+
+    Total PODER EXECUTIVO 39.500,00 
+
+  
+
+Total da (s) Redução (ôes)................................................................................................... .............. 393.924,00 
+
+  
+
+Art. 3º - Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos para 25/11/2021, revogadas as disposições em contrário. 
+
+  
+
+Catas Altas, 25/11/2021. 
+
+  
+
+SAULO MORAIS DE CASTRO 
+Prefeito Municipal 
+
+Publicado por: 
+Ludimili Aparecida Guerra 
+
+Código Identificador:7CE2CB54 
+
+ 
+PROCURADORIA JURÍDICA 
+
+DECRETO Nº 382/2021 
+
+ 
+
+DECRETO N.º 382/2021 
+  
+
+Nomeia, em caráter efetivo, e realiza a 33ª convocação de candidatos aprovados e classificados no Concurso Público regido pelo 
+
+Edital 01/2019. 
+
+  
+
+O PREFEITO DE CATAS ALTAS, no uso de suas atribuições legais, e 
+
+  
+
+
+
+Minas Gerais , 22 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3161 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                               312 
+
+ 
+
+CONSIDERANDO o resultado final do concurso público de provas e títulos regido pelo Edital n.º 001/2019, devidamente homologado em 05 de 
+
+outubro de 2020; 
+
+  
+
+CONSIDERANDO a necessidade de nomear os aprovados no concurso público e de convocá-los para tomarem posse; 
+
+  
+
+CONSIDERANDO que a Lei Complementar n.º 173/2020 autoriza a nomeação de concursados aprovados, apenas para substituir ao cargo vago, 
+
+conforme disposto no art. 8º, IV; 
+
+  
+
+DECRETA: 
+
+  
+
+Art. 1º. Fica nomeado, em caráter efetivo, o candidato relacionado no Anexo I deste Decreto, para o cargo público declinado, obedecida a ordem de 
+
+classificação no Concurso Público nº 001/2019. 
+
+  
+
+Art. 2º. O nomeado deverá se apresentar para posse, às suas expensas, no prazo máximo de 30 (trinta) dias con
+22-Dezembro-2021
+CATAS ALTAS
+Abre Crédito Suplementar - Excesso de Arrecadação 
+
+  
+
+O Prefeito Municipal de Catas Altas/MG, no uso de suas atribuições e com base no Art. 2º da Lei Orçamentária Anual nº 698/2020 e em conformidade com o Art. 176 da Consituição Federal, D E C R E T A: 
+
+  
+
+Art. 1º - Fica aberto o Crédito Suplementar no Orçamento vigente do Poder Executivo Municipal, no montante de R$ 184.200,00, conforme discriminações: 
+
+  
+
+R$ 1,00 
+  
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 
+
+PODER EXECUTIVO 
+
+PROCURADORIA JURÍDICA MUNICIPAL 
+
+MANUT. ATIV. COM O ENSINO FUNDAMENTAL- FUNDEB 
+
+  
+
+Contratação por Tempo Determinado Vencimentos e Vantagens Fixas - Pessoal Civil Obrigações Patronais 
+
+  
+
+MANUT. ATIV. COM A CRECHE MUNICIPAL - FUNDEB 
+
+  
+
+Vencimentos e Vantagens Fixas - Pessoal Civil 
+
+  
+
+PODER EXECUTIVO 
+
+SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO MANUT. ATIV. DO PSAUBU - PROGRAMA SAUDE BUCAL 
+Vencimentos e Vantagens Fixas - Pessoal Civil 
+
+  
+
+MANUT. ATIV. DO NASF - NUCLEO AS. SAUDE DA FAMILIA 
+
+  
+
+Vencimentos e Vantagens Fixas - Pessoal Civil Obrigações Patronais 
+
+        
+
+2.03         
+
+12.0361.3013.2.118.000         
+
+  3.1.90.04.00 125 118 12.500,00 
+
+  3.1.90.11.00 126 118 114.000,00 
+
+  3.1.90.13.00 127 118 26.000,00 
+
+  
+
+12.0365.3013.2.120.000 
+        
+
+  3.1.90.11.00 138 118 10.100,00 
+
+  
+
+2 
+        
+
+2.05         
+
+10.0301.5002.2.143.000         
+
+  3.1.90.11.00 350 159 12.500,00 
+
+  
+
+10.0301.5002.2.144.000 
+        
+
+  3.1.90.11.00 354 159 7.500,00 
+
+  3.1.90.13.00 355 159 1.600,00 
+
+  Total Órgão PODER EXECUTIVO 184.200,00 
+
+Total dos Créditos.......................................................................................... 184.200,00 
+
+  
+
+Art. 2º - Os recursos utilizados serão os constantes do quadro abaixo: 
+
+  
+
+R$ 1,00 
+  
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+  
+
+Total da (s) Redução (ôes)............. 
+
+  
+
+Art. 3º - Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos para 29/11/2021, revogadas as disposições em contrário. 
+
+  
+
+Catas Altas, 29/11/2021. 
+
+  
+
+SAULO MORAIS DE CASTRO 
+Prefeito Municipal 
+
+  
+
+
+
+Minas Gerais , 22 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3161 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                                                                         416 
+
+ 
+
+Publicado por: 
+Ludimili Aparecida Guerra 
+
+Código Identificador:E0483659 
+
+ 
+PROCURADORIA JURÍDICA 
+
+DECRETO Nº 370/2021 
+
+ 
+
+DECRETO Nº 370/2021 
+
+  
+
+Abre Crédito Suplementar - Anulação de Dotação 
+
+  
+
+O Prefeito Municipal de Catas Altas/MG, no uso de suas atribuições e com base no Art. 2º da Lei Orçamentária Anual nº 698/2020 e em conformidade com o Art. 176 da Consituição Federal, D E C R E T A: 
+
+  
+
+Art. 1º - Fica aberto o Crédito Suplementar no Orçamento vigente do Poder Executivo Municipal, no montante de R$ 869.731,14, conforme discriminações: 
+
+  
+
+R$ 1,00 
+  
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.02 GABINETE DO VICE-PREFEITO         
+
+04.0122.2003.2.062.000 GESTAO DA SECRETARIA DE ADM. E FAZENDA         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 43 100 5.000,00 
+
+  Serviços Tecnologia da Informação e Comunicação - Pessoa Jur 3.3.90.40.00 44 100 29.001,62 
+
+  
+
+2 
+
+  
+
+PODER EXECUTIVO 
+        
+
+2.03 PROCURADORIA JURÍDICA MUNICIPAL         
+
+12.0361.3001.2.069.000 GESTAO DO ENSINO BASICO         
+
+  Material de Consumo 3.3.90.30.00 77 101 10.000,00 
+
+  
+
+12.0361.3002.2.115.000 
+
+  
+
+MANUT. DA INFORMATIZACAO DO SISTEMA EDUCACIONAL 
+        
+
+  Material de Consumo 3.3.90.30.00 85 101 56.203,47 
+
+  
+
+12.0361.3002.3.050.000 
+
+  
+
+AQUIS. DE EQUIP. INFORM. DO SISTEMA EDUCACIONAL 
+        
+
+  Equipamentos e Material Permanente 4.4.90.52.00 89 101 619.526,05 
+
+  
+
+2 
+
+  
+
+PODER EXECUTIVO 
+        
+
+2.07 SECRETARIA MUNICIPAL DE EDUCAÇÃO         
+
+13.0392.7007.3.049.000 REVITALIZACAO E PRESERVACAO DO PATRIMONIO CULTURAL         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 528 100 150.000,00 
+
+    Total Órgão PODER EXECUTIVO 869.731,14 
+
+Total dos Créditos.......................................................................................... 869.731,14 
+
+  
+
+Art. 2º - Os recursos utilizados serão os constantes do quadro abaixo: 
+
+  
+
+R$ 1,00 
+  
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 
+
+2.02 
+
+04.0122.2003.2.062.000 
+
+PODER EXECUTIVO 
+
+GABINETE DO VICE-PREFEITO 
+GESTAO DA SECRETARIA DE ADM. E FAZENDA 
+
+  
+
+Serviços de Consultoria 
+
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+  
+
+3.3.90.35.00 
+
+3.3.90.39.00 
+
+  
+
+38 
+
+67 
+
+  
+
+100 
+
+100 
+
+  
+
+5.000,00 
+
+29.001,62 
+
+Total PODER EXECUTIVO 34.001,62 
+
+  
+
+2 
+
+2.03 
+12.0365.3013.2.140.000 
+
+PODER EXECUTIVO 
+
+PROCURADORIA JURÍDICA MUNICIPAL 
+
+MANUT. ATIV. COM A CRECHE MUNICIPAL - FUNDEB 40% 
+
+  
+
+Vencimentos e Vantagens Fixas - Pessoal Civil Vencimentos e Vantagens Fixas - Pessoal Civil Outras Despesas Variáveis - Pessoal 
+
+  
+
+3.1.90.11.00 
+
+3.1.90.11.00 
+
+3.1.90.16.00 
+
+3.3.90.14.00 
+
+  
+
+146 
+
+70 
+
+93 
+
+94 
+
+  
+
+119 
+
+101 
+
+101 
+
+101 
+
+  
+
+29.200,00 
+
+10.000,00 
+
+5.000,00 
+
+1.000,00 
+
+
+
+Minas Gerais , 22 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3161 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                                                                         417 
+
+ 
+
+Civil 
+
+Diárias - Pessoal Civil Diárias - Pessoal Civil Material de Consumo Material de Consumo Material de Consumo 
+
+Outros Serviços de Terceiros - Pessoa Física Outros Serviços de Terceiros - Pessoa Física Outros Serviços de Terceiros - Pessoa 
+
+Física Outros Serviços de Terceiros - Pessoa Física Outros Serviços de Terceiros - Pessoa Física Outros Serviços de Terceiros - 
+
+Pessoa Jurídica Outros Serviços de Terceiros - Pessoa Jurídica Outros Serviços de Terceiros - Pessoa Jurídica Outros Serviços de 
+
+Terceiros - Pessoa Jurídica 
+
+Serviços Tecnologia da Informação e Comunicação - Pessoa Jur Obrigações Tributárias e Contributivas 
+
+Despesas de Exercícios Anteriores Obras e Instalações 
+
+Equipamentos e Material Permanente Equipamentos e Material Permanente Equipamentos e Material Permanente Material de 
+
+Consumo 
+
+Material de Consumo 
+
+Outros Serviços de Terceiros - Pessoa Jurídica Equipamentos e Material Permanente Equipamentos e Material Permanente 
+
+3.3.90.14.00 
+
+3.3.90.30.00 
+
+3.3.90.30.00 
+
+3.3.90.30.00 
+
+3.3.90.36.00 
+
+3.3.90.36.00 
+
+3.3.90.36.00 
+
+3.3.90.36.00 
+
+3.3.90.36.00 
+
+3.3.90.39.00 
+
+3.3.90.39.00 
+
+3.3.90.39.00 
+
+3.3.90.39.00 
+
+3.3.90.40.00 
+
+3.3.90.47.00 
+
+3.3.90.92.00 
+
+4.4.90.51.00 
+
+4.4.90.52.00 
+
+4.4.90.52.00 
+
+4.4.90.52.00 
+
+3.3.90.30.00 
+
+3.3.90.30.00 
+
+3.3.90.39.00 
+
+4.4.90.52.00 
+
+4.4.90.52.00 
+
+76 
+
+95 
+
+104 
+
+121 
+
+122 
+
+86 
+
+96 
+
+78 
+
+113 
+
+114 
+
+87 
+
+106 
+
+123 
+
+88 
+
+98 
+
+80 
+
+116 
+
+115 
+
+107 
+
+124 
+
+154 
+
+164 
+
+187 
+
+157 
+
+158 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+100 
+
+100 
+
+100 
+
+122 
+
+146 
+
+3.000,00 
+
+2.500,00 
+
+5.000,00 
+
+5.000,00 
+
+1.000,00 
+
+1.000,00 
+
+1.000,00 
+
+500,00 
+
+500,00 
+
+5.000,00 
+
+1.000,00 
+
+5.000,00 
+
+1.000,00 
+
+1.260,00 
+
+1.000,00 
+
+500,00 
+
+5.800,00 
+
+1.000,00 
+
+1.000,00 
+
+1.000,00 
+
+12.000,00 
+
+12.000,00 
+
+200.000,00 
+
+50.000,00 
+
+50.000,00 
+
+Total PODER EXECUTIVO 412.260,00 
+
+2 
+
+2.09 
+  
+
+08.0482.9001.1.105.000 
+
+PODER EXECUTIVO 
+
+SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E DESENVOLVIMENTO SUSTENTÁVEL 
+
+CONSTRUCAO REF. E AMP. DE MORADIAS POPULARES 
+
+  
+
+Obras e Instalações 
+
+  
+
+4.4.90.51.00 
+
+  
+
+690 
+
+  
+
+100 
+
+  
+
+273.469,52 
+
+Total PODER EXECUTIVO 273.469,52 
+
+2 
+
+2.07 
+13.0392.7007.3.049.000 
+
+PODER EXECUTIVO 
+
+SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+REVITALIZACAO E PRESERVACAO DO PATRIMONIO CULTURAL 
+
+  
+
+Serviços de Consultoria 
+
+  
+
+3.3.90.35.00 
+
+  
+
+527 
+
+  
+
+100 
+
+  
+
+150.000,00 
+
+Total PODER EXECUTIVO 150.000,00 
+
+Total da (s) Redução (ôes)............
+22-Dezembro-2021
+CATAS ALTAS
+to o Crédito Suplementar no Orçamento vigente do Poder Executivo Municipal, no montante de R$ 184.200,00, conforme discriminações: 
+
+  
+
+R$ 1,00 
+  
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 
+
+PODER EXECUTIVO 
+
+PROCURADORIA JURÍDICA MUNICIPAL 
+
+MANUT. ATIV. COM O ENSINO FUNDAMENTAL- FUNDEB 
+
+  
+
+Contratação por Tempo Determinado Vencimentos e Vantagens Fixas - Pessoal Civil Obrigações Patronais 
+
+  
+
+MANUT. ATIV. COM A CRECHE MUNICIPAL - FUNDEB 
+
+  
+
+Vencimentos e Vantagens Fixas - Pessoal Civil 
+
+  
+
+PODER EXECUTIVO 
+
+SECRET. MUNIC. DESENVOLVIMENTO E PROTEÇÃO MANUT. ATIV. DO PSAUBU - PROGRAMA SAUDE BUCAL 
+Vencimentos e Vantagens Fixas - Pessoal Civil 
+
+  
+
+MANUT. ATIV. DO NASF - NUCLEO AS. SAUDE DA FAMILIA 
+
+  
+
+Vencimentos e Vantagens Fixas - Pessoal Civil Obrigações Patronais 
+
+        
+
+2.03         
+
+12.0361.3013.2.118.000         
+
+  3.1.90.04.00 125 118 12.500,00 
+
+  3.1.90.11.00 126 118 114.000,00 
+
+  3.1.90.13.00 127 118 26.000,00 
+
+  
+
+12.0365.3013.2.120.000 
+        
+
+  3.1.90.11.00 138 118 10.100,00 
+
+  
+
+2 
+        
+
+2.05         
+
+10.0301.5002.2.143.000         
+
+  3.1.90.11.00 350 159 12.500,00 
+
+  
+
+10.0301.5002.2.144.000 
+        
+
+  3.1.90.11.00 354 159 7.500,00 
+
+  3.1.90.13.00 355 159 1.600,00 
+
+  Total Órgão PODER EXECUTIVO 184.200,00 
+
+Total dos Créditos.......................................................................................... 184.200,00 
+
+  
+
+Art. 2º - Os recursos utilizados serão os constantes do quadro abaixo: 
+
+  
+
+R$ 1,00 
+  
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+  
+
+Total da (s) Redução (ôes)............. 
+
+  
+
+Art. 3º - Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos para 29/11/2021, revogadas as disposições em contrário. 
+
+  
+
+Catas Altas, 29/11/2021. 
+
+  
+
+SAULO MORAIS DE CASTRO 
+Prefeito Municipal 
+
+  
+
+
+
+Minas Gerais , 22 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3161 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                                                                         416 
+
+ 
+
+Publicado por: 
+Ludimili Aparecida Guerra 
+
+Código Identificador:E0483659 
+
+ 
+PROCURADORIA JURÍDICA 
+
+DECRETO Nº 370/2021 
+
+ 
+
+DECRETO Nº 370/2021 
+
+  
+
+Abre Crédito Suplementar - Anulação de Dotação 
+
+  
+
+O Prefeito Municipal de Catas Altas/MG, no uso de suas atribuições e com base no Art. 2º da Lei Orçamentária Anual nº 698/2020 e em conformidade com o Art. 176 da Consituição Federal, D E C R E T A: 
+
+  
+
+Art. 1º - Fica aberto o Crédito Suplementar no Orçamento vigente do Poder Executivo Municipal, no montante de R$ 869.731,14, conforme discriminações: 
+
+  
+
+R$ 1,00 
+  
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.02 GABINETE DO VICE-PREFEITO         
+
+04.0122.2003.2.062.000 GESTAO DA SECRETARIA DE ADM. E FAZENDA         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 43 100 5.000,00 
+
+  Serviços Tecnologia da Informação e Comunicação - Pessoa Jur 3.3.90.40.00 44 100 29.001,62 
+
+  
+
+2 
+
+  
+
+PODER EXECUTIVO 
+        
+
+2.03 PROCURADORIA JURÍDICA MUNICIPAL         
+
+12.0361.3001.2.069.000 GESTAO DO ENSINO BASICO         
+
+  Material de Consumo 3.3.90.30.00 77 101 10.000,00 
+
+  
+
+12.0361.3002.2.115.000 
+
+  
+
+MANUT. DA INFORMATIZACAO DO SISTEMA EDUCACIONAL 
+        
+
+  Material de Consumo 3.3.90.30.00 85 101 56.203,47 
+
+  
+
+12.0361.3002.3.050.000 
+
+  
+
+AQUIS. DE EQUIP. INFORM. DO SISTEMA EDUCACIONAL 
+        
+
+  Equipamentos e Material Permanente 4.4.90.52.00 89 101 619.526,05 
+
+  
+
+2 
+
+  
+
+PODER EXECUTIVO 
+        
+
+2.07 SECRETARIA MUNICIPAL DE EDUCAÇÃO         
+
+13.0392.7007.3.049.000 REVITALIZACAO E PRESERVACAO DO PATRIMONIO CULTURAL         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 528 100 150.000,00 
+
+    Total Órgão PODER EXECUTIVO 869.731,14 
+
+Total dos Créditos.......................................................................................... 869.731,14 
+
+  
+
+Art. 2º - Os recursos utilizados serão os constantes do quadro abaixo: 
+
+  
+
+R$ 1,00 
+  
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 
+
+2.02 
+
+04.0122.2003.2.062.000 
+
+PODER EXECUTIVO 
+
+GABINETE DO VICE-PREFEITO 
+GESTAO DA SECRETARIA DE ADM. E FAZENDA 
+
+  
+
+Serviços de Consultoria 
+
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+  
+
+3.3.90.35.00 
+
+3.3.90.39.00 
+
+  
+
+38 
+
+67 
+
+  
+
+100 
+
+100 
+
+  
+
+5.000,00 
+
+29.001,62 
+
+Total PODER EXECUTIVO 34.001,62 
+
+  
+
+2 
+
+2.03 
+12.0365.3013.2.140.000 
+
+PODER EXECUTIVO 
+
+PROCURADORIA JURÍDICA MUNICIPAL 
+
+MANUT. ATIV. COM A CRECHE MUNICIPAL - FUNDEB 40% 
+
+  
+
+Vencimentos e Vantagens Fixas - Pessoal Civil Vencimentos e Vantagens Fixas - Pessoal Civil Outras Despesas Variáveis - Pessoal 
+
+  
+
+3.1.90.11.00 
+
+3.1.90.11.00 
+
+3.1.90.16.00 
+
+3.3.90.14.00 
+
+  
+
+146 
+
+70 
+
+93 
+
+94 
+
+  
+
+119 
+
+101 
+
+101 
+
+101 
+
+  
+
+29.200,00 
+
+10.000,00 
+
+5.000,00 
+
+1.000,00 
+
+
+
+Minas Gerais , 22 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3161 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                                                                         417 
+
+ 
+
+Civil 
+
+Diárias - Pessoal Civil Diárias - Pessoal Civil Material de Consumo Material de Consumo Material de Consumo 
+
+Outros Serviços de Terceiros - Pessoa Física Outros Serviços de Terceiros - Pessoa Física Outros Serviços de Terceiros - Pessoa 
+
+Física Outros Serviços de Terceiros - Pessoa Física Outros Serviços de Terceiros - Pessoa Física Outros Serviços de Terceiros - 
+
+Pessoa Jurídica Outros Serviços de Terceiros - Pessoa Jurídica Outros Serviços de Terceiros - Pessoa Jurídica Outros Serviços de 
+
+Terceiros - Pessoa Jurídica 
+
+Serviços Tecnologia da Informação e Comunicação - Pessoa Jur Obrigações Tributárias e Contributivas 
+
+Despesas de Exercícios Anteriores Obras e Instalações 
+
+Equipamentos e Material Permanente Equipamentos e Material Permanente Equipamentos e Material Permanente Material de 
+
+Consumo 
+
+Material de Consumo 
+
+Outros Serviços de Terceiros - Pessoa Jurídica Equipamentos e Material Permanente Equipamentos e Material Permanente 
+
+3.3.90.14.00 
+
+3.3.90.30.00 
+
+3.3.90.30.00 
+
+3.3.90.30.00 
+
+3.3.90.36.00 
+
+3.3.90.36.00 
+
+3.3.90.36.00 
+
+3.3.90.36.00 
+
+3.3.90.36.00 
+
+3.3.90.39.00 
+
+3.3.90.39.00 
+
+3.3.90.39.00 
+
+3.3.90.39.00 
+
+3.3.90.40.00 
+
+3.3.90.47.00 
+
+3.3.90.92.00 
+
+4.4.90.51.00 
+
+4.4.90.52.00 
+
+4.4.90.52.00 
+
+4.4.90.52.00 
+
+3.3.90.30.00 
+
+3.3.90.30.00 
+
+3.3.90.39.00 
+
+4.4.90.52.00 
+
+4.4.90.52.00 
+
+76 
+
+95 
+
+104 
+
+121 
+
+122 
+
+86 
+
+96 
+
+78 
+
+113 
+
+114 
+
+87 
+
+106 
+
+123 
+
+88 
+
+98 
+
+80 
+
+116 
+
+115 
+
+107 
+
+124 
+
+154 
+
+164 
+
+187 
+
+157 
+
+158 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+100 
+
+100 
+
+100 
+
+122 
+
+146 
+
+3.000,00 
+
+2.500,00 
+
+5.000,00 
+
+5.000,00 
+
+1.000,00 
+
+1.000,00 
+
+1.000,00 
+
+500,00 
+
+500,00 
+
+5.000,00 
+
+1.000,00 
+
+5.000,00 
+
+1.000,00 
+
+1.260,00 
+
+1.000,00 
+
+500,00 
+
+5.800,00 
+
+1.000,00 
+
+1.000,00 
+
+1.000,00 
+
+12.000,00 
+
+12.000,00 
+
+200.000,00 
+
+50.000,00 
+
+50.000,00 
+
+Total PODER EXECUTIVO 412.260,00 
+
+2 
+
+2.09 
+  
+
+08.0482.9001.1.105.000 
+
+PODER EXECUTIVO 
+
+SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E DESENVOLVIMENTO SUSTENTÁVEL 
+
+CONSTRUCAO REF. E AMP. DE MORADIAS POPULARES 
+
+  
+
+Obras e Instalações 
+
+  
+
+4.4.90.51.00 
+
+  
+
+690 
+
+  
+
+100 
+
+  
+
+273.469,52 
+
+Total PODER EXECUTIVO 273.469,52 
+
+2 
+
+2.07 
+13.0392.7007.3.049.000 
+
+PODER EXECUTIVO 
+
+SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+REVITALIZACAO E PRESERVACAO DO PATRIMONIO CULTURAL 
+
+  
+
+Serviços de Consultoria 
+
+  
+
+3.3.90.35.00 
+
+  
+
+527 
+
+  
+
+100 
+
+  
+
+150.000,00 
+
+Total PODER EXECUTIVO 150.000,00 
+
+Total da (s) Redução (ôes)................................................................................................... .............. 869.731,14 
+
+  
+
+Art. 3º - Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos para 10/12/2021, revogadas as disposições em contrário. 
+
+  
+
+Catas Al
+22-Dezembro-2021
+CATAS ALTAS
+Abre Crédito Suplementar - Anulação de Dotação 
+
+  
+
+O Prefeito Municipal de Catas Altas/MG, no uso de suas atribuições e com base no Art. 2º da Lei Orçamentária Anual nº 698/2020 e em conformidade com o Art. 176 da Consituição Federal, D E C R E T A: 
+
+  
+
+Art. 1º - Fica aberto o Crédito Suplementar no Orçamento vigente do Poder Executivo Municipal, no montante de R$ 869.731,14, conforme discriminações: 
+
+  
+
+R$ 1,00 
+  
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.02 GABINETE DO VICE-PREFEITO         
+
+04.0122.2003.2.062.000 GESTAO DA SECRETARIA DE ADM. E FAZENDA         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 43 100 5.000,00 
+
+  Serviços Tecnologia da Informação e Comunicação - Pessoa Jur 3.3.90.40.00 44 100 29.001,62 
+
+  
+
+2 
+
+  
+
+PODER EXECUTIVO 
+        
+
+2.03 PROCURADORIA JURÍDICA MUNICIPAL         
+
+12.0361.3001.2.069.000 GESTAO DO ENSINO BASICO         
+
+  Material de Consumo 3.3.90.30.00 77 101 10.000,00 
+
+  
+
+12.0361.3002.2.115.000 
+
+  
+
+MANUT. DA INFORMATIZACAO DO SISTEMA EDUCACIONAL 
+        
+
+  Material de Consumo 3.3.90.30.00 85 101 56.203,47 
+
+  
+
+12.0361.3002.3.050.000 
+
+  
+
+AQUIS. DE EQUIP. INFORM. DO SISTEMA EDUCACIONAL 
+        
+
+  Equipamentos e Material Permanente 4.4.90.52.00 89 101 619.526,05 
+
+  
+
+2 
+
+  
+
+PODER EXECUTIVO 
+        
+
+2.07 SECRETARIA MUNICIPAL DE EDUCAÇÃO         
+
+13.0392.7007.3.049.000 REVITALIZACAO E PRESERVACAO DO PATRIMONIO CULTURAL         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 528 100 150.000,00 
+
+    Total Órgão PODER EXECUTIVO 869.731,14 
+
+Total dos Créditos.......................................................................................... 869.731,14 
+
+  
+
+Art. 2º - Os recursos utilizados serão os constantes do quadro abaixo: 
+
+  
+
+R$ 1,00 
+  
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 
+
+2.02 
+
+04.0122.2003.2.062.000 
+
+PODER EXECUTIVO 
+
+GABINETE DO VICE-PREFEITO 
+GESTAO DA SECRETARIA DE ADM. E FAZENDA 
+
+  
+
+Serviços de Consultoria 
+
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+  
+
+3.3.90.35.00 
+
+3.3.90.39.00 
+
+  
+
+38 
+
+67 
+
+  
+
+100 
+
+100 
+
+  
+
+5.000,00 
+
+29.001,62 
+
+Total PODER EXECUTIVO 34.001,62 
+
+  
+
+2 
+
+2.03 
+12.0365.3013.2.140.000 
+
+PODER EXECUTIVO 
+
+PROCURADORIA JURÍDICA MUNICIPAL 
+
+MANUT. ATIV. COM A CRECHE MUNICIPAL - FUNDEB 40% 
+
+  
+
+Vencimentos e Vantagens Fixas - Pessoal Civil Vencimentos e Vantagens Fixas - Pessoal Civil Outras Despesas Variáveis - Pessoal 
+
+  
+
+3.1.90.11.00 
+
+3.1.90.11.00 
+
+3.1.90.16.00 
+
+3.3.90.14.00 
+
+  
+
+146 
+
+70 
+
+93 
+
+94 
+
+  
+
+119 
+
+101 
+
+101 
+
+101 
+
+  
+
+29.200,00 
+
+10.000,00 
+
+5.000,00 
+
+1.000,00 
+
+
+
+Minas Gerais , 22 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3161 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                                                                         417 
+
+ 
+
+Civil 
+
+Diárias - Pessoal Civil Diárias - Pessoal Civil Material de Consumo Material de Consumo Material de Consumo 
+
+Outros Serviços de Terceiros - Pessoa Física Outros Serviços de Terceiros - Pessoa Física Outros Serviços de Terceiros - Pessoa 
+
+Física Outros Serviços de Terceiros - Pessoa Física Outros Serviços de Terceiros - Pessoa Física Outros Serviços de Terceiros - 
+
+Pessoa Jurídica Outros Serviços de Terceiros - Pessoa Jurídica Outros Serviços de Terceiros - Pessoa Jurídica Outros Serviços de 
+
+Terceiros - Pessoa Jurídica 
+
+Serviços Tecnologia da Informação e Comunicação - Pessoa Jur Obrigações Tributárias e Contributivas 
+
+Despesas de Exercícios Anteriores Obras e Instalações 
+
+Equipamentos e Material Permanente Equipamentos e Material Permanente Equipamentos e Material Permanente Material de 
+
+Consumo 
+
+Material de Consumo 
+
+Outros Serviços de Terceiros - Pessoa Jurídica Equipamentos e Material Permanente Equipamentos e Material Permanente 
+
+3.3.90.14.00 
+
+3.3.90.30.00 
+
+3.3.90.30.00 
+
+3.3.90.30.00 
+
+3.3.90.36.00 
+
+3.3.90.36.00 
+
+3.3.90.36.00 
+
+3.3.90.36.00 
+
+3.3.90.36.00 
+
+3.3.90.39.00 
+
+3.3.90.39.00 
+
+3.3.90.39.00 
+
+3.3.90.39.00 
+
+3.3.90.40.00 
+
+3.3.90.47.00 
+
+3.3.90.92.00 
+
+4.4.90.51.00 
+
+4.4.90.52.00 
+
+4.4.90.52.00 
+
+4.4.90.52.00 
+
+3.3.90.30.00 
+
+3.3.90.30.00 
+
+3.3.90.39.00 
+
+4.4.90.52.00 
+
+4.4.90.52.00 
+
+76 
+
+95 
+
+104 
+
+121 
+
+122 
+
+86 
+
+96 
+
+78 
+
+113 
+
+114 
+
+87 
+
+106 
+
+123 
+
+88 
+
+98 
+
+80 
+
+116 
+
+115 
+
+107 
+
+124 
+
+154 
+
+164 
+
+187 
+
+157 
+
+158 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+100 
+
+100 
+
+100 
+
+122 
+
+146 
+
+3.000,00 
+
+2.500,00 
+
+5.000,00 
+
+5.000,00 
+
+1.000,00 
+
+1.000,00 
+
+1.000,00 
+
+500,00 
+
+500,00 
+
+5.000,00 
+
+1.000,00 
+
+5.000,00 
+
+1.000,00 
+
+1.260,00 
+
+1.000,00 
+
+500,00 
+
+5.800,00 
+
+1.000,00 
+
+1.000,00 
+
+1.000,00 
+
+12.000,00 
+
+12.000,00 
+
+200.000,00 
+
+50.000,00 
+
+50.000,00 
+
+Total PODER EXECUTIVO 412.260,00 
+
+2 
+
+2.09 
+  
+
+08.0482.9001.1.105.000 
+
+PODER EXECUTIVO 
+
+SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E DESENVOLVIMENTO SUSTENTÁVEL 
+
+CONSTRUCAO REF. E AMP. DE MORADIAS POPULARES 
+
+  
+
+Obras e Instalações 
+
+  
+
+4.4.90.51.00 
+
+  
+
+690 
+
+  
+
+100 
+
+  
+
+273.469,52 
+
+Total PODER EXECUTIVO 273.469,52 
+
+2 
+
+2.07 
+13.0392.7007.3.049.000 
+
+PODER EXECUTIVO 
+
+SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+REVITALIZACAO E PRESERVACAO DO PATRIMONIO CULTURAL 
+
+  
+
+Serviços de Consultoria 
+
+  
+
+3.3.90.35.00 
+
+  
+
+527 
+
+  
+
+100 
+
+  
+
+150.000,00 
+
+Total PODER EXECUTIVO 150.000,00 
+
+Total da (s) Redução (ôes)................................................................................................... .............. 869.731,14 
+
+  
+
+Art. 3º - Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos para 10/12/2021, revogadas as disposições em contrário. 
+
+  
+
+Catas Altas, 10/12/2021. 
+
+  
+
+SAULO MORAIS DE CASTRO 
+Prefeito Municipal 
+
+Publicado por: 
+Ludimili Aparecida Guerra 
+
+Código Identificador:65B95BE9 
+
+ 
+
+ESTADO DE MINAS GERAIS
+22-Dezembro-2021
+CATAS ALTAS
+to o Crédito Suplementar no Orçamento vigente do Poder Executivo Municipal, no montante de R$ 869.731,14, conforme discriminações: 
+
+  
+
+R$ 1,00 
+  
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR SUPL 
+
+2 PODER EXECUTIVO         
+
+2.02 GABINETE DO VICE-PREFEITO         
+
+04.0122.2003.2.062.000 GESTAO DA SECRETARIA DE ADM. E FAZENDA         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 43 100 5.000,00 
+
+  Serviços Tecnologia da Informação e Comunicação - Pessoa Jur 3.3.90.40.00 44 100 29.001,62 
+
+  
+
+2 
+
+  
+
+PODER EXECUTIVO 
+        
+
+2.03 PROCURADORIA JURÍDICA MUNICIPAL         
+
+12.0361.3001.2.069.000 GESTAO DO ENSINO BASICO         
+
+  Material de Consumo 3.3.90.30.00 77 101 10.000,00 
+
+  
+
+12.0361.3002.2.115.000 
+
+  
+
+MANUT. DA INFORMATIZACAO DO SISTEMA EDUCACIONAL 
+        
+
+  Material de Consumo 3.3.90.30.00 85 101 56.203,47 
+
+  
+
+12.0361.3002.3.050.000 
+
+  
+
+AQUIS. DE EQUIP. INFORM. DO SISTEMA EDUCACIONAL 
+        
+
+  Equipamentos e Material Permanente 4.4.90.52.00 89 101 619.526,05 
+
+  
+
+2 
+
+  
+
+PODER EXECUTIVO 
+        
+
+2.07 SECRETARIA MUNICIPAL DE EDUCAÇÃO         
+
+13.0392.7007.3.049.000 REVITALIZACAO E PRESERVACAO DO PATRIMONIO CULTURAL         
+
+  Outros Serviços de Terceiros - Pessoa Jurídica 3.3.90.39.00 528 100 150.000,00 
+
+    Total Órgão PODER EXECUTIVO 869.731,14 
+
+Total dos Créditos.......................................................................................... 869.731,14 
+
+  
+
+Art. 2º - Os recursos utilizados serão os constantes do quadro abaixo: 
+
+  
+
+R$ 1,00 
+  
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA NR DR VALOR RED 
+
+2 
+
+2.02 
+
+04.0122.2003.2.062.000 
+
+PODER EXECUTIVO 
+
+GABINETE DO VICE-PREFEITO 
+GESTAO DA SECRETARIA DE ADM. E FAZENDA 
+
+  
+
+Serviços de Consultoria 
+
+Outros Serviços de Terceiros - Pessoa Jurídica 
+
+  
+
+3.3.90.35.00 
+
+3.3.90.39.00 
+
+  
+
+38 
+
+67 
+
+  
+
+100 
+
+100 
+
+  
+
+5.000,00 
+
+29.001,62 
+
+Total PODER EXECUTIVO 34.001,62 
+
+  
+
+2 
+
+2.03 
+12.0365.3013.2.140.000 
+
+PODER EXECUTIVO 
+
+PROCURADORIA JURÍDICA MUNICIPAL 
+
+MANUT. ATIV. COM A CRECHE MUNICIPAL - FUNDEB 40% 
+
+  
+
+Vencimentos e Vantagens Fixas - Pessoal Civil Vencimentos e Vantagens Fixas - Pessoal Civil Outras Despesas Variáveis - Pessoal 
+
+  
+
+3.1.90.11.00 
+
+3.1.90.11.00 
+
+3.1.90.16.00 
+
+3.3.90.14.00 
+
+  
+
+146 
+
+70 
+
+93 
+
+94 
+
+  
+
+119 
+
+101 
+
+101 
+
+101 
+
+  
+
+29.200,00 
+
+10.000,00 
+
+5.000,00 
+
+1.000,00 
+
+
+
+Minas Gerais , 22 de Dezembro de 2021   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3161 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                                                                                         417 
+
+ 
+
+Civil 
+
+Diárias - Pessoal Civil Diárias - Pessoal Civil Material de Consumo Material de Consumo Material de Consumo 
+
+Outros Serviços de Terceiros - Pessoa Física Outros Serviços de Terceiros - Pessoa Física Outros Serviços de Terceiros - Pessoa 
+
+Física Outros Serviços de Terceiros - Pessoa Física Outros Serviços de Terceiros - Pessoa Física Outros Serviços de Terceiros - 
+
+Pessoa Jurídica Outros Serviços de Terceiros - Pessoa Jurídica Outros Serviços de Terceiros - Pessoa Jurídica Outros Serviços de 
+
+Terceiros - Pessoa Jurídica 
+
+Serviços Tecnologia da Informação e Comunicação - Pessoa Jur Obrigações Tributárias e Contributivas 
+
+Despesas de Exercícios Anteriores Obras e Instalações 
+
+Equipamentos e Material Permanente Equipamentos e Material Permanente Equipamentos e Material Permanente Material de 
+
+Consumo 
+
+Material de Consumo 
+
+Outros Serviços de Terceiros - Pessoa Jurídica Equipamentos e Material Permanente Equipamentos e Material Permanente 
+
+3.3.90.14.00 
+
+3.3.90.30.00 
+
+3.3.90.30.00 
+
+3.3.90.30.00 
+
+3.3.90.36.00 
+
+3.3.90.36.00 
+
+3.3.90.36.00 
+
+3.3.90.36.00 
+
+3.3.90.36.00 
+
+3.3.90.39.00 
+
+3.3.90.39.00 
+
+3.3.90.39.00 
+
+3.3.90.39.00 
+
+3.3.90.40.00 
+
+3.3.90.47.00 
+
+3.3.90.92.00 
+
+4.4.90.51.00 
+
+4.4.90.52.00 
+
+4.4.90.52.00 
+
+4.4.90.52.00 
+
+3.3.90.30.00 
+
+3.3.90.30.00 
+
+3.3.90.39.00 
+
+4.4.90.52.00 
+
+4.4.90.52.00 
+
+76 
+
+95 
+
+104 
+
+121 
+
+122 
+
+86 
+
+96 
+
+78 
+
+113 
+
+114 
+
+87 
+
+106 
+
+123 
+
+88 
+
+98 
+
+80 
+
+116 
+
+115 
+
+107 
+
+124 
+
+154 
+
+164 
+
+187 
+
+157 
+
+158 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+101 
+
+100 
+
+100 
+
+100 
+
+122 
+
+146 
+
+3.000,00 
+
+2.500,00 
+
+5.000,00 
+
+5.000,00 
+
+1.000,00 
+
+1.000,00 
+
+1.000,00 
+
+500,00 
+
+500,00 
+
+5.000,00 
+
+1.000,00 
+
+5.000,00 
+
+1.000,00 
+
+1.260,00 
+
+1.000,00 
+
+500,00 
+
+5.800,00 
+
+1.000,00 
+
+1.000,00 
+
+1.000,00 
+
+12.000,00 
+
+12.000,00 
+
+200.000,00 
+
+50.000,00 
+
+50.000,00 
+
+Total PODER EXECUTIVO 412.260,00 
+
+2 
+
+2.09 
+  
+
+08.0482.9001.1.105.000 
+
+PODER EXECUTIVO 
+
+SECRET. MUNIC. MEIO AMBIENTE, AGRICULTURA E DESENVOLVIMENTO SUSTENTÁVEL 
+
+CONSTRUCAO REF. E AMP. DE MORADIAS POPULARES 
+
+  
+
+Obras e Instalações 
+
+  
+
+4.4.90.51.00 
+
+  
+
+690 
+
+  
+
+100 
+
+  
+
+273.469,52 
+
+Total PODER EXECUTIVO 273.469,52 
+
+2 
+
+2.07 
+13.0392.7007.3.049.000 
+
+PODER EXECUTIVO 
+
+SECRETARIA MUNICIPAL DE EDUCAÇÃO 
+
+REVITALIZACAO E PRESERVACAO DO PATRIMONIO CULTURAL 
+
+  
+
+Serviços de Consultoria 
+
+  
+
+3.3.90.35.00 
+
+  
+
+527 
+
+  
+
+100 
+
+  
+
+150.000,00 
+
+Total PODER EXECUTIVO 150.000,00 
+
+Total da (s) Redução (ôes)................................................................................................... .............. 869.731,14 
+
+  
+
+Art. 3º - Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos para 10/12/2021, revogadas as disposições em contrário. 
+
+  
+
+Catas Altas, 10/12/2021. 
+
+  
+
+SAULO MORAIS DE CASTRO 
+Prefeito Municipal 
+
+Publicado por: 
+Ludimili Aparecida Guerra 
+
+Código Identificador:65B95BE9 
+
+ 
+
+ESTADO DE MINAS GERAIS

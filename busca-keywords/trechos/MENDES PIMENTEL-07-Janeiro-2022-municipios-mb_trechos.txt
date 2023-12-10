@@ -1,0 +1,211 @@
+07-Janeiro-2022
+MENDES PIMENTEL
+a do Crédito Suplementar ora aberto, serão utilizados os recursos provenientes da anulação das dotações do Orçamento 
+
+Programa vigente, conforme as seguintes descriminações: 
+
+  
+
+0007 
+2100.04.0122.0004.2067.100 – CONTRIBUIÇÕES A INSTITUIÇÕES DIVERSAS 
+
+3.3.50.41.00.00 – Contribuições 
+13.000,00 
+
+0008 
+2100.04.0122.0004.2070.100 – GESTÃO E ADMINISTRAÇÃO DO GABINETE DO PREFEITO 
+
+3.3.90.14.00.00 – Diárias – Pessoal Civil 
+3.000,00 
+
+0031 
+2200.02.0062.0007.2005.100 – REMUNERAÇÃO DOS SERVIDORES DA PROCURADORIA 
+
+3.1.90.16.00.00 – Outras Despesas Variáveis– Pessoal Civil 
+1.000,00 
+
+0162 
+2700.27.0812.0015.2017.100 –REALIZAÇÃO DE CAMPEONATOS MUNICIPAIS E REGIONAIS 
+
+3.3.90.31.00.00 – Premiações Culturais, Artísticas, Científicas, Despotivas e Outras 
+1.000,00 
+
+0165 
+2700.27.0812.0015.2017.100 –REALIZAÇÃO DE CAMPEONATOS MUNICIPAIS E REGIONAIS 
+
+3.3.90.47.00.00 – Obrigações Tributárias e Contributivas 
+1.000,00 
+
+0217 
+2821.12.0361.0022.2022.101 – REMUNERAÇÃO DOS PROFESSORES ENSINO FUNDAMENTAL 
+
+3.1.90.11.00.00 – Vencimentos e Vantagens Fixas – Pessoal civil 
+41.915,65 
+
+0217 
+2821.12.0361.0022.2022.101 – REMUNERAÇÃO DOS PROFESSORES ENSINO FUNDAMENTAL 
+
+3.1.90.11.00.00 – Vencimentos e Vantagens Fixas – Pessoal civil 
+40.000,00 
+
+0217 
+2821.12.0361.0022.2022.101 – REMUNERAÇÃO DOS PROFESSORES ENSINO FUNDAMENTAL 
+
+3.1.90.11.00.00 – Vencimentos e Vantagens Fixas – Pessoal civil 
+17.000,00 
+
+0456 
+2921.10.0301.0024.2061.159 – MANUTENÇÃO DAS ATIVIDADES EM ATENÇÃO BÁSICA EM SAÚDE 
+
+3.3.90.30.00.00 – Material de Consumo 
+11.450,34 
+
+0575 
+3010.08.0122.0019.2078.100 – GESTÃO E ADMINISTRAÇÃO DA SMAS 
+
+3.3.90.30.00.00 – Material de Consumo 
+2.000,00 
+
+0576 
+3010.08.0122.0019.2078.100 – GESTÃO E ADMINISTRAÇÃO DA SMAS 
+
+3.3.90.33.00.00 – Passagens e Despesas com Locomoção 
+1.000,00 
+
+0578 
+3010.08.0122.0019.2078.100 – GESTÃO E ADMINISTRAÇÃO DA SMAS 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica 
+757,65 
+
+0583 
+3020.08.0241.0020.2048.100 – BENEFÍCIO DE PRESTAÇÃO CONTINUADA AO IDOSO 
+
+3.3.90.30.00.00 – Material de Consumo 
+1.000,00 
+
+0585 3020.08.0241.0020.2048.100 – BENEFÍCIO DE PRESTAÇÃO CONTINUADA AO IDOSO 1.000,00 
+
+
+
+Minas Gerais , 07 de Janeiro de 2022   •   Diário Oficial dos Municípios Mineiros   •    ANO XIII | Nº 3173 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              301 
+
+ 
+
+3.3.90.32.00.00 – Material , Bem ou Serviço para Distribuição Gratuíta 
+
+0587 
+3020.08.0241.0020.2048.100 – BENEFÍCIO DE PRESTAÇÃO CONTINUADA AO IDOSO 
+
+3.3.90.36.00.00 – Outros Serviços de Terceiros – Pessoa Física 
+1.000,00 
+
+0589 
+3020.08.0241.0020.2048.100 – BENEFÍCIO DE PRESTAÇÃO CONTINUADA AO IDOSO 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica 
+1.000,00 
+
+0591 
+3020.08.0241.0020.2048.100 – BENEFÍCIO DE PRESTAÇÃO CONTINUADA AO IDOSO 
+
+3.3.90.40.00.00 – Serviços de Tecnologia da Informação e Comunicação – Pessoa Jurídica 
+1.000,00 
+
+0592 
+3020.08.0241.0020.2048.100 – BENEFÍCIO DE PRESTAÇÃO CONTINUADA AO IDOSO 
+
+3.3.90.47.00.00 – Obrigações Tributárias e Contributivas 
+1.000,00 
+
+0594 
+3020.08.0242.0020.1038.100 – CONSTRUÇÃO CENTRO REFERENCIA P/ PORT. NECESSIDADE ESPECIAL 
+
+4.4.90.51.00.00 – Obras e Instalações 
+1.000,00 
+
+0596 
+3020.08.0242.0020.2049.100 – BENEFÍCIO DE PRESTAÇÃO CONTINUADA AO DEFICIENTE 
+
+3.3.90.30.00.00 – Material de Consumo 
+1.000,00 
+
+0598 
+3020.08.0242.0020.2049.100 – BENEFÍCIO DE PRESTAÇÃO CONTINUADA AO DEFICIENTE 
+
+3.3.90.32.00.00 – Material, bem ou Serviço para Distribuição Gratuita 
+1.000,00 
+
+0600 
+3020.08.0242.0020.2049.100 – BENEFÍCIO DE PRESTAÇÃO CONTINUADA AO DEFICIENTE 
+
+3.3.90.36.00.00 – Outros Serviços de Terceiros – Pessoa Física 
+1.000,00 
+
+0602 
+3020.08.0242.0020.2049.100 – BENEFÍCIO DE PRESTAÇÃO CONTINUADA AO DEFICIENTE 
+
+3.3.90.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica 
+1.000,00 
+
+0635 
+3020.08.0244.0020.2051.129 – BENEFÍCIO DE PRESTAÇÃO CONTINUADA À COMUNIDADE 
+
+3.1.90.04.00.00 – Contratação por Tempo Determinado 
+4.000,00 
+
+0733 
+3100.28.0843.0028.3009.100 – AMORTIZAÇÃO DÍVIDA FUNDADA – PROJTO SOMMA – CALÇAMENTO 
+
+3.2.90.21.00.00 – Juros sobre a Dívida por Contrato 
+3.000,00 
+
+0734 
+3100.28.0843.0028.3009.100 – AMORTIZAÇÃO DÍVIDA FUNDADA – PROJETO SOMMA – CALÇAMENTO 
+
+4.6.90.71.00.00 – Principal da Dívida Contratual Resgatado 
+3.000,00 
+
+0736 
+3100.28.0843.0028.3010.100 – AMORTIZAÇÃO DÍVIDA FUNDADA – JUNTO AO BDMG 
+
+4.6.90.71.00.00 – Principal de Dívida Contratual Resgatado 
+2.000,00 
+
+Total 156.123,64 
+
+  
+
+Artigo 3º: Este decreto entra em vigor na data de sua publicação. 
+
+  
+
+Artigo 4º: Revogam-se as disposições em contrário. 
+
+  
+
+Mendes Pimentel, 19 de novembro de 2021 
+
+  
+
+PAULO ANTÔNIO DE SOUZA 
+Prefeito Municipal 
+
+  
+
+Certidão: certifico que este Decreto foi registrado no livro nº ____, à (s)folha (s)______, e publicado no Diário Oficial do Município, no site 
+
+http://www.diariomunicipal.com.br/amm-mg/, em _____/_____/2021. 
+
+Publicado por: 
+Aides Soares 
+
+Código Identificador:317CC783 
+
+ 
+
+ESTADO DE MINAS GERAIS

@@ -1,0 +1,506 @@
+31-Dezembro-2019
+SANTA BARBARA
+ABRE CRÉDITO SUPLEMENTAR 
+
+  
+O Prefeito Municipal de Santa Barbara/MG, no uso de suas atribuições legais e de acordo com a autorização contida no art. 2º da Lei orçamentária 
+anual nº 1.878, de 24 de Dezembro de 2018 
+D E C R E T A: 
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2019, os seguintes créditos suplementares para reforço das seguintes dotações 
+orçamentárias - R$ 179.100,00 (cento e setenta e nove mil cem reais) 
+  
+CRÉDITO(S) 
+
+CLASSIFICAÇÃO FICHA FONTE DR VALOR 
+
+02.01.04.122.0015.2.039 - MANUTENCAO DAS ATIVIDADES GABINETE E SECRETARIA         
+
+339046 - Auxilio Alimentacao 704   100 1.300,00 
+
+02.04.01.04.122.0052.2.155 - MANUTENCAO DA SECRETARIA DE GOVERNO         
+
+339046 - Auxilio Alimentacao 705   100 3.600,00 
+
+02.05.01.04.122.0021.2.059 - MANUTENCAO DAS ATIVIDADES DA SECRETARIA         
+
+339033 - Passagens e Despesas com Locomocao 112   100 1.000,00 
+
+339046 - Auxilio Alimentacao 715   100 3.200,00 
+
+02.06.04.122.0015.2.200 - GESTAO PROCESSOS GERENCIAIS NA ADM. PUBLICA         
+
+339046 - Auxilio Alimentacao 714   100 4.100,00 
+
+02.06.28.846.0002.0.023 - OBRIGACOES TRIBUTARIAS E CONTRIBUTIVAS- PASEP         
+
+339047 - Obrigacoes Tributarias e Contributivas 245   100 50.000,00 
+
+02.07.01.12.122.0004.2.003 - MANUTENCAO DAS ATIVIDADES DA SECRETARIA         
+
+339046 - Auxilio Alimentacao 707 ENSINO 101 45.000,00 
+
+02.07.03.12.363.0007.2.018 - CUSTEIO TRANSP A ESTUDANTES TEC.PROFISSIONALIZANTE         
+
+339032 - Material, Bem ou Servico de Distrib. Gratuita 323 SEMINC 100 25.000,00 
+
+02.08.04.122.0036.2.104 - MANUTENCAO DA SECRETARIA DE OBRAS E SERVICOS         
+
+339046 - Auxilio Alimentacao 708   100 4.600,00 
+
+02.08.26.782.0042.2.111 - MANUT ATIVIDADES CONSERVACAO DE ESTRADAS E PONTES         
+
+339039 - Outros Servicos de Terceiros - Pessoa Juridica 398   100 15.000,00 
+
+02.09.04.122.0030.2.052 - MANUTENCAO SEC M. AMB, AGRI E DESEV SUST.         
+
+339046 - Auxilio Alimentacao 706   100 2.300,00 
+
+02.10.01.10.122.0057.2.170 - MANUTENCAO DAS ATIVIDADES DA SECRETARIA DE SAUDE         
+
+339046 - Auxilio Alimentacao 710 SAUDE 102 24.000,00 
+
+TOTAL DE CRÉDITOS 179.100,00 
+
+  
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1 º do art. 43, da Le i Federal nº 4.320, 
+de 17 de março de 1964. 
+  
+RECURSO(S)       
+
+ANULAÇÃO DE DOTAÇÕES       
+
+CLASSIFICAÇÃO FICHA FONTE DR VALOR 
+
+02.05.03.08.244.0022.2.086 - MANUTENCAO DO CENTRO REFER.ASSIST.SOCIAL-PESSOAL         
+
+319094 - Indenizacoes e Restituicoes Trabalhistas 149 AS.SOC 100 179.100,00 
+
+  
+MUNICÍPIO DE SANTA BARBARA DECRETO Nº 04221, de 27 de dezembro de 2019 
+  
+TOTAL DE ANULAÇÃO 179.100,00 
+
+TOTAL DE RECURSOS 179.100,00 
+
+  
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 27 de dezembro de 2019. 
+  
+LERIS FELISBERTO BRAGA 
+Prefeito Municipal 
+
+Publicado por: 
+Laiane Carine Soares Silverio 
+
+Código Identificador:2917ABC8 
+
+ 
+CONTABILIDADE 
+
+DECRETO 4222 
+ 
+
+ABRE TRANSPOSIÇÃO 
+  
+O Prefeito Municipal de Santa Bárbara - MG, no uso de suas atribuições legais e de acordo com a autorização contida em Art. 2º da Lei 
+Orçamentária Anual nº 1879, de 19 de dezembro de 2018. 
+Considerando o disposto no artigo 167, inciso VI, da Constituição Federal; 
+Considerando as classificações definidas pela Portaria SOF nº 42/1999 e Portaria Interministerial STN/SOF nº 163/2001 ; 
+Considerando as definições da Lei nº 1.867 - Lei de Diretrizes Orçamentária de 21 de maio de 2018; 
+Considerando a autorização contida no artigo 1º da Lei nº 1.856 - Lei Municipal de 09 de fevereiro de 2018; 
+Considerando a necessidade de realocar créditos orçamentários dentro de uma mesma categoria de programação; 
+D E C R E T A: 
+Art. 1º. Ficam transferidos os saldos orçamentários da categoria de programação abaixo especificados, acrescendo o saldo das dotações 
+orçamentárias no valor total de R$ 185.000,00 (cento e oitenta e cinco mil reais) 
+  
+CLASSIFICAÇÃO FICHA FONTE DR VALOR 
+
+02.05.01.04.122.0021.2.059 - MANUTENCAO DAS ATIVIDADES DA SECRETARIA         
+
+339039 - Outros Servicos de Terceiros - Pessoa Juridica 114   100 5.000,00 
+
+
+
+Minas Gerais , 31 de Dezembro de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2663 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              400 
+ 
+
+02.07.01.12.368.0008.2.024 - MANUTENCAO DAS ATIVIDADES DO TRANSPORTE ESCOLAR         
+
+339039 - Outros Servicos de Terceiros - Pessoa Juridica 303 ENSINO 101 45.000,00 
+
+02.09.04.122.0030.2.052 - MANUTENCAO SEC M. AMB, AGRI E DESEV SUST.         
+
+339035 - Servicos de Consultoria 416   100 135.000,00 
+
+TOTAL DE CRÉDITOS 185.000,00 
+
+  
+Saldo reduzido das seguintes dotações: 
+  
+CLASSIFICAÇÃO FICHA FONTE DR VALOR 
+
+02.05.03.08.244.0022.2.086 - MANUTENCAO DO CENTRO REFER.ASSIST.SOCIAL-PESSOAL         
+
+319094 - Indenizacoes e Restituicoes Trabalhistas 149 AS.SOC 100 5.000,00 
+
+02.07.01.12.361.0008.2.027 - MANUT DAS ATIVIDADES DO ENS FUNDAMENTAL - PESSOAL         
+
+319011 - Vencimentos e Vantagens Fixas - Pessoal Civil 268 ENSINO 101 135.000,00 
+
+02.07.01.12.361.0008.2.027 - MANUT DAS ATIVIDADES DO ENS FUNDAMENTAL - PESSOAL         
+
+319013 - Obrigacoes Patronais 269 ENSINO 101 45.000,00 
+
+TOTAL DE RECURSOS 185.000,00 
+
+  
+Art. 2º. Este Decreto entra em vigor na data de sua publicação, e o, revogando-se as disposições em contrário. 
+  
+Santa Barbara, 27 de dezembro de 2019. 
+  
+LERIS FELISBERTO BRAGA 
+Prefeito Municipal 
+
+Publicado por: 
+Laiane Carine Soares Silverio 
+
+Código Identificador:C21E6B26 
+
+ 
+CONTABILIDADE 
+DECRETO 04223 
+
+ 
+DECRETO Nº 04223/2019 
+  
+
+ABRE CRÉDITO SUPLEMENTAR 
+  
+O Prefeito Municipal de Santa Barbara/MG, no uso de suas atribuições legais e de acordo com a autorização contida no art. 2º da Lei orçamentária 
+anual nº 1.878, de 24 de Dezembro de 2018 
+D E C R E T A: 
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2019, os seguintes créditos suplementares para reforço das seguintes dotações 
+orçamentárias - R$ 9.000,00 (nove mil reais) 
+  
+CRÉDITO(S) 
+
+CLASSIFICAÇÃO FICHA FONTE DR VALOR 
+
+02.05.03.08.244.0022.2.091 - BENEFICIOS EVENTUAIS-AUXILIO PAG.TARIFAS PUBLICAS         
+
+339032 - Material, Bem ou Servico de Distrib. Gratuita 156 AS.SOC 100 3.000,00 
+
+02.05.03.08.244.0022.2.093 - AUXILIO MORADIA         
+
+339048 - Outros Auxilios Financ. a Pessoas Fisicas 158 AS.SOC 100 3.000,00 
+
+02.05.03.08.244.0023.2.096 - MANUTENCAO DO PROGRAMA INCLUSAO PRODUTIVA         
+
+339048 - Outros Auxilios Financ. a Pessoas Fisicas 804 AS.SOC 100 3.000,00 
+
+TOTAL DE CRÉDITOS 9.000,00 
+
+  
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1 º do art. 43, da Le i Federal nº 4.320, 
+de 17 de março de 1964. 
+  
+RECURSO(S) 
+
+ANULAÇÃO DE DOTAÇÕES 
+
+CLASSIFICAÇÃO FICHA FONTE DR VALOR 
+
+02.11.02.13.391.0045.2.125 - MANUT DAS ATIVIDADES DA CASA DA CULTURA         
+
+339039 - Outros Servicos de Terceiros - Pessoa Juridica 622   100 9.000,00 
+
+TOTAL DE ANULAÇÃO 9.000,00 
+
+TOTAL DE RECURSOS 9.000,00 
+
+  
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 27 de dezembro de 2019. 
+  
+LERIS FELISBERTO BRAGA 
+Prefeito Municipal 
+
+Publicado por: 
+Laiane Carine Soares Silverio 
+
+Código Identificador:FBA5EB64 
+
+ 
+SEC. DE DESENVOLVIMENTO SOCIAL 
+
+PORTARIA 006/2019 - PROGRAMA CARTÃO REFORMA SOLIDÁRIA 
+ 
+PORTARIA N.º 006/2019. 
+  
+
+Dispõe sobre o Programa Cartão Reforma Solidária – Edital 2019. 
+  
+
+
+
+Minas Gerais , 31 de Dezembro de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2663 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              401 
+ 
+
+Considerando a Lei Municipal Nº 1915/2019 que cria o Programa Cartão Reforma Solidária, dispõe em seu artigo 5º sobre os requisitos mínimos a 
+serem preenchidos para participação no programa. 
+  
+Considerando que no dia 14 de outubro de 2019, foi p
+31-Dezembro-2019
+SANTA BARBARA
+ABRE CRÉDITO SUPLEMENTAR 
+  
+O Prefeito Municipal de Santa Barbara/MG, no uso de suas atribuições legais e de acordo com a autorização contida no art. 2º da Lei orçamentária 
+anual nº 1.878, de 24 de Dezembro de 2018 
+D E C R E T A: 
+Art. 1º - Fica aberto ao orçamento do Município para o exercício de 2019, os seguintes créditos suplementares para reforço das seguintes dotações 
+orçamentárias - R$ 9.000,00 (nove mil reais) 
+  
+CRÉDITO(S) 
+
+CLASSIFICAÇÃO FICHA FONTE DR VALOR 
+
+02.05.03.08.244.0022.2.091 - BENEFICIOS EVENTUAIS-AUXILIO PAG.TARIFAS PUBLICAS         
+
+339032 - Material, Bem ou Servico de Distrib. Gratuita 156 AS.SOC 100 3.000,00 
+
+02.05.03.08.244.0022.2.093 - AUXILIO MORADIA         
+
+339048 - Outros Auxilios Financ. a Pessoas Fisicas 158 AS.SOC 100 3.000,00 
+
+02.05.03.08.244.0023.2.096 - MANUTENCAO DO PROGRAMA INCLUSAO PRODUTIVA         
+
+339048 - Outros Auxilios Financ. a Pessoas Fisicas 804 AS.SOC 100 3.000,00 
+
+TOTAL DE CRÉDITOS 9.000,00 
+
+  
+Art. 2º - Constitui fonte de recursos para fazer face ao crédito de que trata o artigo anterior, de acordo com o § 1 º do art. 43, da Le i Federal nº 4.320, 
+de 17 de março de 1964. 
+  
+RECURSO(S) 
+
+ANULAÇÃO DE DOTAÇÕES 
+
+CLASSIFICAÇÃO FICHA FONTE DR VALOR 
+
+02.11.02.13.391.0045.2.125 - MANUT DAS ATIVIDADES DA CASA DA CULTURA         
+
+339039 - Outros Servicos de Terceiros - Pessoa Juridica 622   100 9.000,00 
+
+TOTAL DE ANULAÇÃO 9.000,00 
+
+TOTAL DE RECURSOS 9.000,00 
+
+  
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. 
+  
+Santa Barbara, 27 de dezembro de 2019. 
+  
+LERIS FELISBERTO BRAGA 
+Prefeito Municipal 
+
+Publicado por: 
+Laiane Carine Soares Silverio 
+
+Código Identificador:FBA5EB64 
+
+ 
+SEC. DE DESENVOLVIMENTO SOCIAL 
+
+PORTARIA 006/2019 - PROGRAMA CARTÃO REFORMA SOLIDÁRIA 
+ 
+PORTARIA N.º 006/2019. 
+  
+
+Dispõe sobre o Programa Cartão Reforma Solidária – Edital 2019. 
+  
+
+
+
+Minas Gerais , 31 de Dezembro de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2663 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              401 
+ 
+
+Considerando a Lei Municipal Nº 1915/2019 que cria o Programa Cartão Reforma Solidária, dispõe em seu artigo 5º sobre os requisitos mínimos a 
+serem preenchidos para participação no programa. 
+  
+Considerando que no dia 14 de outubro de 2019, foi publicado no site da Prefeitura Municipal de Santa Bárbara/MG 
+(http://www.santabarbara.mg.gov.br/abrir_arquivo.aspx/EDITAL__BENEFICIARIOS_DO_PROGRAMA_CARTAO_REFORMA_SOLIDARIA?c
+dLocal=2&arquivo={DBE3ABDB-DEB6-0A1E-C2D4-D26ADD5EC16B}.pdf) o Edital de inscrição e seleção dos beneficiários do Programa 
+Cartão Reforma Solidária. 
+  
+Considerando que para atender ao número integral dos inscrito com Diagnóstico Social favorável, referente ao Edital de inscrição e seleção dos 
+beneficiários do Programa Cartão Reforma Solidária, faz necessário o aporte de R$ 1.637.801,24 (Um milhão e seiscentos e trinta e sete mil e 
+oitocentos e um reais e vinte e quatro centavos). 
+  
+Considerando que para definição do valor a ser atribuído a cada beneficiário do programa foram analisadas as condições da unidade habitacional, a 
+renda per capta familiar, a manifestação dos beneficiários quanto às suas necessidades habitacionais, respeitado o valor máximo de R$ 6.500,00 (Seis 
+Mil e Quinhentos Reais), conforme disposto no art. 3º da Lei Municipal nº 1915/2019. 
+  
+Considerando que o Pregão Presencial nº 095/2019, para contratação de prestadora de serviços para administração, gerenciamento, emissão e 
+fornecimento de Cartão Reforma Solidária previu o valor apenas da primeira parcela a ser concedida aos beneficiários do programa. 
+  
+Considerando a necessidade de realização de novo processo licitatório em 2020 para concessão do valor remanescente, segunda parcela, do valor 
+concedido em 2019 por meio do Programa Cartão Reforma Solidária. 
+  
+Considerando que no dia 23 de dezembro de 2019 foi publicado o Decreto Municipal Nº 4216/2019 que dispõe sobre o Programa Cartão Reforma 
+Solidária, especificamente sobre a forma de transferência de recursos, valores, número de parcelas e a forma de fiscalização do programa. 
+  
+Considerando que em dezembro de 2019 foi dada Ordem de Serviço referente à prestação de serviço prevista no Pregão Presencial nº 095/2019, 
+sendo empenhado o valor de R$ 757.760,00 (Setecentos e cinquenta e sete mil e setecentos e sessenta reais, OF número 5575/2019, a ser a ser pago 
+em 30 (trinta) dias corridos após a emissão da Nota Fiscal, conforme previsto na alínea c do item 13 do Termo de Referência do Pregão Presencial nº 
+095/2019. 
+  
+A SECRETARIA MUNICIPAL DE DESENVOLVIMENTO, MOBILIZAÇÃO E PROTEÇÃO SOCIAL, no uso de suas atribuições, 
+RESOLVE: 
+  
+Art. 1º - Tornar pública a lista de beneficiários do Programa Cartão Reforma Solidária, inscritos no edital de seleção 2019, os valores a serem 
+recebidos por cada beneficiário e a forma de liberação dos recursos, se integral ou parcial, conforme anexo I. 
+  
+Art. 2º. Constitui a Comissão de Avaliação do Programa para fins de monitoramento, avaliação e fiscalização, especialmente quanto à aplicação dos 
+recursos nos termos dispostos na Lei Municipal 1915/2019 e o Decreto Municipal Nº 4216/2019. 
+I – Rillei Truran de Assis; 
+II – Gustavo José Pereira Sales; 
+III – Danilo Souza Pinto; 
+IV – Eduardo Hosken Caldeira; 
+V – Adonias T Cruz Dos Apostolos; 
+  
+Art. 3º. A comissão constituída pelo artigo anterior poderá valer-se de todos os documentos pertinentes ao processo de inscrição e seleção para o 
+Programa Cartão Reforma Solidária referente ao edital publicado em 2019, além de vistoria nos imóveis a serem contemplados com as intervenções. 
+  
+Art. 4º. Esta Portaria entra em vigor na data de sua publicação, revogadas as disposições em contrário. 
+  
+Santa Bárbara, 28 de dezembro de 2019. 
+  
+ORDÁLIA APARECIDA BRAGA PENA 
+Secretária Municipal de Desenvolvimento, Mobilização e Proteção Social 
+  
+ANEXO I 
+  
+
+BENEFICIÁRIO 
+VALOR CONCEDIDO 
+PARA AQUISIÇÃO DE 
+MATERIAIS 
+
+VALOR CONCEDIDO 
+PARA CUSTEIO DE MÃO 
+DE OBRA 
+
+VALOR TOTAL 
+CONCEDIDO 
+
+Transferência de recurso 
+realizada em 2019 para 
+custeio de MÃO DE OBRA, 
+por meio de transferência 
+bancária 
+
+VALOR EMPENHADO EM 
+2019 REFERENTE A 1° A 
+SER REPASSADA 
+
+VALOR A SER 
+CONCEDIDO EM 2020, 
+REFERENTE A 2° 
+PARCELA 
+
+ADENILSON EDSON 
+SORES 
+
+R$ 6.500,00 R$ - R$ 6.500,00 R$ - R$ 3.366,41 R$ 3.133,59 
+
+ADEVANDRIA MIGUEL 
+ALVES SILVA 
+
+R$ 6.500,00 R$ - R$ 6.500,00 R$ - R$ 3.366,41 R$ 3.133,59 
+
+ADILSON DA SILVA R$ 6.500,00 R$ - R$ 6.500,00 R$ - R$ 3.366,41 R$ 3.133,59 
+
+ADILSON JOSÉ DE PAULA R$ 6.230,52 R$ 269,48 R$ 6.500,00 R$ 269,48 R$ 3.226,85 R$ 3.003,67 
+
+ADRIANA APARECIDA DA 
+SILVA 
+
+R$ 6.500,00 R$ - R$ 6.500,00 R$ - R$ 3.366,41 R$ 3.133,59 
+
+ADRIANA CONCEIÇÃO 
+DOS SANTOS 
+
+R$ 6.500,00 R$ - R$ 6.500,00 R$ - R$ 3.366,41 R$ 3.133,59 
+
+ADRIANA CRISTINA DOS 
+SANTOS 
+
+R$ 5.232,35 R$ 1.267,65 R$ 6.500,00 R$ 1.267,65 R$ 2.709,89 R$ 2.522,46 
+
+ADRIANA DA 
+CONCEIÇÃO 
+
+R$ 2.846,50 R$ 711,63 R$ 3.558,13 R$ 711,63 R$ 1.474,23 R$ 1.372,27 
+
+ADRIANA HERCULANO 
+DA SILVA 
+
+R$ 6.170,31 R$ 329,69 R$ 6.500,00 R$ 329,69 R$ 3.195,66 R$ 2.974,65 
+
+ADRIANA SOUZA 
+MOREIRA 
+
+R$ 6.500,00 R$ - R$ 6.500,00 R$ - R$ 3.366,41 R$ 3.133,59 
+
+ADRIANO DA SILVA R$ 6.500,00 R$ - R$ 6.500,00 R$ - R$ 3.366,41 R$ 3.133,59 
+
+
+
+Minas Gerais , 31 de Dezembro de 2019   •   Diário Oficial dos Municípios Mineiros   •    ANO XI | Nº 2663 
+
+ 
+
+www.diariomunicipal.com.br/amm-mg                                                                              402 
+ 
+
+FELIPE 
+
+ALCIONE MARIA DE 
+JESUS 
+
+R$ 2.967,81 R$ 741,95 R$ 3.709,76 R$ 741,95 R$ 1.537,06 R$ 1.430,75 
+
+ALEXANDRA APARECIDA 
+DA SILVA 
+
+R$ 6.500,00 R$ - R$ 6.500,00 R$ - R$ 3.366,41 R$ 3.133,59 
+
+ALINE ALMEIDA DE 
+SOUZA 
+
+R$ 6.500,00 R$ - R$ 6.500,00 R$ - R$ 3.366,41 R$ 3.133,59 
+
+ALINE FERNANDA FIRMO 
+DA LUZ 
+
+R$ 4.388,29 R$ 1.097,07 R$ 5.485,36 R$ 1.097,07 R$ 2.272,74 R$ 2.115,55 
+
+ALINE JORDANE DA 
+CONCEIÇÃO 
+
+R$ 5.205,60 R$ 1.294,40 R$ 6.500,00 R$ 1.294,40 R$ 

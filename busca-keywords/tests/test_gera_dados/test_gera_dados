@@ -1,0 +1,13 @@
+import pytest
+from dados_completos import gera_dados
+
+def test_gera_dados():
+    pasta_dados = 'busca-keywords/dados'
+    resultado = gera_dados(pasta_dados)
+
+    try:
+        assert resultado[0]['Municipio'] == 'ANZOLIN'
+    except AssertionError:
+        print('Município incorreto')
+
+
