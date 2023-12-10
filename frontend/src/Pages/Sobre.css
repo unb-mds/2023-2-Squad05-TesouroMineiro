@@ -3,6 +3,7 @@
     font-size: 30px;
     text-align: center;
     margin-top: 2vh;
+    font-size: 1.5vw;
 }
 .line-1SA {
     width: 220px;
@@ -26,6 +27,7 @@
     text-align: justify;
     text-justify: inter-word;
     margin: 2vh 10vw;
+    font-size: 1vw;
 }
 .tabelasS{
     margin-left: 0px;
@@ -43,3 +45,41 @@
 .hr{
     margin: 0px 10vw;
 }
+
+@media screen and (max-width: 950px) {
+    
+    .tituloSobre{
+        font-size: 30px;
+        text-align: center;
+        margin-top: 2vh;
+        font-size: 5vw;
+    }
+    .pSobre{
+        text-align: justify;
+        text-justify: inter-word;
+        margin: 2vh 10vw;
+        font-size: 3vw;
+    }
+
+   
+    
+  }
+
+  @media screen and (max-width: 1025px) {
+    
+    .tituloSobre{
+        font-size: 30px;
+        text-align: center;
+        margin-top: 2vh;
+        font-size: 5vw;
+    }
+    .pSobre{
+        text-align: justify;
+        text-justify: inter-word;
+        margin: 2vh 10vw;
+        font-size: 3vw;
+    }
+
+   
+    
+  }
