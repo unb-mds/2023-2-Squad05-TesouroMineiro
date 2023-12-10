@@ -1,12 +1,13 @@
 .line-1 {
-  margin-top: -20hv;
+  margin-top: -30hv;
   height: 1hv;
   background: black;
   
 }
 .TituloHome{
   font-size: 3vw;
-  padding-bottom: 2vh;  
+  padding-bottom: 2vh;
+  margin-top: -4vh; 
 }
 .corpoHome{
   

@@ -9,7 +9,6 @@ const Graficos = () => {
 
   const [years, setYears] = useState([])
   const [selectedYear, setSelectedYear] = useState("2023")
-
   const chartRef = useRef(null);
 
   const [municipios, setMunicipios] = useState([]);
@@ -23,6 +22,7 @@ const Graficos = () => {
     });
     setMunicipios([...newarr]);
     setSelectedMunicipio(newarr[0])
+    
     fetchChartData(newarr[0], selectedMunicipio, 'geral', '2023')
     let years = []
     credsup.forEach((d) => {
@@ -47,9 +47,11 @@ const Graficos = () => {
         })
       }
     })
+    
     newarr.sort(function(a, b) {
       return b - a;
     });
+    
     setYears([...newarr])
     fetchChartData(e.target.value, selectedData, reportType);
   };
