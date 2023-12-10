@@ -1,13 +1,17 @@
 import os
 import json
-from tempfile import TemporaryDirectory
 import pytest
 from dados_completos import gera_dados
 
-
 @pytest.fixture
-def dados_teste():
-    # Criação de dados de teste temporários
+def pasta_dados_teste():
+    # Caminho para a pasta contendo arquivos JSON de teste
+    caminho_pasta = 'busca-keywords/tests/municipios_test'
+    yield caminho_pasta
+
+def criar_dados_teste(pasta_dados):
+    # Criação de dados de teste
+
     dados = {
         "Municipio1.json": [
             {"Data": "01-Janeiro-2023", "Categoria": "Crédito Suplementar", "Soma": 500.0},
@@ -19,17 +23,16 @@ def dados_teste():
         ],
     }
 
-    with TemporaryDirectory() as temp_dir:
-        for arquivo, conteudo in dados.items():
-            caminho_arquivo = os.path.join(temp_dir, arquivo)
-            with open(caminho_arquivo, 'w', encoding='utf-8') as file:
-                json.dump(conteudo, file)
 
-        yield temp_dir
+    for arquivo, conteudo in dados.items():
+        caminho_arquivo = os.path.join(pasta_dados, arquivo)
+        with open(caminho_arquivo, 'w', encoding='utf-8') as file:
+            json.dump(conteudo, file)
 
+def test_gera_dados(pasta_dados_teste):
+    criar_dados_teste(pasta_dados_teste)
 
-def test_gera_dados(dados_teste):
-    resultado = gera_dados(dados_teste)
+    resultado = gera_dados(pasta_dados_teste)
 
     assert len(resultado) == 2
     assert resultado[0]['Municipio'] == 'Municipio1'
