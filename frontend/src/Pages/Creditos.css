@@ -11,8 +11,12 @@
     margin: 0 auto;
 }
 .tituloCreditos{
-    font-size: 45px;
+    font-size: 10vw;
 }
 p {
     font-size: large;
+}
+
+a:hover{
+    transform:scale(2);
 }

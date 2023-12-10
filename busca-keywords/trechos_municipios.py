@@ -66,7 +66,5 @@ if __name__ == "__main__":
     pasta = 'diarios_spiders/diarios/full'
     keyword = 'CRÉDITO SUPLEMENTAR'
     pasta_destino = 'busca-keywords/trechos'
-
     criar_pasta_destino(pasta_destino)
     iterar_arquivos(pasta, keyword, pasta_destino)
-

@@ -1,6 +1,6 @@
 import React from 'react';
 import './Pages.css';
-import Graficos from '../components/Dados/Graficos'
+import Graficos from '../Components/Dados/Graficos'
 
 const Dados = () => {
 
@@ -8,7 +8,7 @@ const Dados = () => {
 
         <div className="All_Pages w-100 h-100" style={{height: "100vh"}}>
             <div className='h-100'>
-                <h1>Dados</h1>
+                {/* <h1>Dados</h1> */}
                 <Graficos />
             </div>
         </div>
