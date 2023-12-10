@@ -3,22 +3,13 @@ import re
 import os
 
 
-<<<<<<< HEAD
-def create_json(nomeDoArquivo, obj):
-    caminho_arquivo = f'busca-keywords/dados/{nomeDoArquivo}.json'
-    with open(caminho_arquivo, 'w') as arquivo_json:
-        json.dump(obj, arquivo_json, ensure_ascii=False, indent=4)
-
-
-    print("Dados exportados para JSON com sucesso.")
-=======
 def create_json(nomeDoArquivo, obj, pasta_destino):
     caminho_arquivo = f'{pasta_destino}/{nomeDoArquivo}.json'
     with open(caminho_arquivo, 'w', encoding='utf-8') as arquivo_json:
         json.dump(obj, arquivo_json, ensure_ascii=False, indent=4)
 
     print(f"Dados exportados para JSON com sucesso.")
->>>>>>> main
+
 
 
 def processar_arquivo(nome_arquivo, pasta, palavra_desejada, pasta_destino):
