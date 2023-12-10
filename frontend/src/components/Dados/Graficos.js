@@ -47,6 +47,9 @@ const Graficos = () => {
         })
       }
     })
+    newarr.sort(function(a, b) {
+      return b - a;
+    });
     setYears([...newarr])
     fetchChartData(e.target.value, selectedData, reportType);
   };
@@ -110,7 +113,7 @@ const Graficos = () => {
         }
       },
       dataLabels: {
-        enabled: true,
+        enabled: false,
         formatter: function (val) {
           const numeroFormatado = 'R$ ' + val.toFixed(2).replace('.', ',').replace(/\B(?=(\d{3})+(?!\d))/g, ".");
           return numeroFormatado;
@@ -172,9 +175,6 @@ const Graficos = () => {
                   {y}
                 </option>
               ))}
-              <option value='2022'>
-                2022
-              </option>
             </select>
           )}
         </div>
