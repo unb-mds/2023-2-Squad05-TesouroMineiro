@@ -13,7 +13,7 @@ def iterar_arquivos(pasta, keyword, pasta_destino):
             caminho_arquivo = os.path.join(pasta, nome_arquivo)
             buscar_trechos(caminho_arquivo, keyword, pasta_destino)
 
-def buscar_trechos(caminho_arquivo, keyword, pasta_destino):
+def buscar_trechos(caminho_arquivo, keyword, pasta_destino, mode='a'):
     with open(caminho_arquivo, 'r', encoding='utf-8') as arquivo:
         texto_completo = arquivo.read()
 
@@ -36,7 +36,7 @@ def buscar_trechos(caminho_arquivo, keyword, pasta_destino):
 
             nome_arquivo_base = os.path.splitext(os.path.basename(caminho_arquivo))[0]
             arquivo_destino = f'{pasta_destino}/{nome_do_municipio}-{nome_arquivo_base}_trechos.txt'
-            salvar_trechos(arquivo_destino, data, nome_do_municipio, trechos)
+            salvar_trechos(arquivo_destino, data, nome_do_municipio, trechos, mode)
 
     return f'Arquivo: {os.path.basename(caminho_arquivo)}, Ocorrências: {len(trechos)}'
 
