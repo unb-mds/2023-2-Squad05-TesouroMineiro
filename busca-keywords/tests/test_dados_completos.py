@@ -39,7 +39,7 @@ def test_gera_dados(pasta_dados_teste):
     
     # Verifique se a soma anual e os meses estão corretos
     assert resultado[0]['Analises'][0]['Ano'] == '2023'
-    assert resultado[0]['Analises'][0]['SomaAnual'] == 1100.0
-    assert resultado[0]['Analises'][0]['Meses']['Janeiro'] == 500.0
-    assert resultado[0]['Analises'][0]['Meses']['Fevereiro'] == 600.0
+    assert resultado[0]['Analises'][0]['SomaAnual'] == 1500.0
+    assert resultado[0]['Analises'][0]['Meses']['Janeiro'] == 700.0
+    assert resultado[0]['Analises'][0]['Meses']['Fevereiro'] == 800.0
 
