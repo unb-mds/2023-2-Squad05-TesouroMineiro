@@ -24,6 +24,6 @@ with open(os.path.join(TEST_FOLDER, 'test_full/test_file-12-Janeiro-2023.txt'), 
 def test_buscar_trechos():
     caminho_arquivo = os.path.join(TEST_FOLDER, 'test_full/test_file-12-Janeiro-2023.txt')
     keyword = 'CRÉDITO SUPLEMENTAR'
-    saida = buscar_trechos(caminho_arquivo, keyword, os.path.join(TEST_FOLDER, 'test_trechos'))
+    saida = buscar_trechos(caminho_arquivo, keyword, os.path.join(TEST_FOLDER, 'test_trechos'), 'w')
     
     assert saida == f'Arquivo: {os.path.basename(caminho_arquivo)}, Ocorrências: {2}'
