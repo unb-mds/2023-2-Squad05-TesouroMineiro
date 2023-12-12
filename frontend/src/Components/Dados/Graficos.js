@@ -14,15 +14,23 @@ const Graficos = () => {
   const [municipios, setMunicipios] = useState([]);
   const [chartData, setChartData] = useState([]);
   const [series, setSeries] = useState([]);
+  const mesesDoAno = [
+    'Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho',
+    'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'
+  ];
+
+  // Mapeando os meses para seus índices
+  const mesIndex = (month) => mesesDoAno.indexOf(month);
 
   useEffect(() => {
     let newarr = [];
+    credsup.sort((a, b) => a.Municipio.localeCompare(b.Municipio));
     credsup.forEach((d) => {
       newarr.push(d.Municipio);
     });
     setMunicipios([...newarr]);
     setSelectedMunicipio(newarr[0])
-    
+
     fetchChartData(newarr[0], selectedMunicipio, 'geral', '2023')
     let years = []
     credsup.forEach((d) => {
@@ -47,11 +55,11 @@ const Graficos = () => {
         })
       }
     })
-    
-    newarr.sort(function(a, b) {
+
+    newarr.sort(function (a, b) {
       return b - a;
     });
-    
+
     setYears([...newarr])
     fetchChartData(e.target.value, selectedData, reportType);
   };
@@ -83,6 +91,8 @@ const Graficos = () => {
           } else if (a.Ano == year) {
             data = Object.keys(a.Meses)
             series = Object.values(a.Meses)
+            data.sort((a, b) => mesIndex(a) - mesIndex(b));
+            series.sort((a, b) => mesIndex(a) - mesIndex(b));
           }
         });
       }
