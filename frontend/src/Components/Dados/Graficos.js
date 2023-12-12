@@ -82,10 +82,12 @@ const Graficos = () => {
   const fetchChartData = (selectedMunicipio, selectedData, reportType, year = '2023') => {
     let series = [];
     let data = [];
+
     credsup.forEach((d) => {
       if (d.Municipio === selectedMunicipio) {
         d.Analises.forEach((a) => {
           if ((reportType === 'geral')) {
+
             series.push(a.SomaAnual);
             data.push(a.Ano);
           } else if (a.Ano == year) {
@@ -96,7 +98,19 @@ const Graficos = () => {
           }
         });
       }
+
     });
+    if (reportType == 'geral') {
+      const compararAnos = (a, b) => parseInt(a, 10) - parseInt(b, 10);
+
+      // Ordenar 'data' e 'series' com base nos anos em 'data'
+      const dadosOrdenados = data.map((ano, index) => ({ ano, soma: series[index] }));
+      dadosOrdenados.sort((a, b) => compararAnos(b.ano, a.ano));
+
+      // Atualizar 'data' e 'series' com os dados ordenados
+      data = dadosOrdenados.map((item) => item.ano);
+      series = dadosOrdenados.map((item) => item.soma);
+    }
 
     setChartData([...data]);
     setSeries([...series]);
