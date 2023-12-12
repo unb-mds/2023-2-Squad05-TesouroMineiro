@@ -56,4 +56,4 @@ if __name__ == "__main__":
 
     resultado = gera_dados(pasta_dados)
 
-    create_json('resultado_final_credito_suplementar', resultado, 'busca-keywords/municipios')
+    create_json('CredSup', resultado, 'frontend/src/Analises')

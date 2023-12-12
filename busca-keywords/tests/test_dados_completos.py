@@ -41,3 +41,4 @@ def test_gera_dados(pasta_dados_teste):
     assert resultado[0]['Analises'][0]['Ano'] == '2023'
     assert resultado[0]['Analises'][0]['SomaAnual'] == (resultado[0]['Analises'][0]['Meses']['Janeiro']) + (resultado[0]['Analises'][0]['Meses']['Fevereiro'])
 
+
