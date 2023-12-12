@@ -1,6 +1,6 @@
 import React from 'react';
 import './Pages.css';
-import Graficos from '../components/Dados/Graficos'
+import Graficos from '../Components/Dados/Graficos'
 
 const Dados = () => {
 

@@ -24,7 +24,7 @@
    </p>
    <h2 align="left">
     Acesse a página clicando 
-     <a href="https://squad05.vercel.app/">aqui
+     <a href="https://tesouromineiro.vercel.app/">aqui
      </a>
    </h2>
    <h2 align="left">

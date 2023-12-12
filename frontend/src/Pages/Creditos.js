@@ -65,7 +65,7 @@ const Creditos = () => {
     // </div>
     <div className="w-75">
       <div className="my-5 row d-flex flex-wrap" style={{ minHeight: '100vh' }}>
-        <h1 className="tituloCreditos">Integrantes do projeto</h1>
+        <h1 className="tituloCreditos">Integrantes</h1>
         {/* Integrantes do projeto */}
         <div className="col-md-4 mb-4">
           <a className="d-flex align-items-center justify-content-center flex-column" href="https://github.com/IderlanJ">

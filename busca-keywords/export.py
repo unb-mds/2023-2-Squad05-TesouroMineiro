@@ -3,22 +3,12 @@ import re
 import os
 
 
-<<<<<<< HEAD
-def create_json(nomeDoArquivo, obj):
-    caminho_arquivo = f'busca-keywords/dados/{nomeDoArquivo}.json'
-    with open(caminho_arquivo, 'w') as arquivo_json:
-        json.dump(obj, arquivo_json, ensure_ascii=False, indent=4)
-
-
-    print("Dados exportados para JSON com sucesso.")
-=======
 def create_json(nomeDoArquivo, obj, pasta_destino):
     caminho_arquivo = f'{pasta_destino}/{nomeDoArquivo}.json'
     with open(caminho_arquivo, 'w', encoding='utf-8') as arquivo_json:
         json.dump(obj, arquivo_json, ensure_ascii=False, indent=4)
 
     print(f"Dados exportados para JSON com sucesso.")
->>>>>>> main
 
 
 def processar_arquivo(nome_arquivo, pasta, palavra_desejada, pasta_destino):
@@ -92,14 +82,14 @@ def processar_trechos(pasta, palavra_desejada, pasta_destino):
                 create_json(nome_municipio, dados, pasta_destino)
                 print(f'JSON para o Município {nome_municipio} foi criado.')     
 
+if __name__ == "__main__":
+    # Palavra que você deseja procurar (convertida para minúsculas)
+    palavra_desejada = ("o valor de","no valor total de", "no montante de", "com a inclusão de" )
 
-# Palavra que você deseja procurar (convertida para minúsculas)
-palavra_desejada = ("o valor de","no valor total de", "no montante de", "com a inclusão de" )
+    #pasta onde contém os trechos
+    pasta = 'busca-keywords/trechos'
 
-#pasta onde contém os trechos
-pasta = 'busca-keywords/trechos'
+    #pasta onde estará os arquivos JSON
+    pasta_destino = 'busca-keywords/dados'
 
-#pasta onde estará os arquivos JSON
-pasta_destino = 'busca-keywords/dados'
-
-processar_trechos(pasta, palavra_desejada, pasta_destino)
+    processar_trechos(pasta, palavra_desejada, pasta_destino)
