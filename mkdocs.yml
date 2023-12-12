@@ -48,4 +48,10 @@ nav:
     - Sprint11:
       - Planejamento: 'Sprints/Sprint11/Planejamentos11.md'
       - Resultados: 'Sprints/Sprint11/Resultados11.md'
+    - Sprint12:
+      - Planejamento: 'Sprints/Sprint12/Planejamentos12.md'
+      - Resultados: 'Sprints/Sprint12/Resultados12.md'
+    - Sprint13:
+      - Planejamento: 'Sprints/Sprint13/Planejamentos13.md'
+      - Resultados: 'Sprints/Sprint13/Resultados13.md'
   - Sobre: 'about.md'
