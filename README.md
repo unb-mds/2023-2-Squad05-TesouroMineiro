@@ -133,6 +133,22 @@ scrapy crawl mg_associacao_municipios
 ```
 sudo ./main-script.sh
 ```
+
+  <h2 align="left">
+    2.1 Extraindo os dados:
+  </h2>
+  <p align="left">
+    Execute os seguintes scripts dentro da pasta busca-keywords, nesta ordem:
+  </p>
+
+```
+python trechos_municipios.py
+python export.py
+python dados_completos.py
+```
+  <p align="left">
+    Dentro da pasta municipios, estará o arquivo Json com os dados de todos os municípios.
+  </p>
   <h1 align="left">
     Executando o frontend localmente
   </h1>
@@ -150,7 +166,7 @@ sudo ./main-script.sh
 npm i
 ```
   <h3 align="left">
-    2. Iniciar o servidor de desenvolvimento
+    2 Iniciar o servidor de desenvolvimento
   </h3>
   <p align="left">
     Após a instalação das dependências, você pode iniciar o servidor de desenvolvimento localmente usando o comando:
