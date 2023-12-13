@@ -93,8 +93,21 @@ const Graficos = () => {
           } else if (a.Ano == year) {
             data = Object.keys(a.Meses)
             series = Object.values(a.Meses)
-            data.sort((a, b) => mesIndex(a) - mesIndex(b));
-            series.sort((a, b) => mesIndex(a) - mesIndex(b));
+            let arr = []
+            data.forEach((a, index) => {
+              let obj = {}
+              obj.d = a
+              obj.s = series[index]
+              arr.push(obj)
+            }) 
+            arr.sort((a, b) => mesIndex(a.d) - mesIndex(b.d));
+            data = []
+            series = []
+            arr.forEach((d) => {
+              data.push(d.d)
+              series.push(d.s)
+            })
+            console.log(arr)
           }
         });
       }
@@ -163,8 +176,8 @@ const Graficos = () => {
             Município:
           </label>
           <select className='form-select' value={selectedMunicipio} onChange={(e) => handleMunicipioChange(e)}>
-            {municipios.map((municipio) => (
-              <option key={municipio} value={municipio}>
+            {municipios.map((municipio, index) => (
+              <option key={index} value={municipio}>
                 {municipio}
               </option>
             ))}
