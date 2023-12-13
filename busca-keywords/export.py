@@ -84,7 +84,7 @@ def processar_trechos(pasta, palavra_desejada, pasta_destino):
 
 if __name__ == "__main__":
     # Palavra que você deseja procurar (convertida para minúsculas)
-    palavra_desejada = ("o valor de","no valor total de", "no montante de", "com a inclusão de" )
+    palavra_desejada = ("crédito suplementar no valor de", "no montante de", "com a inclusão de", "no orçamento vigente no valor de" )
 
     #pasta onde contém os trechos
     pasta = 'busca-keywords/trechos'
